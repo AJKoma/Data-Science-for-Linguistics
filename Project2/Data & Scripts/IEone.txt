@@ -1,0 +1,1787 @@
+   2    2  1700     3
+(I4,20X,10A1)
+   1                    I
+  11                    one
+  12                    two
+  18                    person
+  19                    fish
+  21                    dog
+  22                    louse
+  23                    tree
+  25                    leaf
+  28                    skin
+  30                    blood
+  31                    bone
+  34                    horn
+  39                    ear
+  40                    eye
+  41                    nose
+  43                    tooth
+  44                    tongue
+  47                    knee
+  48                    hand
+  51                    breast
+  53                    liver
+  54                    drink
+  57                    see
+  58                    hear
+  61                    die
+  66                    come
+  72                    sun
+  74                    star
+  75                    water
+  77                    stone
+  82                    fire
+  85                    path
+  86                    mountain
+  92                    night
+  95                    full
+  96                    new
+ 100                    name
+
+p
+b
+f
+v
+m
+w
+8
+t
+d
+s
+z
+c
+n
+r
+l
+S
+Z
+C
+j
+T
+5
+y
+k
+g
+x
+N
+q
+X
+h
+7
+L
+4
+G
+!
+i
+e
+E
+3
+a
+u
+o
+
+
+ALBANIAN_GHEG{IE.ALBANIAN|Indo-European,Albanian,Gheg|@Indo-European,Albanian}
+ 1   41.33   20.83     1821480   alb   aln
+1 I	un3 //
+11 one	nyi //
+ALBANIAN{IE.ALBANIAN|Indo-European,Albanian,Tosk|@Indo-European,Albanian,Albanian-Tosk}
+ 1   41.00   20.00     1841400   alb   als
+1 I	un3 //
+11 one	Ne //
+ALBANIAN_TOSK{IE.ALBANIAN|Indo-European,Albanian,Tosk|@Indo-European,Albanian,Albanian-Tosk}
+ 1   41.00   20.00     1841400   alb   als
+1 I	un3 //
+11 one	53 //
+HITTITE{IE.ANATOLIAN|Indo-European,Anatolian|@Indo-European,Anatolian}
+ 1   40.00   35.00          -2         hit
+1 I	uk //
+11 one	sija // (stem)
+PALAIC{IE.ANATOLIAN|Indo-European,Anatolian|@Indo-European,Anatolian,UnclassifiedAnatolian}
+ 1   40.00   30.00          -2         plq
+1 I	 //
+11 one	 //
+ARMENIAN_CLASSICAL{IE.ARMENIAN|Indo-European,ClassicalArmenian|@Indo-European,Armenic}
+ 1   40.00   45.00          -2         xcl
+1 I	es //
+11 one	mi //
+EASTERN_ARMENIAN{IE.ARMENIAN|Indo-European,Armenian|@Indo-European,Armenic,Eastern-WesternArmenian}
+ 1   40.00   45.00     5327020   arm   hye
+1 I	yes //
+11 one	mek //
+WESTERN_ARMENIAN{IE.ARMENIAN|Indo-European,Armenian|@Indo-European,Armenic,Eastern-WesternArmenian}
+ 1   38.50   43.50     5327020   arw   hye
+1 I	yes //
+11 one	meg //
+LATVIAN{IE.BALTIC|Indo-European,Balto-Slavic,Baltic,Eastern|@Indo-European,Balto-Slavic,EasternBaltic}
+ 1   57.00   24.00     1571060   lat   lvs
+1 I	es //
+11 one	viens //
+LITHUANIAN{IE.BALTIC|Indo-European,Balto-Slavic,Baltic,Eastern|@Indo-European,Balto-Slavic,EasternBaltic}
+ 1   55.00   24.00     3020380   lit   lit
+1 I	aS //
+11 one	vienas //
+OLD_PRUSSIAN{IE.BALTIC|Indo-European,Balto-Slavic,Baltic,Western|@Indo-European,Balto-Slavic}
+ 1   55.00   21.00          -2         prg
+1 I	as, Es //
+11 one	ains //
+BRETON{IE.CELTIC|Indo-European,Celtic,Insular,Brythonic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Brythonic,SouthwesternBrythonic}
+ 1   48.00   -3.00      206000   bre   bre
+1 I	mE //
+11 one	inan //
+CORNISH{IE.CELTIC|Indo-European,Celtic,Insular,Brythonic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Brythonic,SouthwesternBrythonic}
+ 1   50.33   -5.00          -2   crn   cor
+1 I	mi //
+11 one	onEn //
+GAELIC_SCOTTISH{IE.CELTIC|Indo-European,Celtic,Insular,Goidelic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Goidelic,EasternGoidelic}
+ 1   57.00   -4.00       28870   gae   gla
+1 I	mi //
+11 one	unx~ //
+IRISH_GAELIC{IE.CELTIC|Indo-European,Celtic,Insular,Goidelic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Goidelic,WesternGoidelic}
+ 1   53.00   -8.00      167940   iri   gle
+1 I	my~e //
+11 one	in //
+MANX{IE.CELTIC|Indo-European,Celtic,Insular,Goidelic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Goidelic,EasternGoidelic}
+ 1   54.17   -4.50       -1974   mnx   glv
+1 I	me //
+11 one	un, nen //
+OLD_IRISH{IE.CELTIC|Indo-European,Celtic,Insular,Goidelic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Goidelic,WesternGoidelic}
+ 1   53.00   -8.00        -900         sga
+1 I	me //
+11 one	oen //
+WELSH{IE.CELTIC|Indo-European,Celtic,Insular,Brythonic|@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Brythonic}
+ 1   52.00   -3.00      590890   wec   cym
+1 I	mi //
+11 one	3n //
+AFRIKAANS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Afrikaansic}
+ 1  -31.00   22.00     7237060   afr   afr
+1 I	Ek //
+11 one	en //
+ALSATIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic}
+ 1   48.50    7.50     6324200   alt   gsw
+1 I	ix //
+11 one	eins //
+BERNESE_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic}
+ 1   47.00    7.42     6324200   alt   gsw
+1 I	ig //
+11 one	Eis //
+BRABANTIC{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   50.75    4.50    22040690   dbr   nld
+1 I	ik, ik3 //
+11 one	i3n //
+CIMBRIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch}
+ 1   45.92   11.32        2230         cim
+1 I	ix //
+11 one	 //
+DANISH{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Riksmal,Danish|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,EastScandinavian,Danic}
+ 1   56.00   10.00     5380860   dsh   dan
+1 I	yEy //
+11 one	e7n //
+DUTCH{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   52.50    6.00    22040690   dbr   nld
+1 I	ik //
+11 one	en //
+EASTERN_FRISIAN{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Alts\"achsisch,Middle-ModernLowGerman,LowGerman,Ostfriesisch-Groningisch}
+ 1   53.58    7.50      200000   fea   frs
+1 I	ik //
+11 one	en //
+ENGLISH{IE.GERMANIC|Indo-European,Germanic,West,English|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English}
+ 1   52.00    0.00   339370920   eng   eng
+1 I	Ei //
+11 one	w3n //
+FAROESE{IE.GERMANIC|Indo-European,Germanic,North,WestScandinavian|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese}
+ 1   62.00   -7.00       69150   far   fao
+1 I	Eg //
+11 one	oin, oit //
+FRANS_VLAAMS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   51.04    2.38     1204000         vls
+1 I	ik //
+11 one	en //
+FRISIAN_WESTERN{IE.GERMANIC|Indo-European,Germanic,West,Frisian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian}
+ 1   53.00    6.00      470120   frw   fry
+1 I	ik //
+11 one	i3n, yin //
+GJESTAL_NORWEGIAN{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     4741780         nor
+1 I	Eg //
+11 one	en //
+GOTHIC{IE.GERMANIC|Indo-European,Germanic,East|@Indo-European,Germanic}
+ 1   43.22   25.62          -2         got
+1 I	ik //
+11 one	Ens //
+ICELANDIC{IE.GERMANIC|Indo-European,Germanic,North,WestScandinavian|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese}
+ 1   65.00  -17.00      313840   ice   isl
+1 I	yEx //
+11 one	eitn~ //
+JAMTLANDIC{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,EastScandinavian,Macro-Swedish}
+ 1   63.00   14.67     9216290   swe   swe
+1 I	yex //
+11 one	ein, et //
+LIMBURGISH{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,WestMiddleGerman,RhenischFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian}
+ 1   51.00    5.50     1300000         lim
+1 I	ix //
+11 one	Ein //
+LUXEMBOURGISH{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,WestMiddleGerman,MoselleFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian}
+ 1   49.83    6.17      336710   lux   ltz
+1 I	Ex //
+11 one	ent //
+NORTH_FRISIAN_AMRUM{IE.GERMANIC|Indo-European,Germanic,West,Frisian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian}
+ 1   54.65    8.35       10000   fno   frr
+1 I	ik //
+11 one	ian //
+NORTHERN_LOW_SAXON{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Alts\"achsisch,Middle-ModernLowGerman,LowGerman}
+ 1   53.10    8.78        1000   lge   nds
+1 I	ik //
+11 one	en //
+NORWEGIAN_BOKMAAL{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     4741780         nor
+1 I	yEi //
+11 one	En, Et //
+NORWEGIAN_NYNORSK_TOTEN{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   59.27   11.15     4741780         nor
+1 I	je //
+11 one	e5 //
+NORWEGIAN_RIKSMAL{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     4741780         nor
+1 I	yeg //
+11 one	en //
+OLD_ENGLISH{IE.GERMANIC|Indo-European,Germanic,West,English|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian}
+ 1   51.06   -1.31          -2         ang
+1 I	ik //
+11 one	an //
+OLD_FRISIAN{IE.GERMANIC|Indo-European,Germanic,West,Frisian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian}
+ 1   53.00    6.00          -2         ofs
+1 I	ik //
+11 one	en //
+OLD_HIGH_GERMAN{IE.GERMANIC|Indo-European,Germanic,West|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman}
+ 1   52.00   10.00          -2         goh
+1 I	hik, ix //
+11 one	eino //
+OLD_LOW_FRANCONIAN{IE.GERMANIC|Indo-European,Germanic,West|@Indo-European,Germanic,NorthwestGermanic,WestGermanic}
+ 1   53.26    6.74          -2            
+1 I	ik //
+11 one	Ein //
+OLD_NORSE{IE.GERMANIC|Indo-European,Germanic,North|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   63.42   10.38          -2         non
+1 I	Ek //
+11 one	Ein //
+OLD_SAXON{IE.GERMANIC|Indo-European,Germanic,West|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Alts\"achsisch}
+ 1   52.37    9.72          -2         osx
+1 I	ik //
+11 one	en //
+PLAUTDIETSCH{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Alts\"achsisch,Middle-ModernLowGerman,LowGerman}
+ 1   53.00   10.00      447360         pdt
+1 I	ax //
+11 one	aint~ //
+SANDNES_NORWEGIAN{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     4741780         nor
+1 I	Eg //
+11 one	en //
+SAXON_UPPER{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian}
+ 1   51.33   12.48     2000000         sxu
+1 I	iS //
+11 one	ens //
+SCOTS{IE.GERMANIC|Indo-European,Germanic,West,English|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian}
+ 1   55.86   -4.26       99200         sco
+1 I	a, 3 //
+11 one	en, e //
+STANDARD_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian}
+ 1   52.00   10.00    76912230   gbl   deu
+1 I	ix //
+11 one	ains //
+STELLINGWERFS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Alts\"achsisch,Middle-ModernLowGerman,LowGerman}
+ 1   52.98    6.22           0         stl
+1 I	ik, ik3 //
+11 one	ien, ien3 //
+SWABIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic}
+ 1   48.97    9.28           0         swg
+1 I	i //
+11 one	ois //
+SWEDISH{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish|@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,EastScandinavian,Macro-Swedish}
+ 1   60.00   15.00     9216290   swe   swe
+1 I	yog //
+11 one	et //
+WESTVLAAMS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   51.22    3.23     1204000         vls
+1 I	ik3, ik //
+11 one	Een, yin //
+YIDDISH_EASTERN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,Yiddish|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,Yiddish}
+ 1   52.00   23.00     1541290   ydd   ydd
+1 I	iX //
+11 one	Ens //
+YIDDISH_WESTERN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,Yiddish|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,Yiddish}
+ 1   51.00   10.00        5400   ydd   yih
+1 I	ix //
+11 one	eyn //
+ZEEUWS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   51.50    3.75      220000   duz   zea
+1 I	ik3 //
+11 one	en3 //
+GREEK_ANCIENT{IE.GREEK|Indo-European,Greek,Attic|@Indo-European,Graeco-Phrygian,Greek,Attic}
+ 1   39.00   22.00          -2         grc
+1 I	ego //
+11 one	heis, mia //
+GREEK{IE.GREEK|Indo-European,Greek,Attic|@Indo-European,Graeco-Phrygian,Greek,Attic,KoineicGreek}
+ 1   39.00   22.00    13059360   grk   ell
+1 I	exo //
+11 one	enas, ena //
+ILLYRIAN{IE.ILLYRIAN||@Unclassifiable,!Indo-European}
+ 1   43.00   18.00          -2         xil
+1 I	 //
+11 one	 //
+AGRA_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   27.18   78.00      992000   goj   gju
+1 I	ma*i* //
+11 one	ekh~ //
+ASHRET_PHALURA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic,WesternShinaic,Dangari}
+ 1   35.44   71.75       10000         phl
+1 I	m3 //
+11 one	ak //
+ASSAMESE{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bengali-Assamese|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanEasternzone,Oriya-Gauda-Kamrupa,Gauda-Kamrupa,Kamrupa,EasternKamta}
+ 1   26.00   93.00    12828220   ass   asm
+1 I	moe //
+11 one	ak, ek //
+ASTOR_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mu // loan from Urdu
+11 one	%Ek // loan from Urdu
+ATTOCK_CITY_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   33.87   72.25      625000         hnd
+1 I	me* //
+11 one	hEk //
+ATTOCK{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   33.88   72.08      625000         hnd
+1 I	me* //
+11 one	ek //
+BAGROT_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+BALAKOT_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.55   73.35     1880000         hno
+1 I	me* //
+11 one	ek //
+BANATISKI_GURBET_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Vlax|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   45.40   20.18      476180   rka   rmy
+1 I	me //
+11 one	yek //
+BENGALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bengali-Assamese|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanEasternzone,Oriya-Gauda-Kamrupa,Gauda-Kamrupa,Gauda-Banga}
+ 1   24.00   90.00   189144830   ben   ben
+1 I	ami //
+11 one	ek //
+BHADRAWAHI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali,Kangric-Chamealic-Bhattiyali,Chamealic,Bhadrawahi-Bhalesi-Curahi}
+ 1   33.15   75.55       53000         bhd
+1 I	au //
+11 one	ak //
+BHATTIYALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali,Kangric-Chamealic-Bhattiyali,Chamealic}
+ 1   32.55   76.12      102000         bht
+1 I	mai //
+11 one	ik //
+BHOIPURI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bihari|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,WesternMagadhan,Bhojpuric}
+ 1   26.00   84.00    39445300   bho   bho
+1 I	me* //
+11 one	ek //
+BHOJPURI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bihari|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,WesternMagadhan,Bhojpuric}
+ 1   26.00   84.00    39445300   bho   bho
+1 I	ham //
+11 one	ek //
+BIORI_PHALURA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic,WesternShinaic,Dangari}
+ 1   35.47   71.88       10000         phl
+1 I	m3 //
+11 one	ak //
+BROKSKAT{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   35.33   76.50       10000   bkt   bkk
+1 I	ma, mos //
+11 one	ek //
+BROK-SKAD{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   35.33   76.50       10000   bkt   bkk
+1 I	mo //
+11 one	 //
+BUGURDZI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   42.67   21.17      611800   rav   rmn
+1 I	me //
+11 one	yek //
+BUNDELI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,WesternHindi,Bundeli|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,WesternHindi,Bundeli-Bharia}
+ 1   25.50   78.45     3070000         bns
+1 I	me, mai* //
+11 one	eka //
+BUNJI_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+BURGENLAND_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   47.50   16.50      146910         rmc
+1 I	me //
+11 one	Cek, yek //
+CENTRAL_AZAD_KASHMIR_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   33.76   73.79      992000   goj   gju
+1 I	u* //
+11 one	Ek //
+CHAKMA_UnnamedInSource{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bengali-Assamese|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanEasternzone,Oriya-Gauda-Kamrupa,Gauda-Kamrupa,Gauda-Banga,SoutheasternBengali}
+ 1   22.00   92.00      326000         ccp
+1 I	mui //
+11 one	ek //
+CHALT_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+CHAMBEALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali,Kangric-Chamealic-Bhattiyali,Chamealic}
+ 1   32.55   76.12      130000         cdh
+1 I	hau //
+11 one	ik //
+CHATORKHAND_KHOWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   36.35   73.84      289200   khw   khw
+1 I	awa //
+11 one	i //
+CHITRAL_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   34.63   71.78      992000   goj   gju
+1 I	hu* //
+11 one	ek //
+CHITWAN{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Unclassified_the|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,Tharuic,EasternTharu}
+ 1   27.50   84.50      285000         the
+1 I	moi //
+11 one	ek //
+CHURAHI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali,Kangric-Chamealic-Bhattiyali,Chamealic,Bhadrawahi-Bhalesi-Curahi}
+ 1   32.55   76.12      111000         cdj
+1 I	au //
+11 one	ak //
+CRIMEAN_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   42.25   42.80      611800   rav   rmn
+1 I	me //
+11 one	yekh~ //
+DAMELI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kunar|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kunar}
+ 1   35.36   71.72        5000         dml
+1 I	ai //
+11 one	Ek //
+DAMELI_2{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kunar|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kunar}
+ 1   35.36   71.72        5000         dml
+1 I	Ej //
+11 one	ek //
+DANG{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Unclassified_thl|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,Tharuic,EasternTharu,Dangaura-Khuna-Sonaha}
+ 1   28.00   82.00      674000         thl
+1 I	m3i //
+11 one	ek //
+DANUWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Unclassified_dhw|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,UnclassifiedBihari,Kuswaric}
+ 1   27.42   85.00       45800         dhw
+1 I	mui //
+11 one	ek //
+DARAI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Unclassified_dry|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,UnclassifiedBihari,Kuswaric}
+ 1   24.00   84.00       11700   dar   dry
+1 I	mai //
+11 one	ek //
+DARAI_2{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Unclassified_dry|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,UnclassifiedBihari,Kuswaric}
+ 1   24.00   84.00       11700   dar   dry
+1 I	m3i, m3i* //
+11 one	ek //
+DAREL_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+DASHKIN_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mu // loan from Urdu
+11 one	%Ek // loan from Urdu
+DIR_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   35.22   71.87      992000   goj   gju
+1 I	hu* //
+11 one	ekh~ //
+DOLENJSKI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani,NorthwesternRomani}
+ 1   47.50   16.50      210390   rbg   rmo
+1 I	 //
+11 one	yek //
+DOMAAKI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone}
+ 1   36.17   74.00         340   dmk   dmk
+1 I	 //
+11 one	Ek //
+DOMARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Dom|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone}
+ 1   31.78   35.22      280270   dom   rmt
+1 I	ama //
+11 one	ikak, ika //
+EAST_SLOVAK_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   49.78   15.52      146910         rmc
+1 I	me //
+11 one	yekh~ //
+FINNISH_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani,NorthwesternRomani}
+ 1   61.20   21.93       11650         rmf
+1 I	me //
+11 one	iek //
+GARAM_CHISHMA_KHOWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   36.00   71.54      289200   khw   khw
+1 I	awa //
+11 one	i //
+GAWAR_BATI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kunar|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kunar,Gawarbatic}
+ 1   35.30   71.56        9960         gwt
+1 I	a* //
+11 one	y3k //
+GILGIT_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   35.92   74.26      992000   goj   gju
+1 I	hu* //
+11 one	Ek //
+GILGIT_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+GOHARABAD_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+GREEK_ROMANY{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   38.00   23.65      611800   rav   rmn
+1 I	mE //
+11 one	yEk, Ekh~ //
+GUJARATI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Gujarati|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Gujaratic}
+ 1   23.00   72.00    46857670   guj   guj
+1 I	me*, hu* //
+11 one	ek //
+GULTARI_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+GUPIS_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+GURBET_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Vlax|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   43.35   19.95      476180   rka   rmy
+1 I	me //
+11 one	yek, yekh~ //
+GURU_KALASHA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   35.64   71.68        5000   klh   kls
+1 I	a //
+11 one	Ek //
+GURVARI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   47.13   19.72      146910         rmc
+1 I	me //
+11 one	ek, yek //
+HADOTI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_hoj|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani}
+ 1   25.44   75.64     2460000         hoj
+1 I	mu*, mh~u* //
+11 one	ek //
+HARAMOSH_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo // loan from Urdu
+11 one	%Ek // loan from Urdu
+HARBAN_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo // loan from Urdu
+11 one	%Ek // loan from Urdu
+HARYANVI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,WesternHindi,Unclassified_bcg|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,WesternHindi}
+ 1   29.05   76.08     8000000         bgc
+1 I	mE //
+11 one	ek //
+HINDI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,WesternHindi,Hindustani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,WesternHindi,Hindustani}
+ 1   25.00   77.00   260123420   hin   hin
+1 I	mai* //
+11 one	ek //
+HUNGARIAN_VEND_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   46.43   18.22      146910         rmc
+1 I	me //
+11 one	ek, yek //
+HUNZA_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+INDUS_KOHISTANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kohistani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kohistani,IndusKohistanic}
+ 1   35.62   72.35      200000         mvy
+1 I	 //
+11 one	 //
+JALKOT_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+JAMMUN{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.33   73.20     1880000         hno
+1 I	me* //
+11 one	ek //
+JAUNSARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali}
+ 1   31.25   77.03      100000         jns
+1 I	awn //
+11 one	ek //
+JELIL_CHILAS_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+KACHURA_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+KAGHAN_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   34.50   73.34      992000   goj   gju
+1 I	ma*i* //
+11 one	ek //
+KALAMI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kohistani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kohistani,Dir-SwatKohistani}
+ 1   35.50   72.50      100000   kal   gwc
+1 I	ya //
+11 one	3ykh~ //
+KALKOTI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic,WesternShinaic,Dangari}
+ 1   35.50   72.50        5100         xka
+1 I	mo //
+11 one	aykh~ //
+KASHMIRI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kashmiri|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone}
+ 1   34.00   76.00     5484830   kas   kas
+1 I	boh //
+11 one	ak //
+KESU_KHOWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   35.63   71.80      289200   khw   khw
+1 I	awa //
+11 one	i //
+KHARMANG_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo // loan from Urdu
+11 one	%Ek // loan from Urdu
+KHINAR_CHILAS_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+KOHAT_CITY_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   33.59   71.44      625000         hnd
+1 I	me* //
+11 one	Ek //
+KOHISTANI_INDUS{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kohistani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kohistani,IndusKohistanic}
+ 1   35.62   72.35      200000         mvy
+1 I	ma //
+11 one	Ekh~ //
+KOLAI_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh, %mo* // loan from Urdu
+11 one	%Ekh~ // loan from Urdu
+KONKANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Southern,Konkani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanSouthernzone,Konkanic}
+ 1   15.25   74.00     2423540   kkn   knn
+1 I	ahu* //
+11 one	ek //
+KOSOVO_ARLI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   42.53   20.85      611800   rav   rmn
+1 I	me //
+11 one	yek //
+KRAKAL_KALASHA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   35.68   71.65        5000   klh   kls
+1 I	a //
+11 one	Ek //
+KUMAUNI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,CentralPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,CentralPahari}
+ 1   30.00   80.00     2360000   kum   kfy
+1 I	mE* //
+11 one	ek //
+KUNAR_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   34.63   70.86      992000   goj   gju
+1 I	hu* //
+11 one	ek //
+LAMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_lmn|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani}
+ 1   17.00   77.00     4150000   lmn   lmn
+1 I	ma //
+11 one	ek //
+72 sun	dado, surjya, t3dko // 1. "sun, day, season, time"
+LATVIAN_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   56.23   24.03       35310   rnr   rml
+1 I	me //
+11 one	yekh~ //
+LITHUANIAN_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   53.03   22.58       35310   rnr   rml
+1 I	m3 //
+11 one	yekh~ //
+LOVARA_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Vlax|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   47.00   21.50      476180   rka   rmy
+1 I	me //
+11 one	eg, yeg //
+MACEDONIAN_ARLI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   42.08   21.63      611800   rav   rmn
+1 I	me //
+11 one	yekh~ //
+MACEDONIAN_DZAMBAZI_ROMANIAN{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Vlax|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   42.13   21.72      476180   rka   rmy
+1 I	me //
+11 one	yek, yekh~ //
+MAITHILI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bihari|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,Maithili-Magahi,Maithilic}
+ 1   26.00   86.00    33890000   mai   mai
+1 I	h3*m //
+11 one	ek //
+MALDIVIAN{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Southern,Sinhalese-Maldivian|@Indo-European,Indo-Iranian,Indo-Aryan,Dhivehi-Sinhala}
+ 1    4.17   73.50      340500   dhi   div
+1 I	ma //
+11 one	ek //
+MANDEALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali}
+ 1   30.00   77.17      900000         mjl
+1 I	hau //
+11 one	ek //
+MANSEHRA_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.33   73.20     1880000         hno
+1 I	me* //
+11 one	Ekh~ //
+MARATHI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Southern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanSouthernzone,Maharastric,Marathic}
+ 1   19.00   76.00    71775760   mhi   mar
+1 I	mi //
+11 one	ek //
+MARWARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Marwari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   27.00   75.07     5622600         rwr
+1 I	mE* //
+11 one	ek //
+MENDHAR_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   33.62   74.13      992000   goj   gju
+1 I	hu*, mE* //
+11 one	ek //
+MORANG{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Unclassified_thq|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,Tharuic,EasternTharu}
+ 1   26.60   85.70      258000         thq
+1 I	h3rne //
+11 one	ek //
+NAGAR_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+NAWAR_ZUTT{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Dom|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone}
+ 1   32.00   35.00      280270   dom   rmt
+1 I	ama //
+11 one	yika, yikak //
+NEPALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Eastern,EasternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,EasternPahari}
+ 1   28.00   85.00    15371410   nep   npi
+1 I	ma* //
+11 one	ek //
+NORTH_RUSSIAN_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   60.00   38.00       35310   rnr   rml
+1 I	m3 //
+11 one	yekh~ //
+NORTHERN_AZAD_KASHMIR_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   34.32   73.52      992000   goj   gju
+1 I	u* //
+11 one	Ek //
+ODIR_KHOWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   36.35   72.40      289200   khw   khw
+1 I	awa //
+11 one	i //
+ORIYA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Oriya|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanEasternzone,Oriya-Gauda-Kamrupa,Macro-Oriya}
+ 1   21.00   85.00    32137870   oya   ory
+1 I	m5u //
+11 one	eko, eke, ko //
+PAHARI_POTWARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda}
+ 1   33.90   73.39     3541900         phr
+1 I	me //
+11 one	hek //
+PAHARI_MAHASU{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali,NuclearHimachali}
+ 1   31.10   77.17     1000000         bfz
+1 I	au //
+11 one	ek //
+PAKHA_GOLAM_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.04   71.61      625000         hnd
+1 I	me* //
+11 one	ek //
+PALAS_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo // loan from Urdu
+11 one	%Ek // loan from Urdu
+PALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Unclassified_pli|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari}
+ 1   22.57   88.37          -2         pli
+1 I	ahaN, amha //
+11 one	eka //
+PANGWALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Pahari,WesternPahari|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,Himachali,Kangric-Chamealic-Bhattiyali,Chamealic}
+ 1   32.55   76.12       17000         pgg
+1 I	au //
+11 one	yak //
+PARGAM_NISAR_KHOWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   36.28   72.52      289200   khw   khw
+1 I	awa //
+11 one	i //
+PESHAWAR_CITY_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.00   71.55      625000         hnd
+1 I	me* //
+11 one	ekh~, ik3 //
+PUNJABI_MAJHI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,EasternPanjabic}
+ 1   31.00   74.00    29258970   pan   pan
+1 I	ma*i //
+11 one	ikk //
+PUNIAL_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+PURIGAL_PHALURA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic,WesternShinaic,Dangari}
+ 1   35.60   71.87       10000         phl
+1 I	m3 //
+11 one	ak //
+RAJBANSHI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bengali-Assamese|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanEasternzone,Oriya-Gauda-Kamrupa,Gauda-Kamrupa,Kamrupa,WesternKamta}
+ 1   26.50   87.70      143000         rjs
+1 I	mui //
+11 one	ek //
+RANA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Unclassified_thr|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,Tharuic}
+ 1   28.80   80.35      486000         thr
+1 I	m3i //
+11 one	ek //
+ROMUNGRO_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   48.67   19.00      146910         rmc
+1 I	me //
+11 one	ek, yek //
+RONDU_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+SADRI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Eastern,Bihari|@Indo-European,Indo-Iranian,Indo-Aryan,Bihari,WesternMagadhan,Sadani}
+ 1   19.42   83.56     3291180         sck
+1 I	moe* //
+11 one	ek //
+SANSI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,WesternHindi,Hindustani,Sansi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,EasternPanjabic}
+ 1   26.57   73.84       75600         ssi
+1 I	hau //
+11 one	 //
+SANSKRIT{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan|@Indo-European,Indo-Iranian,Indo-Aryan}
+ 1   28.70   77.20          -2         san
+1 I	3h3m //
+11 one	ek3h, eka //
+SATPARA_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo* // loan from Urdu
+11 one	%Ek // loan from Urdu
+SAURASHTRA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Gujarati|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Gujaratic}
+ 1   10.78   78.68      185000         saz
+1 I	mi //
+3 we	ami, apulu // 1. "we", 2. "we inclusive"
+11 one	oNte, yoku, okka, oNNu //
+SAVI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic,WesternShinaic}
+ 1   35.00   71.50        3000   sav   sdg
+1 I	ma //
+11 one	y3k //
+SAZIN_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%mo // loan from Urdu
+11 one	%Ek // loan from Urdu
+SELICE_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   48.08   17.98      146910         rmc
+1 I	aCh~on, aCh~en //
+11 one	jekh~ //
+34 horn	%sarva // loan from Hungarian < Indo-European
+SEPECIDES_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   38.25   27.00      611800   rav   rmn
+1 I	me //
+11 one	ek, yekh~ //
+SERAIKI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Siraikic}
+ 1   34.00   71.41    20068000         skr
+1 I	mai //
+11 one	hik //
+SETTLED_SWAT_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   34.83   72.37      992000   goj   gju
+1 I	me*, u* //
+11 one	Ek //
+SHERPUR_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.41   73.15     1880000         hno
+1 I	me* //
+11 one	Ek //
+SHINA_2{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	ma, mah //
+11 one	ek //
+SHINA_GURESI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	mo*h //
+11 one	ekh~ //
+SHINA_KOHISTANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	mo*, mo*h //
+11 one	hekh~, ekh~ //
+23 tree	tom, tobu // 1. fem, 2. masc
+SINGO_DI_GARHI_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.09   73.38     1880000         hno
+1 I	me //
+11 one	Ekh~ //
+SINHALA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Southern,Sinhalese-Maldivian|@Indo-European,Indo-Iranian,Indo-Aryan,Dhivehi-Sinhala,Sinhalaic}
+ 1    7.00   80.50    14184860   snh   sin
+1 I	mama //
+11 one	eka //
+SINTI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani,NorthwesternRomani}
+ 1   47.50   16.50      210390   rbg   rmo
+1 I	me //
+11 one	yekh~ //
+SOFIA_ERLI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   42.70   23.33      611800   rav   rmn
+1 I	me //
+11 one	ek, yek //
+SOUTHERN_AZAD_KASHMIR_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   33.51   73.89      992000   goj   gju
+1 I	hu* //
+11 one	Ek //
+SOUTHERN_HAZARA_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   33.96   72.88      992000   goj   gju
+1 I	hu* //
+11 one	ek //
+SREMSKI_GURBET_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Vlax|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   45.32   20.22      476180   rka   rmy
+1 I	me //
+11 one	yekh~ //
+TALAGANG_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   32.93   72.42      625000         hnd
+1 I	mE //
+11 one	hik //
+TANGIR_SHINA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic}
+ 1   36.00   74.00      562400   sna   scl
+1 I	%moh // loan from Urdu
+11 one	%Ek // loan from Urdu
+TORWALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Kohistani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Kohistani,Dir-SwatKohistani}
+ 1   34.25   72.00       80000   trw   trw
+1 I	a //
+11 one	ek //
+TRANSHUMANT_SWAT_GUJARI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Rajasthani,Unclassified_gju|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Rajasthani,Mewati-Gojri}
+ 1   34.69   72.23      992000   goj   gju
+1 I	me* //
+11 one	Ek //
+URDU{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,WesternHindi,Hindustani|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,WesternHindi,Hindustani}
+ 1   25.00   67.00    68619830   urd   urd
+1 I	mE* //
+11 one	ek //
+URSARI_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Balkan|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   44.50   28.65      611800   rav   rmn
+1 I	me //
+11 one	yekh~ //
+USHOJO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Shina|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Shinaic,KohistanicShina}
+ 1   35.15   72.75        2000         ush
+1 I	m3, ma* //
+11 one	Ek //
+USHU_KHOWAR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   35.50   72.63      289200   khw   khw
+1 I	awa //
+11 one	i //
+VAAGRI_BOLI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Unclassified_vaa|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Bhil}
+ 1   12.54   79.10        9300         vaa
+1 I	me //
+11 one	ek //
+VEDDA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Southern,Sinhalese-Maldivian|@Indo-European,Indo-Iranian,Indo-Aryan,Dhivehi-Sinhala,Sinhalaic}
+ 1    7.00   81.00           0   ved   ved
+1 I	meEtto // (we, I, this person, these persons)
+11 one	ek3m3, ek3m3y //
+VLAX_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Vlax|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani}
+ 1   45.00   21.00      476180   rka   rmy
+1 I	me //
+11 one	ekh~, yekh~ //
+WAD_PAGGA_HINDKO{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Hindko}
+ 1   34.06   71.67      625000         hnd
+1 I	me* //
+11 one	ek //
+WELSH_ROMANI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Romani,Northern|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,Romani,CentralRomani}
+ 1   52.00   -4.00       -2016   rwe   rmw
+1 I	may, me //
+11 one	yekh~ //
+WESTERN_PANJABI_SHAHPUR{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,IntermediateDivisions,Western,Panjabi,WesternPanjabi|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Sindhi-Lahnda,Lahnda,Panjabic}
+ 1   32.27   72.47    90512900         pnb
+1 I	mai //
+11 one	hekk, hikk //
+ZUGUNUK_KALASHA{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,OuterLanguages,Northwestern,Dardic,Chitral|@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone,Chitral}
+ 1   35.49   71.70        5000   klh   kls
+1 I	a //
+11 one	Ek //
+AVESTAN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian|@Indo-European,Indo-Iranian,Iranian,EasternIranian,NortheasternIranian}
+ 1   33.17   44.97          -2         ave
+1 I	az3m //
+11 one	 //
+AVESTAN_2{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian|@Indo-European,Indo-Iranian,Iranian,EasternIranian,NortheasternIranian}
+ 1   36.77   66.87          -2         ave
+1 I	 //
+11 one	aeva //
+BAFFA_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.50   73.26    21038000         pbu
+1 I	z3 //
+11 one	yao //
+BAJAUR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.82   71.68    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+BALOCHI_EASTERN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Balochi|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Balochic}
+ 1   28.00   62.00     3050800   blc   bgp
+1 I	mah, man //
+11 one	yak, yek //
+BALOCHI_WESTERN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Balochi|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Balochic}
+ 1   37.83   62.17     2016840         bgn
+1 I	man //
+11 one	yak //
+BANNU_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   32.98   70.60     6520000   psh   pst
+1 I	z3 //
+11 one	you //
+BAR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   35.12   71.74    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+BATAGRAM_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.69   73.11    21038000         pbu
+1 I	z3 //
+11 one	yao //
+CENTRAL_GOJAL_WAKHI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian}
+ 1   36.50   72.00       58000   wak   wbl
+1 I	woz //
+11 one	yiu //
+CHAMAN_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   30.93   66.45    10733300         pbt
+1 I	z3 //
+11 one	yo //
+CHAPURSAN_WAKHI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian}
+ 1   36.50   72.00       58000   wak   wbl
+1 I	woz //
+11 one	yiu //
+CHARSADDA_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.15   71.73    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+CHERAT_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.82   71.88    21038000         pbu
+1 I	z3 //
+11 one	yo //
+DIGOR_OSSETIAN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Northeastern|@Indo-European,Indo-Iranian,Iranian,EasternIranian,NortheasternIranian,Ossetic}
+ 1   43.00   44.00      608460   oss   oss
+1 I	Ez //
+11 one	yew //
+DIR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   35.21   71.88    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+EASTERN_FARSI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Persian|@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian,Farsic-CaucasianTat,Farsic,EasternFarsic}
+ 1   35.00   66.00     8990200   dri   prs
+1 I	mEn // /mæn/
+11 one	yEk // /yæk/
+GILAKI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Caspian|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Caspian,Gilaki-Rudbari}
+ 1   37.33   50.00     2770000   gil   glk
+1 I	mEn //
+11 one	i //
+GURANI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Zaza-Gorani|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Zaza-Gorani,Gorani}
+ 1   35.75   45.50      300000   hwr   hac
+1 I	 //
+11 one	 //
+HANGU_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.53   71.04    21038000         pbu
+1 I	z3 //
+11 one	yo //
+IRON_OSSETIAN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Northeastern|@Indo-European,Indo-Iranian,Iranian,EasternIranian,NortheasternIranian,Ossetic}
+ 1   43.00   44.00      608460   oss   oss
+1 I	EZ // Cyrillic s, z are pronounced as S, Z and c, dz as s, z in the modern literary language.
+11 one	iu, yu //
+ISHKOMAN_WAKHI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian}
+ 1   36.50   72.00       58000   wak   wbl
+1 I	woz //
+11 one	yiu //
+JALLOZAI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.92   71.82    21038000         pbu
+1 I	z3 //
+11 one	you //
+JAMRUD_AFRIDI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.03   71.13    21038000         pbu
+1 I	z3 //
+11 one	yo //
+JUDEO_TAT{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Tat|@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian,Farsic-CaucasianTat,CaucasianTat}
+ 1   42.07   48.28       80500         jdt
+1 I	me //
+11 one	eki //
+JUDEO_TAT_2{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Tat|@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian,Farsic-CaucasianTat,CaucasianTat}
+ 1   41.40   48.50       80500         jdt
+1 I	mE //
+11 one	Eki, toy //
+KANDAHAR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   31.60   65.76    10733300         pbt
+1 I	z3 //
+11 one	y3o //
+KARAK_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.16   71.26     6520000   psh   pst
+1 I	z3* //
+11 one	yo //
+KIRMANJKI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Zaza-Gorani|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Zaza-Gorani,Zaza}
+ 1   39.10   39.30      184000         kiu
+1 I	Ez //
+11 one	zu //
+KURDISH_CENTRAL{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Kurdish|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Kermanic,Kurdish}
+ 1   36.00   44.00     7250000         ckb
+1 I	 //
+11 one	yak //
+KURDISH_KURMANJI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Kurdish|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Kermanic,Kurdish}
+ 1   38.00   42.00    15151130   kji   kmr
+1 I	min, ez //
+11 one	yek, ek //
+LAKKI_MARWAT_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   32.60   70.91     6520000   psh   pst
+1 I	z3 //
+11 one	yo //
+LASGERDI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Semnani|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Semnanic}
+ 1   35.45   52.95        1000         lsa
+1 I	a //
+11 one	i //
+MADYAN_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   35.16   72.52    21038000         pbu
+1 I	z3 //
+11 one	y3u //
+MALLAGORI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.01   71.37    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+MARDAN_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.20   72.04    21038000         pbu
+1 I	z3 //
+11 one	y3u //
+MEYMAI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,CentralIran|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Kermanic,CentralIranKermanic}
+ 1   33.45   51.17       21100         kfm
+1 I	mon, ma* //
+11 one	yak, yE //
+MINGORA_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.78   72.36    21038000         pbu
+1 I	zo, z3 //
+11 one	y3u //
+MIRAN_SHAH_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.00   70.07     6520000   psh   pst
+1 I	z3 //
+11 one	yo //
+MOHMAND_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.48   71.39    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+MUNJANI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Yidgha-Munja}
+ 1   38.39   71.11        5300         mnj
+1 I	z3 //
+11 one	yu //
+NATANZI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,CentralIran|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Kermanic,CentralIranKermanic,Kashani-Natanzi}
+ 1   33.50   51.90        7030         ntz
+1 I	mun //
+11 one	jEk, i //
+NINGRAHAR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.98   70.38    21038000         pbu
+1 I	z3 //
+11 one	yau //
+NORTHERN_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.00   67.00    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+OGHI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.50   73.00    21038000         pbu
+1 I	z3 //
+11 one	yao //
+OLD_PERSIAN{IE.IRANIAN|IndoEuropean,IndoIranian,Iranian,Western,Southwestern,OldPersian|@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian}
+ 1   32.00   54.00          -2         peo
+1 I	 //
+11 one	aiva //
+ORMURI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Ormuri-Parachi|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Ormuri-Parachi}
+ 1   32.50   69.75        6050   orm   oru
+1 I	az //
+11 one	s3 //
+PARACHI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Ormuri-Parachi|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Ormuri-Parachi}
+ 1   35.05   69.61        3500         prc
+1 I	on //
+11 one	Zu //
+PARACHINAR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.90   70.10    21038000         pbu
+1 I	z3 //
+11 one	yo //
+PASHIN_KAKARI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   30.42   68.83    10733300         pbt
+1 I	z3 //
+11 one	y3o //
+PERSIAN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Persian|@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian,Farsic-CaucasianTat,Farsic}
+ 1   32.00   54.00    51614320   prs   pes
+1 I	man //
+11 one	yek //
+PESHAWAR_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.00   71.55    21038000         pbu
+1 I	z3 //
+11 one	y3u //
+PISHIN_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   30.60   67.00    10733300         pbt
+1 I	z3 //
+11 one	y3o //
+QUETTA_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   30.21   67.02    10733300         pbt
+1 I	z3 //
+11 one	y3o //
+SANGISARI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Semnani|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Semnanic}
+ 1   35.70   53.33       36000         sgr
+1 I	a //
+11 one	jEkE //
+SARIKOLI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir,Shugni-Yazgulami|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Shughni-Yazgulami,Shughnic}
+ 1   37.91   75.14       16000         srh
+1 I	waz, am //
+11 one	iw, i //
+SEMNANI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Semnani|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Semnanic}
+ 1   35.58   53.35       60000         smy
+1 I	 //
+11 one	 //
+SHAHMIRZADI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Caspian|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Caspian,Mazanderani-Shahmirzadi}
+ 1   35.77   53.32           0         srz
+1 I	me //
+11 one	jek //
+SHIMSAL_WAKHI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian}
+ 1   36.50   72.00       58000   wak   wbl
+1 I	woz //
+11 one	yiu //
+SHINWARI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.56   69.50    21038000         pbu
+1 I	z3 //
+11 one	yau //
+SHUGHNI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir,Shugni-Yazgulami|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Shughni-Yazgulami,Shughnic}
+ 1   37.93   71.60       80000   rsh   sgh
+1 I	woz //
+11 one	yi //
+SORKHEI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Semnani|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Semnanic}
+ 1   35.45   53.20       10000         sqo
+1 I	o //
+11 one	i //
+SWABI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.17   72.40    21038000         pbu
+1 I	z3 //
+11 one	y3o //
+TAJIK{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Persian|@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian,Farsic-CaucasianTat,Farsic,EasternFarsic,Tajikic}
+ 1   38.40   70.00     7861450   taj   tgk
+1 I	man //
+11 one	yak //
+TALYSH{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Talysh|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Adharic,Tatic,CentralTatic}
+ 1   38.75   48.67      184100   taz   tly
+1 I	oz //
+11 one	i //
+THAL_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   33.37   70.54    21038000         pbu
+1 I	z3* //
+11 one	yo //
+TIRAH_AFRIDI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.73   71.61    21038000         pbu
+1 I	z3 //
+11 one	yo //
+VAFSI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,CentralIran|@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Adharic,Tatic,SouthernTatic,Vafsic}
+ 1   34.67   49.92       18000   vaf   vaf
+1 I	aez, eyz //
+11 one	yey //
+WANA_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   32.30   69.57     6520000   psh   pst
+1 I	z3 //
+11 one	yo //
+WANECI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto}
+ 1   30.10   67.94      108000         wne
+1 I	z3 //
+11 one	yo //
+YAGHNOBI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Northeastern|@Indo-European,Indo-Iranian,Iranian,EasternIranian,NortheasternIranian,Sogdian-Yagnobi}
+ 1   39.00   69.00       12000   ygn   yai
+1 I	mEn // /man/
+11 one	yEk // /jak/
+YASIN_WAKHI{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian}
+ 1   36.50   72.00       58000   wak   wbl
+1 I	woz //
+11 one	yiu //
+YIDGHA{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pamir|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Yidgha-Munja}
+ 1   36.32   71.70        6150         ydg
+1 I	zoh //
+11 one	yu //
+ZAKHA_KHEL_AFRIDI_PASHTO{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Eastern,Southeastern,Pashto|@Indo-European,Indo-Iranian,Iranian,EasternIranian,SoutheasternIranian,Pashto,NuclearPashto}
+ 1   34.00   71.17    21038000         pbu
+1 I	z3 //
+11 one	yo //
+EASTERN_KATIVIRI{IE.NURISTANI|Indo-European,Indo-Iranian,Nuristani|@Indo-European,Indo-Iranian,Nuristani,Kati-Kamviri}
+ 1   35.50   70.00       21010   ktz   bsh
+1 I	u*c //
+11 one	Ew //
+SHEKHANI{IE.NURISTANI|Indo-European,Indo-Iranian,Nuristani|@Indo-European,Indo-Iranian,Nuristani,Kati-Kamviri}
+ 1   35.33   71.60       20000         xvi
+1 I	3* //
+11 one	eo //
+ARAGONESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Pyrenean-Mozarabic,Pyrenean|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,UnshiftedWesternRomance}
+ 1   42.17   -0.17       10000         arg
+1 I	yo //
+11 one	un, uno //
+ARPITAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,O\"il,Southeastern|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,Francoprovencalic}
+ 1   45.77    4.83      137000         frp
+1 I	Z3, c3 //
+11 one	yo* //
+ASTURIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Asturo-Leonese|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Asturo-Leonese}
+ 1   43.25   -6.00      110000   ast   ast
+1 I	yo //
+11 one	un, una, uno //
+BALEAR_CATALAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   39.57    2.65     4079420   ctl   cat
+1 I	jo //
+11 one	uns //
+CATALAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   41.75    2.00     4079420   ctl   cat
+1 I	Zo //
+11 one	un //
+CATALAN_2{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   41.38    2.18     4079420   ctl   cat
+1 I	Zo //
+11 one	uns //
+CORSICAN{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Corsican|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Corsic}
+ 1   42.00    9.00       31000         cos
+1 I	eyu //
+11 one	u*nu //
+DALMATIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Dalmatian,Dalmatian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,DalmatianRomance}
+ 1   42.71   18.02          -1         dlm
+1 I	yu //
+11 one	yoin //
+EMILIANO_CARPIGIANO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.35   11.58          -1         egl
+1 I	mE //
+11 one	un //
+EMILIANO_FERRARESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.35   11.58          -1         egl
+1 I	mi //
+11 one	un //
+EMILIANO_REGGIANO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.35   11.58          -1         egl
+1 I	me //
+11 one	un, von //
+FRENCH{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,O\"il,French|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,GlobalFrench}
+ 1   48.00    2.00    75917870   fre   fra
+1 I	j3 //
+11 one	oe* //
+FRIULIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.17   12.90      300000         fur
+1 I	yo //
+11 one	uN //
+GALICIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance}
+ 1   43.00   -8.00     2355000   glc   glg
+1 I	 //
+11 one	un //
+GASCON{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic}
+ 1   43.30    0.10      218310   occ   oci
+1 I	jo, yo //
+11 one	i //
+ITALIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   43.00   12.00    63413657   ifi   ita
+1 I	io //
+11 one	uno //
+ITALIAN_GROSSETO_TUSCAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   43.00   12.00    63413657   ifi   ita
+1 I	io //
+11 one	uno //
+JUDEO_ESPAGNOL{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic}
+ 1   40.00   33.00      112130   lno   lad
+1 I	yo //
+11 one	uno, una //
+LANGUEDOCIEN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic}
+ 1   45.70    3.33      218310   occ   oci
+1 I	 //
+11 one	i //
+LATIN{IE.ROMANCE|Indo-European,Italic,Latino-Faliscan|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin}
+ 1   41.90   12.45          -2         lat
+1 I	ego //
+11 one	unus //
+LIGURIAN_GENOESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   44.42    8.95      505100   itg   lij
+1 I	mi //
+11 one	uN //
+LIGURIAN_RAPALLO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   44.42    8.95      505100   itg   lij
+1 I	mi //
+11 one	uN //
+LIGURIAN_STELLA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   44.42    8.95      505100   itg   lij
+1 I	mi //
+11 one	uN //
+LOMBARD_BERGAMO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.88    9.40     3903000         lmo
+1 I	me //
+11 one	u //
+LOMBARD_PLESIO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.88    9.40     3903000         lmo
+1 I	mi //
+11 one	vuN //
+NEAPOLITAN_CALABRESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   39.23   16.42     5700000   itn   nap
+1 I	iy3, i //
+11 one	un3 //
+NONES{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.37   11.03       31000   ldn   lld
+1 I	mi //
+11 one	un //
+NONES_FASSANO{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.61   11.89       31000   ldn   lld
+1 I	Ze //
+11 one	uN //
+NONES_GARDENESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.61   11.89       31000   ldn   lld
+1 I	ye //
+11 one	uN //
+OCCITAN_ARANESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,Oc|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,Occitanic}
+ 1   42.72    0.84      218310   occ   oci
+1 I	Zu, ieu //
+11 one	iN, uN //
+PIEMONTESE_BARBANIA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64     1600000   itu   pms
+1 I	mi //
+11 one	uN //
+PIEMONTESE_CARMAGNOLA{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64     1600000   itu   pms
+1 I	mi //
+11 one	uN //
+PIEMONTESE_LANZO_TORINESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64     1600000   itu   pms
+1 I	mi //
+11 one	uN //
+PIEMONTESE_VERCELLESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian}
+ 1   45.30    7.64     1600000   itu   pms
+1 I	mi //
+11 one	yuN //
+PORTUGUESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Brazil-PortugalPortuguese}
+ 1   39.00   -8.00   202225450   por   por
+1 I	eu //
+11 one	u* //
+ROMAGNOL_RAVENNATE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Italian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Italian,Emiliano-Romagnolo}
+ 1   44.23   11.72          -1         rgn
+1 I	me //
+11 one	own //
+ROMANIAN{IE.ROMANCE|Indo-European,Italic,Romance,Eastern|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   46.00   25.00    23664640   rom   ron
+1 I	 //
+11 one	unu //
+ROMANIAN_2{IE.ROMANCE|Indo-European,Italic,Romance,Eastern|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   46.00   25.00    23664640   rom   ron
+1 I	ew //
+11 one	unu //
+ROMANIAN_MEGLENO{IE.ROMANCE|Indo-European,Italic,Romance,Eastern|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   41.12   22.38        5000         ruq
+1 I	yo, yew, iwe //
+11 one	un //
+ROMANSH_GRISHUN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.55    9.93       40039   rmc   roh
+1 I	yaw //
+11 one	en //
+ROMANSH_SURMIRAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.55    9.93       40039   rsm   roh
+1 I	i3 //
+11 one	en //
+ROMANSH_SURSILVAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.67    8.83       40039   rmc   roh
+1 I	yEu //
+11 one	in //
+ROMANSH_VALLADER{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Gallo-Romance,Gallo-Rhaetian,Rhaetian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian}
+ 1   46.55    9.93       40039   rmc   roh
+1 I	Ew //
+11 one	un // source gives:u=ü
+SARDINIAN{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian}
+ 1   40.00    9.00           0            
+1 I	deo //
+11 one	unu //
+SARDINIAN_CAMPIDANESE{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian}
+ 1   39.06    9.04      500000   srd   sro
+1 I	dEw //
+11 one	unu //
+SARDINIAN_LOGUDARESE{IE.ROMANCE|Indo-European,Italic,Romance,Southern,Sardinian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,SouthernRomance,Sardo-Corsican,Sardinian}
+ 1   40.50    9.10      500000         src
+1 I	deo //
+11 one	unu //
+SICILIAN_UnnamedInSource{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   37.50   14.00     4700000         scn
+1 I	iu, eu //
+11 one	unu //
+SPANISH{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Castilian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic}
+ 1   40.00   -4.00   517824310   spa   spa
+1 I	yo //
+11 one	uno //
+TURIA_AROMANIAN{IE.ROMANCE|Indo-European,Italic,Romance,Eastern|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   40.00   20.75      500740         rup
+1 I	yo //
+11 one	unw~ //
+VALENCIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   39.47   -0.38     4079420   ctl   cat
+1 I	yo //
+11 one	uns //
+VLACH{IE.ROMANCE|Indo-European,Italic,Romance,Eastern|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,EasternRomance,BalkanRomance}
+ 1   39.67   21.33      500740         rup
+1 I	eu, siNuru //
+11 one	unu, una //
+BELARUSIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,East|@Indo-European,Balto-Slavic,Slavic,EastSlavic}
+ 1   54.00   28.00     2537640   blr   bel
+1 I	ya //
+11 one	acin //
+BOSNIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Western|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,WesternSouthSlavic,Serbian-Croatian-Bosnian}
+ 1   43.00   18.00     1516790   bos   bos
+1 I	ya //
+11 one	yedan //
+BULGARIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Eastern|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,EasternSouthSlavic,Macedo-Bulgarian}
+ 1   42.50   25.00     7895240   bul   bul
+1 I	az //
+11 one	Edno //
+CROATIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Western|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,WesternSouthSlavic,Serbian-Croatian-Bosnian}
+ 1   45.82   15.98     5611590   scr   hrv
+1 I	ya //
+11 one	yedan //
+CZECH{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Czech-Slovak|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Czech-Slovak,Czech-Lach}
+ 1   50.00   15.00    10640300   cze   ces
+1 I	ya //
+11 one	yEdno //
+KASHUBIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Lechitic|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Lechitic}
+ 1   54.00   18.00      107000   ksu   csb
+1 I	ya //
+11 one	yEdEn //
+LOWER_SORBIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Sorbian|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Sorbian}
+ 1   51.75   14.33        6860   srl   dsb
+1 I	ya //
+11 one	yadEn //
+LOWER_SORBIAN_2{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Sorbian|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Sorbian}
+ 1   51.75   14.33        6860   srl   dsb
+1 I	ya //
+11 one	yadEn //
+18 person	%parSona, %wosoba // 1. loan from German (Upper Saxon), 2. Probably borrowed from Upper Sorbian (LWT)
+MACEDONIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Eastern|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,EasternSouthSlavic,Macedo-Bulgarian}
+ 1   41.67   21.75     1476550   mcd   mkd
+1 I	yas //
+11 one	EdEn //
+NASHTA{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Eastern|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,EasternSouthSlavic,Macedo-Bulgarian}
+ 1   40.74   22.98     1476550   mcd   mkd
+1 I	ya //
+11 one	idin //
+NINILCHIK_RUSSIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,East|@Indo-European,Balto-Slavic,Slavic,EastSlavic}
+ 1   59.99 -151.54   171428900   rus   rus
+1 I	ya //
+11 one	ady~in //
+OLD_CHURCH_SLAVONIC{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Eastern|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,EasternSouthSlavic}
+ 1   40.63   22.95          -2         chu
+1 I	azu //
+11 one	yedinu //
+POLISH{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Lechitic|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Lechitic}
+ 1   52.00   20.00    39794740   pol   pol
+1 I	ya //
+11 one	yEdEn //
+RUSSIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,East|@Indo-European,Balto-Slavic,Slavic,EastSlavic}
+ 1   56.00   38.00   171428900   rus   rus
+1 I	ya //
+11 one	ody~in //
+SERBOCROATIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Western|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,WesternSouthSlavic,Serbian-Croatian-Bosnian}
+ 1   44.00   19.00     8387006   scr   srp
+1 I	ya //
+11 one	yedan //
+SLOVAK{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Czech-Slovak|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Czech-Slovak}
+ 1   49.00   20.00     5097650   svk   slk
+1 I	ya //
+11 one	yeden //
+SLOVENIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,South,Western|@Indo-European,Balto-Slavic,Slavic,SouthSlavic,WesternSouthSlavic}
+ 1   46.00   15.00     2045410   slo   slv
+1 I	yaz //
+11 one	EdEn //
+UKRAINIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,East|@Indo-European,Balto-Slavic,Slavic,EastSlavic,Ukrainian-Rusyn}
+ 1   49.00   33.00    34605200   ukr   ukr
+1 I	yo //
+11 one	odin //
+UPPER_SORBIAN{IE.SLAVIC|Indo-European,Balto-Slavic,Slavic,West,Sorbian|@Indo-European,Balto-Slavic,Slavic,WestSlavic,Sorbian}
+ 1   51.83   14.50       13490   sou   hsb
+1 I	ya //
+11 one	yEd3n //
+COMMON_TOCHARIAN{IE.TOCHARIAN|Indo-European,Tokharian|@Indo-European,Tokharian}
+ 1   41.65   82.90        -850            
+1 I	 //
+11 one	sas //
+TOCHARIAN_A{IE.TOCHARIAN|Indo-European,Tokharian|@Indo-European,Tokharian}
+ 1   42.98   89.18        -850         xto
+1 I	n3S, 5uk //
+11 one	s3s //
+TOCHARIAN_B{IE.TOCHARIAN|Indo-European,Tokharian|@Indo-European,Tokharian}
+ 1   41.65   82.90        -850         txb
+1 I	53S //
+11 one	Se //
+ 1   -4.52  129.77        3690         bpq
+1 I	beta //
+11 one	satu //
+ 1   -3.83  128.17      245020         abs
+1 I	beta //
+11 one	satu //
+ 1   -3.83  128.20      245020         abs
+1 I	bia //
+11 one	satu //
+ 1   -6.17  106.75    23208380   inj   ind
+1 I	aku, %saya // loan from Sanskrit (LWT)
+11 one	satu7 //
+ 1    0.00  106.00    23208380   ind   ind
+1 I	saya, aku //
+11 one	satu //
+ 1    0.00  106.00    23208380   ind   ind
+1 I	zon //
+11 one	satu //
+ 1   -1.67  103.00     1000000         jax
+1 I	aku //
+11 one	satu, siko7 // (the first for counting)
+ 1   -2.42  102.17       10000         kvb
+1 I	aku, sayo //
+11 one	siko7, so //
+ 1  -10.18  123.58      200000         mkn
+1 I	beta, ana //
+11 one	satu //
+ 1   -1.67  105.92      340000         mfb
+1 I	ko //
+11 one	satu, sikok //
+ 1    1.50  124.83      850000   mds   xmm
+1 I	kita //
+11 one	satu //
+ 1   -4.54  129.87        3690         bpq
+1 I	beta //
+11 one	satu //
+ 1   -4.52  129.89        3690         bpq
+1 I	beta //
+11 one	satu //
+ 1   -1.00  128.33      700000         max
+1 I	kita //
+11 one	satu //
+ANGOLAR{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese}
+ 1    0.25    6.50        5000   ago   aoa
+1 I	am //
+11 one	 // (only V)
+AUKAN{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Suriname,Ndyuka|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,SurinameseCreoleEnglish,Srananic,Ndyuka}
+ 1    5.00  -54.50       33500   ndy   djk
+1 I	mi //
+11 one	wan //
+BELIZE_KRIOL_ENGLISH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Western|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,WesternCaribbeanCreole,MiskitoicCreoleEnglish,Belize-MiskitoCreoleEnglish}
+ 1   17.39  -88.63      170000   mce   bzj
+1 I	mi* //
+11 one	wan //
+BERBICE_DUTCH_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Dutchbased|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch,DutchCaribbeanCreole}
+ 1    5.33  -58.00       -2011   bdc   brc
+1 I	aka //
+11 one	en //
+BISLAMA{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,PacificCreoleEnglish,EarlyMelanesianPidgin}
+ 1  -16.00  168.00       10000   bsm   bis
+1 I	mi //
+11 one	wan //
+CAPE_VERDEAN_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese}
+ 1   15.07  -23.60      871000         kea
+1 I	ami, mi //
+11 one	un //
+GEECHEE{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Eastern,Northern|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,EasternCaribbeanCreole,Gullah-Nevis-Antigua,Gullah}
+ 1   31.43  -81.23         350         gul
+1 I	 // (Only V)
+11 one	won //
+GHANAIAN_PIDGIN_ENGLISH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Krio|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,WestAfricanCreoleEnglish}
+ 1    5.60   -0.42     5000000         gpe
+1 I	mi //
+11 one	wan, wa* //
+GRENADIAN_CREOLE_ENGLISH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Eastern,Southern|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,EasternCaribbeanCreole,Vincent-GrenadianCreole,Grenada-TobagoCreole}
+ 1   12.25  -61.60       89200         gcl
+1 I	ay, mi //
+11 one	wan //
+GUADELOUPE_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,LesserAntilleanFrenchCreole}
+ 1   16.25  -61.50      849000   gdl   gcf
+1 I	man, mw~en //
+11 one	an, on //
+GUIANESE_CREOLE_FRENCH{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,GuyanicCreoleFrench}
+ 1    5.00  -53.00       50000   gfr   gcr
+1 I	mo //
+11 one	un, run //
+GULLAH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Eastern,Northern|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,EasternCaribbeanCreole,Gullah-Nevis-Antigua,Gullah}
+ 1   33.25  -80.00         350         gul
+1 I	me //
+11 one	won, w3n //
+GUYANESE_CREOLE_ENGLISH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Eastern,Southern|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,EasternCaribbeanCreole,Barbados-Eustatius,Barbados-Trinidad}
+ 1    7.25  -58.58      700000         gyn
+1 I	mi //
+11 one	wan //
+HAITIAN_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench}
+ 1   19.00  -72.50     7731300   hcr   hat
+1 I	mw~e* //
+11 one	yu* //
+HAWAI_CREOLE_ENGLISH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,PacificCreoleEnglish}
+ 1   21.50 -158.00      600000   hwc   hwc
+1 I	 // (only V)
+11 one	wEn //
+JAMAICAN_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Western|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,WesternCaribbeanCreole,Jamaicanic}
+ 1   18.17  -77.25     3035000   jcr   jam
+1 I	mi //
+11 one	wEn //
+KARIPUNA_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,GuyanicCreoleFrench}
+ 1    3.83  -51.50        2400         kmv
+1 I	mo //
+11 one	un, in //
+KWINTI{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Suriname,Ndyuka|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,SurinameseCreoleEnglish,Srananic,Ndyuka}
+ 1    5.17  -56.17         130         kww
+1 I	mi //
+11 one	wa //
+FA_D_AMBU{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese}
+ 1   -1.42    5.58        5600         fab
+1 I	mu //
+11 one	 //
+KORLAI{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Indo-Portuguesic,NorthernIndo-Portuguesic}
+ 1   18.52   72.90         750         vkp
+1 I	yo //
+11 one	 //
+KRIO{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Krio|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,WestAfricanCreoleEnglish}
+ 1    8.35  -13.23      664100         kri
+1 I	 // only V
+11 one	wa* //
+LIMONESE_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Western|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,WesternCaribbeanCreole,Jamaicanic}
+ 1   10.00  -83.25     3035000   jcr   jam
+1 I	 //
+11 one	wan //
+MAURITIAN{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole}
+ 1  -20.33   57.50     1135000   mcr   mfe
+1 I	mo //
+11 one	en //
+NEGERHOLLANDS{Oth.CREOLES_AND_PIDGINS|Creole,Dutchbased|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch,DutchCaribbeanCreole}
+ 1   18.35  -64.93          -1         dcr
+1 I	mi //
+11 one	en //
+NGUKURR_BAMYILI_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,PacificCreoleEnglish}
+ 1  -14.83  135.00        4200   knq   rop
+1 I	 //
+11 one	wan, wanbala //
+NICARAGUA_CREOLE_ENGLISH{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Western|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,WesternCaribbeanCreole,MiskitoicCreoleEnglish,Belize-MiskitoCreoleEnglish}
+ 1   12.44  -83.74       18400         bzk
+1 I	mi //
+11 one	 //
+NIGERIAN_PIDGIN{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Krio|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,WestAfricanCreoleEnglish,Nigeria-CameroonCreoleEnglish}
+ 1    6.50    3.33    30000000   npi   pcm
+1 I	 //
+11 one	won //
+PALENQUERO{Oth.CREOLES_AND_PIDGINS|Creole,Spanishbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic}
+ 1   10.33  -75.33         500         pln
+1 I	i //
+11 one	 //
+PAPIA_KRISTANG{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Malayo-PortugueseCreole}
+ 1    2.20  102.27        2150   mlc   mcm
+1 I	yo //
+11 one	Nua //
+PAPIAMENTO{Oth.CREOLES_AND_PIDGINS|Creole,Iberianbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,UpperGuineaPortuguese}
+ 1   12.25  -69.00      271870   pap   pap
+1 I	mi //
+11 one	un //
+PICHI{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Krio|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,WestAfricanCreoleEnglish}
+ 1    3.74    8.78        6000         fpe
+1 I	 // (only V)
+11 one	wan //
+PIJIN{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,PacificCreoleEnglish,EarlyMelanesianPidgin}
+ 1   -9.50  160.00       24400         pis
+1 I	mi //
+11 one	wan //
+PITKERN{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English}
+ 1  -19.90 -144.95         532         pih
+1 I	 // (only V)
+11 one	on //
+PRINCIPENSE{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese,Saotomense-Principense}
+ 1    1.62    7.37         200   pri   pre
+1 I	ami //
+11 one	 //
+REUNIONNAIS{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French}
+ 1  -21.17   55.50      450000         rcf
+1 I	mwe*, mi //
+11 one	e*n //
+SANTOMENSE{Oth.CREOLES_AND_PIDGINS|Creole,Portuguesebased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,LowerGuineaPortuguese,Saotomense-Principense}
+ 1    0.30    6.62       69900         cri
+1 I	ami //
+11 one	 // (only V)
+SARAMACCAN{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,SurinameseCreoleEnglish}
+ 1    4.50  -55.50       26000   srm   srm
+1 I	mi //
+11 one	wan //
+SARAMACCAN_2{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,SurinameseCreoleEnglish}
+ 1    4.50  -55.50       26000   srm   srm
+1 I	mi //
+11 one	wan //
+SEYCHELLES_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole}
+ 1   -4.75   55.50       74600   sey   crs
+1 I	mo* //
+11 one	en //
+SEYCHELLES_CREOLE_2{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Isle-de-FranceCreole}
+ 1   -4.75   55.50       74600   sey   crs
+1 I	mo*, mwa* //
+11 one	en //
+SRANAN_TONGO{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Suriname|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,SurinameseCreoleEnglish,Srananic}
+ 1    5.83  -55.33      126400   sra   srn
+1 I	mi //
+11 one	wan //
+ST_LUCIAN_CREOLE_FRENCH{Oth.CREOLES_AND_PIDGINS|Creole,Frenchbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,NorthwesternShiftedRomance,Gallo-Rhaetian,Oil,CentralOil,Macro-French,Circum-CaribbeanFrench,LesserAntilleanFrenchCreole,Lucia-MiguelCreoleFrench}
+ 1   13.87  -60.98      359450   lcr   acf
+1 I	mw~E* //
+11 one	yo*, o* //
+TOK_PISIN{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,PacificCreoleEnglish,EarlyMelanesianPidgin}
+ 1   -9.50  147.17      122000   tpi   tpi
+1 I	mi //
+11 one	wan //
+TORRES_STRAIT_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Pacific|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,PacificCreoleEnglish,EarlyMelanesianPidgin}
+ 1  -10.17  143.00        6040   bro   tcs
+1 I	ay //
+11 one	wan //
+VINCENTIAN_CREOLE{Oth.CREOLES_AND_PIDGINS|Creole,Englishbased,Atlantic,Eastern,Southern|@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English,GuineaCoastCreoleEnglish,CaribbeanEnglishCreole,EasternCaribbeanCreole,Vincent-GrenadianCreole}
+ 1   13.12  -61.15      138000         svc
+1 I	mi //
+11 one	wan //
+ZAMBOANGUENO{Oth.CREOLES_AND_PIDGINS|Creole,Spanishbased|@Indo-European,Italic,Latino-Faliscan,Latinic,ImperialLatin,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,Castilic,SouthCastilic,Ternate-Zamboanga-Cavite}
+ 1    7.00  122.08     1200000   cvc   cbk
+1 I	yo //
+11 one	uno //

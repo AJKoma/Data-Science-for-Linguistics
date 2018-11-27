@@ -1,0 +1,29 @@
+ asjp62 < listss17.txt > output1.txt
+ asjp62 < Indo-European.txt > IEall.txt
+ asjp62 < Austro-Asiatic.txt > AuAall.txt
+ asjp62 < Austronesian.txt > Aall.txt
+ asjp62 < Dravidian.txt > Dall.txt
+ asjp62 < Japanese.txt > Jall.txt
+ asjp62 < Niger-Congo.txt > NCall.txt
+ asjp62 < Tai-Kadai.txt > TKall.txt
+ asjp62 < Sino-Tibetan.txt > STall.txt
+ asjp62 < Afro-Asiatic.txt > AAall.txt
+
+# Overall view of whole dataset and different language families.
+
+
+egrep -v '\sone|\stwo' < Indo-European.txt > IEwithoutnum.txt
+egrep -v '\sone|\stwo' < Austro-Asiatic.txt > AuAwithoutnum.txt
+egrep -v '\sone|\stwo' < Austronesian.txt > Awithoutnum.txt
+egrep -v '\sone|\stwo' < Dravidian.txt > Dwithoutnum.txt
+egrep -v '\sone|\stwo' < Japanese.txt > Jwithoutnum.txt
+egrep -v '\sone|\stwo' < Niger-Congo.txt > NCwithoutnum.txt
+egrep -v '\sone|\stwo' < Sino-Tibetan.txt > STwithoutnum.txt
+egrep -v '\sone|\stwo' < Tai-Kadai.txt > TKwithoutnum.txt
+egrep -v '\sone|\stwo' < Afro-Asiatic.txt > AAwithoutnum.txt
+
+
+
+
+
+

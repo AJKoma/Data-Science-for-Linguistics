@@ -1,0 +1,6110 @@
+     2    28  1700     3
+(I4,20X,10A1)
+   1                    I
+   2                    you
+   3                    we
+  11                    one
+  12                    two
+  18                    person
+  19                    fish
+  21                    dog
+  22                    louse
+  23                    tree
+  25                    leaf
+  28                    skin
+  30                    blood
+  31                    bone
+  34                    horn
+  39                    ear
+  40                    eye
+  41                    nose
+  43                    tooth
+  44                    tongue
+  47                    knee
+  48                    hand
+  51                    breast
+  53                    liver
+  54                    drink
+  57                    see
+  58                    hear
+  61                    die
+  66                    come
+  72                    sun
+  74                    star
+  75                    water
+  77                    stone
+  82                    fire
+  85                    path
+  86                    mountain
+  92                    night
+  95                    full
+  96                    new
+ 100                    name
+
+p
+b
+f
+v
+m
+w
+8
+t
+d
+s
+z
+c
+n
+r
+l
+S
+Z
+C
+j
+T
+5
+y
+k
+g
+x
+N
+q
+X
+h
+7
+L
+4
+G
+!
+i
+e
+E
+3
+a
+u
+o
+
+
+BAODING_HLAI{TK.HLAI|Tai-Kadai,Hlai|@Tai-Kadai,Hlaic,NuclearHlaic}
+ 1   18.82  110.34      667000   lic   lic
+1 I	hou, de //
+2 you	meu, mu //
+3 we	fa //
+11 one	ch~eu, cu //
+12 two	Lau //
+18 person	au, u7au //
+19 fish	La //
+21 dog	pa //
+22 louse	fou //
+23 tree	kh~uNch~ai //
+25 leaf	beuch~ai //
+28 skin	noN //
+30 blood	Laty~ //
+31 bone	vuk //
+34 horn	hau //
+39 ear	zai //
+40 eye	ch~a, ch~oNch~a //
+41 nose	kh~at //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	gw~ourou //
+48 hand	meu //
+51 breast	Nan //
+53 liver	Na //
+54 drink	ny~au //
+57 see	zui //
+58 hear	hiN //
+61 die	Lau, hut //
+66 come	pun //
+72 sun	ch~avan, ch~auhw~an //
+74 star	rau //
+75 water	nom //
+77 stone	ch~in //
+82 fire	fei //
+85 path	kun //
+86 mountain	gaN, dau //
+92 night	paich~op //
+95 full	th~ik //
+96 new	pan //
+100 name	ph~eN //
+JIAMAO{TK.HLAI|Tai-Kadai,Hlai|@Tai-Kadai,Hlaic}
+ 1   18.64  109.77       52300         jio
+1 I	%kau // borrowed from Hlai
+2 you	%m3y // borrowed from Hlai
+3 we	tey, au //
+11 one	%ku // borrowed from Hlai
+12 two	%luay // borrowed from Hlai
+18 person	Lay //
+19 fish	%Low // borrowed from Hlai
+21 dog	%pow // borrowed from Hlai
+22 louse	%ten // borrowed from Hlai
+23 tree	%ch~ay // borrowed from Hlai
+25 leaf	%pi // borrowed from Hlai
+28 skin	%na // borrowed from Hlai
+30 blood	%Lu3t // borrowed from Hlai
+31 bone	%li3k // borrowed from Hlai
+34 horn	%hau // borrowed from Hlai
+39 ear	k3 //
+40 eye	%tou // borrowed from Hlai
+41 nose	%hot // borrowed from Hlai
+43 tooth	%ch~aN // borrowed from Hlai
+44 tongue	%Lin // borrowed from Hlai
+47 knee	th~ok, %lu // borrowed from Hlai
+48 hand	%ma // borrowed from Hlai
+51 breast	53n //
+53 liver	%5u3n // borrowed from Hlai
+54 drink	%kun // borrowed from Hlai
+57 see	maych~u3N //
+58 hear	 //
+61 die	lot //
+66 come	%muN // borrowed from Hlai
+72 sun	%tou, %von // borrowed from Hlai
+74 star	capcin //
+75 water	%nam // borrowed from Hlai
+77 stone	%ch~in // borrowed from Hlai
+82 fire	%pay // borrowed from Hlai
+85 path	tin //
+86 mountain	cow //
+92 night	 //
+95 full	%kh~om, ch~ia // borrowed from Hlai
+96 new	Lau //
+100 name	%ph~u // borrowed from Hlai
+LI_BAODING{TK.HLAI|Tai-Kadai,Hlai|@Tai-Kadai,Hlaic,NuclearHlaic}
+ 1   18.75  109.33      667000   lic   lic
+1 I	hou //
+2 you	me3 //
+3 we	fa //
+11 one	ch~e3 //
+12 two	Lau //
+18 person	 //
+19 fish	La //
+21 dog	pa //
+22 louse	fou //
+23 tree	ch~ai //
+25 leaf	be3 //
+28 skin	noN //
+30 blood	Laty~ //
+31 bone	v3k //
+34 horn	hau //
+39 ear	zai //
+40 eye	ch~a //
+41 nose	kh~at //
+43 tooth	fan //
+44 tongue	Lin //
+47 knee	gw~ourou //
+48 hand	me3 //
+51 breast	 //
+53 liver	Nan //
+54 drink	ch~3p //
+57 see	zui //
+58 hear	ple3, hiNzai //
+61 die	Lau //
+66 come	p3n //
+72 sun	ch~ahw~an //
+74 star	rau //
+75 water	nom //
+77 stone	ch~in //
+82 fire	fei //
+85 path	kun //
+86 mountain	go //
+92 night	paich~op //
+95 full	th~ik //
+96 new	pan //
+100 name	ph~eN //
+LI_TONGSHI{TK.HLAI|Tai-Kadai,Hlai|@Tai-Kadai,Hlaic,NuclearHlaic}
+ 1   18.75  109.33      667000   lic   lic
+1 I	hou //
+2 you	me3 //
+3 we	fau //
+11 one	37 //
+12 two	Lau //
+18 person	hau //
+19 fish	La //
+21 dog	pa //
+22 louse	fou //
+23 tree	ch~ai //
+25 leaf	be3 //
+28 skin	noN //
+30 blood	Lat //
+31 bone	f37 //
+34 horn	hau //
+39 ear	Lai //
+40 eye	ch~uch~a //
+41 nose	kh~at //
+43 tooth	fan //
+44 tongue	Lin //
+47 knee	gorou //
+48 hand	3me3 //
+51 breast	 //
+53 liver	Nan //
+54 drink	ch~3p //
+57 see	Lui //
+58 hear	ple3 //
+61 die	Lui //
+66 come	p3n //
+72 sun	ch~avan //
+74 star	rau //
+75 water	nam //
+77 stone	ch~in //
+82 fire	fei //
+85 path	kun //
+86 mountain	hw~ou //
+92 night	paich~op //
+95 full	th~ia7 //
+96 new	no //
+100 name	ph~eN //
+BAHA_BUYANG{TK.KADAI|Tai-Kadai,Kra,CentralKra|@Tai-Kadai,Kadaic,SouthwesternKra,SouthernKra}
+ 1   24.40  104.75         600         yha
+1 I	ku //
+2 you	m3 //
+3 we	hotu //
+11 one	cam //
+12 two	8a //
+18 person	ha, 8a //
+19 fish	aupy~a, py~o7oN //
+21 dog	ma //
+22 louse	8u, 8h~u //
+23 tree	 //
+25 leaf	8EN //
+28 skin	8aN //
+30 blood	pE //
+31 bone	qh~o //
+34 horn	 //
+39 ear	8ENka //
+40 eye	mada //
+41 nose	8a8aNph~i //
+43 tooth	yoN, du5aN //
+44 tongue	ma //
+47 knee	 //
+48 hand	maqE //
+51 breast	cu //
+53 liver	tap //
+54 drink	8am //
+57 see	caNqai //
+58 hear	 //
+61 die	waN //
+66 come	no, noN //
+72 sun	 //
+74 star	8oN //
+75 water	oN //
+77 stone	pw~a, pi //
+82 fire	pw~i //
+85 path	kh~oN, maka //
+86 mountain	 //
+92 night	wo //
+95 full	 //
+96 new	man //
+100 name	5i, th~aN // kENdu is another word for 'name'
+BUYANG{TK.KADAI|Tai-Kadai,Kra,EasternKra|@Tai-Kadai,Kadaic,EasternKra,Buyang,NorthernBuyang}
+ 1   23.70  106.10         300         yln
+1 I	ku //
+2 you	ma //
+3 we	cumku //
+11 one	am //
+12 two	Sa //
+18 person	maiN, ma7iN //
+19 fish	mala //
+21 dog	qoi //
+22 louse	qatu //
+23 tree	 //
+25 leaf	qadEN //
+28 skin	buN //
+30 blood	qh~a //
+31 bone	qadak //
+34 horn	 //
+39 ear	ta8a //
+40 eye	mata //
+41 nose	qatiN //
+43 tooth	qaSoN //
+44 tongue	malEn //
+47 knee	 //
+48 hand	NEk //
+51 breast	Em //
+53 liver	qatap //
+54 drink	qaZot //
+57 see	qaihan //
+58 hear	Zak //
+61 die	lam //
+66 come	ma //
+72 sun	 //
+74 star	laNloN //
+75 water	oN //
+77 stone	py~a //
+82 fire	pui //
+85 path	py~oNqh~un //
+86 mountain	 //
+92 night	vE //
+95 full	 //
+96 new	man //
+100 name	%miN // loan
+CA_HA_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   22.60  104.70         300         giq
+1 I	i //
+2 you	mu* //
+3 we	qh~adi, Xadi //
+11 one	C3, S3 //
+12 two	se5 //
+18 person	ch~z7 //
+19 fish	l37 //
+21 dog	hm~ //
+22 louse	t37 //
+23 tree	ti7 //
+25 leaf	Ti //
+28 skin	boqu //
+30 blood	plo*7 //
+31 bone	qund~a7 //
+34 horn	qaq3 //
+39 ear	lozi7 //
+40 eye	buti7 //
+41 nose	mb~oNbuma7 //
+43 tooth	pi7 //
+44 tongue	mluN //
+47 knee	qoqo //
+48 hand	mi7 //
+51 breast	pf~3 //
+53 liver	ta7 //
+54 drink	Z3N //
+57 see	qa7 //
+58 hear	 //
+61 die	ple57~ //
+66 come	m //
+72 sun	b3 //
+74 star	nd~und~a7 //
+75 water	m //
+77 stone	loqu //
+82 fire	lohu7 //
+85 path	miSoN //
+86 mountain	jZ~7 //
+92 night	z3doN //
+95 full	m3Ci7 //
+96 new	mi //
+100 name	 //
+CUN{TK.KADAI|Tai-Kadai,Kra,EasternKra|@Tai-Kadai,Hlaic,NuclearHlaic}
+ 1   19.10  108.62       80000         cuq
+1 I	k3 //
+2 you	mo //
+3 we	ha, hanamch~aN //
+11 one	ci //
+12 two	t8~a, NEi //
+18 person	Nau //
+19 fish	Noi //
+21 dog	kh~ak //
+22 louse	kifeu //
+23 tree	nEk //
+25 leaf	bou //
+28 skin	naN //
+30 blood	t8~ot //
+31 bone	vu3k //
+34 horn	hau //
+39 ear	Naulai //
+40 eye	kh~anho //
+41 nose	kh~at //
+43 tooth	sen //
+44 tongue	t8~in //
+47 knee	vauzen //
+48 hand	mou //
+51 breast	cEi //
+53 liver	Non //
+54 drink	ch~ep //
+57 see	iu, iula //
+58 hear	li3N //
+61 die	ch~ot //
+66 come	b3n //
+72 sun	zihon //
+74 star	lau //
+75 water	nam //
+77 stone	sin //
+82 fire	fo //
+85 path	loN //
+86 mountain	Nau //
+92 night	baicoN //
+95 full	th~i3k //
+96 new	bon //
+100 name	ph~EN //
+ECUN_BAHA_BUYANG{TK.KADAI|Tai-Kadai,Kra,CentralKra|@Tai-Kadai,Kadaic,SouthwesternKra,SouthernKra}
+ 1   24.40  104.75         600         yha
+1 I	ku //
+2 you	ma //
+3 we	som8a //
+11 one	pi //
+12 two	8a //
+18 person	ma7iN //
+19 fish	py~a //
+21 dog	 //
+22 louse	atu //
+23 tree	 //
+25 leaf	dy~aN //
+28 skin	buN //
+30 blood	Xa //
+31 bone	zen //
+34 horn	 //
+39 ear	bai8a //
+40 eye	makmata, makta //
+41 nose	atiN //
+43 tooth	a8oN //
+44 tongue	eme //
+47 knee	 //
+48 hand	5iak //
+51 breast	em //
+53 liver	tap //
+54 drink	zot //
+57 see	NulaN //
+58 hear	inza //
+61 die	lam //
+66 come	doN //
+72 sun	 //
+74 star	laloN //
+75 water	oN //
+77 stone	ma8a //
+82 fire	fi //
+85 path	hun //
+86 mountain	 //
+92 night	ve, tonve //
+95 full	 //
+96 new	man //
+100 name	%miNfei // loan from Chinese
+GELAO_LAOZHAI{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   22.92  105.50        1220         giw
+1 I	i //
+2 you	mo //
+3 we	ta //
+11 one	ca //
+12 two	su //
+18 person	lxu //
+19 fish	lau //
+21 dog	m //
+22 louse	ta, dzu //
+23 tree	ti //
+25 leaf	zi //
+28 skin	qo //
+30 blood	plo //
+31 bone	dE //
+34 horn	qou //
+39 ear	zi //
+40 eye	ti //
+41 nose	 //
+43 tooth	pi, sei //
+44 tongue	mlo* //
+47 knee	qo //
+48 hand	mi //
+51 breast	 //
+53 liver	tE //
+54 drink	zo //
+57 see	qE //
+58 hear	 //
+61 die	plen //
+66 come	mu //
+72 sun	owo //
+74 star	 //
+75 water	m //
+77 stone	lou // rock
+82 fire	 //
+85 path	 //
+86 mountain	dzu //
+92 night	 //
+95 full	tTi //
+96 new	mi //
+100 name	ncai //
+GELAO_QIAOSHANG{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,NorthernGelao,Ahouic}
+ 1   23.20  105.00          20         gir
+1 I	i //
+2 you	 //
+3 we	ta //
+11 one	 //
+12 two	su //
+18 person	oe //
+19 fish	lau //
+21 dog	Nqwau //
+22 louse	ta, ce //
+23 tree	ti //
+25 leaf	zen //
+28 skin	xo //
+30 blood	ple // etn-language ID unclear, either giq, gir or gio (I used gir because source says it's northern Gelao)
+31 bone	to //
+34 horn	xou //
+39 ear	ze //
+40 eye	ze //
+41 nose	ndzo //
+43 tooth	py //
+44 tongue	 //
+47 knee	qo //
+48 hand	mbe //
+51 breast	 //
+53 liver	tE //
+54 drink	sen //
+57 see	 //
+58 hear	 //
+61 die	vlen //
+66 come	mu //
+72 sun	le //
+74 star	zoN //
+75 water	au //
+77 stone	3u //
+82 fire	pa //
+85 path	xen //
+86 mountain	zou //
+92 night	 //
+95 full	tai //
+96 new	mbai //
+100 name	ncai //
+GELAO_WANZI{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   22.60  104.70         300         giq
+1 I	i //
+2 you	mu //
+3 we	ta //
+11 one	 //
+12 two	su //
+18 person	klau //
+19 fish	lau //
+21 dog	mpau //
+22 louse	ta, ch~en //
+23 tree	tai //
+25 leaf	 //
+28 skin	qo //
+30 blood	plo // etn-language ID unclear, either giq, gir, giw or gio (I used giq, because source says it's central gelao)
+31 bone	taN //
+34 horn	qa //
+39 ear	zau //
+40 eye	tau //
+41 nose	ntTe //
+43 tooth	pan //
+44 tongue	 //
+47 knee	qou //
+48 hand	mpau //
+51 breast	 //
+53 liver	tE //
+54 drink	han //
+57 see	qo //
+58 hear	caN //
+61 die	pen //
+66 come	mu //
+72 sun	klei //
+74 star	 //
+75 water	3u //
+77 stone	klau // rock
+82 fire	pai //
+85 path	qen //
+86 mountain	ch~a //
+92 night	 //
+95 full	tei //
+96 new	mu //
+100 name	ncai //
+GREEN_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   22.50  104.70         300         giq
+1 I	 //
+2 you	mu //
+3 we	suta //
+11 one	si //
+12 two	su //
+18 person	ci //
+19 fish	olau //
+21 dog	mp~au //
+22 louse	ta //
+23 tree	 //
+25 leaf	 //
+28 skin	qo //
+30 blood	plo //
+31 bone	taN //
+34 horn	 //
+39 ear	zau //
+40 eye	l3utau //
+41 nose	5ce //
+43 tooth	pan //
+44 tongue	pite //
+47 knee	 //
+48 hand	mp~au //
+51 breast	cici //
+53 liver	pucin //
+54 drink	han //
+57 see	qocu //
+58 hear	caN //
+61 die	pen //
+66 come	mu //
+72 sun	 //
+74 star	leicu //
+75 water	 //
+77 stone	 //
+82 fire	pai //
+85 path	qen //
+86 mountain	 //
+92 night	mensi //
+95 full	 //
+96 new	mu //
+100 name	ncai //
+HONGFENG_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,NorthernGelao,Ahouic}
+ 1   27.16  105.80          50   gla   aou
+1 I	azi //
+2 you	am, amu //
+3 we	ahie //
+11 one	si //
+12 two	s3u //
+18 person	ax3u //
+19 fish	maly~3u //
+21 dog	a7uN, aN //
+22 louse	maty~i //
+23 tree	si //
+25 leaf	laisi //
+28 skin	%aph~ifu // loanword from Chinese
+30 blood	mpai //
+31 bone	ala //
+34 horn	 //
+39 ear	paz3u //
+40 eye	pas3u //
+41 nose	pa7aNua //
+43 tooth	mahuaN //
+44 tongue	mami //
+47 knee	 //
+48 hand	popo //
+51 breast	paci //
+53 liver	paLy~au //
+54 drink	xuN //
+57 see	%x3n // loanword from Chinese
+58 hear	5i //
+61 die	NkuN //
+66 come	luN //
+72 sun	maxua //
+74 star	leilau //
+75 water	N //
+77 stone	a7luixo //
+82 fire	%hy~e // Chinese or Tibeto-Burman loanword
+85 path	h3n //
+86 mountain	 //
+92 night	veiNty~uN //
+95 full	 //
+96 new	wa //
+100 name	leinei //
+JINCHANG_WHITE_LACHI{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Lachic}
+ 1   22.75  104.67        1600         lwh
+1 I	ki //
+2 you	m //
+3 we	taNth~ai //
+11 one	tcaN //
+12 two	su //
+18 person	afu //
+19 fish	oli //
+21 dog	ly~oum //
+22 louse	nty~e //
+23 tree	 //
+25 leaf	lei //
+28 skin	atu //
+30 blood	py~o //
+31 bone	aNty~ua //
+34 horn	 //
+39 ear	lipulu //
+40 eye	laty~ou //
+41 nose	mi5aN //
+43 tooth	si //
+44 tongue	5o //
+47 knee	 //
+48 hand	tcunNm //
+51 breast	 //
+53 liver	ty~a //
+54 drink	ko //
+57 see	ly~e //
+58 hear	zua //
+61 die	ph~in //
+66 come	ko //
+72 sun	lavuaN //
+74 star	alie //
+75 water	 //
+77 stone	lam //
+82 fire	py~e //
+85 path	kh~in //
+86 mountain	 //
+92 night	puvua //
+95 full	 //
+96 new	mu //
+100 name	a5e, a5esei //
+JINXIU_LAKKIA{TK.KADAI|Tai-Kadai,Kam-Tai,Lakkja|@Tai-Kadai,Kam-Tai,Lakkia-Biao}
+ 1   24.08  110.17        9000   lkk   lbc
+1 I	ci //
+2 you	ma //
+3 we	tau //
+11 one	in //
+12 two	hou //
+18 person	Ny~un //
+19 fish	ph~la //
+21 dog	khw$o* //
+22 louse	 //
+23 tree	 //
+25 leaf	wa //
+28 skin	%pei // Chinese loanword
+30 blood	liet //
+31 bone	kw~ot //
+34 horn	 //
+39 ear	kanya //
+40 eye	pla //
+41 nose	naN //
+43 tooth	wan //
+44 tongue	Nw~a //
+47 knee	 //
+48 hand	mie //
+51 breast	nEn //
+53 liver	tap //
+54 drink	%hop // Chinese loanword
+57 see	lom, lEm //
+58 hear	%th~EN // loan from Chinese
+61 die	plei //
+66 come	tEN //
+72 sun	 //
+74 star	taublet //
+75 water	num //
+77 stone	faN //
+82 fire	pui //
+85 path	caN //
+86 mountain	 //
+92 night	blau //
+95 full	 //
+96 new	wa*i //
+100 name	yan //
+JUDU_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   23.02  105.07        1220   gla   giw
+1 I	 //
+2 you	muN //
+3 we	tito //
+11 one	ci //
+12 two	s3u //
+18 person	q3ch~u //
+19 fish	vuly~u //
+21 dog	mu //
+22 louse	vucuN //
+23 tree	tin //
+25 leaf	ci //
+28 skin	 //
+30 blood	pla //
+31 bone	q3dy~e //
+34 horn	 //
+39 ear	pavei //
+40 eye	vutei //
+41 nose	teNe //
+43 tooth	ploN //
+44 tongue	d3umou //
+47 knee	 //
+48 hand	pEmy~i //
+51 breast	c3u //
+53 liver	ty~e //
+54 drink	zan //
+57 see	q3man //
+58 hear	5uhuN //
+61 die	plan //
+66 come	ta, do //
+72 sun	la7lu //
+74 star	duNdai //
+75 water	N //
+77 stone	vuN //
+82 fire	pi //
+85 path	qe7lan //
+86 mountain	 //
+92 night	5uwi //
+95 full	 //
+96 new	mi //
+100 name	qenun //
+LACHI{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Lachic}
+ 1   22.67  104.83        5200   lch   lbt
+1 I	ki //
+2 you	m //
+3 we	te //
+11 one	Ca* //
+12 two	su //
+18 person	 //
+19 fish	lh~i //
+21 dog	m //
+22 louse	ty~e, thy$a* //
+23 tree	ty~e //
+25 leaf	 //
+28 skin	tu //
+30 blood	py~o //
+31 bone	thy$o //
+34 horn	kw~E //
+39 ear	lh~u //
+40 eye	ty~u //
+41 nose	5a //
+43 tooth	sei //
+44 tongue	nhy$o //
+47 knee	kw~E //
+48 hand	m //
+51 breast	 //
+53 liver	ty~a //
+54 drink	 //
+57 see	 //
+58 hear	yo //
+61 die	ph~i* //
+66 come	th~i //
+72 sun	vh~o* //
+74 star	lei //
+75 water	i //
+77 stone	ly~u, m //
+82 fire	py~e //
+85 path	kh~i* //
+86 mountain	Ch~i //
+92 night	 //
+95 full	th~i //
+96 new	mu //
+100 name	ny~e //
+LAHA{TK.KADAI|Tai-Kadai,Kra,EasternKra|@Tai-Kadai,Kadaic,SouthwesternKra,SouthernKra}
+ 1   21.58  103.92        5690   lha   lha
+1 I	 //
+2 you	ma //
+3 we	 //
+11 one	Tam //
+12 two	sa //
+18 person	 //
+19 fish	bla //
+21 dog	ma //
+22 louse	tou, mdal //
+23 tree	t3i //
+25 leaf	 //
+28 skin	ta //
+30 blood	plat //
+31 bone	dak //
+34 horn	kou //
+39 ear	kh~la //
+40 eye	ta //
+41 nose	Nat //
+43 tooth	TuN //
+44 tongue	ma //
+47 knee	 //
+48 hand	ma //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	kai, t3i //
+58 hear	yak //
+61 die	ph~3n //
+66 come	ma, doN //
+72 sun	van //
+74 star	kluN //
+75 water	uN //
+77 stone	 //
+82 fire	p3i //
+85 path	hon //
+86 mountain	 //
+92 night	 //
+95 full	tik //
+96 new	mal //
+100 name	 //
+LAKKJA{TK.KADAI|Tai-Kadai,Kam-Tai,Lakkja|@Tai-Kadai,Kam-Tai,Lakkia-Biao}
+ 1   24.08  110.10        9000   lkk   lbc
+1 I	ci //
+2 you	ma //
+3 we	ta //
+11 one	in //
+12 two	hou //
+18 person	%ny~un // loan from Chinese
+19 fish	mot //
+21 dog	khw$o* //
+22 louse	Nw~an //
+23 tree	cei //
+25 leaf	wa //
+28 skin	%pei // loan from Chinese
+30 blood	liet //
+31 bone	kw~ot //
+34 horn	kou //
+39 ear	kanya //
+40 eye	pui //
+41 nose	naN //
+43 tooth	wan //
+44 tongue	5w~a //
+47 knee	 //
+48 hand	mie //
+51 breast	 //
+53 liver	tap //
+54 drink	%hop // loan from Chinese
+57 see	lom //
+58 hear	%th~EN // loan from Chinese
+61 die	plei //
+66 come	taN //
+72 sun	tauwan //
+74 star	taublet //
+75 water	num //
+77 stone	faN //
+82 fire	ph~la //
+85 path	caN //
+86 mountain	ky~a //
+92 night	bonblau //
+95 full	mot //
+96 new	wa*i //
+100 name	yan //
+LANGJIA_BUYANG{TK.KADAI|Tai-Kadai,Kra,CentralKra|@Tai-Kadai,Kadaic,SouthwesternKra,SouthernKra}
+ 1   23.55  106.02         600         yha
+1 I	ku //
+2 you	ma //
+3 we	Cumku //
+11 one	am //
+12 two	Sa //
+18 person	maiN, ma7iN //
+19 fish	u3mala //
+21 dog	liqoi //
+22 louse	matan, qatu //
+23 tree	qatui //
+25 leaf	qadEN //
+28 skin	qabuN //
+30 blood	qh~a //
+31 bone	qadak //
+34 horn	maqu //
+39 ear	ta8a //
+40 eye	mata //
+41 nose	qatiN //
+43 tooth	qaSoN //
+44 tongue	malEn //
+47 knee	qa8uqh~u //
+48 hand	NEk //
+51 breast	Em //
+53 liver	qatap //
+54 drink	qaZot //
+57 see	qaihan //
+58 hear	Zak //
+61 die	lam //
+66 come	ma //
+72 sun	tavan //
+74 star	laNloN //
+75 water	oN //
+77 stone	lu3py~a //
+82 fire	pui //
+85 path	kh~un, kh~un7EN //
+86 mountain	po //
+92 night	naNvE //
+95 full	tEk //
+96 new	man //
+100 name	%miN // from Chinese
+MULAO_KADAI{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,NorthernGelao}
+ 1   26.68  107.80          10         mu0
+1 I	z3 //
+2 you	mo //
+3 we	zau //
+11 one	Le, ci //
+12 two	Lu //
+18 person	xo //
+19 fish	lo //
+21 dog	naN //
+22 louse	xitai //
+23 tree	 //
+25 leaf	lelu //
+28 skin	pauxu //
+30 blood	pa //
+31 bone	kuza //
+34 horn	 //
+39 ear	lexo //
+40 eye	lizo //
+41 nose	mi5e //
+43 tooth	lisuN //
+44 tongue	p3f3 //
+47 knee	 //
+48 hand	le5o //
+51 breast	nu //
+53 liver	 //
+54 drink	xa //
+57 see	kh~e //
+58 hear	xa //
+61 die	ci //
+66 come	mo //
+72 sun	k3z3 //
+74 star	coz3 //
+75 water	uN //
+77 stone	qoy //
+82 fire	va //
+85 path	xe //
+86 mountain	 //
+92 night	laila //
+95 full	 //
+96 new	zau //
+100 name	 //
+NA_KHE_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,NorthernGelao,Ahouic}
+ 1   23.20  105.00          20         gir
+1 I	i //
+2 you	m3n //
+3 we	toty~a //
+11 one	nj~ei //
+12 two	s3i //
+18 person	v3i7, ov3i7 //
+19 fish	molei //
+21 dog	haN //
+22 louse	moto //
+23 tree	jeima //
+25 leaf	di7au //
+28 skin	laqau //
+30 blood	pa*i* //
+31 bone	madua //
+34 horn	Cu //
+39 ear	k3l3, q3l3 //
+40 eye	latei //
+41 nose	qaLua //
+43 tooth	kipoN //
+44 tongue	domlaN, lomlaN //
+47 knee	dokh~o //
+48 hand	mam3n //
+51 breast	liCu7 //
+53 liver	tuatua7 //
+54 drink	qaN, XaN //
+57 see	kua //
+58 hear	 //
+61 die	gua //
+66 come	 //
+72 sun	madua, malua //
+74 star	mand~u //
+75 water	aN7~ //
+77 stone	lax3 //
+82 fire	ho //
+85 path	 //
+86 mountain	monj~o //
+92 night	Cind~aN //
+95 full	ti //
+96 new	mo, mamo //
+100 name	 //
+NIUPO_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   23.02  105.07        1220   gla   giw
+1 I	 //
+2 you	mu, oumu //
+3 we	tito //
+11 one	ci //
+12 two	su //
+18 person	qoch~u, to //
+19 fish	moliu //
+21 dog	mu //
+22 louse	tuN //
+23 tree	 //
+25 leaf	cici //
+28 skin	muqu //
+30 blood	plo //
+31 bone	qoqeide //
+34 horn	 //
+39 ear	povei //
+40 eye	mutu //
+41 nose	tengE //
+43 tooth	ploN //
+44 tongue	dumou //
+47 knee	 //
+48 hand	pomi //
+51 breast	popo //
+53 liver	tie //
+54 drink	zon //
+57 see	q3lu, qoqo //
+58 hear	5uN //
+61 die	plon //
+66 come	do //
+72 sun	luvu //
+74 star	duNdE //
+75 water	eN //
+77 stone	eN, puNeN //
+82 fire	pie //
+85 path	q37lon //
+86 mountain	 //
+92 night	vei //
+95 full	 //
+96 new	 //
+100 name	ne //
+PAHA{TK.KADAI|Tai-Kadai,Kra,CentralKra|@Tai-Kadai,Kadaic,SouthwesternKra,SouthernKra}
+ 1   24.40  104.75         600         yha
+1 I	ku //
+2 you	m3 //
+3 we	dh~u //
+11 one	 //
+12 two	8a //
+18 person	 //
+19 fish	py~a //
+21 dog	ma //
+22 louse	8h~u, nan //
+23 tree	ti //
+25 leaf	8EN //
+28 skin	 //
+30 blood	pE //
+31 bone	 //
+34 horn	xu //
+39 ear	ka //
+40 eye	da //
+41 nose	Nh~at //
+43 tooth	yoN //
+44 tongue	ma //
+47 knee	Xo //
+48 hand	 //
+51 breast	tak //
+53 liver	tap //
+54 drink	8am //
+57 see	qai //
+58 hear	yh~ak //
+61 die	puan //
+66 come	noN //
+72 sun	vh~an //
+74 star	8oN //
+75 water	oN //
+77 stone	px~a //
+82 fire	pui //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	dEk //
+96 new	man //
+100 name	 //
+PHO_BANG_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,SouthwesternGelao}
+ 1   23.25  105.19        1220   gla   giw
+1 I	i //
+2 you	mu, mo //
+3 we	qond~i //
+11 one	%yi // from Chinese
+12 two	%l3 // from Chinese
+18 person	ch~i, qoch~i //
+19 fish	l3 //
+21 dog	hm~ //
+22 louse	mit3 //
+23 tree	ti //
+25 leaf	Ti //
+28 skin	boqu //
+30 blood	plo7 //
+31 bone	quda7 //
+34 horn	qaq3 //
+39 ear	lozi7 //
+40 eye	boti //
+41 nose	boma7 //
+43 tooth	pi7 //
+44 tongue	ml3 //
+47 knee	qoqo7 //
+48 hand	mi //
+51 breast	pf~3 //
+53 liver	ta7 //
+54 drink	Zo* //
+57 see	qa //
+58 hear	 //
+61 die	ple* //
+66 come	 //
+72 sun	b3 //
+74 star	duda, nd~uda //
+75 water	m //
+77 stone	loqu //
+82 fire	lohu //
+85 path	miSo* //
+86 mountain	j3 //
+92 night	tiTi, z3do*N //
+95 full	m3ky~i7 //
+96 new	mi //
+100 name	 //
+PUBIAO{TK.KADAI|Tai-Kadai,Kra,EasternKra|@Tai-Kadai,Kadaic,EasternKra}
+ 1   23.00  104.92         708         laq
+1 I	kau //
+2 you	mh~i //
+3 we	th~u //
+11 one	Cy~a //
+12 two	Se //
+18 person	 //
+19 fish	phy$o //
+21 dog	ma //
+22 louse	nan //
+23 tree	tai //
+25 leaf	 //
+28 skin	boN //
+30 blood	qa //
+31 bone	dak //
+34 horn	qau //
+39 ear	rh~a //
+40 eye	te //
+41 nose	taN //
+43 tooth	8uaN //
+44 tongue	mhy$e //
+47 knee	qau //
+48 hand	mi //
+51 breast	tak //
+53 liver	ty~ap //
+54 drink	hom //
+57 see	tai //
+58 hear	Cak //
+61 die	 //
+66 come	me //
+72 sun	wh~3n //
+74 star	lh~uN //
+75 water	oN //
+77 stone	phy$o //
+82 fire	pei //
+85 path	qxw$on //
+86 mountain	 //
+92 night	 //
+95 full	tek //
+96 new	 //
+100 name	nh~i //
+TA_MIT_LAHA{TK.KADAI|Tai-Kadai,Kra,EasternKra|@Tai-Kadai,Kadaic,SouthwesternKra,SouthernKra}
+ 1   21.58  103.92        5690   lha   lha
+1 I	in //
+2 you	mo //
+3 we	mo //
+11 one	ty~om //
+12 two	so //
+18 person	 //
+19 fish	m3lo //
+21 dog	bo //
+22 louse	moNku //
+23 tree	 //
+25 leaf	th~uN //
+28 skin	 //
+30 blood	pot //
+31 bone	th~ok //
+34 horn	 //
+39 ear	koho //
+40 eye	mokto //
+41 nose	5Et //
+43 tooth	suN //
+44 tongue	kolin //
+47 knee	 //
+48 hand	onk3mo //
+51 breast	l3uk //
+53 liver	top //
+54 drink	 //
+57 see	dom //
+58 hear	5ui //
+61 die	fun //
+66 come	 //
+72 sun	 //
+74 star	maluN //
+75 water	uN //
+77 stone	dun //
+82 fire	pui //
+85 path	 //
+86 mountain	 //
+92 night	kh~oluN //
+95 full	 //
+96 new	mon //
+100 name	ty~u //
+WHITE_LACHI{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Lachic}
+ 1   22.75  104.67        1600         lwh
+1 I	khw$i, kh~u //
+2 you	bE //
+3 we	te //
+11 one	cam //
+12 two	fu //
+18 person	qu //
+19 fish	aly~i //
+21 dog	ny~im //
+22 louse	te //
+23 tree	 //
+25 leaf	li, lith~uN //
+28 skin	qatu //
+30 blood	py~u //
+31 bone	qaNth~o //
+34 horn	 //
+39 ear	lu //
+40 eye	namty~u //
+41 nose	5a //
+43 tooth	fi //
+44 tongue	mly~o //
+47 knee	 //
+48 hand	m //
+51 breast	co //
+53 liver	ta //
+54 drink	ko // means 'eat/drink'
+57 see	taqa //
+58 hear	yoco //
+61 die	peN //
+66 come	qu //
+72 sun	 //
+74 star	mthy$ily~i //
+75 water	 //
+77 stone	lawu //
+82 fire	pe //
+85 path	kh~iN //
+86 mountain	 //
+92 night	ny~iwo //
+95 full	 //
+96 new	lam // unsure about transcription, could also be la7m
+100 name	qany~i //
+YERONG{TK.KADAI|Tai-Kadai,Kra,EasternKra|@Tai-Kadai,Kadaic,EasternKra,Buyang}
+ 1   23.60  108.30         380         yrn
+1 I	kia3 //
+2 you	mo //
+3 we	phontai //
+11 one	am //
+12 two	8au //
+18 person	wakon //
+19 fish	latlau //
+21 dog	ui //
+22 louse	katai //
+23 tree	tai //
+25 leaf	diatai //
+28 skin	boN //
+30 blood	qo //
+31 bone	ka7dE //
+34 horn	kai //
+39 ear	hrau //
+40 eye	tau //
+41 nose	kheteN //
+43 tooth	cu3 //
+44 tongue	kame //
+47 knee	thuka3 //
+48 hand	kani3 //
+51 breast	Tu //
+53 liver	tap //
+54 drink	ham //
+57 see	laNthan //
+58 hear	anjak //
+61 die	lem //
+66 come	du3 //
+72 sun	taunan //
+74 star	kalu3bon //
+75 water	u3 //
+77 stone	hrau //
+82 fire	pai //
+85 path	qhon // road
+86 mountain	po //
+92 night	kawa //
+95 full	ti3 //
+96 new	mat //
+100 name	miN //
+ZHENFENG_GELAO{TK.KADAI|Tai-Kadai,Kra,WesternKra|@Tai-Kadai,Kadaic,SouthwesternKra,WesternKra,Gelaoic,NorthernGelao,Ahouic}
+ 1   27.16  105.80          50   gla   aou
+1 I	 // ISO-code uncertain--inferred through ASJP classification to be the same as HONGFENG; the latter is a sister, but not a close one
+2 you	mu //
+3 we	tau //
+11 one	si //
+12 two	sa //
+18 person	huN //
+19 fish	mopy~o //
+21 dog	huN //
+22 louse	mocetau //
+23 tree	 //
+25 leaf	titai //
+28 skin	puka //
+30 blood	py~a //
+31 bone	taNtaN //
+34 horn	 //
+39 ear	co //
+40 eye	tato //
+41 nose	luN5e //
+43 tooth	mope //
+44 tongue	pimo //
+47 knee	 //
+48 hand	p3umei //
+51 breast	c3u //
+53 liver	tapu //
+54 drink	haN //
+57 see	kope //
+58 hear	caN //
+61 die	puN //
+66 come	mu //
+72 sun	 //
+74 star	ca //
+75 water	 //
+77 stone	pa, paN //
+82 fire	pai //
+85 path	kaukuN //
+86 mountain	 //
+92 night	fuly~aN //
+95 full	 //
+96 new	 //
+100 name	fuch~ai, fumuch~ai //
+AHOM{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP}
+ 1   26.98   94.63          -1         aho
+1 I	kau //
+2 you	 //
+3 we	raw //
+11 one	 //
+12 two	swaN //
+18 person	 //
+19 fish	pla //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	bau //
+28 skin	 //
+30 blood	lit //
+31 bone	duk //
+34 horn	kh~aw //
+39 ear	 //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~rew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mi //
+51 breast	uk //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	5in //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	rin, in //
+82 fire	ph~ay //
+85 path	taN //
+86 mountain	ph~u, dway //
+92 night	kh~in, kin //
+95 full	tim //
+96 new	 //
+100 name	 //
+BLACK_THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,BlackTai}
+ 1   21.67  103.08      762700         blt
+1 I	ku //
+2 you	muN //
+3 we	haw //
+11 one	 //
+12 two	%5i, %soN // loan from Chinese, loan from Chinese
+18 person	 //
+19 fish	pa //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	b3u //
+28 skin	naN //
+30 blood	lu3t //
+31 bone	du7 //
+34 horn	kh~aw //
+39 ear	 //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~Ew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	ok //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	Nin //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	hin, in //
+82 fire	fay //
+85 path	taN //
+86 mountain	pu //
+92 night	 //
+95 full	kem //
+96 new	 //
+100 name	 //
+BLACK_TAI_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,BlackTai}
+ 1   21.67  103.08      762700         blt
+1 I	ku //
+2 you	muN //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%soN, %5i // loan from Chinese
+18 person	kon, fu //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, men // 1.'headlouse' 2. 'body louse'
+23 tree	ko, ton // 2. 'tree; beginning'
+25 leaf	bau //
+28 skin	naN //
+30 blood	luat //
+31 bone	du7 //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~Ew //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	hen //
+58 hear	niN //
+61 die	tay //
+66 come	ma //
+72 sun	dEt, lEt // 'sunshine'
+74 star	daw, law //
+75 water	nam //
+77 stone	hin, fa // 2. 'cliff, rock'
+82 fire	fay //
+85 path	taN //
+86 mountain	pu //
+92 night	kam, kun // evening
+95 full	tem //
+96 new	mau //
+100 name	cu //
+CHADONG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Maonan-Chadong}
+ 1   25.30  110.00       20000         cdy
+1 I	ye //
+2 you	5i //
+3 we	ly~e //
+11 one	%yit, %yi // loan from Mandarin Chinese
+12 two	hy~a, %5i // loan from Chinese
+18 person	%l3n // loan from Mandarin Chinese
+19 fish	m3m //
+21 dog	 //
+22 louse	nan //
+23 tree	 //
+25 leaf	fa //
+28 skin	%pi // loan from Mandarin Chinese
+30 blood	phy$at //
+31 bone	kut //
+34 horn	 //
+39 ear	pekhy$a //
+40 eye	la //
+41 nose	naN //
+43 tooth	py~an //
+44 tongue	ma //
+47 knee	 //
+48 hand	 //
+51 breast	pu //
+53 liver	tap //
+54 drink	c3 //
+57 see	 //
+58 hear	nicy~ek //
+61 die	tai //
+66 come	taN //
+72 sun	 //
+74 star	z3n8ai //
+75 water	 //
+77 stone	ti //
+82 fire	wi //
+85 path	kh~un //
+86 mountain	 //
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	lan //
+CHADONG_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Maonan-Chadong}
+ 1   25.30  110.00       20000         cdy
+1 I	ye //
+2 you	5i //
+3 we	ly~e //
+11 one	%yit, %yi // loan from Mandarin Chinese
+12 two	hy~E, %5i // loan from Chinese
+18 person	%l3n // loan from Mandarin Chinese
+19 fish	m3m //
+21 dog	 //
+22 louse	nEn //
+23 tree	 //
+25 leaf	fE //
+28 skin	%pi // loan from Mandarin Chinese
+30 blood	phy$Et //
+31 bone	kut //
+34 horn	 //
+39 ear	pe khy$E //
+40 eye	lE //
+41 nose	nEN //
+43 tooth	py~En //
+44 tongue	mE //
+47 knee	 //
+48 hand	 //
+51 breast	pu //
+53 liver	tEp //
+54 drink	c3 //
+57 see	 //
+58 hear	ni cy~ek //
+61 die	tEi //
+66 come	tEN //
+72 sun	 //
+74 star	z3n 8Ei //
+75 water	 //
+77 stone	ti //
+82 fire	wi //
+85 path	kh~un //
+86 mountain	 //
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	lEn //
+DEHONG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   23.50  100.50      717400         tdd
+1 I	kau //
+2 you	ma3 //
+3 we	hau //
+11 one	%et, leu // loan from Chinese
+12 two	%soN // probably loan from Middle Chinese (LWT)
+18 person	kon, pu //
+19 fish	pa //
+21 dog	ma, sulaxa //
+22 louse	hau, min //
+23 tree	mai //
+25 leaf	f3, ma3 //
+28 skin	laN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	xau //
+39 ear	hu //
+40 eye	ta //
+41 nose	laN //
+43 tooth	seu, xeu //
+44 tongue	lin //
+47 knee	kau, xau //
+48 hand	m3 //
+51 breast	u, lEm //
+53 liver	tap //
+54 drink	ut, 3k //
+57 see	han //
+58 hear	Nin, yin //
+61 die	lon, tai //
+66 come	ma //
+72 sun	lEt //
+74 star	lau //
+75 water	lam //
+77 stone	hin //
+82 fire	fai //
+85 path	taN, xon //
+86 mountain	loi //
+92 night	xam, x3n //
+95 full	im, tem //
+96 new	ma3 //
+100 name	c3 //
+DEHONG_TAI_NUEA{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   23.50  100.50      717400         tdd
+1 I	kau //
+2 you	mau //
+3 we	tu //
+11 one	l3N, %et // loan from Chinese
+12 two	%soN // loan from Chinese
+18 person	kon //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	tonmai //
+25 leaf	maumai //
+28 skin	laN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	xau //
+39 ear	hu, minhu //
+40 eye	ta //
+41 nose	laN //
+43 tooth	xeu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	u, lEn //
+53 liver	tap //
+54 drink	lut, kin //
+57 see	yem, toi //
+58 hear	th~om //
+61 die	tai //
+66 come	ma //
+72 sun	van //
+74 star	lau //
+75 water	lam //
+77 stone	makhin //
+82 fire	fai //
+85 path	xon, taN //
+86 mountain	loi //
+92 night	kaNxun //
+95 full	tem //
+96 new	mau //
+100 name	cu //
+DIOI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai,Nyo-Yo}
+ 1   17.58  103.75        6000         yoy
+1 I	ku //
+2 you	muN //
+3 we	ra, raw //
+11 one	%it // loan from Chinese
+12 two	%5i // loan from Chinese
+18 person	soN //
+19 fish	pya //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lu3t //
+31 bone	do7 //
+34 horn	kaw //
+39 ear	 //
+40 eye	ta //
+41 nose	daN //
+43 tooth	hew //
+44 tongue	len //
+47 knee	 //
+48 hand	fuN //
+51 breast	ak, ok //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	ram //
+77 stone	rin, in //
+82 fire	fi //
+85 path	 //
+86 mountain	po, doy //
+92 night	hen //
+95 full	rim //
+96 new	 //
+100 name	 //
+DONGMEN_MULAM{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam}
+ 1   25.00  108.00       86000   mul   mlm
+1 I	h3i //
+2 you	5a //
+3 we	hxau //
+11 one	%y3t // Chinese loanword
+12 two	xa //
+18 person	%c3n // Chinese loanword
+19 fish	m3m //
+21 dog	Nw~a //
+22 louse	kh~xo //
+23 tree	 //
+25 leaf	fa //
+28 skin	Nxa //
+30 blood	ph~xat //
+31 bone	hxak //
+34 horn	 //
+39 ear	kh~xa //
+40 eye	ba, mxa // dialectal variants (la is another alternative)
+41 nose	k3naN //
+43 tooth	fan //
+44 tongue	ma //
+47 knee	 //
+48 hand	ny~a //
+51 breast	ne //
+53 liver	tap //
+54 drink	%hxop // loan from Chinese
+57 see	kau //
+58 hear	%th~eN // Chinese loanword
+61 die	tai //
+66 come	taN //
+72 sun	th~3ufan, t3t //
+74 star	lakm3t //
+75 water	n3m //
+77 stone	tui //
+82 fire	fi //
+85 path	khw$3n //
+86 mountain	 //
+92 night	mu //
+95 full	 //
+96 new	 //
+100 name	xan //
+DONGYING_LINGAO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Lakkja|@Tai-Kadai,Kam-Tai,Be-Tai}
+ 1   19.91  109.68      600000         onb
+1 I	hau //
+2 you	m3 //
+3 we	haulo //
+11 one	%it, he // Chinese
+12 two	Ni, N3i //
+18 person	leNhun //
+19 fish	ba //
+21 dog	ma //
+22 louse	 //
+23 tree	dun //
+25 leaf	bodun //
+28 skin	naN //
+30 blood	ba7 //
+31 bone	ua7 //
+34 horn	vau //
+39 ear	sa //
+40 eye	da //
+41 nose	loN //
+43 tooth	tin //
+44 tongue	lin //
+47 knee	haukau //
+48 hand	mo //
+51 breast	no7 //
+53 liver	dop //
+54 drink	lum, kon //
+57 see	liu //
+58 hear	hiN //
+61 die	dai //
+66 come	mia //
+72 sun	dav3n //
+74 star	l3ksai, lektiN //
+75 water	nam //
+77 stone	din //
+82 fire	v3i //
+85 path	sun //
+86 mountain	saN //
+92 night	dakom, x3n //
+95 full	dik //
+96 new	nau //
+100 name	noi //
+FANGCUN_MAK{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Mak-Ai-Cham}
+ 1   25.53  107.78        5000         mkg
+1 I	e //
+2 you	7N //
+3 we	di, da //
+11 one	7d~eu //
+12 two	Za //
+18 person	aiTin, aidy~in //
+19 fish	t3mum //
+21 dog	t3ma //
+22 louse	t3t3u //
+23 tree	mai //
+25 leaf	va //
+28 skin	Ta, dy~a //
+30 blood	phy$at //
+31 bone	7d~ok //
+34 horn	kau //
+39 ear	Th~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	y3u //
+44 tongue	ma //
+47 knee	Taukau, kakau //
+48 hand	mi //
+51 breast	se //
+53 liver	tap //
+54 drink	Zum //
+57 see	kau, 7d~om //
+58 hear	hai, Th~iNTh~a //
+61 die	tai //
+66 come	taN, ma //
+72 sun	davan //
+74 star	7d~au7d~3i //
+75 water	nam //
+77 stone	tui, py~a //
+82 fire	v3i //
+85 path	kh~un //
+86 mountain	 //
+92 night	t35am //
+95 full	tik //
+96 new	mai //
+100 name	7d~an, %siNmiN // loan from Mandarin "xingming"
+FUSUI_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	ku //
+2 you	muN //
+3 we	hoNlau //
+11 one	it //
+12 two	yui //
+18 person	hun //
+19 fish	pa //
+21 dog	ma //
+22 louse	th~au //
+23 tree	mai //
+25 leaf	mui //
+28 skin	naN //
+30 blood	lut //
+31 bone	mok //
+34 horn	 //
+39 ear	lu //
+40 eye	th~a //
+41 nose	nuN //
+43 tooth	heu //
+44 tongue	lin //
+47 knee	 //
+48 hand	mui //
+51 breast	ne //
+53 liver	tap //
+54 drink	kin //
+57 see	th~in //
+58 hear	th~iN //
+61 die	th~ai //
+66 come	ma //
+72 sun	 //
+74 star	naunui //
+75 water	nam //
+77 stone	th~in //
+82 fire	fui //
+85 path	lo //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	mo //
+100 name	 //
+GUIGANG_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	kou //
+2 you	muN //
+3 we	rau //
+11 one	yit, deu //
+12 two	8oN, Nei //
+18 person	wun //
+19 fish	pra //
+21 dog	ma //
+22 louse	rau //
+23 tree	fai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lut //
+31 bone	dok //
+34 horn	 //
+39 ear	ru //
+40 eye	lakta //
+41 nose	naN //
+43 tooth	yeu //
+44 tongue	lin //
+47 knee	 //
+48 hand	fuN //
+51 breast	ne, ci //
+53 liver	tap //
+54 drink	kun //
+57 see	ran //
+58 hear	tiN //
+61 die	tai //
+66 come	tau //
+72 sun	 //
+74 star	dudei //
+75 water	ram //
+77 stone	rin //
+82 fire	fei //
+85 path	lo //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	mo //
+100 name	 //
+HAWYIENGZ_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   23.73  108.23     1080000         zch
+1 I	kou //
+2 you	muN //
+3 we	tou //
+11 one	%it, niN // loan from Chinese
+12 two	%8oN // loan from Chinese
+18 person	vun //
+19 fish	py~a //
+21 dog	ma //
+22 louse	 //
+23 tree	fai, kofai //
+25 leaf	7b~au //
+28 skin	naN //
+30 blood	lut //
+31 bone	kot, 7d~ok //
+34 horn	kok //
+39 ear	xu //
+40 eye	ta, lukta //
+41 nose	7d~aN //
+43 tooth	heu //
+44 tongue	lin //
+47 knee	ky~auho //
+48 hand	fafuN, fuN //
+51 breast	Si //
+53 liver	tap //
+54 drink	kun, 7d~ot //
+57 see	xan, yau //
+58 hear	tiN, 7d~ai5i //
+61 die	tai //
+66 come	ma, tau //
+72 sun	taNon, ky~aNNon //
+74 star	7d~au7d~ei //
+75 water	xam //
+77 stone	xin //
+82 fire	fei //
+85 path	%lo, xon // from Chinese
+86 mountain	py~a //
+92 night	ham, hun //
+95 full	xim //
+96 new	mo //
+100 name	So //
+JINGHONG_TAI_LUE{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,Lue-Yong}
+ 1   22.01  100.80      550960    lu   khb
+1 I	toxa, ku //
+2 you	sucau, muN //
+3 we	tuxa //
+11 one	nuN, %et // loan Chinese
+12 two	%soN // loan from Chinese
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	komai //
+25 leaf	baimai, fomai //
+28 skin	naN //
+30 blood	lot //
+31 bone	duk //
+34 horn	xau //
+39 ear	binhu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xeu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	taunum //
+53 liver	tap //
+54 drink	dum, kin //
+57 see	toN, yem //
+58 hear	faN //
+61 die	tai //
+66 come	ma //
+72 sun	tavan //
+74 star	dau //
+75 water	nam //
+77 stone	makhin //
+82 fire	fai //
+85 path	xun, taN //
+86 mountain	doi, koN //
+92 night	kaNxun //
+95 full	tim //
+96 new	mai //
+100 name	cu //
+JINGHONG_TAI_LUE_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,Lue-Yong}
+ 1   22.00  100.77      550960    lu   khb
+1 I	toxa, ku //
+2 you	tocau, cau //
+3 we	hau //
+11 one	nuN, et //
+12 two	soN //
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	komai, tunmai //
+25 leaf	bai, f3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	duk //
+34 horn	xau //
+39 ear	binhu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xeu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	taunum, u //
+53 liver	tap //
+54 drink	kin, hip //
+57 see	toN, du //
+58 hear	foN, daiyin //
+61 die	tai //
+66 come	ma //
+72 sun	tavan //
+74 star	dau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	xuntaN //
+86 mountain	doi //
+92 night	kaNxun //
+95 full	tim //
+96 new	mai //
+100 name	cu //
+JINPING_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,WhiteTai}
+ 1   22.78  103.23      495000         twh
+1 I	ku, xoi //
+2 you	muN //
+3 we	xoNhau //
+11 one	nuN, et //
+12 two	soN //
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	vau //
+28 skin	naN //
+30 blood	l3t //
+31 bone	lup //
+34 horn	xau //
+39 ear	vauhu //
+40 eye	ta //
+41 nose	laN //
+43 tooth	xEu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	nu //
+53 liver	tap //
+54 drink	lum //
+57 see	lu, limhin //
+58 hear	faN, Nin //
+61 die	tai //
+66 come	ma //
+72 sun	tavin //
+74 star	lau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	taN //
+86 mountain	pu //
+92 night	kaNxam //
+95 full	tim //
+96 new	mau //
+100 name	Cu //
+KAM{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam,Kamic,NorthernKam}
+ 1   26.00  108.50      463000   kzh   doc
+1 I	 // ID unclear, either doc or kmc. Source: Jung-Chiang area of Kweichow province, Che-Chiang Commune of same area, and several dialects.
+2 you	na //
+3 we	taw //
+11 one	 //
+12 two	ya //
+18 person	n3n //
+19 fish	pa //
+21 dog	Nwa //
+22 louse	nan, taw // 1. body louse 2. head louse
+23 tree	m3y //
+25 leaf	pa //
+28 skin	 //
+30 blood	ph~at //
+31 bone	lak //
+34 horn	paw //
+39 ear	kh~a //
+40 eye	ta //
+41 nose	naN //
+43 tooth	siw, pyan //
+44 tongue	ma //
+47 knee	kwaw //
+48 hand	mya //
+51 breast	tak //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	t3y //
+66 come	ma //
+72 sun	 //
+74 star	s3t //
+75 water	nam //
+77 stone	Cin //
+82 fire	puy //
+85 path	kh~w3n //
+86 mountain	 //
+92 night	Can //
+95 full	tik, t3m //
+96 new	m3y //
+100 name	kwan //
+KAM_ZHANGLU{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam,Kamic,NorthernKam}
+ 1   26.00  108.50      463000   kzh   doc
+1 I	yau //
+2 you	5a //
+3 we	tiu //
+11 one	lau //
+12 two	ya //
+18 person	53n //
+19 fish	pa //
+21 dog	Nw~a //
+22 louse	tau //
+23 tree	m3i //
+25 leaf	pa //
+28 skin	%pi // loan from Chinese
+30 blood	ph~at //
+31 bone	lak //
+34 horn	pau //
+39 ear	kh~a //
+40 eye	ta //
+41 nose	naN //
+43 tooth	py~an //
+44 tongue	ma //
+47 knee	3mkw~au //
+48 hand	my~a //
+51 breast	 //
+53 liver	tap //
+54 drink	ti //
+57 see	nu //
+58 hear	th~iN //
+61 die	t3i //
+66 come	ma //
+72 sun	taman //
+74 star	s3t //
+75 water	nam //
+77 stone	tin //
+82 fire	pui //
+85 path	khw$3n //
+86 mountain	t3n //
+92 night	antan, an5am //
+95 full	tik //
+96 new	m3i //
+100 name	kw~an //
+KHAMTI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,AssamTai}
+ 1   25.90   95.75       13000         kht
+1 I	 //
+2 you	 //
+3 we	 //
+11 one	 //
+12 two	 //
+18 person	 //
+19 fish	pa //
+21 dog	ma //
+22 louse	 //
+23 tree	tun //
+25 leaf	 //
+28 skin	naN //
+30 blood	leut //
+31 bone	nuk //
+34 horn	khau //
+39 ear	hu //
+40 eye	ta //
+41 nose	 //
+43 tooth	 //
+44 tongue	khiu //
+47 knee	 //
+48 hand	mu //
+51 breast	 //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	 //
+66 come	 //
+72 sun	wan //
+74 star	nau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	taN // road
+86 mountain	noi //
+92 night	khun //
+95 full	 //
+96 new	 //
+100 name	cu //
+KHORAT_THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   14.98  102.10    20489750   tha   tha
+1 I	ku //
+2 you	m3N //
+3 we	kukam3N //
+11 one	n3N //
+12 two	soN //
+18 person	kh~on //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau, lon //
+23 tree	tonmai //
+25 leaf	baimai //
+28 skin	naN //
+30 blood	l3at //
+31 bone	kaduk //
+34 horn	kh~au //
+39 ear	hu //
+40 eye	ta //
+41 nose	%Tamuk // from Khmer
+43 tooth	fan //
+44 tongue	lin //
+47 knee	kh~au //
+48 hand	m3 //
+51 breast	na7ok, nom //
+53 liver	tap //
+54 drink	kin //
+57 see	hen //
+58 hear	daiyin //
+61 die	tai //
+66 come	ma //
+72 sun	tawan //
+74 star	dau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	th~aNd3n //
+86 mountain	ph~ukh~au //
+92 night	kaNkh~3n //
+95 full	tem //
+96 new	mai //
+100 name	Th~3 //
+LAIBIN_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	kou //
+2 you	muN //
+3 we	xau //
+11 one	it, deu //
+12 two	soN, Nei //
+18 person	wun //
+19 fish	pxa //
+21 dog	ma //
+22 louse	xau //
+23 tree	fai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lut //
+31 bone	dok //
+34 horn	 //
+39 ear	xu //
+40 eye	lukta //
+41 nose	naN //
+43 tooth	yeu, fan //
+44 tongue	lin //
+47 knee	 //
+48 hand	fuN //
+51 breast	ne, ci //
+53 liver	tap //
+54 drink	kun, dut //
+57 see	xan //
+58 hear	tiN //
+61 die	tai //
+66 come	tau //
+72 sun	 //
+74 star	daudei //
+75 water	xam //
+77 stone	xin //
+82 fire	fei //
+85 path	lo //
+86 mountain	 //
+92 night	hun //
+95 full	 //
+96 new	mo //
+100 name	 //
+LALIU_MAK{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Mak-Ai-Cham}
+ 1   25.40  107.90        5000         mkg
+1 I	 //
+2 you	N //
+3 we	di //
+11 one	deu //
+12 two	za //
+18 person	%aidin // loan from Chinese
+19 fish	t3m3m //
+21 dog	t3ma //
+22 louse	t3t3u //
+23 tree	 //
+25 leaf	va //
+28 skin	da //
+30 blood	phy$at //
+31 bone	dok //
+34 horn	 //
+39 ear	th~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	y3u //
+44 tongue	ma //
+47 knee	 //
+48 hand	mi //
+51 breast	se //
+53 liver	tap //
+54 drink	z3m //
+57 see	kaudu //
+58 hear	hai, th~iNth~a //
+61 die	 //
+66 come	taN, th~au //
+72 sun	davan //
+74 star	daud3i //
+75 water	nam //
+77 stone	py~a, tui //
+82 fire	v3i //
+85 path	 //
+86 mountain	 //
+92 night	zan //
+95 full	 //
+96 new	mai //
+100 name	dan //
+LALIU_MAK_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Mak-Ai-Cham}
+ 1   25.26  107.75        5000         mkg
+1 I	a //
+2 you	N //
+3 we	da, di //
+11 one	7d~eu //
+12 two	Za //
+18 person	aiTin, aidy~in //
+19 fish	t3m3m //
+21 dog	t3ma //
+22 louse	t3t3u //
+23 tree	mai //
+25 leaf	va //
+28 skin	Ta, dy~a //
+30 blood	phy$at //
+31 bone	7d~ok //
+34 horn	kau //
+39 ear	Th~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	y3u //
+44 tongue	ma //
+47 knee	kakau //
+48 hand	mi //
+51 breast	se //
+53 liver	tap //
+54 drink	Z3m //
+57 see	kau, 7d~om //
+58 hear	hai, Th~iNTh~a //
+61 die	tai //
+66 come	taN //
+72 sun	davan //
+74 star	7d~au7~d3i //
+75 water	nam //
+77 stone	tui, py~a //
+82 fire	v3i //
+85 path	khw$3n //
+86 mountain	pu //
+92 night	punZan //
+95 full	tik, tik ty~an //
+96 new	mai //
+100 name	7d~an //
+LAMPANG_THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,SouthernShan}
+ 1   18.30   99.50     6029500         nod
+1 I	pon, xaCau //
+2 you	Cau, ai //
+3 we	ha*u //
+11 one	nuN //
+12 two	%soN // loan from Chinese
+18 person	xon //
+19 fish	pla //
+21 dog	ma //
+22 louse	hau //
+23 tree	tonmai //
+25 leaf	baimai //
+28 skin	%ph~iw, tua // loan from Chinese
+30 blood	hu*at //
+31 bone	kadu //
+34 horn	xaw //
+39 ear	hu*, boN //
+40 eye	ta //
+41 nose	hu*daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	kaw //
+48 hand	mu* //
+51 breast	ha7ok, nom //
+53 liver	tap //
+54 drink	kin //
+57 see	ph~o, han //
+58 hear	faN, dEyin //
+61 die	tai //
+66 come	ma //
+72 sun	tawan //
+74 star	dau //
+75 water	nam //
+77 stone	hi*n //
+82 fire	fai //
+85 path	taN //
+86 mountain	ph~u, kh~au //
+92 night	hu*axam, kaNxun //
+95 full	tem //
+96 new	mai //
+100 name	Cu //
+LAO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   18.00  103.00     3253700   lao   lao
+1 I	ku, kh~oy //
+2 you	su, muN //
+3 we	haw //
+11 one	nuN, diaw //
+12 two	%soN // loan from Chinese
+18 person	kh~on //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	tonmay //
+25 leaf	baymay //
+28 skin	naN //
+30 blood	li3t //
+31 bone	kaduk //
+34 horn	kawsat //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~Ew //
+44 tongue	lin //
+47 knee	huakh~aw //
+48 hand	mu //
+51 breast	tawnom //
+53 liver	tap //
+54 drink	kin, dum //
+57 see	hen //
+58 hear	faN, daypin //
+61 die	tay //
+66 come	ma, mi3 //
+72 sun	tawen //
+74 star	daw //
+75 water	nam //
+77 stone	hin //
+82 fire	fay //
+85 path	th~aN //
+86 mountain	ph~u, doy //
+92 night	kh~un //
+95 full	tem //
+96 new	may //
+100 name	su //
+LAOTIEN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   18.00  103.00     3253700   lao   lao
+1 I	ku //
+2 you	 //
+3 we	tu, haw //
+11 one	%et // loan from Chinese
+12 two	%5i, %soN, yi7 // loan from Chinese, loan from Chinese
+18 person	ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	men // body-louse
+23 tree	 //
+25 leaf	 //
+28 skin	nan, naN //
+30 blood	lu3t //
+31 bone	duk //
+34 horn	kh~aw //
+39 ear	ta //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	ok //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	dap, 5in //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	hin //
+82 fire	fay //
+85 path	th~aN //
+86 mountain	ph~u, doy //
+92 night	kh~un //
+95 full	tem //
+96 new	m3u //
+100 name	su //
+LIANSHAN_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	ku //
+2 you	maN //
+3 we	yauwun //
+11 one	yit //
+12 two	8oN, 5i //
+18 person	wun //
+19 fish	py~a //
+21 dog	ma //
+22 louse	meyau //
+23 tree	fai //
+25 leaf	pau //
+28 skin	naN //
+30 blood	lEt //
+31 bone	lok //
+34 horn	 //
+39 ear	yE //
+40 eye	ph~at //
+41 nose	laN //
+43 tooth	heu //
+44 tongue	l3n //
+47 knee	 //
+48 hand	fuN //
+51 breast	ci //
+53 liver	tap //
+54 drink	k3n //
+57 see	yan //
+58 hear	th~iN //
+61 die	tai //
+66 come	tau //
+72 sun	 //
+74 star	l3uli //
+75 water	yam //
+77 stone	ky~auyin //
+82 fire	fi //
+85 path	yEn //
+86 mountain	 //
+92 night	h3n //
+95 full	 //
+96 new	mo //
+100 name	 //
+LINCHENG_LINGAO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Lakkja|@Tai-Kadai,Kam-Tai,Be-Tai}
+ 1   19.90  109.68      600000         onb
+1 I	hau //
+2 you	m3 //
+3 we	haulo //
+11 one	%it, h3 // loan from Chinese
+12 two	N3i, Ni //
+18 person	leNhun //
+19 fish	ba //
+21 dog	ma //
+22 louse	kat //
+23 tree	 //
+25 leaf	bo //
+28 skin	bau //
+30 blood	ba7 //
+31 bone	ua7 //
+34 horn	 //
+39 ear	sa //
+40 eye	da //
+41 nose	long //
+43 tooth	tin //
+44 tongue	lin //
+47 knee	 //
+48 hand	mo //
+51 breast	no7 //
+53 liver	dop //
+54 drink	kon // also means 'eat'
+57 see	dek //
+58 hear	heN //
+61 die	dai //
+66 come	mia //
+72 sun	 //
+74 star	l3ksai //
+75 water	nam //
+77 stone	din //
+82 fire	v3i //
+85 path	sun //
+86 mountain	 //
+92 night	kom //
+95 full	 //
+96 new	nau //
+100 name	noi //
+LONGAN_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	ku //
+2 you	muN //
+3 we	kaihlou //
+11 one	it //
+12 two	yui //
+18 person	hun //
+19 fish	pla //
+21 dog	ma //
+22 louse	th~au //
+23 tree	mai //
+25 leaf	mai //
+28 skin	naN //
+30 blood	lut //
+31 bone	nok //
+34 horn	 //
+39 ear	hlu //
+40 eye	th~a //
+41 nose	naN //
+43 tooth	fan, heu //
+44 tongue	lin //
+47 knee	 //
+48 hand	mui //
+51 breast	ci //
+53 liver	tap //
+54 drink	kun //
+57 see	th~en //
+58 hear	hlai //
+61 die	th~ai //
+66 come	tau //
+72 sun	 //
+74 star	naunui //
+75 water	nam //
+77 stone	th~in //
+82 fire	fui //
+85 path	hlen //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	mo //
+100 name	 //
+LONGZHOU_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   22.35  106.85     1840000         zzj
+1 I	%No, lai7 // from Cantonese
+2 you	%ni, ma3 // from Cantonese
+3 we	%Noti, boNlau // from Cantonese
+11 one	n3N, niN //
+12 two	LoN, %yi // from Cantonese
+18 person	k3n //
+19 fish	py~a //
+21 dog	ma //
+22 louse	min, hau //
+23 tree	mai7 //
+25 leaf	ba3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	duk //
+34 horn	kok //
+39 ear	pihu //
+40 eye	makha //
+41 nose	makdaN, daN //
+43 tooth	kh~eu //
+44 tongue	lin7~ //
+47 knee	paukh~au, hukh~au //
+48 hand	m3 //
+51 breast	num //
+53 liver	tap //
+54 drink	kin, dit //
+57 see	Nojhan, yomhan //
+58 hear	%tiNhin, %tiN // from Cantonese?
+61 die	hai //
+66 come	ma //
+72 sun	havan //
+74 star	daudi //
+75 water	nam7~ //
+77 stone	hin //
+82 fire	fai //
+85 path	loLaikai // maybe lo is from Cantonese?
+86 mountain	phy$a, doi //
+92 night	taNkam, kiaNk3n //
+95 full	tiam, tim //
+96 new	ma3 //
+100 name	%miNci // from Mandarin
+LU{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,Lue-Yong}
+ 1   22.00  100.67      550960    lu   khb
+1 I	kh~oy //
+2 you	muN //
+3 we	haw //
+11 one	nuN //
+12 two	%soN // probably loan from Middle Chinese
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw //
+23 tree	kok may, kok may //
+25 leaf	bay may //
+28 skin	naN //
+30 blood	l3t //
+31 bone	duk //
+34 horn	xaw //
+39 ear	bay hu //
+40 eye	ta //
+41 nose	xu laN //
+43 tooth	xiaw //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	 //
+53 liver	 //
+54 drink	loy //
+57 see	th~am, toN //
+58 hear	faN //
+61 die	tay //
+66 come	ma //
+72 sun	ta van //
+74 star	law //
+75 water	nam //
+77 stone	mak hin //
+82 fire	fay //
+85 path	xon th~aN //
+86 mountain	koN, loy //
+92 night	kaN xun //
+95 full	don //
+96 new	may //
+100 name	Tu //
+LUE_CHIENG_HUNG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,Lue-Yong}
+ 1   22.00  100.67      550960    lu   khb
+1 I	ku, kaw //
+2 you	muN //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%soN, yi //
+18 person	kun, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, min // 1. 'headlouse', 2. 'body louse'
+23 tree	ko, tun // 2. 'tree; beginning'
+25 leaf	bay //
+28 skin	naN //
+30 blood	lot //
+31 bone	duk //
+34 horn	xaw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xew //
+44 tongue	lin //
+47 knee	xaw //
+48 hand	mu //
+51 breast	num //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	yin //
+61 die	tay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~a // 2. 'cliff, rock'
+82 fire	fay //
+85 path	taN, hun //
+86 mountain	pu, doy //
+92 night	xam, xun //
+95 full	tim //
+96 new	may //
+100 name	cu //
+LUE_MUONG_YONG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,Lue-Yong}
+ 1   22.00  100.67      550960    lu   khb
+1 I	ku, kaw //
+2 you	muN //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%soN, yi // loan from Chinese
+18 person	kun, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, min // 1. 'headlouse', 2. 'body louse'
+23 tree	ko, tun // 2.'tree; beginning'
+25 leaf	bay //
+28 skin	naN //
+30 blood	lot //
+31 bone	duk //
+34 horn	xaw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xew //
+44 tongue	lin //
+47 knee	xaw //
+48 hand	mu //
+51 breast	num //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	yin //
+61 die	tay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~a // 2. 'cliff, rock'
+82 fire	fay //
+85 path	taN, hun //
+86 mountain	pu, doy //
+92 night	xam, xun //
+95 full	tim //
+96 new	may //
+100 name	cu //
+LUNG_CHOW{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   22.50  106.80     1840000         zzj
+1 I	 //
+2 you	ma3 //
+3 we	law //
+11 one	 //
+12 two	%3oN // loan from Chinese
+18 person	k3n //
+19 fish	pya //
+21 dog	ma //
+22 louse	haw // 'head louse'
+23 tree	may //
+25 leaf	ba3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	duk //
+34 horn	 //
+39 ear	hu //
+40 eye	ha //
+41 nose	daN //
+43 tooth	kh~ew, fan //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	m3 //
+51 breast	3k //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	hay //
+66 come	ma //
+72 sun	 //
+74 star	daw, di //
+75 water	nam //
+77 stone	hin //
+82 fire	fay //
+85 path	 //
+86 mountain	 //
+92 night	k3n //
+95 full	tim //
+96 new	ma3 //
+100 name	 //
+LUNG_MING{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   22.50  106.80     1840000         zzj
+1 I	 //
+2 you	may //
+3 we	law //
+11 one	 //
+12 two	%soN // loan from Chinese
+18 person	k3n //
+19 fish	pya //
+21 dog	ma //
+22 louse	th~aw // 'head louse'
+23 tree	may //
+25 leaf	may //
+28 skin	naN //
+30 blood	l3t //
+31 bone	nok //
+34 horn	 //
+39 ear	low //
+40 eye	th~a //
+41 nose	naN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	m3y //
+51 breast	3k //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	th~ay //
+66 come	ma //
+72 sun	 //
+74 star	naw //
+75 water	nam //
+77 stone	th~in //
+82 fire	fay //
+85 path	 //
+86 mountain	 //
+92 night	h3n //
+95 full	tim //
+96 new	may //
+100 name	 //
+LUOCHENG_MULAO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam}
+ 1   24.78  108.90       86000   mul   mlm
+1 I	3i, h3i //
+2 you	5a, 5i //
+3 we	hoau, niu //
+11 one	nau, %7y~et // Chinese
+12 two	%5i, xa // Chinese
+18 person	S3n //
+19 fish	m3m //
+21 dog	Nw~a //
+22 louse	kh~o3u //
+23 tree	mai //
+25 leaf	fa //
+28 skin	Noa //
+30 blood	ph~oat //
+31 bone	hoak //
+34 horn	ku //
+39 ear	kh~oa //
+40 eye	La, my~a //
+41 nose	k3naN //
+43 tooth	fan //
+44 tongue	ma //
+47 knee	kuko, puko //
+48 hand	ny~a //
+51 breast	ne //
+53 liver	tap //
+54 drink	%hoop // loan from Chinese
+57 see	kau //
+58 hear	%th~eN // Chinese
+61 die	tai //
+66 come	taN //
+72 sun	th~3ufan //
+74 star	lakm3t //
+75 water	n3m, %sui // Chinese
+77 stone	tui //
+82 fire	fi //
+85 path	khw$3n //
+86 mountain	poa //
+92 night	th3umu //
+95 full	pik //
+96 new	mai //
+100 name	7x~an, mEn //
+LVCHUN_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,UnclassifiedShan}
+ 1   22.99  102.39       85000         tiz
+1 I	kau //
+2 you	mai //
+3 we	hau //
+11 one	l3N, iu //
+12 two	soN //
+18 person	ku //
+19 fish	po //
+21 dog	mo //
+22 louse	hau //
+23 tree	tumai //
+25 leaf	vaifu //
+28 skin	naN //
+30 blood	l3 //
+31 bone	hul3u //
+34 horn	xau //
+39 ear	hau //
+40 eye	to //
+41 nose	laN //
+43 tooth	siu //
+44 tongue	liN //
+47 knee	huxau //
+48 hand	mu //
+51 breast	o7o //
+53 liver	ta //
+54 drink	suu //
+57 see	toN, hEco //
+58 hear	tehau, yiN //
+61 die	toi //
+66 come	mo //
+72 sun	vE //
+74 star	laulau //
+75 water	nE //
+77 stone	hiN //
+82 fire	fai //
+85 path	xuENtaN //
+86 mountain	loi //
+92 night	huxE //
+95 full	ti //
+96 new	mai //
+100 name	cu //
+MAGUAN_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,UnclassifiedShan}
+ 1   23.01  104.39       85000         tiz
+1 I	kau //
+2 you	mau //
+3 we	hau //
+11 one	luN, Et //
+12 two	soN //
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lut //
+31 bone	dok //
+34 horn	xau //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xiu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	u //
+53 liver	tap //
+54 drink	sut //
+57 see	hEn, han //
+58 hear	5e, 5eco //
+61 die	tai //
+66 come	ma //
+72 sun	van //
+74 star	dau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	taN //
+86 mountain	doi //
+92 night	hoxam //
+95 full	tEm //
+96 new	mau //
+100 name	cu //
+MAK{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Mak-Ai-Cham}
+ 1   25.60  107.60        5000         mkg
+1 I	 //
+2 you	N //
+3 we	da //
+11 one	 //
+12 two	za //
+18 person	%din // loan from Chinese (ABVD)
+19 fish	mum //
+21 dog	ma //
+22 louse	nan, tew // 1. 'body louse', 2. 'head louse'
+23 tree	may //
+25 leaf	va //
+28 skin	da //
+30 blood	ph~yat //
+31 bone	dok //
+34 horn	kaw //
+39 ear	th~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	y3w, yen //
+44 tongue	ma //
+47 knee	kaw //
+48 hand	mi //
+51 breast	tak //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw, d3y //
+75 water	nam //
+77 stone	tuy //
+82 fire	v3y //
+85 path	kh~un //
+86 mountain	 //
+92 night	zan //
+95 full	tik //
+96 new	may //
+100 name	dan //
+MANGSHI_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   24.43   98.59      717400         tdd
+1 I	kau //
+2 you	mau //
+3 we	hau //
+11 one	l3N, et //
+12 two	soN //
+18 person	kon //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	tonmai //
+25 leaf	mau //
+28 skin	laN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	xau //
+39 ear	minhu //
+40 eye	hoita //
+41 nose	hulaN //
+43 tooth	xeu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	utau //
+53 liver	tap //
+54 drink	lut, kin //
+57 see	yem, toi //
+58 hear	th~om, laiNin //
+61 die	tai //
+66 come	ma //
+72 sun	van //
+74 star	lau //
+75 water	lam //
+77 stone	makhin //
+82 fire	fai //
+85 path	xontaN //
+86 mountain	loi //
+92 night	kaNxun //
+95 full	tem //
+96 new	mau //
+100 name	cu //
+MAONAN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Maonan-Chadong}
+ 1   24.96  108.00       30000         mmd
+1 I	h"e //
+2 you	 //
+3 we	nd~e //
+11 one	dEu //
+12 two	ya //
+18 person	z3n //
+19 fish	mby$ai //
+21 dog	ma //
+22 louse	tu //
+23 tree	mai //
+25 leaf	va //
+28 skin	%pi // loan from Chinese
+30 blood	phy$at //
+31 bone	dak //
+34 horn	5au //
+39 ear	kh~a //
+40 eye	nd~a //
+41 nose	naN //
+43 tooth	hiu //
+44 tongue	ma //
+47 knee	kamku //
+48 hand	sim //
+51 breast	 //
+53 liver	tap //
+54 drink	na //
+57 see	kau //
+58 hear	ni //
+61 die	tai //
+66 come	taN //
+72 sun	lakvan //
+74 star	z3t //
+75 water	nam //
+77 stone	tui //
+82 fire	vi //
+85 path	kh~un //
+86 mountain	koNpy~a //
+92 night	5am //
+95 full	tik //
+96 new	mai //
+100 name	dan //
+MENGLIAN_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   22.33   99.58      717400         tdd
+1 I	ko, tuxo //
+2 you	mo, sucou //
+3 we	hou //
+11 one	n3N, et //
+12 two	soN //
+18 person	kon //
+19 fish	pa //
+21 dog	ma //
+22 louse	hou //
+23 tree	moi //
+25 leaf	vo //
+28 skin	noN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	xou //
+39 ear	voNhu //
+40 eye	ta //
+41 nose	loN //
+43 tooth	xeu //
+44 tongue	lin //
+47 knee	hoxou //
+48 hand	mu //
+51 breast	tou7u //
+53 liver	top //
+54 drink	sot, cin //
+57 see	kEn, kEnhon //
+58 hear	ph~oN, yin //
+61 die	tai //
+66 come	ma //
+72 sun	tavon //
+74 star	lau //
+75 water	nom //
+77 stone	hin //
+82 fire	ph~ai //
+85 path	taN //
+86 mountain	loi //
+92 night	kaNxun //
+95 full	tem //
+96 new	mo //
+100 name	cu //
+MULAO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam}
+ 1   25.00  108.00       86000   mul   mlm
+1 I	h3i //
+2 you	5a //
+3 we	niu //
+11 one	hnau //
+12 two	xa //
+18 person	s3n //
+19 fish	m3m //
+21 dog	hNwa //
+22 louse	khx$o //
+23 tree	mai //
+25 leaf	fa //
+28 skin	Nx~a //
+30 blood	phx$at //
+31 bone	hx~ak //
+34 horn	ku //
+39 ear	khx$a //
+40 eye	hla //
+41 nose	k3naN //
+43 tooth	fan //
+44 tongue	ma //
+47 knee	kuko //
+48 hand	ny~a //
+51 breast	 //
+53 liver	tap //
+54 drink	%hx~op // loan from Chinese
+57 see	kau //
+58 hear	th~eN //
+61 die	tai //
+66 come	taN //
+72 sun	th~3ufan //
+74 star	lakhm3t //
+75 water	n3m //
+77 stone	tui //
+82 fire	fi //
+85 path	khw$3n //
+86 mountain	px~a //
+92 night	th~3umu //
+95 full	pik //
+96 new	hmai //
+100 name	xan //
+NINGMING_YONGNAN_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,Yongnan-Yongbei}
+ 1   22.10  107.59     1810000         zyn
+1 I	No, kau //
+2 you	ni, muN //
+3 we	huNlau //
+11 one	nuN, ut //
+12 two	LoN, 53i //
+18 person	kan //
+19 fish	py~a //
+21 dog	ma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	b3u //
+28 skin	naN //
+30 blood	lit //
+31 bone	dok //
+34 horn	 //
+39 ear	khy$3u //
+40 eye	th~a //
+41 nose	daN //
+43 tooth	heu //
+44 tongue	lun //
+47 knee	 //
+48 hand	m3u //
+51 breast	numpu //
+53 liver	tap //
+54 drink	ky~un //
+57 see	han //
+58 hear	tuN //
+61 die	th~ai //
+66 come	ma //
+72 sun	 //
+74 star	daud3i //
+75 water	nam //
+77 stone	hun //
+82 fire	f3i //
+85 path	lo //
+86 mountain	 //
+92 night	han //
+95 full	 //
+96 new	m3u //
+100 name	 //
+NORTHERN_SHAN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   23.70   98.03     3295000   sha   shn
+1 I	kaw, kawkh~a //
+2 you	ma3, su //
+3 we	haw //
+11 one	n3N //
+12 two	soN //
+18 person	kon //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, min //
+23 tree	tonmay //
+25 leaf	ma3may //
+28 skin	naN, naNn3 //
+30 blood	l3t //
+31 bone	lup //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	khulaN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	hokh~aw //
+48 hand	m3 //
+51 breast	tawnom //
+53 liver	tap //
+54 drink	sot, ok //
+57 see	han //
+58 hear	Nin //
+61 die	tay, kh~oy //
+66 come	ma //
+72 sun	lEt, wan //
+74 star	law //
+75 water	nam //
+77 stone	makhin, makph~a //
+82 fire	fay //
+85 path	taN //
+86 mountain	koN, loy //
+92 night	kaNkh~3n //
+95 full	tem //
+96 new	ma3 //
+100 name	T3 //
+NUNG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Debao-Jingxi-Nung}
+ 1   21.92  106.42      969000   nun   nut
+1 I	No, kau //
+2 you	man bao, m3N //
+3 we	man ph~u, man hau //
+4 this	Zu nay //
+5 that	te //
+6 who	k3n hah //
+7 what	ka laN //
+8 not	bo, mi //
+9 all	 //
+10 many	lai //
+11 one	n3N //
+12 two	%LoN // loan from Chinese
+13 big	l3N heN //
+14 long	be hi //
+15 small	Lay //
+16 woman	Za //
+17 man	 //
+18 person	k3n //
+19 fish	pa //
+20 bird	nok //
+21 dog	ma //
+22 louse	th~au, men //
+23 tree	may //
+24 seed	fan //
+25 leaf	bah //
+26 root	lak //
+27 bark	naN may //
+28 skin	naN //
+29 flesh	n3 //
+30 blood	l3t //
+31 bone	duk //
+32 grease	pi, lao //
+33 egg	hay //
+34 horn	 //
+35 tail	th~aN //
+36 feather	kh~on nok //
+37 hair	ph~om //
+38 head	th~u //
+39 ear	hu //
+40 eye	th~a //
+41 nose	ZaN //
+42 mouth	pak //
+43 tooth	kh~eo //
+44 tongue	lin //
+45 claw	an lep //
+46 foot	an kh~a //
+47 knee	th~u kh~au //
+48 hand	m3 //
+49 belly	 //
+50 neck	ho //
+51 breast	an nen //
+52 heart	Lim //
+53 liver	tap //
+54 drink	kin nam //
+55 eat	kin //
+56 bite	kh~op, det //
+57 see	Ceu han //
+58 hear	Zay Nin, tiN vam //
+59 know	hu //
+60 sleep	non //
+61 die	th~ai //
+62 kill	kh~a //
+63 swim	viu //
+64 fly	ben //
+65 walk	ph~ai kah, pay //
+66 come	ma, to //
+67 lie	non //
+68 sit	naN //
+69 stand	Zin kh~3n //
+70 give	Zen //
+71 say	va, kaN //
+72 sun	an ph~a van //
+73 moon	an hai //
+74 star	dau di //
+75 water	nam //
+76 rain	fa ph~on //
+77 stone	th~in //
+78 sand	Lai //
+79 earth	ti tom //
+80 cloud	ph~a //
+81 smoke	on //
+82 fire	fay //
+83 ash	pau, van pau //
+84 burn	may //
+85 path	lo //
+86 mountain	po //
+87 red	deN //
+88 green	kh~eo //
+89 yellow	C3N //
+90 white	ph~3k //
+91 black	dam //
+92 night	h3n //
+93 hot	det boN //
+94 cold	ham //
+95 full	im, tem //
+96 new	mah //
+97 good	day //
+98 round	lam, mon //
+99 dry	kh~ah, leN //
+100 name	pan miN //
+ONG_BE{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Lakkja|@Tai-Kadai,Kam-Tai,Be-Tai}
+ 1   19.00  110.00      600000         onb
+1 I	hau //
+2 you	m3 //
+3 we	hau lo //
+11 one	 //
+12 two	von //
+18 person	leNhun //
+19 fish	ba //
+21 dog	ma //
+22 louse	don //
+23 tree	dun //
+25 leaf	bo //
+28 skin	naN //
+30 blood	ba7 //
+31 bone	ua7 //
+34 horn	vau //
+39 ear	sa //
+40 eye	da //
+41 nose	loN //
+43 tooth	wan //
+44 tongue	lim //
+47 knee	kau //
+48 hand	mo //
+51 breast	 //
+53 liver	dop //
+54 drink	kon //
+57 see	dek //
+58 hear	 //
+61 die	dai //
+66 come	nia //
+72 sun	dav3n //
+74 star	tiN //
+75 water	nam //
+77 stone	din //
+82 fire	v3i //
+85 path	sun //
+86 mountain	tia //
+92 night	kx~3n //
+95 full	dik //
+96 new	nau //
+100 name	noi //
+PO_AI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.42  104.75     2649100   yay   pcc
+1 I	 //
+2 you	m3N //
+3 we	law //
+11 one	 //
+12 two	3oN //
+18 person	h3n //
+19 fish	pya //
+21 dog	ma //
+22 louse	law // 'head louse'
+23 tree	may //
+25 leaf	ma3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	nok //
+34 horn	kaw //
+39 ear	l3 //
+40 eye	ta //
+41 nose	naN //
+43 tooth	hew //
+44 tongue	lin //
+47 knee	 //
+48 hand	f3n //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	naw, ni //
+75 water	lam //
+77 stone	hin //
+82 fire	fi //
+85 path	hon //
+86 mountain	 //
+92 night	h3n //
+95 full	lim //
+96 new	mo //
+100 name	s3 //
+QINZHOU_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	kou //
+2 you	muN //
+3 we	lousai //
+11 one	yat //
+12 two	LoN, Nui //
+18 person	hun //
+19 fish	pa //
+21 dog	ma //
+22 louse	th~au //
+23 tree	mui //
+25 leaf	mai //
+28 skin	naN //
+30 blood	lit //
+31 bone	nok //
+34 horn	 //
+39 ear	li //
+40 eye	th~a //
+41 nose	naN //
+43 tooth	heu //
+44 tongue	lin //
+47 knee	 //
+48 hand	mui //
+51 breast	ni //
+53 liver	tap //
+54 drink	kin //
+57 see	th~iN //
+58 hear	th~eN //
+61 die	th~ai //
+66 come	tou //
+72 sun	 //
+74 star	naunui //
+75 water	num //
+77 stone	th~in //
+82 fire	fui //
+85 path	lin //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	mo //
+100 name	 //
+SAEK{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   17.42  104.75        3730   sae   skb
+1 I	ku //
+2 you	m3N //
+3 we	tu //
+11 one	muN //
+12 two	%soN // probably loan from Middle Chinese
+18 person	gun, hun //
+19 fish	pla //
+21 dog	ma //
+22 louse	raw //
+23 tree	may //
+25 leaf	b3 //
+28 skin	th~rap //
+30 blood	luat //
+31 bone	rok //
+34 horn	gaw //
+39 ear	gy~a, rua //
+40 eye	pra //
+41 nose	daN //
+43 tooth	nEN //
+44 tongue	lin //
+47 knee	 //
+48 hand	m3 //
+51 breast	cu //
+53 liver	tap //
+54 drink	 //
+57 see	nEN //
+58 hear	Nia //
+61 die	pray //
+66 come	ma //
+72 sun	ta53n //
+74 star	traw //
+75 water	nam //
+77 stone	ril //
+82 fire	vi //
+85 path	th~aN //
+86 mountain	roy //
+92 night	g3n //
+95 full	 //
+96 new	mo //
+100 name	so //
+SAEK_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   17.42  104.75        3730   sae   skb
+1 I	ku //
+2 you	muN //
+3 we	ro // dual, inclusive
+11 one	nuN //
+12 two	%soN, 5i // probably loan from Middle Chinese
+18 person	hun, ph~u //
+19 fish	pla, pra //
+21 dog	ma //
+22 louse	raw, mlEl, mlEn // 1. 'headlouse' 2. 'body louse'
+23 tree	kh~o //
+25 leaf	bo //
+28 skin	naN //
+30 blood	luat //
+31 bone	rok //
+34 horn	kaw //
+39 ear	rua //
+40 eye	pra //
+41 nose	daN //
+43 tooth	 //
+44 tongue	lin //
+47 knee	ko //
+48 hand	mu //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	rEn //
+58 hear	5ia //
+61 die	pray //
+66 come	ma // 'return'
+72 sun	rit // 'sunshine'
+74 star	traw //
+75 water	nam //
+77 stone	ril, rin, ph~ra // 3. 'cliff, rock'
+82 fire	vi //
+85 path	th~aN //
+86 mountain	roy //
+92 night	xam, xun //
+95 full	rim //
+96 new	mo //
+100 name	so //
+SAEK_3{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   17.42  104.75        3730   sae   skb
+1 I	 //
+2 you	m3N //
+3 we	ro //
+11 one	 //
+12 two	%soN // loan from Chinese
+18 person	hun //
+19 fish	pla //
+21 dog	ma //
+22 louse	mlel, raw // 1. 'body louse', 2.  'head louse'
+23 tree	may //
+25 leaf	b3 //
+28 skin	naN //
+30 blood	luat //
+31 bone	rok //
+34 horn	kaw //
+39 ear	sua //
+40 eye	pra //
+41 nose	daN //
+43 tooth	nEN //
+44 tongue	lin //
+47 knee	ko //
+48 hand	m3 //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	pray //
+66 come	ma //
+72 sun	 //
+74 star	traw //
+75 water	nam //
+77 stone	rin, ril //
+82 fire	vi //
+85 path	 //
+86 mountain	 //
+92 night	g3n //
+95 full	rim //
+96 new	mo //
+100 name	so //
+SANDONG_SUI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui}
+ 1   25.88  107.84      300120   sui   swi
+1 I	yu, 7y~e //
+2 you	5a //
+3 we	nd~au, ndy$eu //
+11 one	%ti, to // loan from Chinese (ABVD)
+12 two	%5i, xa // from Chinese
+18 person	tak, %z3n // loan from Chinese
+19 fish	mom //
+21 dog	ma //
+22 louse	mb~ai, tu //
+23 tree	mai, nimai //
+25 leaf	vamai //
+28 skin	%pi // loan from Chinese
+30 blood	luphy$at //
+31 bone	lak //
+34 horn	puli //
+39 ear	qh~a //
+40 eye	nd~a //
+41 nose	7n~aN //
+43 tooth	vy~3n //
+44 tongue	ma, uma //
+47 knee	qamqu //
+48 hand	lan, my~a //
+51 breast	cumtak, ty~u //
+53 liver	tap //
+54 drink	xum //
+57 see	nd~o, qau //
+58 hear	Nai //
+61 die	tai //
+66 come	 //
+72 sun	t3van, nd~avan //
+74 star	z3t //
+75 water	nam //
+77 stone	tin, py~a //
+82 fire	vi //
+85 path	kh~un //
+86 mountain	nu, py~a //
+92 night	san //
+95 full	tik //
+96 new	mai //
+100 name	7d~an, %minch~en // from Chinese
+SHAN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   22.00   98.00     3295000   sha   shn
+1 I	kaw //
+2 you	 //
+3 we	ha, haw //
+11 one	%et // loan from Chinese
+12 two	yi, %sh~oN // loan from Chinese
+18 person	 //
+19 fish	pa //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	m3u //
+28 skin	naN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	kh~aw //
+39 ear	 //
+40 eye	ta //
+41 nose	laN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	uk //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	Nin //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	law //
+75 water	nam //
+77 stone	hin, in //
+82 fire	fay //
+85 path	taN //
+86 mountain	loy //
+92 night	kh~un //
+95 full	tem //
+96 new	 //
+100 name	 //
+SHAN_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   22.00   98.00     3295000   sha   shn
+1 I	kaw //
+2 you	mau //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%sh~oN // loan from Chinese
+18 person	kon, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, men // 1.'headlouse' 2. 'body louse'
+23 tree	ko, ton // 2.'tree; beginning'
+25 leaf	mau //
+28 skin	naN //
+30 blood	lot //
+31 bone	lup, luk // 2. infrequent
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	 //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	Nin yin //
+61 die	tay //
+66 come	ma //
+72 sun	lEt // 'sunshine'
+74 star	law //
+75 water	nam //
+77 stone	hin //
+82 fire	ph~ay //
+85 path	taN //
+86 mountain	loy //
+92 night	kh~am, kh~un //
+95 full	tem //
+96 new	mau //
+100 name	su //
+SHAN_3{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   22.00   98.00     3295000   sha   shn
+1 I	kEw, tu //
+2 you	mau //
+3 we	hEw //
+11 one	nuN //
+12 two	%sh~oN // loan from Chinese
+18 person	kon //
+19 fish	pE //
+21 dog	mE //
+22 louse	men //
+23 tree	 //
+25 leaf	toN //
+28 skin	naN //
+30 blood	lot //
+31 bone	lup //
+34 horn	 //
+39 ear	hu //
+40 eye	tE //
+41 nose	kh~u lEN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	nom //
+53 liver	tEp //
+54 drink	sh~ot //
+57 see	hEn //
+58 hear	Nin //
+61 die	Tey //
+66 come	mE //
+72 sun	 //
+74 star	lEw //
+75 water	nEm //
+77 stone	hin //
+82 fire	ph~Ey //
+85 path	tEN //
+86 mountain	 //
+92 night	kh~un //
+95 full	 //
+96 new	mEu //
+100 name	cu //
+SHAN_4{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,NorthernShan}
+ 1   20.93   97.56     3295000   sha   shn
+1 I	kh~a //
+2 you	suTaw //
+3 we	haw //
+11 one	n3N //
+12 two	soN //
+18 person	%manuksa7 // from Sanskrit
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, men //
+23 tree	tonmay //
+25 leaf	wamay //
+28 skin	naN //
+30 blood	l3t //
+31 bone	lup //
+34 horn	kh~aw, kh~awsat //
+39 ear	hu //
+40 eye	ta //
+41 nose	khulaN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	hokh~aw //
+48 hand	m3 //
+51 breast	na7ok, nom //
+53 liver	tap //
+54 drink	kin //
+57 see	han //
+58 hear	layin //
+61 die	tay //
+66 come	ma //
+72 sun	kaNwan //
+74 star	law //
+75 water	nam //
+77 stone	makhin //
+82 fire	ph~ay //
+85 path	taN //
+86 mountain	loy //
+92 night	kaNkh~3n //
+95 full	tem //
+96 new	may //
+100 name	T3 //
+SHANGLIN_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	kou //
+2 you	muN //
+3 we	hyau //
+11 one	it, deu //
+12 two	8oN //
+18 person	wun //
+19 fish	pya //
+21 dog	ma //
+22 louse	hyau //
+23 tree	fai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lut //
+31 bone	dok //
+34 horn	 //
+39 ear	hyu //
+40 eye	lukta //
+41 nose	naN //
+43 tooth	jeu //
+44 tongue	lin //
+47 knee	 //
+48 hand	fuN //
+51 breast	si //
+53 liver	tap //
+54 drink	kun, det //
+57 see	hin //
+58 hear	tiN //
+61 die	tai //
+66 come	tau //
+72 sun	 //
+74 star	daudei //
+75 water	hyam //
+77 stone	hyun //
+82 fire	fei //
+85 path	lo //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	mo //
+100 name	 //
+SHANGSI_YONGNAN_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,Yongnan-Yongbei}
+ 1   22.10  107.59     1810000         zyn
+1 I	kau //
+2 you	maN //
+3 we	lau //
+11 one	yit, yat //
+12 two	5oy, LeN //
+18 person	hon //
+19 fish	pa //
+21 dog	ma //
+22 louse	th~au //
+23 tree	mai //
+25 leaf	boy //
+28 skin	naN //
+30 blood	lut //
+31 bone	dok //
+34 horn	 //
+39 ear	 //
+40 eye	makth~a //
+41 nose	daN //
+43 tooth	heu //
+44 tongue	len //
+47 knee	 //
+48 hand	moy //
+51 breast	nen //
+53 liver	tap //
+54 drink	ken //
+57 see	th~en //
+58 hear	th~eN //
+61 die	th~ai //
+66 come	ma //
+72 sun	 //
+74 star	daudoy //
+75 water	nam //
+77 stone	th~en //
+82 fire	foy //
+85 path	le //
+86 mountain	 //
+92 night	han //
+95 full	 //
+96 new	me //
+100 name	 //
+SHIDONG_BIAO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Lakkia-Biao,Biaoic}
+ 1   23.54  112.11       80000         byk
+1 I	cia //
+2 you	mu //
+3 we	yo //
+11 one	%yat // Chinese loanword
+12 two	%5i // Chinese loanword
+18 person	lan, yan // 5an is another alternative
+19 fish	mai //
+21 dog	mu //
+22 louse	yo //
+23 tree	 //
+25 leaf	mi //
+28 skin	%pi // loan from Chinese
+30 blood	yan //
+31 bone	yak //
+34 horn	 //
+39 ear	lakho //
+40 eye	8o8iaN, 8o //
+41 nose	kaN5aN //
+43 tooth	%Na // Chinese loanword
+44 tongue	ch~u //
+47 knee	 //
+48 hand	%hi // maybe Chinese
+51 breast	niN //
+53 liver	%koN // Chinese loanword
+54 drink	 //
+57 see	%ciN // maybe Chinese
+58 hear	%th~iaN // Chinese loanword
+61 die	8a //
+66 come	naN //
+72 sun	 //
+74 star	8iaN //
+75 water	nam //
+77 stone	tapoN //
+82 fire	pai //
+85 path	ti coN //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	yau //
+100 name	%miaN8u // Chinese loanword
+SHUIQING_SUI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui}
+ 1   26.90  107.90      300120   sui   swi
+1 I	yu //
+2 you	5a //
+3 we	dy~eu //
+11 one	to, 7d~au //
+12 two	xa, %5i // Chinese
+18 person	%z3n // loan from Chinese
+19 fish	m3m //
+21 dog	ma //
+22 louse	tu //
+23 tree	mai //
+25 leaf	wamai //
+28 skin	%pi // loan from Chinese
+30 blood	ph~at //
+31 bone	7d~ak //
+34 horn	qau //
+39 ear	qh~a //
+40 eye	da //
+41 nose	7n~aN //
+43 tooth	Su //
+44 tongue	ma //
+47 knee	qamqu //
+48 hand	my~a //
+51 breast	ty~u //
+53 liver	tap //
+54 drink	x3m //
+57 see	qau //
+58 hear	7d~i, %th~iN // Chinese
+61 die	tai //
+66 come	taN //
+72 sun	dawan //
+74 star	z3t //
+75 water	nam //
+77 stone	tin //
+82 fire	wi //
+85 path	khw$3n //
+86 mountain	py~a //
+92 night	7m~3ksan //
+95 full	tik //
+96 new	mai //
+100 name	7d~an //
+SIAMESE{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20489750   tha   tha
+1 I	ku //
+2 you	muN //
+3 we	raw // dual, inclusive
+11 one	nuN //
+12 two	%soN, yi // loan from Chinese
+18 person	kh~on, ph~u //
+19 fish	pla //
+21 dog	ma //
+22 louse	haw, len // 1.'headlouse' 2. 'body louse'
+23 tree	ton // 'tree; beginning'
+25 leaf	bay //
+28 skin	naN //
+30 blood	luat //
+31 bone	duk, kaduk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	 //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	hen //
+58 hear	yin //
+61 die	tay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~a // 2. 'cliff, rock'
+82 fire	fay //
+85 path	th~aN, hon //
+86 mountain	ph~u, doy //
+92 night	kh~am, khun //
+95 full	tem //
+96 new	may //
+100 name	ch~u //
+SIAMESE_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20489750   tha   tha
+1 I	 //
+2 you	m3N //
+3 we	raw //
+11 one	 //
+12 two	%soN // loan from Chinese
+18 person	kh~on //
+19 fish	pla //
+21 dog	ma //
+22 louse	len, haw // 1. 'body louse', 2. 'head louse'
+23 tree	may //
+25 leaf	bay //
+28 skin	naN //
+30 blood	l3at //
+31 bone	kraduk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	 //
+43 tooth	kh~iaw, fan //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	m3 //
+51 breast	ok //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	hin //
+82 fire	fay //
+85 path	hon //
+86 mountain	 //
+92 night	kh~3n //
+95 full	tem //
+96 new	may //
+100 name	Ch~3 //
+SONGKHLA_THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1    7.19  101.00     4500000         sou
+1 I	Ch~an, ph~om //
+2 you	th~3, t3n //
+3 we	raw //
+11 one	n3N //
+12 two	soN //
+18 person	kh~on //
+19 fish	pa*, pla //
+21 dog	ma //
+22 louse	haw, lon //
+23 tree	tonmay //
+25 leaf	hamay //
+28 skin	naN //
+30 blood	l3at //
+31 bone	duk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	muk //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	m3 //
+51 breast	na7ok //
+53 liver	tap //
+54 drink	m3k //
+57 see	hen //
+58 hear	dayin //
+61 die	tay //
+66 come	ma //
+72 sun	wan //
+74 star	daw //
+75 water	nam //
+77 stone	hin //
+82 fire	khw$ay //
+85 path	th~aNd3n //
+86 mountain	kh~aw //
+92 night	klaNkh~3n //
+95 full	tem //
+96 new	may //
+100 name	Ch~3 //
+SOUTHERN_DONG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam,Kamic}
+ 1   26.17  109.67     1000000   don   kmc
+1 I	yEu //
+2 you	 //
+3 we	tEu //
+11 one	 //
+12 two	yE //
+18 person	 //
+19 fish	pE //
+21 dog	Nw~E //
+22 louse	tEu //
+23 tree	 //
+25 leaf	pE //
+28 skin	%pi // loan from Chinese
+30 blood	ph~Et //
+31 bone	lEk //
+34 horn	 //
+39 ear	kh~E //
+40 eye	tE //
+41 nose	maN //
+43 tooth	py~aN //
+44 tongue	mE //
+47 knee	 //
+48 hand	my~E //
+51 breast	mi //
+53 liver	tap //
+54 drink	wum //
+57 see	nu, naN //
+58 hear	soN kh~E, th~iN //
+61 die	tai //
+66 come	mE //
+72 sun	 //
+74 star	s3t //
+75 water	nam //
+77 stone	py~E //
+82 fire	pui //
+85 path	khw$3n //
+86 mountain	 //
+92 night	tEn //
+95 full	 //
+96 new	mai //
+100 name	kw~En //
+SUI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui}
+ 1   26.00  107.50      300120   sui   swi
+1 I	yu //
+2 you	5a //
+3 we	nd~iu //
+11 one	to //
+12 two	xa //
+18 person	%z3n // loan from Chinese
+19 fish	mom //
+21 dog	hma //
+22 louse	tu //
+23 tree	mai //
+25 leaf	va //
+28 skin	%pi // loan from Chinese
+30 blood	phy$at //
+31 bone	lak //
+34 horn	pau //
+39 ear	qh~a //
+40 eye	nd~a //
+41 nose	naN //
+43 tooth	vy~an //
+44 tongue	ma //
+47 knee	qamqu //
+48 hand	my~a //
+51 breast	 //
+53 liver	tap //
+54 drink	xum //
+57 see	gau //
+58 hear	di //
+61 die	tai //
+66 come	taN //
+72 sun	nd~avan //
+74 star	z3t //
+75 water	nam //
+77 stone	tin //
+82 fire	vi //
+85 path	khw$3n //
+86 mountain	nu //
+92 night	san //
+95 full	tik //
+96 new	hmai //
+100 name	dan //
+SUI_JUNG_CHIANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui}
+ 1   26.00  107.50      300120   sui   swi
+1 I	 //
+2 you	na //
+3 we	 //
+11 one	 //
+12 two	ga //
+18 person	%z3n // loan from Chinese
+19 fish	mum //
+21 dog	ma //
+22 louse	tu // 'head louse'
+23 tree	may //
+25 leaf	wa //
+28 skin	ha //
+30 blood	 //
+31 bone	lak //
+34 horn	paw //
+39 ear	qh~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	siw, vyan //
+44 tongue	ma //
+47 knee	 //
+48 hand	mya //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	z3t //
+75 water	nam //
+77 stone	tin //
+82 fire	vi //
+85 path	kh~wen //
+86 mountain	 //
+92 night	san //
+95 full	tik //
+96 new	may //
+100 name	dan //
+SUI_LI_NGAM{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui}
+ 1   26.00  107.50      300120   sui   swi
+1 I	 //
+2 you	na //
+3 we	 //
+11 one	 //
+12 two	ga //
+18 person	%z3n // loan from Chinese
+19 fish	mum //
+21 dog	ma //
+22 louse	tu // 'head louse'
+23 tree	may //
+25 leaf	wa //
+28 skin	ra //
+30 blood	 //
+31 bone	dak //
+34 horn	qaw //
+39 ear	qh~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	siw, wyan //
+44 tongue	ma //
+47 knee	 //
+48 hand	mya //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	z3t //
+75 water	nam //
+77 stone	tin //
+82 fire	wi //
+85 path	kh~un //
+86 mountain	 //
+92 night	san //
+95 full	tik //
+96 new	may //
+100 name	dan //
+SUI_PYO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui}
+ 1   26.00  107.50      300120   sui   swi
+1 I	 //
+2 you	ni3 //
+3 we	 //
+11 one	 //
+12 two	ga //
+18 person	%zen // loan from Chinese
+19 fish	mum //
+21 dog	ma //
+22 louse	tu // 'head louse'
+23 tree	m3 //
+25 leaf	va //
+28 skin	 //
+30 blood	 //
+31 bone	lak //
+34 horn	paw //
+39 ear	qh~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	hiw, vyan //
+44 tongue	ma //
+47 knee	 //
+48 hand	mi3 //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+58 hear	 //
+61 die	tay //
+66 come	 //
+72 sun	 //
+74 star	z3t //
+75 water	nam //
+77 stone	tin //
+82 fire	vuy //
+85 path	kh~wen //
+86 mountain	 //
+92 night	san //
+95 full	tik //
+96 new	may //
+100 name	dan //
+TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20489750   tha   tha
+1 I	ku //
+2 you	muN //
+3 we	rau //
+11 one	 //
+12 two	%soN // loan from Chinese
+18 person	 //
+19 fish	pla //
+21 dog	ma //
+22 louse	hau //
+23 tree	 //
+25 leaf	 //
+28 skin	naN //
+30 blood	luat //
+31 bone	duk //
+34 horn	kh~au //
+39 ear	hu //
+40 eye	ta //
+41 nose	 //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	kh~au //
+48 hand	mu //
+51 breast	ok // chest
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	yin //
+61 die	tai //
+66 come	ma //
+72 sun	wan // sun, day
+74 star	dau //
+75 water	nam //
+77 stone	ph~a //
+82 fire	fai //
+85 path	hon //
+86 mountain	 //
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	 //
+TAI_CHIENGMAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,SouthernShan}
+ 1   18.58   99.75     6029500         nod
+1 I	ku //
+2 you	muN //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%soN // loan from Chinese
+18 person	kh~on, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	bau //
+28 skin	naN //
+30 blood	luat //
+31 bone	duk, kaduk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~iaw //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	ok // chest
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	Nin, 5in //
+61 die	tay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~a // 2. 'cliff, rock'
+82 fire	fay //
+85 path	taN, hon //
+86 mountain	 //
+92 night	kh~am, kh~un //
+95 full	tem //
+96 new	may //
+100 name	cu //
+TAI_DAENG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,RedTai}
+ 1   19.42  104.80      105000         tyr
+1 I	kan //
+2 you	th~aw //
+3 we	tukh~oey, suhaw //
+11 one	nuN //
+12 two	%soN // loan from Chinese
+18 person	kon //
+19 fish	pa //
+21 dog	dog //
+22 louse	tohaw, tohay //
+23 tree	may //
+25 leaf	v3 //
+28 skin	naN //
+30 blood	lu3t //
+31 bone	luk //
+34 horn	xaw //
+39 ear	hu //
+40 eye	ta //
+41 nose	koNlaN //
+43 tooth	xE3w //
+44 tongue	lin //
+47 knee	huaxaw //
+48 hand	mu //
+51 breast	u //
+53 liver	tap //
+54 drink	kin //
+57 see	hen //
+58 hear	yin //
+61 die	tay //
+66 come	ma //
+72 sun	taNNen //
+74 star	law //
+75 water	nam //
+77 stone	ko3nhin //
+82 fire	fay //
+85 path	taNno3y //
+86 mountain	pu //
+92 night	kaNkh~un, l3k //
+95 full	tem //
+96 new	m3 //
+100 name	Tu //
+TAI_KHUEN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,SouthernShan}
+ 1   21.29   99.61      106880   khn   kkh
+1 I	xa //
+2 you	Taw //
+3 we	haw //
+11 one	n3N //
+12 two	soN //
+18 person	xon, kon //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw //
+23 tree	tonmay //
+25 leaf	bamay //
+28 skin	naN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	laN //
+43 tooth	xiaw //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	m3 //
+51 breast	na7ok, uy //
+53 liver	tap //
+54 drink	kin //
+57 see	han //
+58 hear	layin //
+61 die	tay //
+66 come	ma //
+72 sun	tawan, %ph~a atit // from Sanskrit
+74 star	law //
+75 water	nam //
+77 stone	hin //
+82 fire	ph~ay //
+85 path	taNtew //
+86 mountain	loy //
+92 night	kaNkh~3n //
+95 full	ty~Em //
+96 new	may //
+100 name	T3 //
+TAI_LEI_PING{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   24.00  108.00     1840000         zzj
+1 I	kaw //
+2 you	mau //
+3 we	Law // dual, inclusive
+11 one	 //
+12 two	%LoN, yi // loan from Chinese
+18 person	kh~on, ph~u //
+19 fish	pya //
+21 dog	ma //
+22 louse	haw, min // 1. 'headlouse', 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lot //
+31 bone	dok //
+34 horn	 //
+39 ear	vu //
+40 eye	ha //
+41 nose	daN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	kh~au //
+48 hand	mo //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	yin, th~iN //
+61 die	hay //
+66 come	ma //
+72 sun	det // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~ya // 2. 'cliff, rock'
+82 fire	fay //
+85 path	lo //
+86 mountain	doN // hill
+92 night	ham, kh~am, hon //
+95 full	tim //
+96 new	mau //
+100 name	 //
+TAI_LUNGCHOW{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   24.00  108.00     1840000         zzj
+1 I	kaw //
+2 you	mau //
+3 we	law // dual, inclusive
+11 one	noN //
+12 two	%LoN, yi // loan from Chinese
+18 person	kon, pu //
+19 fish	pya //
+21 dog	ma //
+22 louse	haw, min // 1. 'headlouse', 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lot //
+31 bone	duk //
+34 horn	 //
+39 ear	hu //
+40 eye	ha //
+41 nose	daN //
+43 tooth	kh~ew, fan //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	ok // chest
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	hin, tiN //
+61 die	hay //
+66 come	ma //
+72 sun	det // 'sunshine'
+74 star	daw di //
+75 water	nam //
+77 stone	hin, ph~ya // 2. 'cliff, rock'
+82 fire	fay //
+85 path	lo //
+86 mountain	 //
+92 night	kam, kon //
+95 full	tim //
+96 new	mau //
+100 name	 //
+TAI_LUNGMING{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   24.00  108.00     1840000         zzj
+1 I	kaw //
+2 you	mau //
+3 we	law // dual, inclusive
+11 one	 //
+12 two	%soN, yey // loan from Chinese
+18 person	kon, ph~ow //
+19 fish	pya //
+21 dog	ma //
+22 louse	thaw, min // 1. 'headlouse' 2. 'body louse'
+23 tree	ko //
+25 leaf	mau //
+28 skin	naN //
+30 blood	lut //
+31 bone	nok //
+34 horn	 //
+39 ear	low //
+40 eye	th~a //
+41 nose	naN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mou //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	yin, tiN //
+61 die	th~ay //
+66 come	ma //
+72 sun	net // 'sunshine'
+74 star	naw //
+75 water	nam //
+77 stone	th~in, ph~ya // 2. 'cliff, rock'
+82 fire	fay //
+85 path	lo //
+86 mountain	noN // hill
+92 night	ham, hon //
+95 full	tim //
+96 new	mau //
+100 name	%miN // loan from Chinese
+TAI_NING_MING{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   24.00  108.00     1840000         zzj
+1 I	kow //
+2 you	maN //
+3 we	law // dual, inclusive
+11 one	 //
+12 two	%LoN, yi // loan from Chinese
+18 person	ken, ph~ow //
+19 fish	pya //
+21 dog	ma //
+22 louse	haw, men // 1. 'headlouse', 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lut //
+31 bone	duk //
+34 horn	 //
+39 ear	kh~yo //
+40 eye	th~a //
+41 nose	daN //
+43 tooth	hew //
+44 tongue	len //
+47 knee	ho //
+48 hand	mau //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	Nen, toN //
+61 die	th~ay //
+66 come	ma //
+72 sun	det // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hen, ph~ya // 2. 'cliff, rock'
+82 fire	fey //
+85 path	lo //
+86 mountain	doN // hill
+92 night	Nam, hen //
+95 full	tom //
+96 new	mau //
+100 name	 //
+TAI_NONG_KHAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   18.00  103.00     3253700   lao   lao
+1 I	ku //
+2 you	muN //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%soN, yi, 5i // loan from Chinese
+18 person	kh~on, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw, len // 1.'headlouse' 2. 'bodylouse'
+23 tree	ko, ton // 2. 'tree; beginning'
+25 leaf	bay //
+28 skin	naN //
+30 blood	luat //
+31 bone	duk, kaduk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~Ew //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	hen //
+58 hear	5in //
+61 die	tay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~a // 2. 'cliff, rock'
+82 fire	fay //
+85 path	th~aN, hon //
+86 mountain	ph~u //
+92 night	kh~am, kh~un //
+95 full	tem //
+96 new	may //
+100 name	 //
+TAI_PING_SIANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   24.00  108.00     1840000         zzj
+1 I	kaw //
+2 you	mau //
+3 we	law // dual, inclusive
+11 one	nuN //
+12 two	%LoN, yi // loan from Chinese
+18 person	kon, ph~u //
+19 fish	pya //
+21 dog	ma //
+22 louse	haw, min // 1. 'headlouse', 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lot //
+31 bone	dok //
+34 horn	 //
+39 ear	hu //
+40 eye	ha //
+41 nose	daN //
+43 tooth	kh~ew //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	mu //
+51 breast	nom //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	hin, tiN //
+61 die	hay //
+66 come	ma //
+72 sun	det // 'sunshine'
+74 star	daw di //
+75 water	nam //
+77 stone	hin, ph~ya // 2. 'cliff, rock'
+82 fire	fay //
+85 path	lo //
+86 mountain	doN // hill
+92 night	kam, kon //
+95 full	tim //
+96 new	mau //
+100 name	 //
+TAI_PO_AI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai,Nyo-Yo}
+ 1   17.58  103.75        6000         yoy
+1 I	ku //
+2 you	muN //
+3 we	law // dual, inclusive
+11 one	 //
+12 two	%LoN, Ni // loan from Chinese
+18 person	hun //
+19 fish	pya //
+21 dog	ma //
+22 louse	law // 'headlouse'
+23 tree	ko //
+25 leaf	mau //
+28 skin	naN //
+30 blood	lut //
+31 bone	nok //
+34 horn	kaw //
+39 ear	lu //
+40 eye	ta //
+41 nose	naN //
+43 tooth	hew //
+44 tongue	lin //
+47 knee	 //
+48 hand	fuN //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	han //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	naw ni //
+75 water	lam //
+77 stone	hin, pya // 2. 'cliff, rock'
+82 fire	fi //
+85 path	hon //
+86 mountain	 //
+92 night	ham, hun //
+95 full	lim //
+96 new	mo //
+100 name	Su //
+TAI_WESTERN_NUNG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Debao-Jingxi-Nung}
+ 1   21.92  106.42      969000   nun   nut
+1 I	ku //
+2 you	mau //
+3 we	8aw // dual, inclusive
+11 one	 //
+12 two	%soN, Ni, %5i // loan from Chinese, loan from Chinese
+18 person	kon, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	thaw, man // 1. 'headlouse', 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lot //
+31 bone	duk //
+34 horn	kh~aw //
+39 ear	ch~u //
+40 eye	th~a //
+41 nose	daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	kh~aw //
+48 hand	muN //
+51 breast	ak // chest
+53 liver	tap //
+54 drink	 //
+57 see	th~an //
+58 hear	Nin, 5in //
+61 die	th~ay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw di //
+75 water	nam //
+77 stone	ph~a // 'cliff, rock'
+82 fire	fay //
+85 path	taN, lo //
+86 mountain	 //
+92 night	ham, kh~un, hun // //
+95 full	tam //
+96 new	mau //
+100 name	cu //
+TAI_WUMING{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,Yongnan-Yongbei}
+ 1   24.00  108.00     1980000         zyb
+1 I	kaw //
+2 you	 //
+3 we	raw // dual, inclusive
+11 one	 //
+12 two	%8oN // loan from Chinese
+18 person	xun, paw //
+19 fish	pla //
+21 dog	ma //
+22 louse	raw, nan // 1. 'headlouse' 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	luat //
+31 bone	dok //
+34 horn	 //
+39 ear	ru //
+40 eye	ra //
+41 nose	daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	ho //
+48 hand	fau, fuN //
+51 breast	ak // chest
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	ray //
+66 come	ma //
+72 sun	dit // 'sunshine'
+74 star	daw 7doy //
+75 water	ram //
+77 stone	rin, pla // 2. 'cliff, rock'
+82 fire	foy //
+85 path	hon //
+86 mountain	doy //
+92 night	xam, xun //
+95 full	rim //
+96 new	mo //
+100 name	So //
+TAIYANG_AI_CHAM{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Mak-Ai-Cham}
+ 1   25.34  107.43        2700         aih
+1 I	 //
+2 you	N //
+3 we	d3 //
+11 one	deu //
+12 two	ya //
+18 person	aidin //
+19 fish	t3m3m //
+21 dog	t3ma //
+22 louse	t3t3u //
+23 tree	 //
+25 leaf	va //
+28 skin	%p3i // loan from Chinese
+30 blood	phy$at //
+31 bone	dak //
+34 horn	 //
+39 ear	th~a, vath~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	y3u //
+44 tongue	ma //
+47 knee	 //
+48 hand	my~i //
+51 breast	cu //
+53 liver	tap //
+54 drink	z3m //
+57 see	du, kau //
+58 hear	k3th~a //
+61 die	 //
+66 come	taN //
+72 sun	davan //
+74 star	daud3i //
+75 water	nam //
+77 stone	py~a, tui //
+82 fire	v3i //
+85 path	 //
+86 mountain	 //
+92 night	zan //
+95 full	 //
+96 new	mai //
+100 name	dan //
+TAIYANG_AI_CHAM_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Mak-Ai-Cham}
+ 1   25.91  106.73        2700         aih
+1 I	3u //
+2 you	N //
+3 we	di, d3 //
+11 one	deu //
+12 two	ya //
+18 person	aiTin, aidy~in //
+19 fish	t3m3m //
+21 dog	t3ma //
+22 louse	t3t3u //
+23 tree	mai //
+25 leaf	va //
+28 skin	p3i //
+30 blood	phy$at //
+31 bone	dak //
+34 horn	kau //
+39 ear	Th~a, vaTh~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	y3u //
+44 tongue	ma //
+47 knee	Taukau //
+48 hand	my~i //
+51 breast	Su //
+53 liver	tap //
+54 drink	z3m //
+57 see	kau, du //
+58 hear	k3Th~a //
+61 die	tai //
+66 come	taN //
+72 sun	davan //
+74 star	daud3i //
+75 water	nam //
+77 stone	tui, py~a //
+82 fire	v3i //
+85 path	khw$3n //
+86 mountain	pu //
+92 night	t3zan //
+95 full	tik, tik ty~at //
+96 new	mai, mai maN //
+100 name	dan //
+TAY{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai}
+ 1   22.60  105.30     1630000         tyz
+1 I	k3w, k3u //
+2 you	m3u //
+3 we	r3w, r3u //
+11 one	nuN, dEw //
+12 two	LoN //
+18 person	ph~uzau, miN //
+19 fish	py~a //
+21 dog	ma //
+22 louse	th~3w, th~eu //
+23 tree	may, mai //
+25 leaf	b3u //
+28 skin	naN //
+30 blood	lu3t //
+31 bone	duk //
+34 horn	kok //
+39 ear	su //
+40 eye	th~a //
+41 nose	daN //
+43 tooth	kh~Ew, kh~Eu //
+44 tongue	lin //
+47 knee	th~uokh~aw, th~uokh~au //
+48 hand	mu //
+51 breast	3k //
+53 liver	tap //
+54 drink	 //
+57 see	Tiem, Tiew //
+58 hear	diN //
+61 die	th~ay, th~ai //
+66 come	th~3N //
+72 sun	th~awan //
+74 star	daw, dau //
+75 water	nam //
+77 stone	th~in //
+82 fire	v3y, v3i //
+85 path	daN //
+86 mountain	phy$a //
+92 night	xam, xun //
+95 full	tem //
+96 new	m3u //
+100 name	 //
+TEN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS}
+ 1   25.60  107.10       20000         tct
+1 I	 //
+2 you	5a //
+3 we	di //
+11 one	 //
+12 two	za //
+18 person	%yin // loan from Chinese
+19 fish	mem //
+21 dog	ma //
+22 louse	tiw // 'head louse'
+23 tree	may //
+25 leaf	wa //
+28 skin	 //
+30 blood	ph~at //
+31 bone	zak //
+34 horn	paw //
+39 ear	kh~a //
+40 eye	da //
+41 nose	naN //
+43 tooth	wen //
+44 tongue	ma //
+47 knee	 //
+48 hand	mya //
+51 breast	 //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	 //
+72 sun	 //
+74 star	letzut //
+75 water	nam //
+77 stone	tin //
+82 fire	wi //
+85 path	kh~en //
+86 mountain	 //
+92 night	yan //
+95 full	tiek //
+96 new	may //
+100 name	lan //
+TEN_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS}
+ 1   25.60  107.10       20000         tct
+1 I	yiu //
+2 you	5a //
+3 we	rau //
+11 one	to //
+12 two	ra //
+18 person	%yin // loan from Mandarin Chinese
+19 fish	m3m //
+21 dog	ma //
+22 louse	tiu //
+23 tree	 //
+25 leaf	va //
+28 skin	%p3i // loan from Mandarin Chinese
+30 blood	ph~at //
+31 bone	rak //
+34 horn	 //
+39 ear	kh~a //
+40 eye	la //
+41 nose	naN //
+43 tooth	v3n //
+44 tongue	ma //
+47 knee	 //
+48 hand	my~E //
+51 breast	taicu, cu //
+53 liver	tap //
+54 drink	rom //
+57 see	dom //
+58 hear	d3i //
+61 die	tai //
+66 come	taN //
+72 sun	 //
+74 star	cut //
+75 water	ram //
+77 stone	tin //
+82 fire	vi //
+85 path	 //
+86 mountain	 //
+92 night	5am //
+95 full	 //
+96 new	mai //
+100 name	dan //
+THO{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai}
+ 1   22.60  105.30     1630000         tyz
+1 I	ku //
+2 you	 //
+3 we	ra, raw //
+11 one	%et // loan from Chinese
+12 two	%5i, %soN // loan from Chinese
+18 person	 //
+19 fish	pya //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	b3u //
+28 skin	naN //
+30 blood	lu3t //
+31 bone	duk //
+34 horn	kh~aw //
+39 ear	 //
+40 eye	th~a //
+41 nose	daN //
+43 tooth	kh~Ew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	3k, ok //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	5in //
+61 die	th~ay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	th~in, in //
+82 fire	fey //
+85 path	taN //
+86 mountain	pu //
+92 night	kh~un //
+95 full	tem //
+96 new	 //
+100 name	 //
+THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20489750   tha   tha
+1 I	Th~an //
+2 you	dh~ew //
+3 we	rau //
+11 one	hn3N //
+12 two	%soN // probably loan from Middle Chinese (LWT)
+18 person	gon //
+19 fish	pla //
+21 dog	hma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	bai //
+28 skin	hnaN //
+30 blood	l3at //
+31 bone	kraduk //
+34 horn	kh~au //
+39 ear	hu //
+40 eye	ta //
+41 nose	%Tamuk // loan from Khmer (LWT)
+43 tooth	van //
+44 tongue	lin //
+47 knee	kh~au //
+48 hand	m3 //
+51 breast	nom //
+53 liver	tap //
+54 drink	d3m //
+57 see	hen //
+58 hear	yin //
+61 die	tai //
+66 come	ma //
+72 sun	tabwan //
+74 star	dau //
+75 water	nam //
+77 stone	hin //
+82 fire	vai //
+85 path	daN //
+86 mountain	kh~au //
+92 night	g3n //
+95 full	tem //
+96 new	hmai //
+100 name	Z3 //
+THAI_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20489750   tha   tha
+1 I	Th~an, kh~a, kraphom, ku, rao, tu //
+2 you	Taw, %kh~un, m3N, %nay, su, th~an, th~3 // loan from Sanskrit; probably a loan
+3 we	rao //
+11 one	%ek // loan from Sanskrit
+12 two	%soN, %th~o // probably loan from Middle Chinese, loan from Sanskrit
+18 person	kh~on, ph~u //
+19 fish	%matTh~a, %matsaya, pla // loan from Pali, loan from Sanskrit
+21 dog	ma //
+22 louse	hao //
+23 tree	%Th3, may, %ph~r3ksa, %rukkh~a // loan from Modern Mon, loan from Sanskrit, loan from Pali
+25 leaf	bay //
+28 skin	naN //
+30 blood	%lohit, l3at // loan from Sanskrit
+31 bone	kraduk //
+34 horn	kh~ao //
+39 ear	hu //
+40 eye	%net, ta // loan from Sanskrit
+41 nose	%Tamuk // loan from Khmer
+43 tooth	fan, %th~anta, %th~on // both loans from Pali < Sanskrit
+44 tongue	%Th~iwha, lin // loan from Sanskrit
+47 knee	%Th~anu, kh~ao // loan from Sanskrit
+48 hand	%day, %hat, %kon, m3 // loan from Modern Khmer < proto-Mon-Khmer, loan from Sanskrit, loan from Sanskrit
+51 breast	nom, th~an //
+53 liver	tap //
+54 drink	d3m, kin //
+57 see	hen //
+58 hear	%sadap, yin // loan from Khmer
+61 die	%aSan, anitTakam, %banlay, %morana, sia, tay, %taksay, way // loan from Sanskrit, loan from Sanskrit, loan from Sanskrit, loan from Sanskrit
+66 come	ma //
+72 sun	%ph~ra7ath~it, %suriya, tawan, %th~aNay, th~innakon // loan from Sanskrit, loan from Pali < Sanskrit, loan from Old Khmer < proto-Mon-Khmer
+74 star	%dara, daw // loan from Sanskrit
+75 water	%Th~on // loan from Sanskrit
+77 stone	hin //
+82 fire	fay //
+85 path	%lu, th~aN // loan from Ch'ao-chou
+86 mountain	doy //
+92 night	klaNkh~3n, %ratri, rattikan // loan from Sanskrit
+95 full	im //
+96 new	may, %nawa // loan from Sanskrit
+100 name	%Th~3 // probably loan from Middle Chinese
+THAI_3{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20489750   tha   tha
+1 I	ku, kh~a //
+2 you	%kh~uN, th~3 // loan from Sanskrit
+3 we	raw //
+11 one	nuN, diaw //
+12 two	%soN // loan from Chinese
+18 person	kh~on //
+19 fish	pla //
+21 dog	ma //
+22 louse	hau //
+23 tree	tonmay //
+25 leaf	baymay //
+28 skin	%ph~iw, naN // loan from Chinese
+30 blood	luat //
+31 bone	kraduk //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	huakh~aw //
+48 hand	mu //
+51 breast	tawnom //
+53 liver	tap //
+54 drink	dum //
+57 see	hen //
+58 hear	faN, dayyin //
+61 die	tay //
+66 come	ma //
+72 sun	ph~ra7ath~it //
+74 star	daw, du3Ndaw //
+75 water	nam //
+77 stone	hin //
+82 fire	fay //
+85 path	honth~aN, th~anon //
+86 mountain	ph~ukh~aw, doy //
+92 night	kh~un //
+95 full	tem //
+96 new	may //
+100 name	Sh~u, %nam // Sanskrit loanword
+TIANZHU_SHIDONG_NORTHERN_DONG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam,Kamic,NorthernKam}
+ 1   27.00  109.00      463000   kzh   doc
+1 I	yau //
+2 you	5a //
+3 we	tau //
+11 one	%y3t, yi // Chinese loanword
+12 two	ya, %5i // Chinese loanword
+18 person	%y3n // Chinese loanword
+19 fish	ta //
+21 dog	kw~a //
+22 louse	n3i //
+23 tree	 //
+25 leaf	pa //
+28 skin	ala, ky~a //
+30 blood	tat //
+31 bone	la7 //
+34 horn	 //
+39 ear	ka //
+40 eye	ta //
+41 nose	naN //
+43 tooth	py~3n //
+44 tongue	ma //
+47 knee	 //
+48 hand	my~a //
+51 breast	mi //
+53 liver	%s3m // loanword
+54 drink	wum //
+57 see	nu //
+58 hear	saNka //
+61 die	t3i //
+66 come	ma //
+72 sun	tauw3n //
+74 star	s3tmy~an //
+75 water	n3m //
+77 stone	py~a, tin //
+82 fire	wi //
+85 path	k3n //
+86 mountain	 //
+92 night	han //
+95 full	 //
+96 new	m3i //
+100 name	tan //
+WANGMO_BOUYEI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   25.18  106.10     2649100   yay   pcc
+1 I	ku //
+2 you	muN //
+3 we	pozau, potu //
+11 one	deu, %it // loan from Chinese
+12 two	%soN, %Ni // loan from Chinese
+18 person	hun //
+19 fish	py~a //
+21 dog	ma //
+22 louse	zau //
+23 tree	fai, kofai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lit //
+31 bone	do //
+34 horn	kau //
+39 ear	zie, bauzie //
+40 eye	eye //
+41 nose	daN //
+43 tooth	Zeu, fan //
+44 tongue	lin //
+47 knee	mauho, Cauho //
+48 hand	fuN //
+51 breast	mE //
+53 liver	tap //
+54 drink	kun, dot //
+57 see	nen, Zeu //
+58 hear	5ie, ka5ie //
+61 die	tai //
+66 come	ma, tau //
+72 sun	taNNon, dandat //
+74 star	daudi //
+75 water	zam //
+77 stone	zin //
+82 fire	fi //
+85 path	zon, lo //
+86 mountain	po //
+92 night	CaNhun, Cahun //
+95 full	zim //
+96 new	mo //
+100 name	miNSo, So //
+WHITE_THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,WhiteTai}
+ 1   21.42  104.42      495000         twh
+1 I	ku //
+2 you	mu //
+3 we	haw //
+11 one	%et // Chinese loanword
+12 two	%5i, %soN // loan from Chinese
+18 person	 //
+19 fish	pa //
+21 dog	ma //
+22 louse	 //
+23 tree	 //
+25 leaf	b3u //
+28 skin	naN //
+30 blood	l3t //
+31 bone	du7 //
+34 horn	qh~aw //
+39 ear	 //
+40 eye	ta //
+41 nose	daN //
+43 tooth	qh~Ew //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	uk, ok //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	nin //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	hin, in //
+82 fire	fay //
+85 path	taN //
+86 mountain	pu //
+92 night	qh~un //
+95 full	tim //
+96 new	 //
+100 name	 //
+WHITE_THAI_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,WhiteTai}
+ 1   21.42  104.42      495000         twh
+1 I	ku //
+2 you	muN //
+3 we	haw // dual, inclusive
+11 one	nuN //
+12 two	%soN // loan from Chinese
+18 person	kun, ph~u //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw // 'headlouse'
+23 tree	ko, tun // 2.'tree; beginning'
+25 leaf	bau //
+28 skin	naN //
+30 blood	lot //
+31 bone	dup //
+34 horn	xaw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xEw //
+44 tongue	lin //
+47 knee	xaw //
+48 hand	mu //
+51 breast	num //
+53 liver	tap //
+54 drink	 //
+57 see	hin //
+58 hear	Nin //
+61 die	tay //
+66 come	ma //
+72 sun	dEt // 'sunshine'
+74 star	daw //
+75 water	nam //
+77 stone	hin, ph~a // 2. 'cliff, rock'
+82 fire	fay //
+85 path	taN //
+86 mountain	pu //
+92 night	xam, xun // 1. evening
+95 full	tim //
+96 new	mau //
+100 name	cu //
+WHITE_THAI_3{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,WhiteTai}
+ 1   21.42  104.42      495000         twh
+1 I	 //
+2 you	m3N //
+3 we	haw //
+11 one	 //
+12 two	%soN // loan from Chinese
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw // 'head louse'
+23 tree	may //
+25 leaf	bay //
+28 skin	naN //
+30 blood	l3t //
+31 bone	dup //
+34 horn	xaw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	xEw, fan //
+44 tongue	lin //
+47 knee	xaw //
+48 hand	m3 //
+51 breast	3k //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw //
+75 water	nam //
+77 stone	hin //
+82 fire	fay //
+85 path	 //
+86 mountain	 //
+92 night	x3n //
+95 full	tim //
+96 new	may //
+100 name	C3 //
+WU_MING{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,Yongnan-Yongbei}
+ 1   22.60  108.00     1980000         zyb
+1 I	 //
+2 you	 //
+3 we	raw //
+11 one	 //
+12 two	%83N // loan from Chinese
+18 person	xun //
+19 fish	pla //
+21 dog	ma //
+22 louse	nan, raw // 1. 'body louse', 2. 'head louse'
+23 tree	fay //
+25 leaf	bay //
+28 skin	naN //
+30 blood	l3at //
+31 bone	d3k //
+34 horn	 //
+39 ear	r3 //
+40 eye	ra //
+41 nose	daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	h3 //
+48 hand	fay, f3n //
+51 breast	ak //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	ray //
+66 come	ma //
+72 sun	 //
+74 star	daw, doi //
+75 water	ram //
+77 stone	rin //
+82 fire	foy //
+85 path	hon //
+86 mountain	 //
+92 night	x3n //
+95 full	rim //
+96 new	m3 //
+100 name	s3 //
+WUDING_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,UnclassifiedShan}
+ 1   25.53  102.40       85000         tiz
+1 I	kau //
+2 you	mai //
+3 we	hau //
+11 one	l3N, it //
+12 two	soN //
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	tunmai //
+25 leaf	vai, f3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	xau //
+39 ear	hu //
+40 eye	ta //
+41 nose	laN //
+43 tooth	siu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	u //
+53 liver	tat //
+54 drink	lun //
+57 see	hen, han //
+58 hear	5in //
+61 die	tai //
+66 come	ma //
+72 sun	van //
+74 star	laulau //
+75 water	nan //
+77 stone	hin //
+82 fire	fai //
+85 path	taN //
+86 mountain	loi //
+92 night	kaNxun //
+95 full	tin //
+96 new	mai //
+100 name	Cu //
+WUMING_YONGBEI_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,Yongnan-Yongbei}
+ 1   23.09  108.16     1980000         zyb
+1 I	kau //
+2 you	muN //
+3 we	fanxau //
+11 one	deu //
+12 two	%8oN // loan from Chinese
+18 person	wun //
+19 fish	pla //
+21 dog	ma //
+22 louse	xau //
+23 tree	fai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lu3t //
+31 bone	dok //
+34 horn	 //
+39 ear	xu //
+40 eye	xa //
+41 nose	daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	 //
+48 hand	fau //
+51 breast	nau //
+53 liver	tap //
+54 drink	ku //
+57 see	xan //
+58 hear	tiN //
+61 die	xai //
+66 come	ma, tau //
+72 sun	ky~aNNon //
+74 star	daudai //
+75 water	xam //
+77 stone	xin //
+82 fire	fai //
+85 path	xon //
+86 mountain	 //
+92 night	ky~aNNun //
+95 full	 //
+96 new	mo //
+100 name	 //
+WUMING_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,Yongnan-Yongbei}
+ 1   23.16  108.27     1980000         zyb
+1 I	kou //
+2 you	muN //
+3 we	xau, tau //
+11 one	deu, %it // loan from Chinese
+12 two	%soN, Nei // loan from Chinese
+18 person	vun //
+19 fish	pla //
+21 dog	ma //
+22 louse	xau //
+23 tree	fai //
+25 leaf	bau //
+28 skin	naN //
+30 blood	lut //
+31 bone	dok //
+34 horn	kok //
+39 ear	xu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	fan, heu //
+44 tongue	lin //
+47 knee	rauho //
+48 hand	fu //
+51 breast	nau //
+53 liver	tap //
+54 drink	kun, dum //
+57 see	7y~au //
+58 hear	%tiN, Ni // Chinese
+61 die	xai, tai //
+66 come	ma, tau //
+72 sun	kyaNNon //
+74 star	daudaudi, daudai //
+75 water	xam //
+77 stone	xin //
+82 fire	fei //
+85 path	hon, lo //
+86 mountain	pla, doi //
+92 night	ham, hun //
+95 full	xim //
+96 new	mo //
+100 name	So //
+XIANAN_MAONAN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Then-MMS,Maonan-Mak-Sui,Maonan-Chadong}
+ 1   24.96  108.00       30000         mmd
+1 I	he //
+2 you	N //
+3 we	nd~e //
+11 one	to, dEu //
+12 two	ya, %5i // loan from Chinese
+18 person	%z3n // loan from Chinese
+19 fish	mby$ai //
+21 dog	ma //
+22 louse	tu //
+23 tree	mai //
+25 leaf	va //
+28 skin	%pi // loan from Chinese
+30 blood	phy$at //
+31 bone	dak //
+34 horn	Nau //
+39 ear	kh~a //
+40 eye	nd~a //
+41 nose	7n~aN //
+43 tooth	hiu //
+44 tongue	ma //
+47 knee	kamko //
+48 hand	sim //
+51 breast	sE, cE //
+53 liver	tap //
+54 drink	nam //
+57 see	kau //
+58 hear	7n~i //
+61 die	tai //
+66 come	taN //
+72 sun	lakvan //
+74 star	z3t //
+75 water	nam //
+77 stone	tui //
+82 fire	vi //
+85 path	kh~un //
+86 mountain	koNpy~a //
+92 night	taSen, liSen //
+95 full	tik //
+96 new	mai //
+100 name	dan //
+YANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,Lue-Yong}
+ 1   21.38  101.97      550960    lu   khb
+1 I	ku //
+2 you	m3N //
+3 we	ph~ok haw //
+11 one	n3N //
+12 two	%soN // probably loan from Middle Chinese
+18 person	kun //
+19 fish	pa //
+21 dog	ma //
+22 louse	haw //
+23 tree	kok may //
+25 leaf	bau may //
+28 skin	naN //
+30 blood	l3t //
+31 bone	dup //
+34 horn	kh~aw //
+39 ear	hu //
+40 eye	ta //
+41 nose	daN //
+43 tooth	kh~aw //
+44 tongue	lin //
+47 knee	 //
+48 hand	mu //
+51 breast	nu //
+53 liver	 //
+54 drink	kin nam //
+57 see	b3N //
+58 hear	faN //
+61 die	tay //
+66 come	ma //
+72 sun	ta vin //
+74 star	daw //
+75 water	nam //
+77 stone	ma7 hin //
+82 fire	fay //
+85 path	kaN th~aN //
+86 mountain	po //
+92 night	naN kh~un //
+95 full	tim //
+96 new	mau //
+100 name	su //
+YAY{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.42  104.75     2649100   yay   pcc
+1 I	ku //
+2 you	muN //
+3 we	raw // dual, inclusive //
+11 one	 //
+12 two	%8oN, %Ni // loan from Chinese, loan from Chinese
+18 person	hun, pu //
+19 fish	pya //
+21 dog	ma //
+22 louse	raw, nan // 1. 'headlouse' 2. 'body louse'
+23 tree	ko //
+25 leaf	bau //
+28 skin	naN //
+30 blood	luat //
+31 bone	dok //
+34 horn	kaw //
+39 ear	rua //
+40 eye	ta //
+41 nose	daN //
+43 tooth	hew //
+44 tongue	lin //
+47 knee	ho //
+48 hand	fuN //
+51 breast	ak // chest
+53 liver	tap //
+54 drink	 //
+57 see	ran //
+58 hear	5ia //
+61 die	tay //
+66 come	ma //
+72 sun	dit // 'sunshine'
+74 star	daw di //
+75 water	ram //
+77 stone	rin //
+82 fire	fi //
+85 path	ran //
+86 mountain	 //
+92 night	ham, hun //
+95 full	rim //
+96 new	mo //
+100 name	so //
+YAY_2{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.42  104.75     2649100   yay   pcc
+1 I	 //
+2 you	m3N //
+3 we	raw //
+11 one	 //
+12 two	%8oN //
+18 person	hun //
+19 fish	pya //
+21 dog	ma //
+22 louse	nan, raw // 1. 'body louse', 2. 'head louse'
+23 tree	may //
+25 leaf	bay //
+28 skin	naN //
+30 blood	l3at //
+31 bone	dok //
+34 horn	kaw //
+39 ear	r3a //
+40 eye	ta //
+41 nose	daN //
+43 tooth	hew, fan //
+44 tongue	lin //
+47 knee	ho //
+48 hand	f3n //
+51 breast	ak //
+53 liver	tap //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	tay //
+66 come	ma //
+72 sun	 //
+74 star	daw, di //
+75 water	ram //
+77 stone	rin //
+82 fire	fi //
+85 path	ran //
+86 mountain	 //
+92 night	h3n //
+95 full	rim //
+96 new	mo //
+100 name	so //
+YONGNAN_CENTRAL_HONGSHUIHE_ZHUANG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   22.44  108.20     1080000         zch
+1 I	kou //
+2 you	muN //
+3 we	hlau //
+11 one	3t //
+12 two	LoN, yei //
+18 person	hun //
+19 fish	pla //
+21 dog	ma //
+22 louse	th~au //
+23 tree	mai //
+25 leaf	mai //
+28 skin	naN //
+30 blood	lit //
+31 bone	nok //
+34 horn	 //
+39 ear	hli //
+40 eye	th~a //
+41 nose	naN //
+43 tooth	fan //
+44 tongue	l3n //
+47 knee	 //
+48 hand	mei //
+51 breast	neu //
+53 liver	tap //
+54 drink	kun //
+57 see	th~an //
+58 hear	th~iN //
+61 die	th~ai //
+66 come	tou //
+72 sun	 //
+74 star	naunei //
+75 water	nam //
+77 stone	th~3n //
+82 fire	fei //
+85 path	hlon //
+86 mountain	 //
+92 night	ham //
+95 full	 //
+96 new	mo //
+100 name	 //
+YUANJIANG_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP,ShanTai,UnclassifiedShan}
+ 1   23.60  102.00       85000         tiz
+1 I	kau //
+2 you	m3 //
+3 we	hau //
+11 one	n3N, Et //
+12 two	LoN //
+18 person	kon //
+19 fish	py~a //
+21 dog	ma //
+22 louse	hau //
+23 tree	mai, komai //
+25 leaf	vau //
+28 skin	naN //
+30 blood	ly~ut //
+31 bone	lou //
+34 horn	xau //
+39 ear	ch~u //
+40 eye	ha //
+41 nose	laN //
+43 tooth	Siu //
+44 tongue	lin //
+47 knee	voxau //
+48 hand	mu //
+51 breast	cu7u //
+53 liver	tat //
+54 drink	ci, Lot //
+57 see	th~um, vaN //
+58 hear	faN, lai5in //
+61 die	hai //
+66 come	ma //
+72 sun	havEn //
+74 star	lau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	xataN //
+86 mountain	vopu //
+92 night	cuxun //
+95 full	tEm //
+96 new	mau //
+100 name	cu //
+YUANYANG_TAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternTaiP}
+ 1   23.22  102.84       50400         cuu
+1 I	kau //
+2 you	mau //
+3 we	hau //
+11 one	n3N, it //
+12 two	soN //
+18 person	k3n //
+19 fish	pa //
+21 dog	ma //
+22 louse	hau //
+23 tree	komai //
+25 leaf	vau //
+28 skin	naN //
+30 blood	l3t //
+31 bone	luk //
+34 horn	xau //
+39 ear	hu //
+40 eye	ta //
+41 nose	laN //
+43 tooth	xiu //
+44 tongue	lin //
+47 knee	hoxau //
+48 hand	mu //
+51 breast	u //
+53 liver	tap //
+54 drink	kin, lim //
+57 see	toN, han //
+58 hear	faN, laiyin //
+61 die	tai //
+66 come	ma //
+72 sun	tavan //
+74 star	lau //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	xuntaN //
+86 mountain	loi //
+92 night	kaNx3n //
+95 full	tim //
+96 new	mau //
+100 name	cu //
+ZHANGLU_DONG{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Kam-Sui|@Tai-Kadai,Kam-Tai,Kam-Sui,Mulam-Kam,Kamic,NorthernKam}
+ 1   25.93  108.52      463000   kzh   doc
+1 I	yau //
+2 you	5a //
+3 we	ty~iu //
+11 one	%i, %et // both Chinese
+12 two	%ya, %5i // both Chinese
+18 person	%53n // Chinese
+19 fish	pa //
+21 dog	Nw~a //
+22 louse	tau //
+23 tree	m3i //
+25 leaf	pa //
+28 skin	%pi // loan from Chinese
+30 blood	ph~at //
+31 bone	lak //
+34 horn	pau //
+39 ear	kh~a //
+40 eye	ta //
+41 nose	naN //
+43 tooth	py~an //
+44 tongue	ma //
+47 knee	kuNkw~au //
+48 hand	my~a //
+51 breast	mi, kuNmi //
+53 liver	tap //
+54 drink	ty~aN, ty~i //
+57 see	naN, t3i //
+58 hear	thy$iN //
+61 die	t3i //
+66 come	ma, taN //
+72 sun	taman //
+74 star	S3t //
+75 water	nam //
+77 stone	py~a, ty~in //
+82 fire	pui //
+85 path	khw$3n //
+86 mountain	ty~3n //
+92 night	ty~an //
+95 full	tik //
+96 new	m3i //
+100 name	kw~an //
+ZHUANG_NORTHERN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Northern|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic,NorthernTai}
+ 1   24.00  108.00     1000000         zgn
+1 I	kou //
+2 you	m3N //
+3 we	tou //
+11 one	deu //
+12 two	Nei //
+18 person	vun //
+19 fish	py~a //
+21 dog	ma //
+22 louse	xau //
+23 tree	fai //
+25 leaf	ba3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	dok //
+34 horn	kau //
+39 ear	x3 //
+40 eye	ta //
+41 nose	daN //
+43 tooth	fan //
+44 tongue	lin //
+47 knee	ky~auho //
+48 hand	f3N //
+51 breast	 //
+53 liver	tap //
+54 drink	dot //
+57 see	ya3 //
+58 hear	tiN //
+61 die	tai //
+66 come	tau //
+72 sun	taNNon //
+74 star	daudei //
+75 water	xam //
+77 stone	xin //
+82 fire	fei //
+85 path	xon //
+86 mountain	doi //
+92 night	ky~aNh3n //
+95 full	xim //
+96 new	moi //
+100 name	%miNsi // loan from Chinese?
+ZHUANG_SOUTHERN{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Central|@Tai-Kadai,Kam-Tai,Be-Tai,Daic,NorthernDaic}
+ 1   22.37  106.87     1840000         zzj
+1 I	kau //
+2 you	ma3 //
+3 we	huNlau //
+11 one	n3N //
+12 two	yi //
+18 person	k3n //
+19 fish	py~a //
+21 dog	ma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	ba3 //
+28 skin	naN //
+30 blood	l3t //
+31 bone	duk //
+34 horn	kok //
+39 ear	pihu //
+40 eye	makha //
+41 nose	makdaN //
+43 tooth	kh~eu //
+44 tongue	lin //
+47 knee	hukh~au //
+48 hand	m3 //
+51 breast	 //
+53 liver	tap //
+54 drink	kin //
+57 see	yom //
+58 hear	tiN //
+61 die	hai //
+66 come	ma //
+72 sun	havan //
+74 star	daudi //
+75 water	nam //
+77 stone	hin //
+82 fire	fai //
+85 path	lo //
+86 mountain	doN //
+92 night	ky~aNk3n //
+95 full	tim //
+96 new	ma3 //
+100 name	%miN // loan from Chinese?
+

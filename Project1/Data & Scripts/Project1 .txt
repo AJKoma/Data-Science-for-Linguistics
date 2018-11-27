@@ -1,0 +1,110 @@
+cat census-dist-female-first.txt census-dist-male-first.txt > census-dist-all-first.txt
+
+tr -sc 'A-Za-z' '\n' < census-dist-all-first.txt > all.first.txt 
+tr '[A-Za-z]' 'c' < all.first.txt | sort | uniq -c | sort > c-frequency.txt
+awk '{printf ("%s \t",$1);printf("%s \n",expr length($2))}' c-frequency.txt 
+# Ranked length
+
+
+$ tr -sc '^.*[AEIOUY]+.*$' '\n' < all.first.txt | sort | uniq
+# all combinations of vowels
+
+tr -s '^.*[AEIOUY]+.*$' '\n' < all.first.txt | sort | uniq
+# all combinations of consonants
+
+cp all.first.txt all.firstcopy.txt
+sed -i 's/GUE\b/c/' all.firstcopy.txt
+sed -i 's/QUE\b/c/' all.firstcopy.txt
+sed -i 's/ION\b/vc/' all.firstcopy.txt
+sed -i 's/DGE\b/c/' all.firstcopy.txt
+sed -i 's/THE\b/c/' all.firstcopy.txt
+sed -i 's/LE\b/c/' all.firstcopy.txt
+sed -i 's/AL\b/c/' all.firstcopy.txt
+sed -i 's/EL\b/c/' all.firstcopy.txt
+sed -i 's/UL\b/c/' all.firstcopy.txt
+# replace endings of GUE\QUE\ION\GE\DGE\THE\LE\AL\EL\UL
+
+egrep '[^AEIOU]E$' < all.firstcopy.txt | sed -i 's/E\b//' all.firstcopy.txt
+# delete remaining silent E$s behind consonants
+
+egrep '[AEIOU]R[AEIOU]' < all.firstcopy.txt
+sed 's/[AEIOU]R[AEIOU]/vcv/g' < all.firstcopy.txt > v.txt
+# if [AEIOU]R[AEIOU] -> replace with 'vcv' 
+
+sed 's/\(B\|BB\|BT\|C\|CK\|CH\|CC\|D\|DD\|LD\|F\|FF\|G\|GG\|GU\|GH\|GN\|HH\|J\|JJ\|K\|KK\|KN\|L\|LL\|LF\|M\|MM\|N\|NN\|NG\|P\|PH\|PS\|PP\|PN\|Q\|QQ\|R\|RR\|S\|SH\|SS\|SC\|T\|BT\|GHT\|TT\|TH\|TCH\|V\|VV\|W\|WW\|WH\|X\|XX\|Z\|ZZ\)/c/g' v.txt > c.txt
+# replace repeat consonants and combination
+
+sed 's/\bH/c/' c.txt | sed 's/H//g' | sed 's/[BCDFGJKLMNPQRSTVWXZ]/c/g' > v2.txt
+# determine H and the remaining consonants
+
+sed 's/\(A\|AE\|AY\|AI\|AW\|AU\|AUGH\|E\|EE\|EW\|EA\|EI\|EY\|EU\|EIGH\|EO\|I\|IE\|II\|IGH\|O\|OE\|OA\|OW\|OU\|OO\|OUGH\|OI\|OY\|U\|UY\|UR\|UE\|UI\|Y\)/v/g' v2.txt > Syllable.txt | sort | uniq -c | sort -r
+
+# replace vowels[combination] > Syllable.txt 
+
+
+
+
+
+sed 's/\(DE\b\|QUE\b\|GUE\b\|GG\b\)/stops_/' all.first.txt > phonic1.txt  #ending stops
+#
+sed -i 's/\(CE\b\|SE\b\|\THE\b\|VE\b\|FE\b\|ZE\b|THE\b\)/fricatives_/' phonic1.txt #ending fricatives
+sed -i 's/\(SION\b\|CION\b\|TION\b\)/fricativesION_/' phonic1.txt #ending Fricatives [SION CION TION]
+sed -i 's/\(\bX\|\bH\)/fricatives_/' phonic1.txt #Starting Fricativess[H,X]
+sed -i 's/\bWHO/fricativesO_/' phonic1.txt #Starting Fricativess[WHo]
+#
+sed -i 's/\(TURE\b\)/affricates_URE/' phonic1.txt #ending Affricates[TURE]
+sed -i 's/\(GE\b\|DGE\b\)/affricates_/' phonic1.txt #ending Affricates
+sed -i 's/\bGE/affricates_E/' phonic1.txt #Starting Affricates[GE]
+#_
+sed -i 's/\(ME\b\|GN\b\|NE\b\)/nasals_/' phonic1.txt #ending nasals[ME|GN|NE]
+#
+sed -i 's/\(LE\b\|AL\b\|EL\b\|UL\b\|IL\b\|LL\b\)/nasals_/' phonic1.txt #ending liquids
+#
+sed -i 's/\bU/glides_/' phonic1.txt #starting Glides
+
+
+
+sed 's/\(B\|BB\|BT\|GHT\|C\|CK\|CC\|D\|DD\|LD\|G\|GU\|GH\|K\|KK\|P\|PP\|Q\|QQ\|T\|TT\|GHT\)/stops_/g' phonic1.txt > phonic2.txt 
+#normal stops pattern
+sed -i 's/\(F\|FF\|LF\||P\|PH\|PS\|S\|SS\|SC\|SH\|TH\|TCH\|V\|VV\|Z\|ZZ\)/fricatives_/g' phonic2.txt 
+#normal Fricatives pattern
+sed -i 's/\(CH\|TCH\|GG\|J\|JJ\)/affricates_/g' phonic2.txt 
+#normal Affricates pattern
+sed -i 's/\(M\|MM\|MB\|MN\|N\|NN\|KN\|PN\|GN\|EN\|AN\|NG\)/nasals_/g' phonic2.txt  
+#normal Nasals pattern 
+sed -i 's/\(L\|LL\|R\|RR\|WR\|RH\)/liquids_/g' phonic2.txt
+#normal Liquids pattern
+sed -i 's/\(W\|WH\|UI\|IO\)/glides_/g' phonic2.txt
+#normal Glides pattern
+sed -i 's/H//g' phonic2.txt
+#delete all the remianing silent Hs
+sed -i 's/X/stopsfricative_/g' phonic2.txt
+#replace all the remaining Xs.
+egrep '[BCDFGHJKLMNPQRSTVWXZ]' phonic2.txt
+#check to see if there's remaining Manner of articulations.
+
+sed 's/\(EE\|OO\|\bY\)/high_/' phonic2.txt > phonic.txt
+#sepcial vowel pattern
+sed -i 's/A[AEIOU]\?/low_/g' phonic.txt 
+sed -i 's/E[AEIOU]\?/mid_/g' phonic.txt 
+sed -i 's/I[AEIOU]\?/high_/g' phonic.txt 
+sed -i 's/O[AEIOU]\?/mid_/g' phonic.txt 
+sed -i 's/U[AEIOU]\?/high_/g' phonic.txt
+#replace vowels
+
+sed -i 's/low_Y$/low/' phonic.txt
+sed -i 's/mid_Y$/mid/' phonic.txt
+#delete the ending Ys whose pronanciation follows the previous low/mid vowels
+sed -i 's/Y/high_/' phonic.txt
+
+egrep [A-Z] phonic.txt
+
+cat phonic.txt | sort | uniq -c | sort -r | head -n20
+
+PROBLEMS C G S X Vowels.
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+### 1 ###
+tr -sc 'A-Za-z' '\n' < alice.txt  | tr '[:upper:]' '[:lower:]' > words.txt
+sed 's/[aeiou].*$//g' words.txt | sort | uniq -c | sort -r | head > HW1.result.txt
+tr -sc 'A-Za-z' '\n' < alice.txt  | tr '[:upper:]' '[:lower:]' | rev > words2.txt
+sed 's/[aeiou].*$//g' words2.txt | rev | sort | uniq -c | sort -r | head >> HW1.result.txt
+
+### 2 ###
+tr -sc 'A-Za-z' '\n' < alice.txt > alice.words
+tail -n +2 alice.words > alice.nextwords
+tail -n +3 alice.words > alice.nnwords
+paste alice.words alice.nextwords | sort | uniq -c | sort -r > alice.bigrams
+paste alice.words alice.nextwords alice.nnwords | sort | uniq -c | sort -r >alice.trigrams
+
+head -n 10 alice.bigrams >> HW1.result.txt
+head -n 10 alice.trigrams >> HW1.result.txt
+
+### 3 ###
+cat shakes/*.txt > shakes.txt
+cat dekker/*.txt > dekker.txt
+cat johnson/*.txt > johnson.txt
+cat marlowe/*.txt > marlowe.txt
+cat middleton/*.txt > middleton.txt
+cat webster/*.txt > webster.txt
+#combine each author's works
+tr -sc 'A-Za-z' '\n' < shakes.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > shakes.words
+wc -l shakes.words > words.results.txt
+tr -sc 'A-Za-z' '\n' < dekker.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > dekker.words
+wc -l dekker.words >> words.results.txt
+tr -sc 'A-Za-z' '\n' < johnson.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > johnson.words 
+wc -l johnson.words >> words.results.txt
+tr -sc 'A-Za-z' '\n' < marlowe.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > marlowe.words 
+wc -l marlowe.words >> words.results.txt
+tr -sc 'A-Za-z' '\n' < middleton.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > middleton.words
+wc -l middleton.words >> words.results.txt
+tr -sc 'A-Za-z' '\n' < webster.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > webster.words
+wc -l webster.words >> words.results.txt
+#count of each author
+cat dekker.txt johnson.txt marlowe.txt middleton.txt webster.txt > allother.txt
+tr -sc 'A-Za-z' '\n' < allother.txt | tr '[:upper:]' '[:lower:]' | sort | uniq > allothers.words
+wc -l allothers.words >> words.results.txt
+#count of all author except Shakespeare
+cat words.results.txt >> HW1.result.txt
+
+
+### 4 ###
+cat inaugural/*.txt > all.txt
+tr -sc '[A-Za-z]' '\n' < all.txt | sort | uniq -c | sort -r > all.words
+# all words tokenized and sorted
+cat inaugural/178*.txt > 178_.txt
+tr -sc '[A-Za-z]' '\n' < 178_.txt | sort | uniq -c | sort -r
+cat inaugural/179*.txt > 179_.txt
+tr -sc '[A-Za-z]' '\n' < 179_.txt | sort | uniq -c | sort -r
+cat inaugural/180*.txt > 180_.txt
+tr -sc '[A-Za-z]' '\n' < 180_.txt| sort | uniq -c | sort -r
+cat inaugural/181*.txt > 181_.txt
+tr -sc '[A-Za-z]' '\n' < 181_.txt| sort | uniq -c | sort -r
+cat inaugural/182*.txt > 182_.txt
+tr -sc '[A-Za-z]' '\n' < 182_.txt | sort | uniq -c | sort -r
+cat inaugural/183*.txt > 183_.txt
+tr -sc '[A-Za-z]' '\n' < 183_.txt | sort | uniq -c | sort -r
+cat inaugural/184*.txt > 184_.txt
+tr -sc '[A-Za-z]' '\n' < 184_.txt| sort | uniq -c | sort -r
+cat inaugural/185*.txt > 185_.txt
+tr -sc '[A-Za-z]' '\n' < 185_.txt | sort | uniq -c | sort -r
+cat inaugural/186*.txt > 186_.txt
+tr -sc '[A-Za-z]' '\n' < 186_.txt | sort | uniq -c | sort -r
+cat inaugural/187*.txt > 187_.txt
+tr -sc '[A-Za-z]' '\n' < 187_.txt | sort | uniq -c | sort -r
+cat inaugural/188*.txt > 188_.txt
+tr -sc '[A-Za-z]' '\n' < 188_.txt | sort | uniq -c | sort -r
+cat inaugural/189*.txt > 189_.txt
+tr -sc '[A-Za-z]' '\n' < 189_.txt | sort | uniq -c | sort -r
+cat inaugural/190*.txt > 190_.txt
+tr -sc '[A-Za-z]' '\n' < 190_.txt | sort | uniq -c | sort -r
+cat inaugural/191*.txt > 191_.txt
+tr -sc '[A-Za-z]' '\n' < 191_.txt | sort | uniq -c | sort -r
+cat inaugural/192*.txt > 192_.txt
+tr -sc '[A-Za-z]' '\n' < 192_.txt | sort | uniq -c | sort -r
+cat inaugural/193*.txt > 193_.txt
+tr -sc '[A-Za-z]' '\n' < 193_.txt | sort | uniq -c | sort -r
+cat inaugural/194*.txt > 194_.txt
+tr -sc '[A-Za-z]' '\n' < 194_.txt | sort | uniq -c | sort -r
+cat inaugural/195*.txt > 195_.txt
+tr -sc '[A-Za-z]' '\n' < 195_.txt | sort | uniq -c | sort -r
+cat inaugural/196*.txt > 196_.txt
+tr -sc '[A-Za-z]' '\n' < 196_.txt | sort | uniq -c | sort -r
+cat inaugural/197*.txt > 197_.txt
+tr -sc '[A-Za-z]' '\n' < 197_.txt | sort | uniq -c | sort -r
+cat inaugural/198*.txt > 198_.txt
+tr -sc '[A-Za-z]' '\n' < 198_.txt | sort | uniq -c | sort -r
+cat inaugural/199*.txt > 199_.txt
+tr -sc '[A-Za-z]' '\n' < 199_.txt | sort | uniq -c | sort -r
+cat inaugural/200*.txt > 200_.txt
+tr -sc '[A-Za-z]' '\n' < 200_.txt | sort | uniq -c | sort -r
+#devided into decades
+
+egrep -wc 'war' *_.txt > topics.result.txt
+egrep -wc 'jobs' *_.txt >> topics.result.txt
+egrep -wc 'government' *_.txt >> topics.result.txt
+egrep -wc 'people' *_.txt >> topics.result.txt
+egrep -wc 'world' *_.txt >> topics.result.txt
+egrep -wc 'state' *_.txt >> topics.result.txt
+egrep -wc 'nation' *_.txt >> topics.result.txt
+egrep -wc 'country' *_.txt >> topics.result.txt
+egrep -wc 'citizen' *_.txt >> topics.result.txt
+egrep -wc 'power' *_.txt >> topics.result.txt
+egrep -wc 'public' *_.txt >> topics.result.txt
+egrep -wc 'freedom' *_.txt >> topics.result.txt
+egrep -wc 'constitution' *_.txt >> topics.result.txt
+egrep -wc 'spirit' *_.txt >> topics.result.txt
+egrep -wc 'law' *_.txt >> topics.result.txt
+egrep -wc 'justice' *_.txt >> topics.result.txt
+egrep -wc 'liberty' *_.txt >> topics.result.txt
+egrep -wc 'political' *_.txt >> topics.result.txt
+egrep -wc 'foreign' *_.txt >> topics.result.txt
+egrep -wc 'policy' *_.txt >> topics.result.txt
+egrep -wc 'history' *_.txt >> topics.result.txt
+egrep -wc 'republic' *_.txt >> topics.result.txt
+egrep -wc 'commerce' *_.txt >> topics.result.txt
+egrep -wc 'security' *_.txt >> topics.result.txt
+egrep -wc 'business' *_.txt >> topics.result.txt
+egrep -wc 'civil' *_.txt >> topics.result.txt
+egrep -wc 'welfare' *_.txt >> topics.result.txt
+egrep -wc 'territory' *_.txt >> topics.result.txt
+egrep -wc 'population' *_.txt >> topics.result.txt
+#topic search
+cat topics.result.txt | sed 's/\t/,/g;s/[[:space:]]//g' >result2.csv	
+#spreedsheet pre process
+cat topics.result.txt >>HW1.result.txt

@@ -1,0 +1,58 @@
+egrep -v '\sone|\stwo' < Indo-European.txt > IEwonum.txt
+egrep -v '\sone|\stwo' < Austro-Asiatic.txt > AuAwonum.txt
+egrep -v '\sone|\stwo' < Austronesian.txt > Awonum.txt
+egrep -v '\sone|\stwo' < Dravidian.txt > Dwounum.txt
+egrep -v '\sone|\stwo' < Japanese.txt > Jwonum.txt
+egrep -v '\sone|\stwo' < Niger-Congo.txt > NCwonum.txt
+egrep -v '\sone|\stwo' < Sino-Tibetan.txt > STwnum.txt
+egrep -v '\sone|\stwo' < Tai-Kadai.txt > TKwonum.txt
+egrep -v '\sone|\stwo' < Afro-Asiatic.txt > AAwonum.txt
+# Exclude numbers in dataset in Cygwin.
+
+ asjp62 < listss17.txt > output1.txt
+ asjp62 < Indo-European.txt > IEall.txt
+ asjp62 < Austro-Asiatic.txt > AuAall.txt
+ asjp62 < Austronesian.txt > Aall.txt
+ asjp62 < Dravidian.txt > Dall.txt
+ asjp62 < Japanese.txt > Jall.txt
+ asjp62 < Niger-Congo.txt > NCall.txt
+ asjp62 < Tai-Kadai.txt > TKall.txt
+ asjp62 < Sino-Tibetan.txt > STall.txt
+ asjp62 < Afro-Asiatic.txt > AAall.txt
+
+# Overall view of whole dataset and different language families with codes in CMD.
+
+
+
+ asjp62 < IEwonum.txt > IEall_won.txt
+ asjp62 < AuAwonum.txt > AuAall_won.txt
+ asjp62 < Awonum.txt > Aall_won.txt
+ asjp62 < Dwounum.txt > Dall_won.txt
+ asjp62 < Jwonum.txt > Jall_won.txt
+ asjp62 < NCwonum.txt > NCall_won.txt
+ asjp62 < TKwonum.txt > TKall_won.txt
+ asjp62 < STwnum.txt > STall_won.txt
+ asjp62 < AAwonum.txt > AAall_won.txt
+
+# Overall view of whole dataset and different language families without numbers with codes in CMD. 
+
+
+cat IEall*.txt > IE.txt
+cat AuAall*.txt > AuA.txt
+cat Aall*.txt > A.txt
+cat Dall*.txt > D.txt
+cat Jall*.txt > J.txt
+cat NCall*.txt > NC.txt
+cat TKall*.txt > TK.txt
+cat STall*.txt > ST.txt
+cat AAall*.txt > AA.txt
+
+sed 's/ \+/,/g' IE.txt > IE.csv
+sed 's/ \+/,/g' AuA.txt > AuA.csv
+sed 's/ \+/,/g' A.txt > A.csv
+sed 's/ \+/,/g' D.txt > D.csv
+sed 's/ \+/,/g' J.txt > J.csv
+sed 's/ \+/,/g' NC.txt > NC.csv
+sed 's/ \+/,/g' TK.txt > TK.csv
+sed 's/ \+/,/g' ST.txt > ST.csv
+sed 's/ \+/,/g' AA.txt > AA.csv

@@ -1,0 +1,1863 @@
+     2    28  1700     3
+(I4,20X,10A1)
+   1                    I
+   2                    you
+   3                    we
+  11                    one
+  12                    two
+  18                    person
+  19                    fish
+  21                    dog
+  22                    louse
+  23                    tree
+  25                    leaf
+  28                    skin
+  30                    blood
+  31                    bone
+  34                    horn
+  39                    ear
+  40                    eye
+  41                    nose
+  43                    tooth
+  44                    tongue
+  47                    knee
+  48                    hand
+  51                    breast
+  53                    liver
+  54                    drink
+  57                    see
+  58                    hear
+  61                    die
+  66                    come
+  72                    sun
+  74                    star
+  75                    water
+  77                    stone
+  82                    fire
+  85                    path
+  86                    mountain
+  92                    night
+  95                    full
+  96                    new
+ 100                    name
+
+p
+b
+f
+v
+m
+w
+8
+t
+d
+s
+z
+c
+n
+r
+l
+S
+Z
+C
+j
+T
+5
+y
+k
+g
+x
+N
+q
+X
+h
+7
+L
+4
+G
+!
+i
+e
+E
+3
+a
+u
+o
+
+
+NORTHWESTERN_KOLAMI{Dra.CENTRAL_DRAVIDIAN|Dravidian,Central,Kolami-Naiki|@Dravidian,CentralDravidian,Kolami-Naiki}
+ 1   20.00   78.50      122000   kol   kfb
+1 I	an //
+2 you	niv //
+3 we	am //
+11 one	ok //
+12 two	in, indiN //
+18 person	 //
+19 fish	kaye //
+21 dog	ate //
+22 louse	pen //
+23 tree	mak //
+25 leaf	eg //
+28 skin	tol //
+30 blood	netur //
+31 bone	boka //
+34 horn	kom //
+39 ear	kev //
+40 eye	kan //
+41 nose	muNgad //
+43 tooth	pal //
+44 tongue	nalka //
+47 knee	 //
+48 hand	ki //
+51 breast	pame //
+53 liver	tarNgud //
+54 drink	un //
+57 see	 //
+58 hear	vin //
+61 die	 //
+66 come	var //
+72 sun	pod //
+74 star	suka //
+75 water	ir //
+77 stone	 //
+82 fire	kis //
+85 path	pav //
+86 mountain	male //
+92 night	 //
+95 full	nind //
+96 new	 //
+100 name	per //
+PARJI{Dra.CENTRAL_DRAVIDIAN|Dravidian,Central,Parji-Gadaba|@Dravidian,CentralDravidian,Parji-Ollari-Gadaba}
+ 1   19.50   82.50       51200   prd   pci
+1 I	an //
+2 you	in //
+3 we	am //
+11 one	ok //
+12 two	ir, irdu //
+18 person	 //
+19 fish	key //
+21 dog	neta //
+22 louse	peni //
+23 tree	meri //
+25 leaf	ev //
+28 skin	tol //
+30 blood	netir //
+31 bone	bula //
+34 horn	 //
+39 ear	kekol //
+40 eye	kan //
+41 nose	muva*d //
+43 tooth	pel //
+44 tongue	neva*d //
+47 knee	 //
+48 hand	key //
+51 breast	edram //
+53 liver	taruNg //
+54 drink	un //
+57 see	 //
+58 hear	ven //
+61 die	Cay //
+66 come	ver //
+72 sun	 //
+74 star	Cuka //
+75 water	nir //
+77 stone	kel //
+82 fire	kiC //
+85 path	pav //
+86 mountain	 //
+92 night	 //
+95 full	 //
+96 new	pun //
+100 name	pidir //
+BRAHUI{Dra.NORTHERN_DRAVIDIAN|Dravidian,Northern|@Dravidian,NorthDravidian}
+ 1   28.50   67.00     2430000   brh   brh
+1 I	i // (Andronov, Bray)
+2 you	ni // (Andronov, Bray)
+3 we	nan // (Andronov, Bray)
+11 one	asi // (adjectival form, Andronov)
+12 two	ira, du // (Andronov, Bray), (Bray)
+18 person	are, Saxs, Sasx // 'man, person' (Andronov), 'person, individual' (Bray)
+19 fish	%maCCi // loan from Sanskrit (Bray)
+21 dog	kuCak, but // 'dog' (Andronov, Bray), 'any dog except a greyhound' (Bray)
+22 louse	bod, bor // 'louse, vermin', 'louse, vermin' (Bray)
+23 tree	pat, draxt // (Andronov), (Bray)
+25 leaf	varax // 'leaf, page' (Bray)
+28 skin	sil // 'skin, slough of snake, fruit-skin' (Andronov), 'skin' (Bray)
+30 blood	ditar // (Bray)
+31 bone	ad, had // (Bray)
+34 horn	marx // (Bray)
+39 ear	xaf // (Andronov, Bray)
+40 eye	xan // (Bray)
+41 nose	bamus // (Bray)
+43 tooth	dandan // (Bray)
+44 tongue	dui, duvi // (Bray)
+47 knee	god, pun, zan // (Bray)
+48 hand	du, Camba // 'hand' (Andronov, Bray), 'wrist, hand, paw' (Bray)
+51 breast	xad, ijja, jiji, gwar // 'breast, nipple, dug' (Bray), 'mother's breast (children's word)' (Bray), 'mother's breast' (Bray) 'breast, pneumonia' (Bray)
+53 liver	jaxar // (Bray)
+54 drink	 //
+57 see	hu, xan // (Andronov, Bray)
+58 hear	bin // 'hear, listen' (Andronov)
+61 die	kas // (entry. kasning) (Bray)
+66 come	ba // (Andronov)
+72 sun	de // 'sun, sunshine, day, time'(Andronov), 'sun' (Bray)
+74 star	 //
+75 water	dir // (Andronov, Bray)
+77 stone	xal // (Andronov, Bray)
+82 fire	xaxar // (Bray)
+85 path	kasar, Carvat // 'road'/'way, path, road' (Andronov), 'track, footpath' (Bray)
+86 mountain	bh~ut, but, bit, dara, maS // 'mound, hillock', 'mound, hillock', 'mound, hillock', 'heap, mound, hillock' (Bray), hill, mountain' (Bray)
+92 night	nan // (Bray)
+95 full	pura, purr // 'full, complete'; 'full, loaded' (Bray)
+96 new	puskun // 'new, fresh' (Andronov), 'new' (Bray)
+100 name	pin // (Andronov)
+KURUKH{Dra.NORTHERN_DRAVIDIAN|Dravidian,Northern|@Dravidian,NorthDravidian,Kurux-Malto,Kurux}
+ 1   22.83   85.50     1804200   kur   kru
+1 I	en //
+2 you	nin //
+3 we	em //
+11 one	ort //
+12 two	end //
+18 person	 //
+19 fish	 //
+21 dog	ala //
+22 louse	pe*n //
+23 tree	man //
+25 leaf	atx~a //
+28 skin	 //
+30 blood	kh~e*so //
+31 bone	kh~oCol //
+34 horn	marag //
+39 ear	xebda //
+40 eye	xan //
+41 nose	mui* //
+43 tooth	pal //
+44 tongue	tatx~a //
+47 knee	muka //
+48 hand	xekh~na //
+51 breast	 //
+53 liver	 //
+54 drink	on //
+57 see	 //
+58 hear	mena //
+61 die	kh~e7e //
+66 come	bar //
+72 sun	 //
+74 star	 //
+75 water	am //
+77 stone	 //
+82 fire	CiC //
+85 path	pab //
+86 mountain	 //
+92 night	maxa //
+95 full	nind //
+96 new	puna //
+100 name	 //
+KURUX_NEPALI{Dra.NORTHERN_DRAVIDIAN|Dravidian,Northern|@Dravidian,NorthDravidian,Kurux-Malto,Kurux}
+ 1   26.60   86.00       28600         kxl
+1 I	yen, en //
+2 you	nin, nim //
+3 we	em //
+11 one	 //
+12 two	 //
+18 person	 //
+19 fish	injo //
+21 dog	ala //
+22 louse	 //
+23 tree	man //
+25 leaf	atkh~a //
+28 skin	Capata //
+30 blood	kh~es //
+31 bone	daNada //
+34 horn	siNh~ //
+39 ear	kh~bada //
+40 eye	kh~an //
+41 nose	muy //
+43 tooth	pal // pl
+44 tongue	tath~aka //
+47 knee	 //
+48 hand	baih // arm
+51 breast	Ch~ati //
+53 liver	 //
+54 drink	ona //
+57 see	year //
+58 hear	 //
+61 die	kh~eana //
+66 come	burna //
+72 sun	bidi //
+74 star	 //
+75 water	am //
+77 stone	path~ad //
+82 fire	Ch~iCh~ //
+85 path	dahare //
+86 mountain	 //
+92 night	makh~a //
+95 full	 //
+96 new	puna //
+100 name	 //
+KUMARBHAG_PAHARIA{Dra.NORTHERN_DRAVIDIAN|Dravidian,Northern|@Dravidian,NorthDravidian,Kurux-Malto,Malto}
+ 1   25.00   87.33       12500   mto   kmj
+1 I	enu //
+2 you	ninu //
+3 we	 //
+11 one	ort //
+12 two	irw //
+18 person	 //
+19 fish	 //
+21 dog	alc //
+22 louse	pen //
+23 tree	man //
+25 leaf	atge //
+28 skin	 //
+30 blood	qes //
+31 bone	qocl //
+34 horn	marg //
+39 ear	qe8w //
+40 eye	qan //
+41 nose	muso //
+43 tooth	pal //
+44 tongue	tarte //
+47 knee	muke //
+48 hand	qequ //
+51 breast	 //
+53 liver	 //
+54 drink	on //
+57 see	er //
+58 hear	men //
+61 die	key //
+66 come	bar //
+72 sun	 //
+74 star	binke //
+75 water	am //
+77 stone	 //
+82 fire	cic //
+85 path	paw // road
+86 mountain	 //
+92 night	maq //
+95 full	 //
+96 new	pune //
+100 name	 //
+SAURIA_PAHARIA{Dra.NORTHERN_DRAVIDIAN|Dravidian,Northern|@Dravidian,NorthDravidian,Kurux-Malto,Malto}
+ 1   25.00   87.33       61000         mjt
+1 I	en //
+2 you	nin //
+3 we	em //
+11 one	 //
+12 two	is //
+18 person	 //
+19 fish	 //
+21 dog	ale //
+22 louse	penu //
+23 tree	manu //
+25 leaf	atge //
+28 skin	 //
+30 blood	qesu //
+31 bone	qoClu //
+34 horn	margu //
+39 ear	qethw$u //
+40 eye	qanu //
+41 nose	mu4y~u //
+43 tooth	palu //
+44 tongue	tarte //
+47 knee	muke //
+48 hand	qeqe //
+51 breast	 //
+53 liver	 //
+54 drink	one //
+57 see	 //
+58 hear	mene //
+61 die	keye //
+66 come	bare //
+72 sun	beru //
+74 star	 //
+75 water	am //
+77 stone	 //
+82 fire	CiCu //
+85 path	pawu //
+86 mountain	 //
+92 night	maqu //
+95 full	nindgre //
+96 new	pune //
+100 name	 //
+ADILABAD_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   19.00   81.00      300000   gon   wsg
+1 I	nanna //
+2 you	nima //
+3 we	mamat //
+11 one	undi //
+12 two	rand //
+18 person	 //
+19 fish	min //
+21 dog	ney //
+22 louse	 //
+23 tree	 //
+25 leaf	aki //
+28 skin	tol //
+30 blood	nettur // member of macrolanguage gon
+31 bone	bokka //
+34 horn	kor //
+39 ear	kew, kewwi //
+40 eye	kar, kan //
+41 nose	mosor, mossor //
+43 tooth	pal //
+44 tongue	wenjer //
+47 knee	 //
+48 hand	kay //
+51 breast	 //
+53 liver	taraki //
+54 drink	unn, un //
+57 see	sur //
+58 hear	kenj // listen
+61 die	sa, say //
+66 come	wa, way //
+72 sun	pord //
+74 star	sukkum //
+75 water	er, yer //
+77 stone	 //
+82 fire	kis //
+85 path	sarri //
+86 mountain	metta // hill
+92 night	narka //
+95 full	mend // full of
+96 new	puna //
+100 name	porol, ph~orol //
+NORTH_BASTAR_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   20.00   81.00      150000   gon   esg
+1 I	nana //
+2 you	nima //
+3 we	mamat //
+11 one	uri //
+12 two	rend //
+18 person	 //
+19 fish	min //
+21 dog	nay, neyi //
+22 louse	 //
+23 tree	 //
+25 leaf	aki, ak //
+28 skin	tola, tula //
+30 blood	nature, netur //
+31 bone	pareka, pare //
+34 horn	kor //
+39 ear	kawi, kew //
+40 eye	konda //
+41 nose	masor //
+43 tooth	pal //
+44 tongue	wanjer, wenjer //
+47 knee	 //
+48 hand	kay //
+51 breast	 //
+53 liver	taraki //
+54 drink	unn, un //
+57 see	hur //
+58 hear	kenj // listen
+61 die	ha, hay //
+66 come	wa, way //
+72 sun	pord //
+74 star	huko //
+75 water	er //
+77 stone	 //
+82 fire	kis //
+85 path	hari //
+86 mountain	mata, mita // hill
+92 night	narka //
+95 full	mend // full of
+96 new	puna //
+100 name	poroy //
+NORTHERN_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   19.00   81.00     1950000   gon   gno
+1 I	nanna //
+2 you	ima //
+3 we	mamat //
+11 one	udi, undi //
+12 two	rand //
+18 person	 //
+19 fish	min //
+21 dog	nay, nayyi //
+22 louse	 //
+23 tree	 //
+25 leaf	aki //
+28 skin	tol, tula //
+30 blood	nattur //
+31 bone	paneka //
+34 horn	kor, kur //
+39 ear	kaw, kawwi //
+40 eye	kan //
+41 nose	massor //
+43 tooth	pal //
+44 tongue	wanjer //
+47 knee	 //
+48 hand	kay, kayyi //
+51 breast	 //
+53 liver	tanaki //
+54 drink	unn, un //
+57 see	hur //
+58 hear	kenj // "listen"
+61 die	sa, say //
+66 come	wa, way //
+72 sun	 //
+74 star	sukkum //
+75 water	ir, yar, ar, er //
+77 stone	 //
+82 fire	kis //
+85 path	sarri //
+86 mountain	matta // "hill"
+92 night	narka //
+95 full	mend // "full of"
+96 new	punal //
+100 name	purul, porol //
+SOUTH_EASTERN_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   19.00   81.00      150000   gon   esg
+1 I	nanna, nana //
+2 you	nima //
+3 we	mama //
+11 one	ondu //
+12 two	rendu //
+18 person	 //
+19 fish	kike //
+21 dog	ney, nay //
+22 louse	 //
+23 tree	 //
+25 leaf	aki //
+28 skin	tol //
+30 blood	netturu //
+31 bone	bula //
+34 horn	koru //
+39 ear	kewwu //
+40 eye	kandu //
+41 nose	mossori //
+43 tooth	pal, pallu //
+44 tongue	wenjer, wanjer //
+47 knee	 //
+48 hand	kay //
+51 breast	 //
+53 liver	tanike //
+54 drink	unn, un //
+57 see	ud //
+58 hear	kenj // listen
+61 die	doll //
+66 come	wa //
+72 sun	podudu //
+74 star	ukka //
+75 water	eru //
+77 stone	 //
+82 fire	kissu //
+85 path	arri //
+86 mountain	metta // hill
+92 night	narka //
+95 full	mend // full of
+96 new	 //
+100 name	pederi //
+SOUTHERN_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   18.75   80.20      300000   gon   wsg
+1 I	nana //
+2 you	nime //
+3 we	momot //
+11 one	und~i, varor //
+12 two	rand~ //
+18 person	manal //
+19 fish	min //
+21 dog	ney //
+22 louse	purki //
+23 tree	mara //
+25 leaf	aki //
+28 skin	 //
+30 blood	netur //
+31 bone	boka //
+34 horn	kor //
+39 ear	kevi //
+40 eye	gube, kar //
+41 nose	mosor //
+43 tooth	pal //
+44 tongue	ve5j~er //
+47 knee	toNg~ra //
+48 hand	key //
+51 breast	dudo //
+53 liver	taraki //
+54 drink	un //
+57 see	sud //
+58 hear	ke5j~ //
+61 die	sa //
+66 come	va, ra //
+72 sun	pord //
+74 star	sukum //
+75 water	yer //
+77 stone	band~a //
+82 fire	kis //
+85 path	sari //
+86 mountain	meta //
+92 night	 //
+95 full	nind~ //
+96 new	punor, puna //
+100 name	porol //
+SOUTHERN_GONDI_2{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   19.00   81.00      300000   gon   wsg
+1 I	nana //
+2 you	nima //
+3 we	mamat //
+11 one	undi //
+12 two	randu //
+18 person	 //
+19 fish	min //
+21 dog	nayu //
+22 louse	 //
+23 tree	 //
+25 leaf	aki //
+28 skin	tol //
+30 blood	nettur //
+31 bone	 //
+34 horn	kor //
+39 ear	kew, kewwu //
+40 eye	kar //
+41 nose	mossor //
+43 tooth	pal //
+44 tongue	wenjer //
+47 knee	 //
+48 hand	kay //
+51 breast	 //
+53 liver	tadaki //
+54 drink	unn, un //
+57 see	hud //
+58 hear	kenj // listen
+61 die	ha, hay //
+66 come	wa, way //
+72 sun	podd //
+74 star	hukkum //
+75 water	er //
+77 stone	 //
+82 fire	kis //
+85 path	harri, arri //
+86 mountain	metta // hill
+92 night	narka //
+95 full	mend // full of
+96 new	puna, punor //
+100 name	porol //
+WESTERN_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,NorthwestGondi}
+ 1   19.00   81.00     1950000   gon   gno
+1 I	ana, anna //
+2 you	ima //
+3 we	amat //
+11 one	undi, indi //
+12 two	rand //
+18 person	 //
+19 fish	min //
+21 dog	nay, nayyi //
+22 louse	 //
+23 tree	 //
+25 leaf	aki //
+28 skin	tol //
+30 blood	nattur // member of macrolanguage gon
+31 bone	paneka //
+34 horn	kor //
+39 ear	kaw, kawwi //
+40 eye	kan //
+41 nose	massor //
+43 tooth	pal //
+44 tongue	wanjer //
+47 knee	 //
+48 hand	kay, kayyi //
+51 breast	 //
+53 liver	tanaki //
+54 drink	unn, un //
+57 see	hur //
+58 hear	kenj // listen
+61 die	sa, say //
+66 come	wa, way //
+72 sun	 //
+74 star	sukkum //
+75 water	er //
+77 stone	 //
+82 fire	kis //
+85 path	sarri //
+86 mountain	matta // hill
+92 night	narka //
+95 full	mend // full of
+96 new	punal, puno //
+100 name	parol, ph~arol //
+SOUTH_BASTAR_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,SoutheastGondi,GeneralSoutheastGondi}
+ 1   19.25   81.67      200000         daq
+1 I	nan, na //
+2 you	nima //
+3 we	mama //
+11 one	ond, ondu //
+12 two	rand, rend //
+18 person	 //
+19 fish	kike //
+21 dog	ney, neyyi, nay //
+22 louse	 //
+23 tree	 //
+25 leaf	aki, ak //
+28 skin	tol, tolka //
+30 blood	nettur //
+31 bone	bula //
+34 horn	kor //
+39 ear	kew //
+40 eye	konda //
+41 nose	massor //
+43 tooth	pal //
+44 tongue	wenjer, wanjer //
+47 knee	 //
+48 hand	kay //
+51 breast	 //
+53 liver	tarki, tark //
+54 drink	unn, un //
+57 see	hur, ur //
+58 hear	kenj // listen
+61 die	doll //
+66 come	wa, way //
+72 sun	pord //
+74 star	ukka //
+75 water	er //
+77 stone	 //
+82 fire	kis //
+85 path	arn //
+86 mountain	metta // hill
+92 night	narka //
+95 full	mend // full of
+96 new	puna, punor //
+100 name	peder, pedder //
+ABUJHMARIA{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,SoutheastGondi,HillMaria-Koya}
+ 1   19.50   81.00      165000         mrr
+1 I	nan, nanna, nana //
+2 you	nimma, nima, nim //
+3 we	mat //
+11 one	wondi, ondi, ond //
+12 two	rend, rendu //
+18 person	mane //
+19 fish	min, kikke //
+21 dog	nai, nay //
+22 louse	ir //
+23 tree	mara //
+25 leaf	ak, aki //
+28 skin	tol //
+30 blood	nettur, netur //
+31 bone	 //
+34 horn	 //
+39 ear	keu, kew, kev //
+40 eye	kan //
+41 nose	mosor //
+43 tooth	pal, p3l //
+44 tongue	 //
+47 knee	gutkal //
+48 hand	kay //
+51 breast	bommo, dudo //
+53 liver	tandki //
+54 drink	un //
+57 see	hur //
+58 hear	kenTa //
+61 die	dol, hayana //
+66 come	way, wa //
+72 sun	podd //
+74 star	uka, huka //
+75 water	er //
+77 stone	kal, k3l //
+82 fire	kis //
+85 path	dauha, dawha, har //
+86 mountain	matta //
+92 night	narka //
+95 full	 //
+96 new	puna //
+100 name	pader //
+DORLI_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Konda-Kui,Manda-Kui,Kui-Kuvi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,SoutheastGondi,HillMaria-Koya}
+ 1   17.50   81.33      362000   koy   kff
+1 I	nan //
+2 you	 //
+3 we	 //
+11 one	ondu //
+12 two	rendu //
+18 person	 //
+19 fish	kike //
+21 dog	ney, neyyi, nay //
+22 louse	 //
+23 tree	 //
+25 leaf	aki //
+28 skin	tol, tokka //
+30 blood	nettur //
+31 bone	bodeNke //
+34 horn	kor, koru //
+39 ear	kew, kewwi //
+40 eye	kanuku //
+41 nose	massor //
+43 tooth	pal //
+44 tongue	wenjer //
+47 knee	 //
+48 hand	kay, kayyu //
+51 breast	 //
+53 liver	tanki //
+54 drink	unn, un //
+57 see	ud //
+58 hear	kenj // listen
+61 die	doll //
+66 come	wa, way //
+72 sun	podd //
+74 star	ukka //
+75 water	eru //
+77 stone	 //
+82 fire	kis //
+85 path	arri //
+86 mountain	metta // hill
+92 night	narka //
+95 full	mend // full of
+96 new	 //
+100 name	peder //
+HILL_MARIA_GONDI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Gondi|@Dravidian,SouthDravidian,SouthDravidianII,Gondi,SoutheastGondi,HillMaria-Koya}
+ 1   19.50   81.00      165000         mrr
+1 I	nana //
+2 you	nima //
+3 we	mat //
+11 one	ond //
+12 two	rendu //
+18 person	 //
+19 fish	kike //
+21 dog	nay, nayu //
+22 louse	 //
+23 tree	 //
+25 leaf	aki, ak //
+28 skin	tol //
+30 blood	netor //
+31 bone	pendka //
+34 horn	kor //
+39 ear	kewi //
+40 eye	konda //
+41 nose	masori //
+43 tooth	pal //
+44 tongue	wenjeri, wenjer //
+47 knee	 //
+48 hand	kayu //
+51 breast	 //
+53 liver	tanki, tandki //
+54 drink	unn, un //
+57 see	ur //
+58 hear	kenj // listen
+61 die	a, ay //
+66 come	wa, way //
+72 sun	pord //
+74 star	huko //
+75 water	er //
+77 stone	 //
+82 fire	kis //
+85 path	ari //
+86 mountain	mata // hill
+92 night	narka, naka //
+95 full	mend // full of
+96 new	puna //
+100 name	pader //
+KUI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Konda-Kui,Manda-Kui,Kui-Kuvi|@Dravidian,SouthDravidian,SouthDravidianII,Konda-Kui,Manda-Kui,Kui-Kuvi}
+ 1   20.00   83.50      916000   kui   kxu
+1 I	anu //
+2 you	inu //
+3 we	aju, amu //
+11 one	ro //
+12 two	ri //
+18 person	tanju, tari // 'tanju - male and tari female person'
+19 fish	minu //
+21 dog	nakuri, nahori //
+22 louse	penu // 'flea'
+23 tree	mrahnu //
+25 leaf	aku //
+28 skin	 //
+30 blood	 //
+31 bone	prenu //
+34 horn	 //
+39 ear	kiru //
+40 eye	 //
+41 nose	mungeli //
+43 tooth	 //
+44 tongue	 //
+47 knee	 //
+48 hand	kaju //
+51 breast	srangu //
+53 liver	 //
+54 drink	unba //
+57 see	mehpa //
+58 hear	venba //
+61 die	sava //
+66 come	vava //
+72 sun	vela //
+74 star	sukanga // 'pl'
+75 water	sidru //
+77 stone	vadi //
+82 fire	 //
+85 path	 //
+86 mountain	soru //
+92 night	nagandi //
+95 full	 //
+96 new	puni //
+100 name	pada //
+KUVI{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Konda-Kui,Manda-Kui,Kui-Kuvi|@Dravidian,SouthDravidian,SouthDravidianII,Konda-Kui,Manda-Kui,Kui-Kuvi}
+ 1   18.75   82.67      158000   kuv   kxv
+1 I	nanu //
+2 you	ninu //
+3 we	mambu, maro //
+11 one	eka //
+12 two	duyi, rindi //
+18 person	mansi, loku //
+19 fish	mninu //
+21 dog	nehruri, neska //
+22 louse	penu //
+23 tree	marnu, mranu //
+25 leaf	aku, aka //
+28 skin	tolu //
+30 blood	neteri, netori //
+31 bone	dumu, dumka, prenu //
+34 horn	komu //
+39 ear	kriyu //
+40 eye	kanu //
+41 nose	mungeli //
+43 tooth	pala, palka //
+44 tongue	 //
+47 knee	menda //
+48 hand	keyu //
+51 breast	rangu //
+53 liver	tra7na //
+54 drink	un, goh //
+57 see	meh //
+58 hear	 //
+61 die	ha, dak //
+66 come	kin, kni, ken //
+72 sun	gama //
+74 star	huka //
+75 water	 //
+77 stone	kalu, vali //
+82 fire	 //
+85 path	jiyu, jiru, revu //
+86 mountain	 //
+92 night	nekeri //
+95 full	 //
+96 new	 //
+100 name	doru //
+MANDA_INDIA{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Konda-Kui,Manda-Kui,Manda-Pengo|@Dravidian,SouthDravidian,SouthDravidianII,Konda-Kui,Manda-Kui,Manda-Pengo}
+ 1   19.83   83.83        4040         mha
+1 I	an, ane //
+2 you	in, ine //
+3 we	am //
+11 one	ru, ro //
+12 two	duy, ri, rindi //
+18 person	zan // also used as classifier
+19 fish	min //
+21 dog	kusri //
+22 louse	pen //
+23 tree	mar //
+25 leaf	aki //
+28 skin	pele //
+30 blood	neter //
+31 bone	pren //
+34 horn	kumu //
+39 ear	gitul //
+40 eye	kan, kane //
+41 nose	muNgel //
+43 tooth	pal //
+44 tongue	vendul //
+47 knee	menda //
+48 hand	kay, ki //
+51 breast	dudu, may //
+53 liver	tnake, lake // 1. "heart, liver"
+54 drink	un //
+57 see	diha, hur //
+58 hear	ven //
+61 die	ha, hiris //
+66 come	va //
+72 sun	vera //
+74 star	huker //
+75 water	 //
+77 stone	kal, pade, pade kal //
+82 fire	iske, hicu //
+85 path	parla, pene //
+86 mountain	tikra, pahad, mari // 1. "hill", 2. "mountain, highland", 3. "mountain, forest, hill"
+92 night	nana, nanaN, nala, %rati // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+95 full	nes, borti a // 1. "to fill", 2. "to be full"
+96 new	krug, pun //
+100 name	dar //
+PENGO{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Gondi-Kui,Konda-Kui,Manda-Kui,Manda-Pengo|@Dravidian,SouthDravidian,SouthDravidianII,Konda-Kui,Manda-Kui,Manda-Pengo}
+ 1   19.83   83.83           0   pen   peg
+1 I	aneN //
+2 you	eneN //
+3 we	epeN, aheN //
+11 one	 //
+12 two	ri, rindaN //
+18 person	manay //
+19 fish	min //
+21 dog	nekur //
+22 louse	pen //
+23 tree	mar //
+25 leaf	patri, potor //
+28 skin	tol //
+30 blood	neter //
+31 bone	pren //
+34 horn	kom, komo //
+39 ear	kitul //
+40 eye	 //
+41 nose	muNgel //
+43 tooth	tada //
+44 tongue	vendul //
+47 knee	 //
+48 hand	key //
+51 breast	 //
+53 liver	trakiN // 'pl'
+54 drink	un, ut //
+57 see	katni //
+58 hear	 //
+61 die	ha, hat, hadeN //
+66 come	va, vat, vazi //
+72 sun	vera //
+74 star	jilmiliN // 'pl'
+75 water	ez //
+77 stone	kal //
+82 fire	 //
+85 path	 //
+86 mountain	%parbat, mari // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+92 night	nana, %rati // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+95 full	 //
+96 new	pun //
+100 name	tor //
+TELUGU{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Telugu|@Dravidian,SouthDravidian,SouthDravidianII,Teluguic}
+ 1   16.00   79.00    74244300   tel   tel
+1 I	nenu //
+2 you	nivu //
+3 we	memu //
+4 this	i //
+5 that	a //
+6 who	eva*du //
+7 what	emi //
+8 not	kadu //
+9 all	anta //
+10 many	nana //
+11 one	okati //
+12 two	rendu //
+13 big	pedda //
+14 long	poduga //
+15 small	Cinna //
+16 woman	%stri //
+17 man	%purusu*du //
+18 person	%manusudu //
+19 fish	Cepa //
+20 bird	%paksi //
+21 dog	kukka //
+22 louse	penu //
+23 tree	Cettu //
+24 seed	vittu //
+25 leaf	aku //
+26 root	veru //
+27 bark	patta //
+28 skin	tolu //
+29 flesh	%mamsamu //
+30 blood	%raktamu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	emuku //
+32 grease	krovvina //
+33 egg	gruddu //
+34 horn	kommu //
+35 tail	valamu //
+36 feather	yika //
+37 hair	vendruka //
+38 head	tala //
+39 ear	Cevi //
+40 eye	kannu //
+41 nose	mukku //
+42 mouth	noru //
+43 tooth	pallu //
+44 tongue	naluka //
+45 claw	goru //
+46 foot	padamu //
+47 knee	mo*kalu //
+48 hand	Ceyi //
+49 belly	kadupu //
+50 neck	meda //
+51 breast	gunde //
+52 heart	%hrdayamu //
+53 liver	kalemanu //
+54 drink	tragu //
+55 eat	tinu //
+56 bite	karaCu //
+57 see	CuCu //
+58 hear	vinu //
+59 know	era*gu //
+60 sleep	%nindrinCu //
+61 die	CaCCu //
+62 kill	Campu //
+63 swim	idu //
+64 fly	eguru //
+65 walk	nadaCu //
+66 come	vaCCu //
+67 lie	padukonu //
+68 sit	kurCu //
+69 stand	nilCuCu //
+70 give	iCCu //
+71 say	Ceppu //
+72 sun	%suryu*du // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+73 moon	%Candru*du //
+74 star	Cukka //
+75 water	nillu //
+76 rain	%varsamu //
+77 stone	rayi //
+78 sand	isuka //
+79 earth	mannu //
+80 cloud	megh~amu //
+81 smoke	poga //
+82 fire	nippu //
+83 ash	budida //
+84 burn	kalCu //
+85 path	%margamu //
+86 mountain	konda //
+87 red	erra //
+88 green	paCCi //
+89 yellow	pasupupaCCa //
+90 white	vella //
+91 black	nalla //
+92 night	%ratri // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+93 hot	veCCani //
+94 cold	Calla //
+95 full	nindina //
+96 new	kotta //
+97 good	manCi //
+98 round	gundra //
+99 dry	endina //
+100 name	peru //
+TELUGU_2{Dra.SOUTH-CENTRAL_DRAVIDIAN|Dravidian,South-Central,Telugu|@Dravidian,SouthDravidian,SouthDravidianII,Teluguic}
+ 1   16.00   79.00    74244300   tel   tel
+1 I	nenu //
+2 you	nuvvu, nivu //
+3 we	manamu, memu //
+11 one	okati //
+12 two	rendu //
+18 person	%maniSi //
+19 fish	Cepa //
+21 dog	%kukka //
+22 louse	penu, ipi, iru //
+23 tree	Cettu //
+25 leaf	aku //
+28 skin	tata, %Carmam // from Sanskrit
+30 blood	netturu //
+31 bone	emuka, dummu //
+34 horn	kommu //
+39 ear	Cevi //
+40 eye	kannu //
+41 nose	mukku //
+43 tooth	pannu //
+44 tongue	naluka, nalika //
+47 knee	munuku //
+48 hand	Ceyi //
+51 breast	Cannu //
+53 liver	%kariyam, %kaleyam //
+54 drink	tagu //
+57 see	Cudu, CuCu //
+58 hear	vinu //
+61 die	Cavu, CaCCu //
+66 come	vaCCu //
+72 sun	%suryudu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+74 star	Cukka //
+75 water	niru, niLu //
+77 stone	rayi, banda //
+82 fire	nippu, manta //
+85 path	tova //
+86 mountain	konda //
+92 night	%ratri // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+95 full	nindu, nindina //
+96 new	kotta //
+100 name	peru //
+BADAGA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Kannada|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Badaga-Kannada}
+ 1   11.67   76.75      135000   bdg   bfq
+1 I	nanu //
+2 you	niNava, nina //
+3 we	eNa, naNa //
+11 one	ondu //
+12 two	eradu //
+18 person	alu, kara //
+19 fish	minu //
+21 dog	nayi, ne //
+22 louse	henu, kure //
+23 tree	mora //
+25 leaf	ele, patara //
+28 skin	Cakala, taluri //
+30 blood	netaru, %rata // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	ilu, elu //
+34 horn	kombu //
+39 ear	kivi //
+40 eye	kan, kannu //
+41 nose	muku //
+43 tooth	alu, halu //
+44 tongue	nalaNe, navu //
+47 knee	kalu muti, monaNalu //
+48 hand	kai //
+51 breast	bosi, madi //
+53 liver	iralu, kodalu //
+54 drink	ulu, kudi //
+57 see	kanu, nodu //
+58 hear	ke //
+61 die	sae //
+66 come	aivu, agu //
+72 sun	otu, hotu //
+74 star	minu //
+75 water	jala, taniru //
+77 stone	kalu, kalan //
+82 fire	kiCu //
+85 path	oni, tada //
+86 mountain	betu, male //
+92 night	iru, katale //
+95 full	tumbi, nere //
+96 new	osa, hosa //
+100 name	esaru, peru //
+BETTA_KURUMBA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Tamil|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Badaga-Kannada,Kannadoid}
+ 1   11.48   76.73       32000   bkb   xub
+1 I	naw3, na //
+2 you	niy3, ni //
+3 we	naNg3 //
+11 one	wand3 //
+12 two	adu //
+18 person	alu //
+19 fish	minu //
+21 dog	nay3 //
+22 louse	py~anu //
+23 tree	meri //
+25 leaf	yali //
+28 skin	8ol3 //
+30 blood	 //
+31 bone	yaluw3 //
+34 horn	komb3 //
+39 ear	 //
+40 eye	kanu //
+41 nose	muk3 //
+43 tooth	 //
+44 tongue	 //
+47 knee	 //
+48 hand	kiy3 //
+51 breast	 //
+53 liver	 //
+54 drink	kudi, kuyri //
+57 see	kan //
+58 hear	 //
+61 die	 //
+66 come	bar //
+72 sun	po83 //
+74 star	 //
+75 water	nir3 //
+77 stone	kal3 //
+82 fire	8is3 //
+85 path	bati //
+86 mountain	b3t3 //
+92 night	3dl3Na //
+95 full	 //
+96 new	p3ym3n //
+100 name	py~ar3 //
+KURUMBA_ALU{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Kodagu|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Badaga-Kannada,Kannadoid}
+ 1   11.37   77.00        2500         xua
+1 I	nanu //
+2 you	ni //
+3 we	eNg~a, naNg~a // exclusive, inklusive
+11 one	ondu //
+12 two	radu // d: retroflex
+18 person	aLu //
+19 fish	 //
+21 dog	nayi //
+22 louse	 //
+23 tree	mara //
+25 leaf	 //
+28 skin	tolu //
+30 blood	nattaru //
+31 bone	gonodu // n und d:retroflex
+34 horn	 //
+39 ear	kevi //
+40 eye	 //
+41 nose	muk3 //
+43 tooth	 //
+44 tongue	nalaNg~e //
+47 knee	candu //
+48 hand	kayi //
+51 breast	 //
+53 liver	iruwu //
+54 drink	 //
+57 see	nod // Wurzel
+58 hear	k3 // Wurzel
+61 die	 //
+66 come	bap // Wurzel
+72 sun	ottu //
+74 star	 //
+75 water	niru //
+77 stone	kallu //
+82 fire	kicCu //
+85 path	dari //
+86 mountain	 //
+92 night	iruwu //
+95 full	 //
+96 new	oja //
+100 name	ejaru //
+RAVULA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Malayalam|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Badaga-Kannada,Kannadoid}
+ 1   12.72   75.37       26900         yea
+1 I	nanu //
+2 you	niyu //
+3 we	namu //
+11 one	onju //
+12 two	irandu //
+18 person	ale //
+19 fish	 //
+21 dog	nayu //
+22 louse	penu //
+23 tree	mara //
+25 leaf	ile, ole //
+28 skin	tolu //
+30 blood	Core //
+31 bone	elu, mule //
+34 horn	 //
+39 ear	Tevi //
+40 eye	Tovdu //
+41 nose	mugu //
+43 tooth	palu //
+44 tongue	navu //
+47 knee	mutu //
+48 hand	 //
+51 breast	mule //
+53 liver	 //
+54 drink	kuti //
+57 see	kan //
+58 hear	 //
+61 die	Tayu //
+66 come	ba //
+72 sun	nera //
+74 star	boli //
+75 water	niru //
+77 stone	kalu //
+82 fire	ti //
+85 path	 //
+86 mountain	 //
+92 night	iravu //
+95 full	 //
+96 new	 //
+100 name	peru //
+KANNADA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Kannada|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Badaga-Kannada,Kannadoid,NuclearKannaoid}
+ 1   14.00   76.00    37739040   knd   kan
+1 I	nanu //
+2 you	ninu, ninga //
+3 we	navu, enga //
+4 this	idu, iduna //
+5 that	adu, aduna //
+6 who	yaru, dara //
+7 what	enu, ena //
+8 not	alla, ade //
+9 all	ella, saruva //
+10 many	halavu, appara //
+11 one	ondu //
+12 two	eradu //
+13 big	dodda, hebbu //
+14 long	%udda, nila // Indic loan (Sreekantaiza 1956)
+15 small	Cikka, osi //
+16 woman	stri, ijji //
+17 man	purusa, alu //
+18 person	%manusya, alu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+19 fish	matsya, minu //
+20 bird	%hakki // Indic loan (Sreekantaiza 1956)
+21 dog	nayi, ne //
+22 louse	henu, hu //
+23 tree	mara, mora //
+24 seed	bede, gundu //
+25 leaf	ele, patara //
+26 root	beru, gasu //
+27 bark	naru, ule //
+28 skin	togalu, Cakkala //
+29 flesh	badu, kanda //
+30 blood	%rakta, nettaru // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elubu, ilu //
+32 grease	kobbida, koluppu //
+33 egg	motte //
+34 horn	kombu //
+35 tail	bala, balu //
+36 feather	gari, eragu //
+37 hair	kudalu, uroma //
+38 head	tale, monde //
+39 ear	kivi //
+40 eye	kannu //
+41 nose	mugu //
+42 mouth	bayu, bai //
+43 tooth	hallu, allu //
+44 tongue	nalige, navu //
+45 claw	uguru, ugilu //
+46 foot	adi, angalu //
+47 knee	monakalu //
+48 hand	kai //
+49 belly	hotte, odalu //
+50 neck	kuttige, gattu //
+51 breast	ede, bosi //
+52 heart	%hrdayu, %ede // Indic loan (Sreekantaiza 1956)
+53 liver	hiri, iralu //
+54 drink	kudi, ulu //
+55 eat	tinnu, unnu //
+56 bite	kadi, kaCCu //
+57 see	nodu, kanu //
+58 hear	kelu, ke //
+59 know	ari //
+60 sleep	malagu, adi //
+61 die	Cayu, sae //
+62 kill	kollu //
+63 swim	isu, niCalu //
+64 fly	haru, pare //
+65 walk	nade, ogu //
+66 come	baru, aivu //
+67 lie	malagisu, nili matu //
+68 sit	kulitu, kutullu //
+69 stand	nillu //
+70 give	kodu, ikku //
+71 say	helu, annu //
+72 sun	%surya, ottu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+73 moon	%Candra, tingua // Indic loan (Sreekantaiza 1956)
+74 star	%naksatra, minu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+75 water	niru, gangi //
+76 rain	male, me //
+77 stone	kallu, kindikal //
+78 sand	usubu //
+79 earth	mannu, nela //
+80 cloud	megh~a, asuma //
+81 smoke	hoge, uri //
+82 fire	benki, kiCCu //
+83 ash	%bodi, rakse // Indic loan (Sreekantaiza 1956)
+84 burn	sudu, huri //
+85 path	marga, oni //
+86 mountain	betta, male //
+87 red	kem, keng //
+88 green	has, paCCe //
+89 yellow	%haladi, ariCina // Indic loan (Sreekantaiza 1956)
+90 white	bele, belle //
+91 black	karu, kakku //
+92 night	%ratri, iru // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+93 hot	beccanna, atta //
+94 cold	tandi, tani //
+95 full	tumba, nere //
+96 new	hosa, osa //
+97 good	olle, se //
+98 round	batta, uruttu //
+99 dry	battida, katte //
+100 name	hesaru, peru //
+TODA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Toda-Kota|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda}
+ 1   11.42   76.75        1560   tda   tcx
+1 I	on //
+2 you	 //
+3 we	em //
+11 one	wid //
+12 two	ed //
+18 person	oL //
+19 fish	min //
+21 dog	noy //
+22 louse	pEn //
+23 tree	kEme5, me4 //
+25 leaf	es //
+28 skin	twis //
+30 blood	pox //
+31 bone	eLf //
+34 horn	 //
+39 ear	kify //
+40 eye	 //
+41 nose	mutuf //
+43 tooth	pas //
+44 tongue	nof //
+47 knee	migmu //
+48 hand	koy //
+51 breast	 //
+53 liver	uruf //
+54 drink	kudt, un //
+57 see	ko4 //
+58 hear	keL //
+61 die	soy //
+66 come	por //
+72 sun	pis //
+74 star	min //
+75 water	nir //
+77 stone	kas //
+82 fire	tit //
+85 path	pak //
+86 mountain	tit //
+92 night	iL //
+95 full	 //
+96 new	pu8un //
+100 name	 //
+IRULA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Tamil|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Irula-Muduga}
+ 1   10.90   76.80      200000         iru
+1 I	 //
+2 you	ni //
+3 we	navu //
+11 one	ondu, onu //
+12 two	munu, mundu //
+18 person	 //
+19 fish	 //
+21 dog	nayi //
+22 louse	penu //
+23 tree	mara //
+25 leaf	ele //
+28 skin	tolu //
+30 blood	netaru, %rata // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elumbu, bode //
+34 horn	 //
+39 ear	kadu, cevi //
+40 eye	kanu //
+41 nose	muk //
+43 tooth	palu //
+44 tongue	naku //
+47 knee	kalumuti, muli //
+48 hand	 //
+51 breast	nenc //
+53 liver	iralu, cudu //
+54 drink	kudi //
+57 see	kan //
+58 hear	 //
+61 die	ca //
+66 come	ba, barave //
+72 sun	 //
+74 star	 //
+75 water	dani, niru //
+77 stone	ere // rock
+82 fire	ti //
+85 path	bei // road
+86 mountain	beta, mele //
+92 night	rapodu, ravu //
+95 full	 //
+96 new	 //
+100 name	 //
+MALAYALAM{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Malayalam|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Tamil-Kodagu,Tamil-Malayalam,Malayalamoid}
+ 1   10.00   76.50    34261600   mym   mal
+1 I	5an //
+2 you	ni //
+3 we	naNaL //
+11 one	onu //
+12 two	rantu //
+18 person	%manuSy~an // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+19 fish	matsy~am //
+21 dog	nayu //
+22 louse	penu //
+23 tree	maram //
+25 leaf	ila //
+28 skin	tolu //
+30 blood	%raktam // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elu //
+34 horn	kompu //
+39 ear	katu //
+40 eye	kanu //
+41 nose	muku //
+43 tooth	palu //
+44 tongue	naku //
+47 knee	muLaNkal //
+48 hand	kai //
+51 breast	maru //
+53 liver	iral //
+54 drink	kuti //
+57 see	kanu //
+58 hear	keL //
+61 die	mari //
+66 come	varu //
+72 sun	%sury~an // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+74 star	%nakSatram // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+75 water	veLam //
+77 stone	kalu //
+82 fire	ti //
+85 path	vaLi //
+86 mountain	mala //
+92 night	%ratri // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+95 full	nira5a //
+96 new	putu //
+100 name	peru //
+PALIYAN{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Malayalam|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Tamil-Kodagu,Tamil-Malayalam,Malayalamoid}
+ 1   10.09   77.19        9520         pcf
+1 I	 //
+2 you	 //
+3 we	 //
+11 one	onu //
+12 two	rantu //
+18 person	 //
+19 fish	minu //
+21 dog	nayu //
+22 louse	penu //
+23 tree	maram //
+25 leaf	yela //
+28 skin	tolu //
+30 blood	cora //
+31 bone	yelu //
+34 horn	 //
+39 ear	cevi //
+40 eye	kanu //
+41 nose	muku //
+43 tooth	palu //
+44 tongue	naku //
+47 knee	mutu //
+48 hand	kayu //
+51 breast	mola //
+53 liver	karalu //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	 //
+66 come	 //
+72 sun	suriyan //
+74 star	nacatram //
+75 water	velam //
+77 stone	kalu //
+82 fire	ti //
+85 path	vali //
+86 mountain	mala //
+92 night	ratri //
+95 full	 //
+96 new	putiya //
+100 name	peru //
+ULLATAN{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Unclassified_ull|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Tamil-Kodagu,Tamil-Malayalam,Malayalamoid}
+ 1    9.47   77.09          -1         ull
+1 I	 //
+2 you	 //
+3 we	 //
+11 one	onu //
+12 two	rentu //
+18 person	 //
+19 fish	minu //
+21 dog	pati //
+22 louse	pen //
+23 tree	maram //
+25 leaf	ela //
+28 skin	toli //
+30 blood	paluke //
+31 bone	yelu //
+34 horn	kompu //
+39 ear	cevi //
+40 eye	kanu //
+41 nose	muku //
+43 tooth	palu //
+44 tongue	 //
+47 knee	mutu //
+48 hand	kayu //
+51 breast	mola //
+53 liver	karalu //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	 //
+66 come	 //
+72 sun	suryan //
+74 star	nacatram //
+75 water	 //
+77 stone	kalu //
+82 fire	ti //
+85 path	vali //
+86 mountain	mala //
+92 night	ratri //
+95 full	 //
+96 new	putan //
+100 name	peru //
+OLD_TAMIL{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,TamilKannada,TamilKodagu,TamilMalayalam,Tamil|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Tamil-Kodagu,Tamil-Malayalam,Tamiloid}
+ 1   11.00   78.00          -2         oty
+1 I	 //
+2 you	ni //
+3 we	 //
+11 one	 //
+12 two	 //
+18 person	oru //
+19 fish	min, aral //
+21 dog	nay //
+22 louse	 //
+23 tree	marat, wazai //
+25 leaf	totu, ilai //
+28 skin	 //
+30 blood	 //
+31 bone	 //
+34 horn	 //
+39 ear	 //
+40 eye	kan //
+41 nose	 //
+43 tooth	eyiru //
+44 tongue	 //
+47 knee	 //
+48 hand	kai //
+51 breast	niram, marpu //
+53 liver	 //
+54 drink	 //
+57 see	kan, par //
+58 hear	kel //
+61 die	 //
+66 come	wa //
+72 sun	 //
+74 star	 //
+75 water	nir //
+77 stone	kal, arai //
+82 fire	 //
+85 path	neri //
+86 mountain	malai, Tilamp, varai //
+92 night	irawu, irul //
+95 full	 //
+96 new	putu //
+100 name	 //
+TAMIL{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Tamil|@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Tamil-Kodagu,Tamil-Malayalam,Tamiloid}
+ 1   11.00   78.50    67832790   tml   tam
+1 I	nan //
+2 you	ni //
+3 we	nankal //
+4 this	inta //
+5 that	anta //
+6 who	yar //
+7 what	enna //
+8 not	alla //
+9 all	ella //
+10 many	pala //
+11 one	onru //
+12 two	irantu //
+13 big	periya //
+14 long	ninta //
+15 small	Ciriya //
+16 woman	pen //
+17 man	an //
+18 person	manitan //
+19 fish	min //
+20 bird	paravai //
+21 dog	nay //
+22 louse	pen //
+23 tree	maram //
+24 seed	vitai //
+25 leaf	ilai //
+26 root	ver //
+27 bark	patai //
+28 skin	tol //
+29 flesh	iraiCCi //
+30 blood	%rattam // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elumpu //
+32 grease	kolutta //
+33 egg	muttai //
+34 horn	kompu //
+35 tail	val //
+36 feather	iraku //
+37 hair	mayir //
+38 head	talai //
+39 ear	katu //
+40 eye	kan //
+41 nose	mukku //
+42 mouth	vay //
+43 tooth	pal //
+44 tongue	nakku //
+45 claw	nakam //
+46 foot	ati //
+47 knee	mulankal //
+48 hand	kai //
+49 belly	vayiru //
+50 neck	kaluttu //
+51 breast	marpu //
+52 heart	itayam //
+53 liver	iral //
+54 drink	kuti //
+55 eat	Cappitu //
+56 bite	kati //
+57 see	kan //
+58 hear	kel //
+59 know	ari //
+60 sleep	uranku //
+61 die	Ca //
+62 kill	kol //
+63 swim	nintu //
+64 fly	para //
+65 walk	natu //
+66 come	varu //
+67 lie	kita //
+68 sit	utkar //
+69 stand	nil //
+70 give	kotu //
+71 say	Col //
+72 sun	%Curiyan // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+73 moon	Cantiran //
+74 star	min //
+75 water	tannir //
+76 rain	malai //
+77 stone	kal //
+78 sand	manal //
+79 earth	man //
+80 cloud	mekam //
+81 smoke	pukai //
+82 fire	neruppu //
+83 ash	Campal //
+84 burn	Cutu //
+85 path	vali //
+86 mountain	malai //
+87 red	Cem //
+88 green	paCu //
+89 yellow	ma5kal //
+90 white	vel //
+91 black	karu //
+92 night	iravu //
+93 hot	vetuvetu //
+94 cold	kulirnta //
+95 full	nirainta //
+96 new	putu //
+97 good	nalla //
+98 round	vatta //
+99 dry	ularnta //
+100 name	peyar //
+KORAGA_KORRA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tulu,Koraga|@Dravidian,SouthDravidian,SouthDravidianI,Tulu-Koraga,Koraga}
+ 1   13.27   74.97       14000         kfd
+1 I	yan3 //
+2 you	iji //
+3 we	nak3l3 //
+11 one	o5ji //
+12 two	rad3 //
+18 person	 //
+19 fish	 //
+21 dog	kongu //
+22 louse	 //
+23 tree	 //
+25 leaf	Capu, irE //
+28 skin	toru //
+30 blood	neter3, %reg3ta // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elu //
+34 horn	 //
+39 ear	kebi //
+40 eye	kan3 //
+41 nose	 //
+43 tooth	kuli //
+44 tongue	nalayi //
+47 knee	 //
+48 hand	kayi //
+51 breast	turE //
+53 liver	Canka //
+54 drink	par3 //
+57 see	Cu //
+58 hear	 //
+61 die	 //
+66 come	ba //
+72 sun	%Cury~e // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+74 star	darayi //
+75 water	 //
+77 stone	kal3 //
+82 fire	tu //
+85 path	taji //
+86 mountain	%parwata // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+92 night	irl3 //
+95 full	nelkE, tumba //
+96 new	poCat3 //
+100 name	padar3 //
+TULU{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tulu|@Dravidian,SouthDravidian,SouthDravidianI,Tulu-Koraga,Tulu-Bellari}
+ 1   12.75   75.33     1720000   tul   tcy
+1 I	en3 //
+2 you	i //
+3 we	nama, eNkulu //
+11 one	o5ji //
+12 two	eradi //
+18 person	manse, %manusye, jana // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+19 fish	min3, eti //
+21 dog	nayi //
+22 louse	pen3 //
+23 tree	mara //
+25 leaf	patrE //
+28 skin	Tarma //
+30 blood	neter3 //
+31 bone	asthi, elu //
+34 horn	 //
+39 ear	 //
+40 eye	kan3 //
+41 nose	muNku //
+43 tooth	 //
+44 tongue	bhasE, nalagE //
+47 knee	molapugant3 //
+48 hand	kayi //
+51 breast	mirE //
+53 liver	 //
+54 drink	 //
+57 see	su, hu, tu //
+58 hear	 //
+61 die	say, swasawoyp //
+66 come	 //
+72 sun	poltu, portu, potu //
+74 star	%naksatra // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+75 water	nir3 //
+77 stone	kal3 //
+82 fire	tu, su //
+85 path	marga, rastE, tadi //
+86 mountain	%parwata // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+92 night	%ratri // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+95 full	 //
+96 new	 //
+100 name	pada //
+

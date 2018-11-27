@@ -1,0 +1,7500 @@
+     2    28  1700     3
+(I4,20X,10A1)
+   1                    I
+   2                    you
+   3                    we
+  18                    person
+  19                    fish
+  21                    dog
+  22                    louse
+  23                    tree
+  25                    leaf
+  28                    skin
+  30                    blood
+  31                    bone
+  34                    horn
+  39                    ear
+  40                    eye
+  41                    nose
+  43                    tooth
+  44                    tongue
+  47                    knee
+  48                    hand
+  51                    breast
+  53                    liver
+  54                    drink
+  57                    see
+  58                    hear
+  61                    die
+  66                    come
+  72                    sun
+  74                    star
+  75                    water
+  77                    stone
+  82                    fire
+  85                    path
+  86                    mountain
+  92                    night
+  95                    full
+  96                    new
+ 100                    name
+
+p
+b
+f
+v
+m
+w
+8
+t
+d
+s
+z
+c
+n
+r
+l
+S
+Z
+C
+j
+T
+5
+y
+k
+g
+x
+N
+q
+X
+h
+7
+L
+4
+G
+!
+i
+e
+E
+3
+a
+u
+o
+
+
+BATEK_DEQ{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Eastern|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Menraq-Batek}
+ 1    3.75  102.50        1000         btq
+1 I	yE7 //
+2 you	moh //
+3 we	he7 //
+18 person	batEk //
+19 fish	ikan //
+21 dog	a5eN //
+22 louse	ce7 //
+23 tree	tom //
+25 leaf	hali7 //
+28 skin	k3t37 //
+30 blood	yap //
+31 bone	tulaN //
+34 horn	 //
+39 ear	3nteN //
+40 eye	mEt //
+41 nose	moh //
+43 tooth	ha5 //
+44 tongue	l3ntik //
+47 knee	kaltoN //
+48 hand	cas //
+51 breast	am //
+53 liver	k3laNis //
+54 drink	am //
+57 see	t3t //
+58 hear	k3jiN //
+61 die	halot //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	tom //
+77 stone	batu //
+82 fire	os //
+85 path	har //
+86 mountain	gunuN //
+92 night	haNEp //
+95 full	p3nuh //
+96 new	ze7 //
+100 name	k3nmoh //
+BATEK_NONG{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Eastern|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Menraq-Batek}
+ 1    3.75  102.50        1000         btq
+1 I	jE7 //
+2 you	m37 //
+3 we	 //
+18 person	l37 //
+19 fish	ikan //
+21 dog	w37 //
+22 louse	ce7 //
+23 tree	 //
+25 leaf	daw3n //
+28 skin	k3t37 //
+30 blood	m3h3m //
+31 bone	ji7iN //
+34 horn	 //
+39 ear	3nt3N //
+40 eye	mEt //
+41 nose	moh //
+43 tooth	ha5 //
+44 tongue	l3ktik //
+47 knee	kaltoN //
+48 hand	ciyas //
+51 breast	am //
+53 liver	k3laNEs //
+54 drink	7am //
+57 see	tot //
+58 hear	k3jiN //
+61 die	k3b3s //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	tom //
+77 stone	batu7 //
+82 fire	os //
+85 path	h3h //
+86 mountain	laNgon //
+92 night	h3kw3t //
+95 full	c3w3h //
+96 new	re7 //
+100 name	k3nmoh //
+CEQ_WONG{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Chewong|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian}
+ 1    3.23  102.42         460         cwg
+1 I	iN //
+2 you	m3*7 //
+3 we	hE7 //
+18 person	bri7 //
+19 fish	ki37 //
+21 dog	E*N //
+22 louse	TE7 //
+23 tree	y3hu*7 //
+25 leaf	hale7 //
+28 skin	ho7 //
+30 blood	mh~3*m //
+31 bone	y37eN //
+34 horn	%tanok // loan from Malay (LWT)
+39 ear	hnt$3N //
+40 eye	mE*t //
+41 nose	mo*h //
+43 tooth	lmu*5 //
+44 tongue	latek //
+47 knee	ktoN //
+48 hand	Tos //
+51 breast	%bu7 // probably loan from Jah Hut
+53 liver	ros //
+54 drink	uh //
+57 see	yow //
+58 hear	kj3N //
+61 die	%kb3s // probably borrowed from an unidentified language
+66 come	t3s //
+72 sun	mE*t kto7 // 'eye' + 'day'
+74 star	%bintaN // loan from Malay
+75 water	%tom // probably loan from Middle Chinese
+77 stone	tmo*7 //
+82 fire	os //
+85 path	%lboh // loan from Malay
+86 mountain	Tba7, %mni*m // probably loan from Jah Hut
+92 night	btom //
+95 full	b3k //
+96 new	rE7 //
+100 name	To7 //
+JAH_HUT{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,JahHut|@Austroasiatic,Aslian,Central-NorthernAslian}
+ 1    3.67  102.28           0         jah
+1 I	iha*7 //
+2 you	ima7 //
+3 we	iy37 //
+18 person	Tah //
+19 fish	ka7 //
+21 dog	Tw37 //
+22 louse	TE7 //
+23 tree	naho*7 //
+25 leaf	hla7 //
+28 skin	k3tu7 //
+30 blood	nihim //
+31 bone	T37aN //
+34 horn	 //
+39 ear	ntaN //
+40 eye	mat //
+41 nose	 //
+43 tooth	l3mo5 //
+44 tongue	l3ntak //
+47 knee	k3rwal //
+48 hand	tiN //
+51 breast	bo7 //
+53 liver	r3s //
+54 drink	w3h //
+57 see	tande7 //
+58 hear	 //
+61 die	k3b3s //
+66 come	b37 //
+72 sun	mat k3to7 //
+74 star	 //
+75 water	tom //
+77 stone	t3mo7 //
+82 fire	os //
+85 path	nw3N //
+86 mountain	b3n3m //
+92 night	s3Nat //
+95 full	 //
+96 new	pay //
+100 name	7am3h //
+JAHAI{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Eastern|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Menraq-Batek}
+ 1    5.75  101.50        1250   jah   jhi
+1 I	yE7 //
+2 you	mi7 //
+3 we	yapE*h //
+18 person	m3nra7 //
+19 fish	3k37 //
+21 dog	3Ti7 //
+22 louse	Ti7 //
+23 tree	Thu*7 //
+25 leaf	h3li7 //
+28 skin	k3t37 //
+30 blood	%darah // < Malay
+31 bone	T37eN //
+34 horn	%tano7 // < Malay
+39 ear	3nteN //
+40 eye	mit //
+41 nose	moh //
+43 tooth	hE*5 //
+44 tongue	l3ntek //
+47 knee	kaltoN //
+48 hand	Tyas //
+51 breast	E*m //
+53 liver	ros //
+54 drink	huT //
+57 see	El //
+58 hear	k3TeN //
+61 die	k3bis //
+66 come	k3lwi*l //
+72 sun	kit kto7 //
+74 star	p3rloy //
+75 water	o*N //
+77 stone	tuNko*l //
+82 fire	os //
+85 path	%gloN // < Mon
+86 mountain	T3lmol //
+92 night	h3rkit //
+95 full	s3bem //
+96 new	pay //
+100 name	k3nmoh //
+KENSIW{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Western|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Maniq}
+ 1    6.08  101.17         259         kns
+1 I	ye7 //
+2 you	bo7 //
+3 we	TE7 //
+18 person	mani7 //
+19 fish	%ikan // < Malay
+21 dog	e7 //
+22 louse	Te7 //
+23 tree	ihu*7 //
+25 leaf	hali7 //
+28 skin	kat37 //
+30 blood	m3h3m //
+31 bone	7iyeN //
+34 horn	%tano7 // < Malay
+39 ear	73nteN //
+40 eye	met //
+41 nose	mwo*h //
+43 tooth	5u*s //
+44 tongue	latik //
+47 knee	kaltoN //
+48 hand	Tas //
+51 breast	am //
+53 liver	yos //
+54 drink	bu7 //
+57 see	nampa7 //
+58 hear	g3TEgN //
+61 die	gabis //
+66 come	doh //
+72 sun	met kato7 //
+74 star	%bintEN // < Malay
+75 water	b3tew //
+77 stone	%batu7 // < Malay
+82 fire	met 7os //
+85 path	%g3loN // < Mon
+86 mountain	T3pa7 //
+92 night	hEkut //
+95 full	hapudn //
+96 new	kanabil //
+100 name	To7 //
+KINTAQ{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Western|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Maniq}
+ 1    5.92  101.42         111         knq
+1 I	yE7 //
+2 you	bo7 //
+3 we	he7 //
+18 person	m3ni7 //
+19 fish	ikan //
+21 dog	e7 //
+22 louse	 //
+23 tree	ihi //
+25 leaf	h3li7 //
+28 skin	k3to7 //
+30 blood	m3h3m //
+31 bone	i7eN //
+34 horn	 //
+39 ear	3nteN //
+40 eye	mEt //
+41 nose	moh //
+43 tooth	yus //
+44 tongue	l3tig //
+47 knee	kaltoN //
+48 hand	cas //
+51 breast	am //
+53 liver	k3laNis //
+54 drink	bu7 //
+57 see	 //
+58 hear	k3jeN //
+61 die	k3bis //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	b3tEw //
+77 stone	batu7 //
+82 fire	os //
+85 path	 //
+86 mountain	 //
+92 night	hEkut //
+95 full	 //
+96 new	kabil //
+100 name	co7 //
+LANOH{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,Senoic|@Austroasiatic,Aslian,Central-NorthernAslian,Senoic,Lanoh-Semnam-Temiar,Lanoh-Semnam,Lanohic}
+ 1    4.00  102.50           0         lnh
+1 I	ic //
+2 you	mih //
+3 we	ic //
+18 person	s3ma7 //
+19 fish	ka //
+21 dog	ace7 //
+22 louse	ce7 //
+23 tree	j3hi7 //
+25 leaf	s3la7 //
+28 skin	s3Nko7 //
+30 blood	darah //
+31 bone	j37EN //
+34 horn	 //
+39 ear	g3ntok //
+40 eye	mad //
+41 nose	muh //
+43 tooth	l3mo5 //
+44 tongue	l3ntag //
+47 knee	karol //
+48 hand	tiN //
+51 breast	mEm //
+53 liver	ris //
+54 drink	oN //
+57 see	dak //
+58 hear	yok //
+61 die	k3b3s //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	oN //
+77 stone	 //
+82 fire	os //
+85 path	n3woN //
+86 mountain	j3lmol //
+92 night	h3Nod //
+95 full	t3bik //
+96 new	baru7 //
+100 name	k3nmoh //
+MAH_MERI{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,SouthAslian|@Austroasiatic,Aslian,SouthAslian}
+ 1    2.83  101.50        2990   mhm   mhe
+1 I	3735 //
+2 you	hi7 //
+3 we	hEh //
+18 person	hma7 //
+19 fish	kah //
+21 dog	caw //
+22 louse	cih //
+23 tree	t3koh //
+25 leaf	dawun //
+28 skin	 //
+30 blood	maham //
+31 bone	j37ak //
+34 horn	 //
+39 ear	t3N //
+40 eye	mEnt //
+41 nose	muh //
+43 tooth	j3moy //
+44 tongue	lidah //
+47 knee	lutut //
+48 hand	thi7 //
+51 breast	tuh //
+53 liver	g3rih //
+54 drink	cadow //
+57 see	c3lEw //
+58 hear	kay3k //
+61 die	k3b3s //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	dow //
+77 stone	batu7 //
+82 fire	us //
+85 path	 //
+86 mountain	gunoN //
+92 night	d3y //
+95 full	hm3c //
+96 new	mpay //
+100 name	g3lah //
+MINTIL{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Eastern|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Menraq-Batek}
+ 1    3.75  102.50         180         mzt
+1 I	yE7 //
+2 you	pa5 //
+3 we	yE7 //
+18 person	batEik //
+19 fish	ikan //
+21 dog	asow7 //
+22 louse	cEi7 //
+23 tree	toum //
+25 leaf	haliy7 //
+28 skin	 //
+30 blood	m3h3m //
+31 bone	towlan //
+34 horn	 //
+39 ear	 //
+40 eye	mEit //
+41 nose	moh //
+43 tooth	ha5 //
+44 tongue	l3ntiyk //
+47 knee	kaltouN //
+48 hand	ciyas //
+51 breast	am //
+53 liver	k3laNes //
+54 drink	 //
+57 see	caNo7 //
+58 hear	 //
+61 die	k3b3s //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	tom //
+77 stone	bat3u7 //
+82 fire	os //
+85 path	 //
+86 mountain	t3ul //
+92 night	hEkout //
+95 full	c3w3h //
+96 new	3i7 //
+100 name	k3nmoh //
+SABUM{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,Senoic|@Austroasiatic,Aslian,Central-NorthernAslian,Senoic,Lanoh-Semnam-Temiar,Lanoh-Semnam,Lanohic}
+ 1    4.00  102.50          -1         sbo
+1 I	iN //
+2 you	mih //
+3 we	i5 //
+18 person	s3ma7 //
+19 fish	ka7 //
+21 dog	co7 //
+22 louse	ce7 //
+23 tree	5ehi7 //
+25 leaf	s3la7 //
+28 skin	katEk //
+30 blood	dayah //
+31 bone	j37aN //
+34 horn	 //
+39 ear	g3ntok //
+40 eye	mad //
+41 nose	muh //
+43 tooth	l3mo5 //
+44 tongue	l3ntag //
+47 knee	kayol //
+48 hand	tiN //
+51 breast	mEm //
+53 liver	hup //
+54 drink	oN //
+57 see	dak //
+58 hear	yok //
+61 die	k3b3s //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	oN //
+77 stone	batu7 //
+82 fire	os //
+85 path	noN //
+86 mountain	po7 //
+92 night	h3Nod //
+95 full	t3bik //
+96 new	bayu7 //
+100 name	k3nmoh //
+SEMAI{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,Senoic|@Austroasiatic,Aslian,Central-NorthernAslian,Senoic}
+ 1    4.33  101.67       10000   smj   sea
+1 I	E5 //
+2 you	hE7 //
+3 we	Zi7 //
+4 this	adEh //
+5 that	aZeh //
+6 who	bo7 //
+7 what	mah //
+8 not	pE7 //
+9 all	diC //
+10 many	Z7~oy //
+13 big	nt~oy //
+14 long	Cr3kN //
+15 small	maCo*t //
+16 woman	krdor //
+17 man	kral //
+18 person	sn7~oy //
+19 fish	ka7 //
+20 bird	CEpm~ //
+21 dog	Co7 //
+22 louse	CE7 //
+23 tree	Zh~u7 //
+24 seed	sip //
+25 leaf	sla7 //
+26 root	r7~es //
+27 bark	Ckop //
+28 skin	gt37 //
+29 flesh	sEC //
+30 blood	bh~ipm~ //
+31 bone	Z7~akN~ //
+32 grease	l7~us //
+33 egg	pNl3kN~ //
+34 horn	 //
+35 tail	snta7 //
+36 feather	sntol //
+37 hair	sok //
+38 head	kuy //
+39 ear	ntakN //
+40 eye	mat //
+41 nose	muh //
+42 mouth	mp~akN //
+43 tooth	lmu5 //
+44 tongue	lntak //
+45 claw	C3nros //
+46 foot	ZukN //
+47 knee	kurol //
+48 hand	t3kN //
+49 belly	k3t //
+50 neck	taN3n //
+51 breast	nt~3h //
+52 heart	nus //
+53 liver	ris //
+54 drink	Nut //
+55 eat	Ca7 //
+56 bite	kap //
+57 see	nEN //
+58 hear	g3rtek //
+59 know	panEy //
+60 sleep	bEt //
+61 die	dat //
+62 kill	p3rdat //
+63 swim	loy //
+64 fly	hEkN //
+65 walk	Cip //
+66 come	bEy //
+67 lie	da7 //
+68 sit	g3y //
+69 stand	Zi5Z3k //
+70 give	ok //
+71 say	pder //
+72 sun	matZis //
+73 moon	gCE7 //
+74 star	prloy //
+75 water	tew //
+76 rain	mani7 //
+77 stone	batu7 //
+78 sand	pasir //
+79 earth	te7 //
+80 cloud	sagup //
+81 smoke	Cul //
+82 fire	os //
+83 ash	gNh3l //
+84 burn	 //
+85 path	nuN //
+86 mountain	lot //
+87 red	rNa5 //
+88 green	 //
+89 yellow	ph~ok //
+90 white	by~Ek //
+91 black	bl7$ak //
+92 night	t3pm~ //
+93 hot	 //
+94 cold	sNEC //
+95 full	t3bek //
+96 new	pay //
+97 good	bor //
+98 round	 //
+99 dry	hoC //
+100 name	muh //
+SEMAI_2{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,Senoic|@Austroasiatic,Aslian,Central-NorthernAslian,Senoic}
+ 1    4.33  101.67       10000   smj   sea
+1 I	E5 //
+2 you	hE7 //
+3 we	Ti7 //
+18 person	sN7o*y //
+19 fish	ka7 //
+21 dog	To7 //
+22 louse	TE7 //
+23 tree	Thu7 //
+25 leaf	sla7 //
+28 skin	gt37 //
+30 blood	bh~ipm //
+31 bone	T7akN //
+34 horn	tanduk //
+39 ear	ntakN //
+40 eye	mat //
+41 nose	muh //
+43 tooth	lmu5 //
+44 tongue	lntak //
+47 knee	kurol //
+48 hand	t3kN //
+51 breast	nt3h //
+53 liver	ris //
+54 drink	Nut //
+57 see	nEN //
+58 hear	T3rNay //
+61 die	datn //
+66 come	bEy //
+72 sun	mat Tis //
+74 star	prloy //
+75 water	tew //
+77 stone	%batu7 // < Malay
+82 fire	os //
+85 path	nuN //
+86 mountain	lotn //
+92 night	t3pm //
+95 full	t3bek //
+96 new	pay //
+100 name	muh //
+SEMAQ_BERI{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,SouthAslian|@Austroasiatic,Aslian,SouthAslian,Semelai-Semaq}
+ 1    4.00  102.50        2000         szc
+1 I	yEh //
+2 you	hi7 //
+3 we	hEh //
+18 person	s3ma7 //
+19 fish	kah //
+21 dog	coh //
+22 louse	cih //
+23 tree	t3koh //
+25 leaf	salah //
+28 skin	 //
+30 blood	maham //
+31 bone	j37aN //
+34 horn	 //
+39 ear	nt3N //
+40 eye	mad //
+41 nose	muh //
+43 tooth	j3moy //
+44 tongue	lidah //
+47 knee	k3ltoN //
+48 hand	teh //
+51 breast	tuh //
+53 liver	g3rEh //
+54 drink	ja7oh //
+57 see	cEn //
+58 hear	p3yoN //
+61 die	k3b3s //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	dow //
+77 stone	batu7 //
+82 fire	os //
+85 path	t3ruN //
+86 mountain	b3n3m //
+92 night	p3let //
+95 full	t3beN //
+96 new	s3pay //
+100 name	j3Nmoh //
+SEMELAI{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,SouthAslian|@Austroasiatic,Aslian,SouthAslian,Semelai-Semaq}
+ 1    3.00  103.00        4100   sml   sza
+1 I	35 //
+2 you	Ti //
+3 we	yE //
+18 person	s3ma7 //
+19 fish	T3rEh //
+21 dog	To //
+22 louse	Ti //
+23 tree	d3loN //
+25 leaf	%dawon // < Malay
+28 skin	kulit //
+30 blood	maham //
+31 bone	T37aN //
+34 horn	tanduk //
+39 ear	t3N //
+40 eye	mot //
+41 nose	muh //
+43 tooth	l3mo5 //
+44 tongue	l3pEs //
+47 knee	kaltoN //
+48 hand	th~i //
+51 breast	tuh //
+53 liver	g3res //
+54 drink	y7oh //
+57 see	ye //
+58 hear	y3N //
+61 die	kh~3b3s //
+66 come	dos //
+72 sun	mata 7are7 //
+74 star	%bintaN // < Malay
+75 water	dak //
+77 stone	t3mu //
+82 fire	us //
+85 path	t3roN //
+86 mountain	b3n3m //
+92 night	p3tom //
+95 full	s3b35 //
+96 new	arEh //
+100 name	g3Nlar //
+SEMNAM{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,Senoic|@Austroasiatic,Aslian,Central-NorthernAslian,Senoic,Lanoh-Semnam-Temiar,Lanoh-Semnam}
+ 1    4.75  101.00         670         ssm
+1 I	i*5 //
+2 you	kum //
+3 we	ye7 //
+18 person	sma7 //
+19 fish	kayil //
+21 dog	aTE*7 //
+22 louse	Te7 //
+23 tree	5hu*7 //
+25 leaf	sla7 //
+28 skin	katE*k //
+30 blood	dayah //
+31 bone	j7aN //
+34 horn	 //
+39 ear	kntok //
+40 eye	kmo7 mat //
+41 nose	muh //
+43 tooth	lmo5 //
+44 tongue	lntak //
+47 knee	kayol //
+48 hand	tiN //
+51 breast	mEm //
+53 liver	yis //
+54 drink	o*N //
+57 see	daN //
+58 hear	yoN //
+61 die	kb3s //
+66 come	hoT //
+72 sun	mat yis //
+74 star	bintaN //
+75 water	o*N //
+77 stone	batu7 //
+82 fire	7os //
+85 path	 //
+86 mountain	lg3t po7 //
+92 night	hNot //
+95 full	 //
+96 new	 //
+100 name	knmoh //
+TEMIAR{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,Senoic|@Austroasiatic,Aslian,Central-NorthernAslian,Senoic,Lanoh-Semnam-Temiar}
+ 1    5.00  101.50       15000   tmr   tea
+1 I	ye7 //
+2 you	ha7 //
+3 we	kanE7 //
+18 person	sEn7oy //
+19 fish	kE*7 //
+21 dog	T3wo7 //
+22 louse	TE7 //
+23 tree	T3hu7 //
+25 leaf	s3la7 //
+28 skin	sEmpo7 //
+30 blood	%lot // < Thai l?at ?
+31 bone	T37ak //
+34 horn	balog //
+39 ear	gEntok //
+40 eye	mad //
+41 nose	m3h //
+43 tooth	mo5 //
+44 tongue	lEntag //
+47 knee	karol //
+48 hand	tik //
+51 breast	mem //
+53 liver	Enr3s //
+54 drink	ok //
+57 see	nEh //
+58 hear	k3yok //
+61 die	k3b3s //
+66 come	ma7 //
+72 sun	mad 7is //
+74 star	pErloy //
+75 water	ok //
+77 stone	%batu // < Malay
+82 fire	os //
+85 path	noN //
+86 mountain	Telmol //
+92 night	layEg //
+95 full	t3bik //
+96 new	pay //
+100 name	konu k3n3h //
+TEMOQ{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,SouthAslian|@Austroasiatic,Aslian,SouthAslian,Semelai-Semaq}
+ 1    4.00  102.50           0         tmo
+1 I	a7oc //
+2 you	 //
+3 we	 //
+18 person	s3ma7 //
+19 fish	c3rEh //
+21 dog	cow //
+22 louse	cih //
+23 tree	 //
+25 leaf	dawun //
+28 skin	kulit //
+30 blood	maham //
+31 bone	j37aN //
+34 horn	 //
+39 ear	ntoN //
+40 eye	mont //
+41 nose	muh //
+43 tooth	 //
+44 tongue	l3pEs //
+47 knee	k3ltoN //
+48 hand	thih //
+51 breast	tuh //
+53 liver	g3rEs //
+54 drink	j37oh //
+57 see	eleN //
+58 hear	dENEN //
+61 die	k3bos //
+66 come	 //
+72 sun	 //
+74 star	 //
+75 water	dak //
+77 stone	t3mun //
+82 fire	a7uh //
+85 path	d3Nay //
+86 mountain	b3nom //
+92 night	gayow //
+95 full	s3boc //
+96 new	arEh //
+100 name	k3mah //
+TONGA{AuA.ASLIAN|Austro-Asiatic,Mon-Khmer,Aslian,NorthAslian,Tonga|@Austroasiatic,Aslian,Central-NorthernAslian,NorthAslian,Maniq-Menraq-Batek,Maniq}
+ 1    7.17  100.00         365         tnz
+1 I	i5 //
+2 you	moh //
+3 we	siyEi7 // 1pl.incl, 1du.incl = hiy
+18 person	mani7, hami7 //
+19 fish	ikan //
+21 dog	e7 //
+22 louse	maT //
+23 tree	5ahu7 //
+25 leaf	hali7sEm //
+28 skin	kat37 //
+30 blood	mah3*m //
+31 bone	iyeN //
+34 horn	baluN //
+39 ear	antEN //
+40 eye	mEt //
+41 nose	moh //
+43 tooth	lamiN //
+44 tongue	latik //
+47 knee	katoN //
+48 hand	Tas //
+51 breast	mam //
+53 liver	rus //
+54 drink	bu7 //
+57 see	dEN //
+58 hear	kayeN //
+61 die	so7 //
+66 come	doy //
+72 sun	mEt kato7 //
+74 star	kies //
+75 water	batew //
+77 stone	batu7 //
+82 fire	os //
+85 path	ha //
+86 mountain	batu7 //
+92 night	hakot //
+95 full	habu5 //
+96 new	kabi //
+100 name	To7 //
+BAHNAR{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,CentralBahnaric|@Austroasiatic,Bahnaric,NorthBahnaric,Hre-Sedang-Todrah-Monam,Bonam-Monam}
+ 1   13.83  108.33      158000   bpb   bdq
+1 I	i5 //
+2 you	 //
+3 we	5on //
+4 this	nou //
+5 that	ni //
+6 who	bu //
+7 what	ki3 //
+8 not	3h //
+9 all	 //
+10 many	th~3r //
+13 big	tih //
+14 long	keZuN //
+15 small	 //
+16 woman	drakan //
+17 man	droNlo //
+18 person	b3Nai //
+19 fish	ka //
+20 bird	s3m //
+21 dog	ko //
+22 louse	si //
+23 tree	loN //
+24 seed	 //
+25 leaf	hla //
+26 root	r3h //
+27 bark	hmok //
+28 skin	3kar //
+29 flesh	5em //
+30 blood	ph~am //
+31 bone	k3tiN //
+32 grease	r3ma //
+33 egg	 //
+34 horn	ake //
+35 tail	kieN //
+36 feather	sok //
+37 hair	sok //
+38 head	k3l //
+39 ear	don //
+40 eye	mat //
+41 nose	muh //
+42 mouth	b3r //
+43 tooth	s3ne5 //
+44 tongue	r3piet //
+45 claw	teNi3h //
+46 foot	t3paNZ3N //
+47 knee	 //
+48 hand	ti //
+49 belly	 //
+50 neck	ako //
+51 breast	toh //
+52 heart	nuih //
+53 liver	kl3m //
+54 drink	5a //
+55 eat	sa //
+56 bite	kap //
+57 see	boh //
+58 hear	k3teN //
+59 know	bat //
+60 sleep	tep //
+61 die	k3teC //
+62 kill	p3loC //
+63 swim	gl3i //
+64 fly	par //
+65 walk	ano //
+66 come	 //
+67 lie	p3som //
+68 sit	 //
+69 stand	doN //
+70 give	an //
+71 say	p3ma //
+72 sun	nar //
+73 moon	kh~ei //
+74 star	s3NloN //
+75 water	dak //
+76 rain	mi //
+77 stone	t3mo //
+78 sand	Cu3h //
+79 earth	tEh //
+80 cloud	h3m3l //
+81 smoke	5ui //
+82 fire	u5 //
+83 ash	h3yok //
+84 burn	 //
+85 path	troN //
+86 mountain	koN //
+87 red	bre //
+88 green	Z3k //
+89 yellow	dreN //
+90 white	kok //
+91 black	gam //
+92 night	maN //
+93 hot	 //
+94 cold	t3Niet //
+95 full	be4 //
+96 new	hlE //
+97 good	liEm //
+98 round	h3pom //
+99 dry	hreN //
+100 name	anan //
+BAHNAR_2{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,CentralBahnaric|@Austroasiatic,Bahnaric,NorthBahnaric,Hre-Sedang-Todrah-Monam,Bonam-Monam}
+ 1   13.83  108.33      158000   bpb   bdq
+1 I	i5 //
+2 you	E //
+3 we	b3n //
+18 person	%b3Nay // < Vietic
+19 fish	ka //
+21 dog	ko7 //
+22 louse	si //
+23 tree	loN //
+25 leaf	hla //
+28 skin	%3kar // < Katuic
+30 blood	ph~am //
+31 bone	k3tiN //
+34 horn	akE //
+39 ear	d"on //
+40 eye	mat //
+41 nose	muh //
+43 tooth	s3ne5 //
+44 tongue	r3piet //
+47 knee	kul taN //
+48 hand	ti //
+51 breast	tuh //
+53 liver	kl3m //
+54 drink	Et //
+57 see	%b"oh // < Chamic
+58 hear	k3t3N //
+61 die	%loT // < Chamic
+66 come	%trzh // < Chamic
+72 sun	nar //
+74 star	%s3NloN // < North Bahnaric
+75 water	d"ak //
+77 stone	t3mo //
+82 fire	u5 //
+85 path	troN //
+86 mountain	koN //
+92 night	maN //
+95 full	b"e5 //
+96 new	naw //
+100 name	mat //
+BRAO{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Brao-Kravet|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric,Laveh-Brao}
+ 1   14.17  107.50       32230   bra   brb
+1 I	ay //
+2 you	Th~ay //
+3 we	ya // we (3 or more)
+18 person	 //
+19 fish	tr3 //
+21 dog	Ta //
+22 louse	Tay //
+23 tree	loN //
+25 leaf	Th~la //
+28 skin	 //
+30 blood	ph~am //
+31 bone	k3t3N //
+34 horn	 //
+39 ear	tr3pit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	mp~iat //
+47 knee	t3rk3w //
+48 hand	ti //
+51 breast	toh //
+53 liver	kl3m //
+54 drink	 //
+57 see	tay //
+58 hear	doN //
+61 die	ket //
+66 come	b3h //
+72 sun	t3Nay //
+74 star	p3tuar //
+75 water	dak //
+77 stone	t3mo //
+82 fire	u5 //
+85 path	truN //
+86 mountain	T3nd~u //
+92 night	maN //
+95 full	biN //
+96 new	 //
+100 name	 //
+BUNOR{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Mnong,Southern-CentralMnong|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Mnong,Southern-CentralMnong}
+ 1   12.50  107.58       70000         cmo
+1 I	a5 //
+2 you	ay, may // 1. fem. 2.masc
+3 we	bon, he //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	si //
+25 leaf	 //
+28 skin	ntaw, ntow //
+30 blood	mham // Bu Nar dialect of central Mnong
+31 bone	ntiN //
+34 horn	Nke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	sek //
+44 tongue	mpiat //
+47 knee	 //
+48 hand	 //
+51 breast	toh //
+53 liver	klom //
+54 drink	5et //
+57 see	sau //
+58 hear	yat, taN //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	ma5 //
+75 water	dak //
+77 stone	 //
+82 fire	u5 //
+85 path	troN //
+86 mountain	yok //
+92 night	maN // "afternoon, evening"
+95 full	beN, ham //
+96 new	mhe //
+100 name	 //
+CHENG{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Oi-The|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric}
+ 1   14.80  106.97        4540         jeg
+1 I	 //
+2 you	sa3, saL //
+3 we	ma na //
+18 person	 //
+19 fish	T3 //
+21 dog	To //
+22 louse	Tay //
+23 tree	loN //
+25 leaf	hla //
+28 skin	sruat //
+30 blood	ph~am //
+31 bone	k3d3aN //
+34 horn	t3kuey //
+39 ear	trpit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	trpiat //
+47 knee	Takaw //
+48 hand	ti //
+51 breast	toh //
+53 liver	kl3m //
+54 drink	ok //
+57 see	taL //
+58 hear	d3N //
+61 die	kat //
+66 come	b3h //
+72 sun	taNay //
+74 star	tr3h //
+75 water	dak //
+77 stone	t3mo //
+82 fire	u5 //
+85 path	TuN //
+86 mountain	bru //
+92 night	maN //
+95 full	 //
+96 new	 //
+100 name	 //
+CHIL{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Mnong,EasternMnong|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Mnong}
+ 1   12.67  108.50       30000   mge   mng
+1 I	7a5 //
+2 you	7e, me // 1. fem. 2. masc.
+3 we	ban //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	 //
+25 leaf	 //
+28 skin	kotaw //
+30 blood	mham // Chil dialect of eastern Mnong.
+31 bone	kotiN //
+34 horn	 //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	se7 //
+44 tongue	lopiat //
+47 knee	 //
+48 hand	 //
+51 breast	toh //
+53 liver	 //
+54 drink	 //
+57 see	saw //
+58 hear	7iat //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	 //
+75 water	dak //
+77 stone	 //
+82 fire	loN // "firewood"
+85 path	troN //
+86 mountain	 //
+92 night	 //
+95 full	beN, ham //
+96 new	mhay //
+100 name	 //
+CHRAU{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Stieng-Chrau|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau}
+ 1   10.75  107.50        7000   chr   crw
+1 I	a5, i5 //
+2 you	mai, ai //
+3 we	von, kh~ana5 //
+4 this	 //
+5 that	 //
+6 who	kamvu //
+7 what	paC n7hy~a, mo7 //
+8 not	sun, daN //
+9 all	 //
+10 many	go7 //
+13 big	ma7 //
+14 long	joN //
+15 small	ken //
+16 woman	 //
+17 man	 //
+18 person	tamun //
+19 fish	ka //
+20 bird	sum //
+21 dog	so //
+22 louse	si //
+23 tree	Ch~o //
+24 seed	Ngrap //
+25 leaf	la //
+26 root	diyieh //
+27 bark	mo7 //
+28 skin	nto //
+29 flesh	goN //
+30 blood	n7ham //
+31 bone	ntiN //
+32 grease	 //
+33 egg	Cap //
+34 horn	 //
+35 tail	tieN //
+36 feather	sino7 sum //
+37 hair	so7 //
+38 head	vo7, kamvo7 //
+39 ear	tor //
+40 eye	mat //
+41 nose	muh //
+42 mouth	mi5 //
+43 tooth	seC //
+44 tongue	lapiet //
+45 claw	can7hyeih //
+46 foot	jaN //
+47 knee	ko7 kruN //
+48 hand	ti //
+49 belly	 //
+50 neck	nko //
+51 breast	gatoh //
+52 heart	play nuih //
+53 liver	kh~lom //
+54 drink	huC //
+55 eat	sa //
+56 bite	 //
+57 see	say //
+58 hear	CaN //
+59 know	gut //
+60 sleep	 //
+61 die	Cut //
+62 kill	taCut //
+63 swim	 //
+64 fly	par //
+65 walk	sa7, han //
+66 come	 //
+67 lie	vi7 //
+68 sit	gu7 //
+69 stand	tao ya7 //
+70 give	an, iun //
+71 say	pa5 //
+72 sun	mat nar //
+73 moon	kh~ay //
+74 star	sima5 //
+75 water	da7 //
+76 rain	mi //
+77 stone	tamo //
+78 sand	Cw~oh //
+79 earth	nteh //
+80 cloud	tu7 //
+81 smoke	5u7 //
+82 fire	u5 //
+83 ash	vuh //
+84 burn	Nit //
+85 path	tr~oN //
+86 mountain	guN //
+87 red	prho //
+88 green	 //
+89 yellow	ramut //
+90 white	vo7, kanaN //
+91 black	ju7, sindoC //
+92 night	maN, naN //
+93 hot	duh //
+94 cold	takat //
+95 full	ve5 //
+96 new	me //
+97 good	yah //
+98 round	 //
+99 dry	sah, ra5 //
+100 name	sa7 //
+CHRAU_2{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Stieng-Chrau|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau}
+ 1   10.75  107.50        7000   chr   crw
+1 I	7a5 //
+2 you	7ay, may // 1. fem. 2.masc.
+3 we	bon //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	Cho //
+25 leaf	 //
+28 skin	ntaw, nto //
+30 blood	mham //
+31 bone	ntiN //
+34 horn	Nke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	seC //
+44 tongue	lopiat //
+47 knee	 //
+48 hand	 //
+51 breast	gotoh //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	7yet, caN //
+61 die	 //
+66 come	 //
+72 sun	 //
+74 star	soma5 //
+75 water	da7 //
+77 stone	 //
+82 fire	7u5 //
+85 path	troN //
+86 mountain	 //
+92 night	maN //
+95 full	be5, ham //
+96 new	me //
+100 name	 //
+CUA{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,EastBahnaric|@Austroasiatic,Bahnaric}
+ 1   15.25  108.50       12000   cua   cua
+1 I	go //
+2 you	may 7i3 //
+3 we	u3t //
+18 person	m3nih //
+19 fish	ka //
+21 dog	so //
+22 louse	say //
+23 tree	b37ol //
+25 leaf	hla //
+28 skin	kaduh //
+30 blood	ph~ap //
+31 bone	kh~li3k //
+34 horn	akE //
+39 ear	tol //
+40 eye	mat //
+41 nose	muh //
+43 tooth	%kanEN // Katuic
+44 tongue	pi3t //
+47 knee	t3kul //
+48 hand	ti //
+51 breast	toh //
+53 liver	pl3p //
+54 drink	hot //
+57 see	hlo7 //
+58 hear	tamEN //
+61 die	set //
+66 come	truh //
+72 sun	mat hN3y //
+74 star	s3lak //
+75 water	dak //
+77 stone	ph~aw //
+82 fire	ol //
+85 path	tru3k //
+86 mountain	dot //
+92 night	kam3N //
+95 full	vik //
+96 new	7n3w //
+100 name	7al //
+GAR{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Mnong,EasternMnong|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Mnong}
+ 1   12.67  108.50       30000   mge   mng
+1 I	a5 //
+2 you	e, me // 1. fem. 2. masc.
+3 we	hay //
+18 person	 //
+19 fish	ka //
+21 dog	saw //
+22 louse	 //
+23 tree	si //
+25 leaf	 //
+28 skin	ntaw //
+30 blood	mham // Gar dialect of eastern Mnong
+31 bone	ntiN //
+34 horn	kay //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	sek //
+44 tongue	lopiat, ropiat //
+47 knee	 //
+48 hand	 //
+51 breast	toh //
+53 liver	tlom //
+54 drink	Net //
+57 see	so //
+58 hear	iat //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	ma5 //
+75 water	dak //
+77 stone	 //
+82 fire	u5, i5 //
+85 path	troN //
+86 mountain	yok //
+92 night	momaN //
+95 full	beN, ham //
+96 new	mhay //
+100 name	 //
+JEH{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,NorthBahnaric,West,Jeh-Halang|@Austroasiatic,Bahnaric,NorthBahnaric,Kayong-Jeh-Halang,Jeh-Halang}
+ 1   15.17  107.83       25800   jeh   jeh
+1 I	aut //
+2 you	mi //
+3 we	yuan //
+4 this	mou //
+5 that	 //
+6 who	bau //
+7 what	5ai //
+8 not	 //
+9 all	 //
+10 many	k3dram //
+13 big	tih //
+14 long	proih //
+15 small	t3si //
+16 woman	 //
+17 man	 //
+18 person	m3Nai //
+19 fish	ka //
+20 bird	Cim //
+21 dog	Co //
+22 louse	k3Cay //
+23 tree	loN //
+24 seed	 //
+25 leaf	la //
+26 root	riah //
+27 bark	k3duh //
+28 skin	pal //
+29 flesh	sinek //
+30 blood	ph~am //
+31 bone	k3siaN //
+32 grease	p3dreN //
+33 egg	t3tap //
+34 horn	t3koy //
+35 tail	teN //
+36 feather	suk //
+37 hair	suk //
+38 head	kal //
+39 ear	pat //
+40 eye	mat //
+41 nose	muh //
+42 mouth	t3mun //
+43 tooth	sineN //
+44 tongue	r3piat //
+45 claw	k3nialh~ //
+46 foot	 //
+47 knee	kroN //
+48 hand	ti //
+49 belly	p3dok //
+50 neck	t3kuai //
+51 breast	tuh //
+52 heart	noyh~ //
+53 liver	klem //
+54 drink	hut //
+55 eat	Ca //
+56 bite	kap //
+57 see	tau //
+58 hear	5aN //
+59 know	lo //
+60 sleep	kat //
+61 die	k3Ch~iat //
+62 kill	Zah //
+63 swim	p3loi //
+64 fly	t3pal //
+65 walk	Ciu //
+66 come	 //
+67 lie	kat //
+68 sit	sinan //
+69 stand	 //
+70 give	doh //
+71 say	t3tah //
+72 sun	matNay //
+73 moon	kh~ei //
+74 star	hloN //
+75 water	dak //
+76 rain	mriah //
+77 stone	t3mou //
+78 sand	Coih //
+79 earth	neh //
+80 cloud	k3sok //
+81 smoke	hnuai //
+82 fire	on //
+83 ash	luN lok //
+84 burn	 //
+85 path	traN //
+86 mountain	Nuk //
+87 red	dum //
+88 green	drih //
+89 yellow	driN //
+90 white	t3bok //
+91 black	5uN //
+92 night	maN //
+93 hot	 //
+94 cold	r3teh //
+95 full	biN //
+96 new	nao //
+97 good	liam //
+98 round	 //
+99 dry	raN //
+100 name	t3li7 //
+JEH_2{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,NorthBahnaric,West,Jeh-Halang|@Austroasiatic,Bahnaric,NorthBahnaric,Kayong-Jeh-Halang,Jeh-Halang}
+ 1   15.17  107.83       25800   jeh   jeh
+1 I	au //
+2 you	mi //
+3 we	yuan //
+18 person	%m3Naj // < Vietic
+19 fish	ka //
+21 dog	Tou //
+22 louse	k3Tay //
+23 tree	loN //
+25 leaf	la //
+28 skin	pal //
+30 blood	ph~am //
+31 bone	k3siaN //
+34 horn	%t3koy // < Katuic
+39 ear	pat //
+40 eye	mat //
+41 nose	muh //
+43 tooth	si7neN //
+44 tongue	r3piat //
+47 knee	kroN //
+48 hand	ti //
+51 breast	toh //
+53 liver	klEm //
+54 drink	hut //
+57 see	taw //
+58 hear	5aN //
+61 die	k3Tiat //
+66 come	%truh // Chamic
+72 sun	matNay //
+74 star	hloN //
+75 water	dak //
+77 stone	t3mou //
+82 fire	on //
+85 path	truaN //
+86 mountain	Nuk //
+92 night	maN //
+95 full	biN //
+96 new	naw //
+100 name	t3li7 //
+JRU{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Laven|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric,Loven-Suq}
+ 1   15.00  106.33       28100   lov   lbo
+1 I	ay //
+2 you	saw //
+3 we	Nay //
+18 person	%p3nuyh // < Ind
+19 fish	ka //
+21 dog	To //
+22 louse	Tey //
+23 tree	tom 7loN //
+25 leaf	la //
+28 skin	sruat //
+30 blood	ph~3m //
+31 bone	k3t33N //
+34 horn	%tkuaj // < Katuic
+39 ear	pit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	piat //
+47 knee	hNkol //
+48 hand	t3j //
+51 breast	toh //
+53 liver	klom //
+54 drink	ok //
+57 see	taw //
+58 hear	%soN // < Katuic
+61 die	ket //
+66 come	b3h //
+72 sun	t3Nay //
+74 star	%ptuar // < Katuic
+75 water	dak //
+77 stone	t3mo //
+82 fire	u5 //
+85 path	truoN //
+86 mountain	%bru // < Katuic
+92 night	maN //
+95 full	biN //
+96 new	now //
+100 name	moh //
+KOHO_CHIL{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Sre|@Austroasiatic,Bahnaric,SouthBahnaric,Koho-Maa}
+ 1   11.50  108.00      166000   sre   kpm
+1 I	he, 7ay //
+2 you	7ae, mi // 1. fem. 2. masc.
+3 we	 //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	Chi //
+25 leaf	 //
+28 skin	kotaw, koto //
+30 blood	mham // Chil dialect of Koho language
+31 bone	kotiN //
+34 horn	Nke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	se7, si7 //
+44 tongue	lopiat //
+47 knee	 //
+48 hand	 //
+51 breast	 //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	7iat //
+61 die	 //
+66 come	 //
+72 sun	 //
+74 star	soma5 //
+75 water	da7 //
+77 stone	 //
+82 fire	loN // "firewood"
+85 path	 //
+86 mountain	yo7 //
+92 night	maN //
+95 full	biN, ham //
+96 new	mhe //
+100 name	 //
+KOHO_SRE{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Sre|@Austroasiatic,Bahnaric,SouthBahnaric,Koho-Maa}
+ 1   11.50  108.00      166000   sre   kpm
+1 I	he, 7ay //
+2 you	7ay, mi // 1. fem. 2.masc.
+3 we	 //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	Chi //
+25 leaf	 //
+28 skin	goltaw //
+30 blood	mham // Sre dialect of Koho language
+31 bone	ntiN //
+34 horn	Nke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	se7, si7 //
+44 tongue	lompiat //
+47 knee	 //
+48 hand	 //
+51 breast	ntoh //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	7yat //
+61 die	 //
+66 come	 //
+72 sun	 //
+74 star	soma5 //
+75 water	da7 //
+77 stone	 //
+82 fire	7o5 //
+85 path	 //
+86 mountain	 //
+92 night	maN //
+95 full	biN, ham //
+96 new	 //
+100 name	 //
+KUAN{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Mnong,EasternMnong|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Mnong}
+ 1   12.67  108.50       30000   mge   mng
+1 I	a5 //
+2 you	ae, ay // fem.
+3 we	bon //
+18 person	 //
+19 fish	ka //
+21 dog	saw //
+22 louse	 //
+23 tree	Chi //
+25 leaf	 //
+28 skin	kotaw //
+30 blood	mham // Kwanh dialect of eastern Mnong
+31 bone	kotiN //
+34 horn	ke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	sek //
+44 tongue	mpiat //
+47 knee	 //
+48 hand	 //
+51 breast	toh //
+53 liver	tlom //
+54 drink	Net //
+57 see	saw //
+58 hear	7iat, toN //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	koma5 //
+75 water	dak //
+77 stone	 //
+82 fire	u5 //
+85 path	troN //
+86 mountain	yok //
+92 night	momaN //
+95 full	beN, hum //
+96 new	mhay //
+100 name	 //
+LOVEN{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Laven|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric,Loven-Suq}
+ 1   15.00  106.33       28100   lov   lbo
+1 I	ay //
+2 you	sao //
+3 we	j3 //
+18 person	 //
+19 fish	tr3 //
+21 dog	To //
+22 louse	T3y //
+23 tree	loN //
+25 leaf	la //
+28 skin	sruat //
+30 blood	ph~am //
+31 bone	k3teN //
+34 horn	t3kuay //
+39 ear	hpit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	piat //
+47 knee	hkol //
+48 hand	t3y //
+51 breast	toh //
+53 liver	klom //
+54 drink	ok //
+57 see	taw //
+58 hear	 //
+61 die	kat //
+66 come	b3h //
+72 sun	t3Nay //
+74 star	p3tuar //
+75 water	dak //
+77 stone	t3mo //
+82 fire	uN //
+85 path	tru3N //
+86 mountain	ptuol //
+92 night	maN //
+95 full	bi5 //
+96 new	now //
+100 name	T3nu7, Tu7 //
+NHAHEUN{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Nyaheun|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric}
+ 1   15.35  106.65        3960         nev
+1 I	 //
+2 you	sa //
+3 we	na //
+18 person	 //
+19 fish	 //
+21 dog	To //
+22 louse	Te //
+23 tree	loN //
+25 leaf	hla //
+28 skin	sruat //
+30 blood	ph~am //
+31 bone	gr3N //
+34 horn	dway //
+39 ear	pit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	piat //
+47 knee	muh ko //
+48 hand	ti //
+51 breast	toh //
+53 liver	klom //
+54 drink	ok //
+57 see	t3 //
+58 hear	 //
+61 die	ket //
+66 come	b3h //
+72 sun	nNe //
+74 star	tuan //
+75 water	dak //
+77 stone	nwo //
+82 fire	uN, wi5 //
+85 path	truoN //
+86 mountain	bruo //
+92 night	maN //
+95 full	biN //
+96 new	 //
+100 name	 //
+NHAHEUN_2{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Nyaheun|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric}
+ 1   15.35  106.65        3960         nev
+1 I	a //
+2 you	sa //
+3 we	Nay //
+18 person	%nnuyh // < Ind
+19 fish	%blak // < Tai?
+21 dog	To //
+22 louse	Te //
+23 tree	tom 7loN //
+25 leaf	hla //
+28 skin	sruat //
+30 blood	ph~am //
+31 bone	gr33N //
+34 horn	%dway // < Katuic
+39 ear	pit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	piat //
+47 knee	muh ko //
+48 hand	ti //
+51 breast	toh //
+53 liver	klom //
+54 drink	ok //
+57 see	t3 //
+58 hear	%soN // < Katuic
+61 die	ket //
+66 come	b3h //
+72 sun	n3e //
+74 star	%tuan // < Katuic
+75 water	dak //
+77 stone	nwo //
+82 fire	u5 //
+85 path	tru3N //
+86 mountain	%brwo // < Katuic
+92 night	maN //
+95 full	biN //
+96 new	naw //
+100 name	%s3 // < Lao
+OI{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Oi-The|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric}
+ 1   14.83  107.17       11200    oi   oyb
+1 I	aL //
+2 you	sa3, sal //
+3 we	na //
+18 person	 //
+19 fish	tr3 //
+21 dog	To //
+22 louse	Tay //
+23 tree	loN //
+25 leaf	hla //
+28 skin	sruat //
+30 blood	ph~am //
+31 bone	kr3d3N //
+34 horn	takuay //
+39 ear	trapit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	sapiat //
+47 knee	trakaw //
+48 hand	ti //
+51 breast	toh //
+53 liver	kl3m //
+54 drink	 //
+57 see	ta3 //
+58 hear	ndoN //
+61 die	ket //
+66 come	b3h //
+72 sun	taNay //
+74 star	patuar //
+75 water	dak //
+77 stone	tamo //
+82 fire	u5 //
+85 path	truoN //
+86 mountain	bru //
+92 night	maN //
+95 full	biN //
+96 new	naw //
+100 name	 //
+PREH{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Mnong,Southern-CentralMnong|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Mnong,Southern-CentralMnong}
+ 1   12.50  107.58       70000         cmo
+1 I	a5 //
+2 you	ae, ay, mae, may // 1.+2. fem. 3.+4. masc
+3 we	he //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	si //
+25 leaf	 //
+28 skin	ntaw, nto, ntow //
+30 blood	mham // Preh dialect of central Mnong
+31 bone	ntiN //
+34 horn	Nke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	sek //
+44 tongue	mpiat //
+47 knee	 //
+48 hand	 //
+51 breast	toh //
+53 liver	klom //
+54 drink	5et //
+57 see	sau //
+58 hear	yat, toN //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	ma5 //
+75 water	dak //
+77 stone	 //
+82 fire	u5 //
+85 path	troN //
+86 mountain	yok //
+92 night	maN // "afternoon, evening"
+95 full	beN, ham //
+96 new	mhe //
+100 name	 //
+RENGAO{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,NorthBahnaric,West,Rengao|@Austroasiatic,Bahnaric,NorthBahnaric,Hre-Sedang-Todrah-Monam,Hre-Sedang}
+ 1   14.58  107.83       18000   rng   ren
+1 I	au //
+2 you	ih //
+3 we	ba //
+18 person	k3draN //
+19 fish	ka //
+21 dog	Co //
+22 louse	Ci //
+23 tree	loN //
+25 leaf	hl~a //
+28 skin	h3kar //
+30 blood	m3ham //
+31 bone	k3xeN //
+34 horn	 //
+39 ear	don //
+40 eye	mat //
+41 nose	muh //
+43 tooth	h3neN //
+44 tongue	r3pet //
+47 knee	kuN kraN //
+48 hand	ti //
+51 breast	d3da noih //
+53 liver	klem //
+54 drink	u //
+57 see	hl~o //
+58 hear	taN //
+61 die	hl~at //
+66 come	truh //
+72 sun	mat hi //
+74 star	h3loN //
+75 water	dak //
+77 stone	hm~u //
+82 fire	un //
+85 path	troN //
+86 mountain	d3don //
+92 night	maN //
+95 full	biN //
+96 new	n"ao //
+100 name	mai //
+ROLOM{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Mnong,EasternMnong|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Mnong}
+ 1   12.67  108.50       30000   mge   mng
+1 I	a5 //
+2 you	e, me // 1. fem. 2. masc.
+3 we	ban //
+18 person	 //
+19 fish	ka //
+21 dog	saw //
+22 louse	 //
+23 tree	Chi, jhi //
+25 leaf	 //
+28 skin	taw //
+30 blood	mham // Rolom dialect of eastern Mnong
+31 bone	tiN //
+34 horn	ke, kay //
+39 ear	tor, tur //
+40 eye	mat //
+41 nose	 //
+43 tooth	sek, sik //
+44 tongue	piat //
+47 knee	 //
+48 hand	 //
+51 breast	toh //
+53 liver	tlom //
+54 drink	5it, 5et //
+57 see	so //
+58 hear	iat, toN //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	ma5 //
+75 water	dak //
+77 stone	 //
+82 fire	u5 //
+85 path	troN, truaN //
+86 mountain	yok, yuk //
+92 night	momaN //
+95 full	beN, biN, ham //
+96 new	mhay //
+100 name	 //
+SAPUAN{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,WestBahnaric,Oi-The|@Austroasiatic,Bahnaric,WestBahnaric,NuclearWestBahnaric,Sapuan-Sok}
+ 1   15.10  106.50        2400   sap   spu
+1 I	ay //
+2 you	say //
+3 we	mu a5 //
+18 person	b3nuy, b3rux //
+19 fish	tr3 //
+21 dog	To //
+22 louse	Tay //
+23 tree	t3m //
+25 leaf	kh~a loN //
+28 skin	suat //
+30 blood	pojam //
+31 bone	k3rd3aN //
+34 horn	t3kuay //
+39 ear	t3pit //
+40 eye	mat //
+41 nose	muh //
+43 tooth	p3N //
+44 tongue	piat //
+47 knee	t3kaw //
+48 hand	ti //
+51 breast	 // taw (from Lao)
+53 liver	kl3m //
+54 drink	ok //
+57 see	tay //
+58 hear	d3N //
+61 die	kat //
+66 come	b3h //
+72 sun	t3Nay //
+74 star	p3tuar //
+75 water	dak //
+77 stone	t3mo //
+82 fire	u5 //
+85 path	truaN //
+86 mountain	koN //
+92 night	maN //
+95 full	biN //
+96 new	 //
+100 name	 // s3 (from Lao)
+SEDANG{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,NorthBahnaric,West,Sedang-Todrah,Sedang|@Austroasiatic,Bahnaric,NorthBahnaric,Hre-Sedang-Todrah-Monam,Hre-Sedang}
+ 1   14.83  108.00       97520   sed   sed
+1 I	a //
+2 you	eh, po //
+3 we	pa, ma //
+4 this	ko //
+5 that	me //
+6 who	kobo, ki //
+7 what	ki klai //
+8 not	oh ta //
+9 all	tai taN, tum //
+10 many	hen //
+13 big	kan //
+14 long	Son, toCuaN //
+15 small	toSin, kw~an //
+16 woman	kodrai //
+17 man	konou //
+18 person	Ne //
+19 fish	ka //
+20 bird	Cem //
+21 dog	Co //
+22 louse	Sro //
+23 tree	loaN //
+24 seed	kloaN //
+25 leaf	hla //
+26 root	rei //
+27 bark	kotou //
+28 skin	kea //
+29 flesh	honeh //
+30 blood	moheam //
+31 bone	koSiaN //
+32 grease	 //
+33 egg	kota //
+34 horn	 //
+35 tail	tiN //
+36 feather	 //
+37 hair	Sak //
+38 head	ko //
+39 ear	tuan //
+40 eye	ma //
+41 nose	moh //
+42 mouth	rokoN //
+43 tooth	honeN //
+44 tongue	rope //
+45 claw	 //
+46 foot	CeaN //
+47 knee	kraN //
+48 hand	koN //
+49 belly	 //
+50 neck	ronoN //
+51 breast	tou //
+52 heart	ihiam //
+53 liver	kliam //
+54 drink	ou //
+55 eat	ka //
+56 bite	ren //
+57 see	honai, hlo //
+58 hear	taN //
+59 know	nai //
+60 sleep	koi //
+61 die	hla //
+62 kill	 //
+63 swim	kle tea //
+64 fly	koneaN //
+65 walk	lam CeaN //
+66 come	 //
+67 lie	koi //
+68 sit	oi a taN //
+69 stand	SuoN //
+70 give	am, pleaN //
+71 say	 //
+72 sun	hai //
+73 moon	ke //
+74 star	holoN //
+75 water	tea //
+76 rain	mei //
+77 stone	hmou //
+78 sand	prei //
+79 earth	tonei //
+80 cloud	Sok //
+81 smoke	Noi //
+82 fire	on //
+83 ash	koja //
+84 burn	Cou //
+85 path	troaN //
+86 mountain	No //
+87 red	kei //
+88 green	jeh //
+89 yellow	triN //
+90 white	boN //
+91 black	praN //
+92 night	koN maN //
+93 hot	to //
+94 cold	hoNiu //
+95 full	peN //
+96 new	neo //
+97 good	lem //
+98 round	tovo //
+99 dry	koCoh //
+100 name	inai //
+SRE{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Sre-Mnong,Sre|@Austroasiatic,Bahnaric,SouthBahnaric,Koho-Maa}
+ 1   11.50  108.00      166000   sre   kpm
+1 I	a5 //
+2 you	me //
+3 we	he //
+18 person	Tau //
+19 fish	ka //
+21 dog	so //
+22 louse	sai //
+23 tree	Th~i //
+25 leaf	nha //
+28 skin	g3ltau //
+30 blood	mham //
+31 bone	ntiN //
+34 horn	Nke //
+39 ear	tor //
+40 eye	mat //
+41 nose	muh //
+43 tooth	se //
+44 tongue	l3mpiat //
+47 knee	g3ltaN //
+48 hand	te //
+51 breast	nt3h //
+53 liver	kl3m //
+54 drink	5o //
+57 see	go //
+58 hear	k3no //
+61 die	Th3t //
+66 come	tus //
+72 sun	mat t3Nay //
+74 star	s3ma5 //
+75 water	da //
+77 stone	lu7 //
+82 fire	os //
+85 path	guN //
+86 mountain	m3n3m //
+92 night	maN //
+95 full	beN //
+96 new	t3me //
+100 name	%s3nd"an // < Chamic
+STIENG{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Stieng-Chrau|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Stieng}
+ 1   11.83  106.75       51540   sti   sti
+1 I	he //
+2 you	ay //
+3 we	Tu //
+18 person	%b3nEh // < Ind via Mon
+19 fish	ka //
+21 dog	so //
+22 louse	si //
+23 tree	Th~3 //
+25 leaf	la //
+28 skin	%pek // < Khmer
+30 blood	mham //
+31 bone	tiN //
+34 horn	ke //
+39 ear	tor //
+40 eye	mat //
+41 nose	t3rmoh //
+43 tooth	Th~ek //
+44 tongue	lpiet //
+47 knee	kuk taN //
+48 hand	ti //
+51 breast	toh //
+53 liver	kl3m //
+54 drink	on //
+57 see	saw //
+58 hear	taN //
+61 die	Thet //
+66 come	loh //
+72 sun	nar //
+74 star	s3ma5 //
+75 water	dak //
+77 stone	t3mau //
+82 fire	o5 //
+85 path	troN //
+86 mountain	b3n3m //
+92 night	maN //
+95 full	beN //
+96 new	me //
+100 name	t3moh //
+STIENG_2{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,SouthBahnaric,Stieng-Chrau|@Austroasiatic,Bahnaric,SouthBahnaric,Mnong-Stieng-Chrau,Stieng}
+ 1   11.83  106.75       51540   sti   sti
+1 I	he, 7a5 // not certain whether sti or stt
+2 you	7ay // fem.
+3 we	bon //
+18 person	 //
+19 fish	ka //
+21 dog	so //
+22 louse	 //
+23 tree	jhu //
+25 leaf	 //
+28 skin	 //
+30 blood	mham //
+31 bone	tiN //
+34 horn	ke //
+39 ear	tor //
+40 eye	mat //
+41 nose	 //
+43 tooth	sek, Chik //
+44 tongue	pelpiat //
+47 knee	 //
+48 hand	 //
+51 breast	potoh //
+53 liver	 //
+54 drink	5et //
+57 see	saw //
+58 hear	 //
+61 die	 //
+66 come	 //
+72 sun	nar //
+74 star	soma5 //
+75 water	dak //
+77 stone	 //
+82 fire	7o5 //
+85 path	troN //
+86 mountain	yo7 //
+92 night	maN //
+95 full	biN, be5, ham //
+96 new	7me //
+100 name	 //
+TAMPUAN{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,CentralBahnaric|@Austroasiatic,Bahnaric}
+ 1   13.67  107.00       31000         tpu
+1 I	a5 //
+2 you	%3is // < Chamic
+3 we	pin //
+18 person	%p3noih // < Ind
+19 fish	ka //
+21 dog	So //
+22 louse	s3y //
+23 tree	t3m 7lo3N //
+25 leaf	hla //
+28 skin	%Nkar // < Katuic
+30 blood	ph~am //
+31 bone	ntEiN //
+34 horn	Nke //
+39 ear	taor //
+40 eye	mat //
+41 nose	mouh //
+43 tooth	s3nai5 //
+44 tongue	pi3t //
+47 knee	rkul //
+48 hand	tay //
+51 breast	toh //
+53 liver	kla3m //
+54 drink	aiT //
+57 see	pup //
+58 hear	k3taN //
+61 die	p3ntaw //
+66 come	%p3h // < West Bahnaric
+72 sun	d"al //
+74 star	%s3mloN // < North Bahnaric
+75 water	ti3k //
+77 stone	mhmao //
+82 fire	o5 //
+85 path	tro3N //
+86 mountain	p3n3m //
+92 night	m3maN //
+95 full	pEi5 //
+96 new	maw7 //
+100 name	SeT //
+TODRAH_UnnamedInSource{AuA.BAHNARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Bahnaric,NorthBahnaric,West,Sedang-Todrah,Todrah-Monom|@Austroasiatic,Bahnaric,NorthBahnaric,Hre-Sedang-Todrah-Monam}
+ 1   14.58  108.08        6000         tdr
+1 I	a //
+2 you	no //
+3 we	yiy //
+18 person	mNei //
+19 fish	ka //
+21 dog	co //
+22 louse	ci //
+23 tree	lyoN //
+25 leaf	hla //
+28 skin	akia //
+30 blood	mhiam //
+31 bone	kseN //
+34 horn	aki //
+39 ear	doan //
+40 eye	ma7 //
+41 nose	moh //
+43 tooth	hneN //
+44 tongue	chpi7 //
+47 knee	krN //
+48 hand	hdiN //
+51 breast	toh //
+53 liver	klebm //
+54 drink	u7 //
+57 see	hlo7 //
+58 hear	tN //
+61 die	hla7 //
+66 come	troh //
+72 sun	hiN //
+74 star	hloN //
+75 water	dea7 //
+77 stone	hmo //
+82 fire	udn //
+85 path	truoN //
+86 mountain	No7 //
+92 night	di maN //
+95 full	begN //
+96 new	new //
+100 name	ini7 //
+BRU{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,WestKatuic,Brou-So|@Austroasiatic,Katuic,WestKatuic,Brou-So,Bru}
+ 1   17.33  106.00       82300   bru   bru
+1 I	%Nko7 // Chamic
+2 you	moy //
+3 we	hay //
+18 person	kuay //
+19 fish	3ka //
+21 dog	aTo //
+22 louse	nToy //
+23 tree	aluaN //
+25 leaf	sula //
+28 skin	Nkar //
+30 blood	Nham //
+31 bone	NhaN //
+34 horn	takoy //
+39 ear	kutor //
+40 eye	mat //
+41 nose	muh //
+43 tooth	m3nEN //
+44 tongue	%liayh // < Vietic
+47 knee	r3kol //
+48 hand	atey //
+51 breast	toh //
+53 liver	luam //
+54 drink	NuaT //
+57 see	h3m //
+58 hear	soN //
+61 die	k3Tit //
+66 come	t37 //
+72 sun	manaN //
+74 star	m3ntor //
+75 water	do7 //
+77 stone	t3maw //
+82 fire	uyh //
+85 path	r3na //
+86 mountain	bru //
+92 night	s3daw //
+95 full	pan //
+96 new	tamay //
+100 name	ramuh //
+BRU_WESTERN_UnnamedInSource{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,WestKatuic,Brou-So|@Austroasiatic,Katuic,WestKatuic,Brou-So,Bru}
+ 1   16.75  104.75       20000   brw   brv
+1 I	Nka7 //
+2 you	 //
+3 we	mhay //
+18 person	kuay //
+19 fish	kaL //
+21 dog	ca //
+22 louse	nCy //
+23 tree	ka 7luaN //
+25 leaf	ktuN //
+28 skin	Nkar //
+30 blood	Nham //
+31 bone	NhaN //
+34 horn	tkay //
+39 ear	ktor //
+40 eye	mat //
+41 nose	muh //
+43 tooth	knaN //
+44 tongue	liayh //
+47 knee	rkol //
+48 hand	ty //
+51 breast	toh //
+53 liver	luam //
+54 drink	Nuay7 //
+58 hear	saN //
+66 come	t7 //
+72 sun	mat mnaN //
+74 star	mntor //
+75 water	dy7 //
+77 stone	tmaw //
+82 fire	uyh //
+85 path	rna //
+92 night	sdaw //
+95 full	pan //
+96 new	tmay //
+100 name	rm3h //
+KATU{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,EastKatuic,Katu-Pacoh|@Austroasiatic,Katuic,Katu}
+ 1   16.17  107.50       15100         phg
+1 I	%ku // Chamic
+2 you	may //
+3 we	yi //
+18 person	kh~uy //
+19 fish	siw //
+21 dog	aTo //
+22 louse	nTay //
+23 tree	nloN, d"oN //
+25 leaf	ala //
+28 skin	Nkar //
+30 blood	3ham //
+31 bone	NhaN //
+34 horn	takoy //
+39 ear	kator //
+40 eye	mat //
+41 nose	moh //
+43 tooth	k3nieN //
+44 tongue	ntak //
+47 knee	takol //
+48 hand	toy //
+51 breast	toh //
+53 liver	lom //
+54 drink	NoT //
+57 see	loy //
+58 hear	soN //
+61 die	Tet //
+66 come	t33k //
+72 sun	mat plEN //
+74 star	satur //
+75 water	d"3k //
+77 stone	amo //
+82 fire	oyh //
+85 path	%kaloN // < Mon
+86 mountain	koh //
+92 night	yum //
+95 full	b"iN //
+96 new	tamE //
+100 name	ph~amuh //
+KATU_EASTERN{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,EastKatuic,Katu-Pacoh|@Austroasiatic,Katuic,Katu,NuclearKatu}
+ 1   15.83  107.58       50500   ktu   ktv
+1 I	ku //
+2 you	5ua //
+3 we	5aN //
+18 person	nak //
+19 fish	kadoN //
+21 dog	anuq //
+22 louse	tara5 //
+23 tree	nloN //
+25 leaf	asoq //
+28 skin	Nkar //
+30 blood	aham //
+31 bone	 //
+34 horn	 //
+39 ear	kator //
+40 eye	mat //
+41 nose	moh //
+43 tooth	kanieN //
+44 tongue	ntak //
+47 knee	takol //
+48 hand	tai //
+51 breast	toh //
+53 liver	lom //
+54 drink	om //
+57 see	 //
+58 hear	 //
+61 die	Cet //
+66 come	tok //
+72 sun	mat pleN //
+74 star	satur //
+75 water	d"ok //
+77 stone	dol, kh~uk //
+82 fire	oih //
+85 path	kalaN //
+86 mountain	bol //
+92 night	hayum //
+95 full	biN //
+96 new	tame //
+100 name	 //
+KUI_THAILAND{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,WestKatuic,Kuay-Nheu|@Austroasiatic,Katuic,WestKatuic,Kuy-Souei}
+ 1   14.50  104.00      452800         kdt
+1 I	 //
+2 you	muaN //
+3 we	mh~ai //
+4 this	 //
+5 that	k3i //
+6 who	naw //
+7 what	na //
+8 not	 //
+9 all	ai th~e //
+10 many	dal //
+13 big	ph~3t //
+14 long	nth$r3N //
+15 small	kEt //
+16 woman	kuik3pai //
+17 man	kui th~ol //
+18 person	kui //
+19 fish	ka //
+20 bird	CEml //
+21 dog	Ca //
+22 louse	5CE7 //
+23 tree	 //
+24 seed	klaN //
+25 leaf	sla //
+26 root	rEh //
+27 bark	mph~ua7 //
+28 skin	 //
+29 flesh	saC //
+30 blood	3ham //
+31 bone	Nh~aN //
+32 grease	5Ch~EN //
+33 egg	nth$rEl //
+34 horn	t3kai //
+35 tail	sal //
+36 feather	so7 //
+37 hair	so7 //
+38 head	pla //
+39 ear	k3tor //
+40 eye	mat //
+41 nose	muh //
+42 mouth	noh //
+43 tooth	k3nE5 //
+44 tongue	nta7 //
+45 claw	nth$rEh //
+46 foot	Z3N //
+47 knee	plat3kol //
+48 hand	te //
+49 belly	ph~uN //
+50 neck	kaN //
+51 breast	toh //
+52 heart	ph~am //
+53 liver	luam //
+54 drink	NuaC //
+55 eat	Ca //
+56 bite	kap //
+57 see	sir //
+58 hear	saN //
+59 know	di5 //
+60 sleep	NEt //
+61 die	lah //
+62 kill	k3CEt //
+63 swim	loi //
+64 fly	par //
+65 walk	huC //
+66 come	Cau //
+67 lie	tiC //
+68 sit	 //
+69 stand	tey3N //
+70 give	an //
+71 say	 //
+72 sun	m3niaN //
+73 moon	mph$riaNsai //
+74 star	ntar //
+75 water	dia7 //
+76 rain	m3mia //
+77 stone	t3mau //
+78 sand	skaC //
+79 earth	k3tE7 //
+80 cloud	hl3t //
+81 smoke	mp~i7 //
+82 fire	uh //
+83 ash	ph~a7 //
+84 burn	CaN //
+85 path	k3na //
+86 mountain	bru //
+87 red	ksaw //
+88 green	 //
+89 yellow	 //
+90 white	bua7 //
+91 black	tw~E5 //
+92 night	kh~riau //
+93 hot	 //
+94 cold	CNEt //
+95 full	 //
+96 new	tmai //
+97 good	 //
+98 round	dul //
+99 dry	s7at //
+100 name	m3h //
+KUI_THAILAND_2{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,WestKatuic,Kuay-Nheu|@Austroasiatic,Katuic,WestKatuic,Kuy-Souei}
+ 1   14.83  103.92      452800         kdt
+1 I	hay //
+2 you	may //
+3 we	mh~ay //
+18 person	kuy //
+19 fish	ka //
+21 dog	Ta //
+22 louse	nTE //
+23 tree	%kal // < Vietic
+25 leaf	sla //
+28 skin	%s3bE7 // < Khmer
+30 blood	3ham //
+31 bone	Nh~aN //
+34 horn	t3kay //
+39 ear	k3tor //
+40 eye	mat //
+41 nose	muh //
+43 tooth	k3nE5 //
+44 tongue	nta7 //
+47 knee	t3kol //
+48 hand	te //
+51 breast	toh //
+53 liver	luam //
+54 drink	N3NuaT //
+57 see	ph~37 //
+58 hear	saN //
+61 die	lEh //
+66 come	Taw //
+72 sun	m3niaN //
+74 star	ntor //
+75 water	dia7 //
+77 stone	t3maw //
+82 fire	uh //
+85 path	k3na //
+86 mountain	bru //
+92 night	s3daw //
+95 full	pih //
+96 new	t3may //
+100 name	m3h //
+KUY{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,WestKatuic,Kuay-Nheu|@Austroasiatic,Katuic,WestKatuic,Kuy-Souei}
+ 1   14.50  104.00      452800         kdt
+1 I	hay //
+2 you	 //
+3 we	hay //
+18 person	kuy //
+19 fish	aka //
+21 dog	aTo //
+22 louse	5Te //
+23 tree	kal //
+25 leaf	hla //
+28 skin	kabe7 //
+30 blood	Nh~am //
+31 bone	Nh~aN //
+34 horn	 //
+39 ear	takol //
+40 eye	mat //
+41 nose	muh //
+43 tooth	kaneN //
+44 tongue	nta7 //
+47 knee	 //
+48 hand	te //
+51 breast	 //
+53 liver	luam //
+54 drink	NuaT //
+57 see	po7 //
+58 hear	soN //
+61 die	leh //
+66 come	Taw //
+72 sun	nniaN //
+74 star	ntol //
+75 water	dia7 //
+77 stone	kamaw //
+82 fire	uh //
+85 path	kana // 'road'
+86 mountain	bru //
+92 night	kadaw //
+95 full	 //
+96 new	kamay //
+100 name	kamuh //
+NGE{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,EastKatuic,Ngeq-Nkriang|@Austroasiatic,Katuic,Ta'oihic}
+ 1   15.67  106.83       12900         ngt
+1 I	%kow // < Chamic
+2 you	may //
+3 we	hE //
+18 person	kamat //
+19 fish	pla7 //
+21 dog	TakE //
+22 louse	nTai //
+23 tree	ndoN //
+25 leaf	hla //
+28 skin	Nkar //
+30 blood	ham //
+31 bone	NhaN //
+34 horn	taNkoy //
+39 ear	kator //
+40 eye	mat //
+41 nose	muh //
+43 tooth	kaniaN //
+44 tongue	ntak //
+47 knee	trakol //
+48 hand	tay //
+51 breast	toh //
+53 liver	lom //
+54 drink	NoT //
+57 see	T3k //
+58 hear	s3N //
+61 die	kaTet //
+66 come	Taw //
+72 sun	pat //
+74 star	partur //
+75 water	do7 //
+77 stone	tamo //
+82 fire	uyh //
+85 path	k3ma //
+86 mountain	koh //
+92 night	tab3 //
+95 full	p35 //
+96 new	t3may //
+100 name	TrmEh //
+NYEU{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,WestKatuic,Kuay-Yoe|@Austroasiatic,Katuic,WestKatuic,Kuy-Souei}
+ 1   15.00  104.25         200         nyl
+1 I	hay, kaw //
+2 you	moN, may //
+3 we	 //
+18 person	na7 //
+19 fish	ka //
+21 dog	73To //
+22 louse	pay, kanTe //
+23 tree	kh~ay //
+25 leaf	s3la //
+28 skin	s3pE7 //
+30 blood	ham //
+31 bone	haN //
+34 horn	t3koy // "horns"
+39 ear	kotoy // "ears"
+40 eye	mat // "eyes"
+41 nose	moh //
+43 tooth	k3nEN // "teeth"
+44 tongue	ta7 //
+47 knee	t3koy // "knees"
+48 hand	ti //
+51 breast	tah //
+53 liver	lom //
+54 drink	Not //
+57 see	 //
+58 hear	saN //
+61 die	lEh //
+66 come	Taw //
+72 sun	pu37 // "sunshine, sunlight"
+74 star	m3toy //
+75 water	di3 //
+77 stone	t3maw //
+82 fire	7uh //
+85 path	k3na, 7an //
+86 mountain	blu // "hill"
+92 night	d3k // "late (at night)"
+95 full	pi3h //
+96 new	t3may //
+100 name	s3m3h //
+PACOH{AuA.KATUIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Katuic,EastKatuic,Katu-Pacoh|@Austroasiatic,Katuic}
+ 1   16.42  107.08       32500   pac   pac
+1 I	%k3 // < Chamic
+2 you	may //
+3 we	hE //
+18 person	tikuay //
+19 fish	buay7 //
+21 dog	3To //
+22 louse	nTe //
+23 tree	3loN //
+25 leaf	ula //
+28 skin	nkar //
+30 blood	3ham //
+31 bone	NhaN //
+34 horn	t3Nkoy //
+39 ear	kutor //
+40 eye	mat //
+41 nose	moh //
+43 tooth	kinEN //
+44 tongue	nta7 //
+47 knee	t3rkol //
+48 hand	3ti //
+51 breast	toh //
+53 liver	lom //
+54 drink	Noy7 //
+57 see	hom //
+58 hear	hom //
+61 die	Tet //
+66 come	to7 //
+72 sun	mat r3baN //
+74 star	 //
+75 water	da7 //
+77 stone	bul //
+82 fire	uyh //
+85 path	karna //
+86 mountain	koh //
+92 night	idaw //
+95 full	bi5, b35 //
+96 new	t3mmE //
+100 name	noh //
+KEMIE{AuA.KEMIE|Austro-Asiatic,Mon-Khmer,Unclassified_kfj|@Austroasiatic,Mangic}
+ 1   22.00  100.50        1000         kfj
+1 I	o7 //
+2 you	me7 //
+3 we	E7 //
+18 person	i7 //
+19 fish	akh~a7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kose7 //
+25 leaf	la7 //
+28 skin	aku7 //
+30 blood	nam //
+31 bone	aN //
+34 horn	 //
+39 ear	lasok //
+40 eye	sakNai //
+41 nose	th~uto7 //
+43 tooth	kh~EN //
+44 tongue	th~ak //
+47 knee	CeNkoN //
+48 hand	th~i7 //
+51 breast	mth~uh //
+53 liver	th~om //
+54 drink	th~EN //
+57 see	nomlom //
+58 hear	kh~aNaN //
+61 die	5am //
+66 come	in //
+72 sun	NaiNi7 //
+74 star	monNon //
+75 water	om //
+77 stone	kh~onmo7 //
+82 fire	Nau //
+85 path	 //
+86 mountain	noN //
+92 night	kh~oNhEk //
+95 full	 //
+96 new	im //
+100 name	meh //
+KHASI{AuA.KHASIAN|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khasian|@Austroasiatic,Khasi-Palaung,Khasian,Khasi-Pnar-Lyngngam,Khasi-Pnar}
+ 1   25.50   92.00      843000   khs   kha
+1 I	Na //
+2 you	me //
+3 we	Ni //
+4 this	ne //
+5 that	ba //
+6 who	 //
+7 what	 //
+8 not	em //
+9 all	baroh //
+10 many	bun //
+13 big	kh~raw //
+14 long	ZeroN //
+15 small	rit //
+16 woman	briw //
+17 man	ai briw //
+18 person	briw //
+19 fish	dohkh~a //
+20 bird	sim //
+21 dog	ksew //
+22 louse	ksi //
+23 tree	dieN //
+24 seed	sinai //
+25 leaf	sla //
+26 root	tinrai //
+27 bark	snep //
+28 skin	kh~oh //
+29 flesh	doh //
+30 blood	snam //
+31 bone	sh~ieN //
+32 grease	 //
+33 egg	pilleN //
+34 horn	reN //
+35 tail	tidoN //
+36 feather	sner //
+37 hair	sh~niuh //
+38 head	kh~lih //
+39 ear	lutur //
+40 eye	kh~imat //
+41 nose	kh~mut //
+42 mouth	sh~intur //
+43 tooth	biniat //
+44 tongue	th~illied //
+45 claw	tirsim //
+46 foot	kinZat //
+47 knee	kh~osiw //
+48 hand	kti //
+49 belly	kipoh //
+50 neck	rindaN //
+51 breast	sh~adem //
+52 heart	kloN snam //
+53 liver	ba im //
+54 drink	dih //
+55 eat	Zom //
+56 bite	dait //
+57 see	kh~imih //
+58 hear	sNow //
+59 know	tip //
+60 sleep	th~iah //
+61 die	iap noh //
+62 kill	piniap //
+63 swim	ZiNi //
+64 fly	her //
+65 walk	iaid //
+66 come	wan //
+67 lie	sh~aniah //
+68 sit	sh~oN //
+69 stand	ieN //
+70 give	 //
+71 say	oN //
+72 sun	sNi //
+73 moon	binai //
+74 star	kh~lur //
+75 water	um //
+76 rain	slap //
+77 stone	maw //
+78 sand	sh~iap //
+79 earth	pirth~ei //
+80 cloud	ly~oh //
+81 smoke	nd~em //
+82 fire	diN //
+83 ash	dipei //
+84 burn	iN //
+85 path	surok //
+86 mountain	limbah //
+87 red	saw //
+88 green	 //
+89 yellow	stem //
+90 white	lih //
+91 black	ioN //
+92 night	miet //
+93 hot	 //
+94 cold	khr$eat //
+95 full	dap //
+96 new	th~immai //
+97 good	babha //
+98 round	pillun //
+99 dry	rikh~iaN //
+100 name	kirteN //
+KHASI_2{AuA.KHASIAN|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khasian|@Austroasiatic,Khasi-Palaung,Khasian,Khasi-Pnar-Lyngngam,Khasi-Pnar}
+ 1   25.50   92.00      843000   khs   kha
+1 I	%Na // < Tibeto-Burman?
+2 you	mE //
+3 we	Ni //
+18 person	brew //
+19 fish	do7kha //
+21 dog	ksow //
+22 louse	ksi //
+23 tree	deN //
+25 leaf	sla //
+28 skin	sne7, snEp //
+30 blood	snam //
+31 bone	S7eN //
+34 horn	rEN //
+39 ear	Skor //
+40 eye	kh~mat //
+41 nose	kh~mut //
+43 tooth	bniat //
+44 tongue	th~3lleT //
+47 knee	kh~o7sew //
+48 hand	kti //
+51 breast	j3mbuy5 //
+53 liver	do7not //
+54 drink	di7 //
+57 see	io 7i //
+58 hear	sNow //
+61 die	yap //
+66 come	wan //
+72 sun	sNi //
+74 star	kh~lor //
+75 water	um //
+77 stone	maw //
+82 fire	diN //
+85 path	l3nti //
+86 mountain	lom //
+92 night	met, s3nya //
+95 full	dap //
+96 new	th~3mmay //
+100 name	k3rteN //
+PNAR_JOWAI{AuA.KHASIAN|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khasian|@Austroasiatic,Khasi-Palaung,Khasian,Khasi-Pnar-Lyngngam,Khasi-Pnar}
+ 1   25.16   92.16      247000         pbv
+1 I	Na // < Tibeto-Burman?
+2 you	mel //
+3 we	i //
+18 person	bru //
+19 fish	dakha //
+21 dog	ksaw //
+22 louse	ksi //
+23 tree	de5 //
+25 leaf	sla //
+28 skin	sne7 //
+30 blood	snam //
+31 bone	T7e5 //
+34 horn	rE5 //
+39 ear	Tkor //
+40 eye	kh~mat //
+41 nose	kh~mut //
+43 tooth	lme5 //
+44 tongue	th3lleT //
+47 knee	kh~le7k3rsu //
+48 hand	kti //
+51 breast	y3mbu //
+53 liver	not //
+54 drink	di7 //
+57 see	yo //
+58 hear	s3NNam //
+61 die	yap //
+66 come	wan //
+72 sun	sNi //
+74 star	kh~lor //
+75 water	um //
+77 stone	mo //
+82 fire	di5 //
+85 path	luti //
+86 mountain	lom //
+92 night	met, s3nyaw //
+95 full	dap //
+96 new	th~3mme //
+100 name	p3rtuiT //
+WAR_JAINTIA{AuA.KHASIAN|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khasian|@Austroasiatic,Khasi-Palaung,Khasian}
+ 1   24.75   92.75       41900         aml
+1 I	%nia // < Tibeto-Burman
+2 you	eam //
+3 we	i i //
+18 person	Cu pro //
+19 fish	hi //
+21 dog	kh~sia //
+22 louse	kse //
+23 tree	tuwei //
+25 leaf	sli //
+28 skin	snia7 //
+30 blood	rna //
+31 bone	Si7iaN //
+34 horn	reN //
+39 ear	taraN //
+40 eye	mat //
+41 nose	mor koN //
+43 tooth	l3mEn //
+44 tongue	kh~lit //
+47 knee	klia h3n Sie //
+48 hand	te //
+51 breast	 //
+53 liver	 //
+54 drink	de7 //
+57 see	riaN //
+58 hear	sa7 //
+61 die	yip //
+66 come	wan //
+72 sun	CuNE //
+74 star	kh~l3 Smen //
+75 water	am //
+77 stone	Smia //
+82 fire	SmEn //
+85 path	s3rok //
+86 mountain	pdeN //
+92 night	lama7 //
+95 full	dap //
+96 new	th~me //
+100 name	tuwiaN //
+KHMER{AuA.KHMER|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Khmer|@Austroasiatic,Khmeric}
+ 1   12.50  105.00    14291040   khm   khm
+1 I	kh~3nom //
+2 you	EN //
+3 we	ya3N //
+4 this	n3h //
+5 that	noh //
+6 who	kh~3nao //
+7 what	evi //
+8 not	min //
+9 all	tamN //
+10 many	Cr~a3n //
+13 big	dh~om //
+14 long	vEN //
+15 small	tuC //
+16 woman	stri //
+17 man	purah //
+18 person	%manus // Indic loanword
+19 fish	tr~i //
+20 bird	sat slap //
+21 dog	Ch~3kE //
+22 louse	Cay //
+23 tree	ta3m Zh~a3 //
+24 seed	grap //
+25 leaf	s3l3k //
+26 root	r3k //
+27 bark	s3mbak //
+28 skin	s3pEk //
+29 flesh	saC //
+30 blood	Zh~am //
+31 bone	Ch7$3N //
+32 grease	kh~la5 //
+33 egg	boN //
+34 horn	s3nEN //
+35 tail	k3nd~uy //
+36 feather	slap //
+37 hair	sok //
+38 head	k3pal //
+39 ear	tr~3Ch~i3k //
+40 eye	bh~3n3k //
+41 nose	Cr~3muh //
+42 mouth	mat //
+43 tooth	dh~3m3n //
+44 tongue	3ntak //
+45 claw	kr3Cok //
+46 foot	Za3N //
+47 knee	Z3NgaN //
+48 hand	tay //
+49 belly	boh //
+50 neck	ko //
+51 breast	toh //
+52 heart	p3ht~uN //
+53 liver	th~la3m //
+54 drink	ph~3k //
+55 eat	5am //
+56 bite	kh~am //
+57 see	ma3l //
+58 hear	l3 //
+59 know	t3N //
+60 sleep	t3k //
+61 die	slap //
+62 kill	s3mlap //
+63 swim	hel //
+64 fly	ha3r //
+65 walk	ta3r //
+66 come	mok //
+67 lie	g3N //
+68 sit	3Nguy //
+69 stand	Zh~ar //
+70 give	oy //
+71 say	sr3ti //
+72 sun	th~3Nay //
+73 moon	kh~E //
+74 star	ph~3kay //
+75 water	d3k //
+76 rain	bh~li3N //
+77 stone	th~3mo //
+78 sand	kh~3saC //
+79 earth	ti //
+80 cloud	b3bok //
+81 smoke	ph~3sEN //
+82 fire	bh~la3N //
+83 ash	ph~Eh //
+84 burn	tut //
+85 path	Z3luw th~3nal //
+86 mountain	bh~3nom //
+87 red	kr3ham //
+88 green	paytaN //
+89 yellow	l3N //
+90 white	so //
+91 black	kh~3maw //
+92 night	yop //
+93 hot	k3daw //
+94 cold	tr~3Zak //
+95 full	b3n //
+96 new	th~mi //
+97 good	l37o //
+98 round	mul //
+99 dry	sNu3t //
+100 name	Zh~3maoh //
+KHMER_2{AuA.KHMER|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Khmer|@Austroasiatic,Khmeric}
+ 1   12.50  105.00    14291040   khm   khm
+1 I	kh~5um //
+2 you	aeN //
+3 we	ya3N //
+18 person	%manus // Ind
+19 fish	tri //
+21 dog	Tc3kE //
+22 louse	Tay //
+23 tree	da3m Th~3 //
+25 leaf	s3l3k //
+28 skin	sbaek //
+30 blood	Tham //
+31 bone	Th373N //
+34 horn	koy //
+39 ear	tr3Ti3k //
+40 eye	pnEk //
+41 nose	Tromoh //
+43 tooth	tm35 //
+44 tongue	onda3t //
+47 knee	Tu3N ku3N //
+48 hand	day //
+51 breast	doh //
+53 liver	th~la3m //
+54 drink	ph~3k //
+57 see	kh~35 //
+58 hear	l3 //
+61 die	slop //
+66 come	mok //
+72 sun	th~Nay //
+74 star	p3kay //
+75 water	tuk //
+77 stone	th~mo //
+82 fire	pl3N //
+85 path	pl3v //
+86 mountain	pnum //
+92 night	yop //
+95 full	p35 //
+96 new	th~3mi //
+100 name	Tmu3h //
+SURIN{AuA.KHMER|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Khmer|@Austroasiatic,Khmeric}
+ 1   14.58  103.25     1400000         kxm
+1 I	a5 //
+2 you	E5 //
+3 we	ph~oN y3N //
+18 person	%mn3h // < Ind
+19 fish	trEy //
+21 dog	TkE //
+22 louse	Tay //
+23 tree	dom Th~3 //
+25 leaf	slo7 //
+28 skin	sbE7 //
+30 blood	Th~i3m //
+31 bone	T7oN //
+34 horn	snE5 //
+39 ear	tTi7 //
+40 eye	ph~ne7 //
+41 nose	Tmoh //
+43 tooth	th~me5 //
+44 tongue	nat //
+47 knee	kbal TaNku3N //
+48 hand	day //
+51 breast	dah //
+53 liver	th~lom //
+54 drink	ph~o7 //
+57 see	kh~35 //
+58 hear	l3 //
+61 die	N33p //
+66 come	mo //
+72 sun	th~Nay //
+74 star	pkay //
+75 water	t37 //
+77 stone	th~mo //
+82 fire	ph~l3N //
+85 path	ph~low //
+86 mountain	ph~nom //
+92 night	yop //
+95 full	pi5 //
+96 new	th~mEy //
+100 name	Th~moh //
+MON{AuA.MONIC|Austro-Asiatic,Mon-Khmer,Monic|@Austroasiatic,Monic}
+ 1   14.83  100.50      851000   mon   mnw
+1 I	ay //
+2 you	beh //
+3 we	puiy //
+4 this	na7 //
+5 that	te7 //
+6 who	 //
+7 what	nu //
+8 not	ha, hw~a //
+9 all	pa7uit //
+10 many	gluiN //
+13 big	Znok //
+14 long	ZliN //
+15 small	5i //
+16 woman	brau //
+17 man	tru7 //
+18 person	mnih //
+19 fish	ka //
+20 bird	gaCem //
+21 dog	kluiw //
+22 louse	Cay //
+23 tree	Ch~u //
+24 seed	 //
+25 leaf	sla //
+26 root	ruih //
+27 bark	sakow //
+28 skin	snam //
+29 flesh	Cun //
+30 blood	Ch~im //
+31 bone	Zut //
+32 grease	kleN //
+33 egg	kh~amhay //
+34 horn	draN //
+35 tail	bata //
+36 feather	s3neN //
+37 hair	sok //
+38 head	kaduip //
+39 ear	katow //
+40 eye	mat //
+41 nose	muh //
+42 mouth	paN //
+43 tooth	Nek //
+44 tongue	katak //
+45 claw	sanem //
+46 foot	ZoN //
+47 knee	kboaN //
+48 hand	tay //
+49 belly	buN //
+50 neck	ka7 //
+51 breast	tah //
+52 heart	gruih //
+53 liver	gruih //
+54 drink	suN //
+55 eat	Ca //
+56 bite	kit //
+57 see	5at //
+58 hear	miN //
+59 know	tim //
+60 sleep	stik //
+61 die	khy$uit //
+62 kill	gaCuit //
+63 swim	biN //
+64 fly	paw //
+65 walk	 //
+66 come	kluN //
+67 lie	wat //
+68 sit	gaZa7 //
+69 stand	tuiw //
+70 give	kuiw //
+71 say	huim //
+72 sun	tNay //
+73 moon	gatu //
+74 star	saman //
+75 water	dak //
+76 rain	bray //
+77 stone	tmo7 //
+78 sand	bti //
+79 earth	ti //
+80 cloud	matbrai //
+81 smoke	yak //
+82 fire	pamat //
+83 ash	pateN //
+84 burn	tau //
+85 path	traw //
+86 mountain	duiw //
+87 red	bkat //
+88 green	saNeak //
+89 yellow	damit //
+90 white	bu //
+91 black	l3mCok //
+92 night	btam //
+93 hot	guim //
+94 cold	goak //
+95 full	peN //
+96 new	tami //
+97 good	kh~uih //
+98 round	kh~dom //
+99 dry	s3mkah //
+100 name	imu, yamu //
+MON_2{AuA.MONIC|Austro-Asiatic,Mon-Khmer,Monic|@Austroasiatic,Monic}
+ 1   14.83  100.50      851000   mon   mnw
+1 I	oa //
+2 you	peh //
+3 we	poy //
+18 person	%nih // < Ind
+19 fish	ka7 //
+21 dog	kluiw //
+22 louse	Tay //
+23 tree	nom Th~u7 //
+25 leaf	hla7 //
+28 skin	hnam //
+30 blood	Th~im //
+31 bone	Tut //
+34 horn	kreaN //
+39 ear	katow //
+40 eye	mot //
+41 nose	muh //
+43 tooth	Neak //
+44 tongue	katak //
+47 knee	boN //
+48 hand	toa //
+51 breast	tah //
+53 liver	kr3h //
+54 drink	suN //
+57 see	5at //
+58 hear	miN //
+61 die	kh~yuit //
+66 come	kl3N //
+72 sun	Noa //
+74 star	hnoN //
+75 water	daik //
+77 stone	mo7 //
+82 fire	k3mot //
+85 path	kloN //
+86 mountain	duiw //
+92 night	hatom //
+95 full	poiN //
+96 new	kamoE7 //
+100 name	T3mu7 //
+MON_NONG_DUU{AuA.MONIC|Austro-Asiatic,Mon-Khmer,Monic|@Austroasiatic,Monic}
+ 1   14.83  100.50      851000   mon   mnw
+1 I	oa //
+2 you	5eah //
+3 we	roa 7apoy //
+18 person	hnih //
+19 fish	ka7 //
+21 dog	kl3 //
+22 louse	Toa //
+23 tree	Thu7 //
+25 leaf	hla7 //
+28 skin	hnam //
+30 blood	Thim //
+31 bone	 //
+34 horn	kreaN //
+39 ear	kato //
+40 eye	hmot //
+41 nose	5eamuh //
+43 tooth	Neak //
+44 tongue	hataT //
+47 knee	taNboN //
+48 hand	toa //
+51 breast	 //
+53 liver	m3akr3h //
+54 drink	s3N //
+57 see	Th3 //
+58 hear	hm35 //
+61 die	That //
+66 come	kl3N //
+72 sun	taNoa //
+74 star	hnaN //
+75 water	daT //
+77 stone	hmo7 //
+82 fire	kamot //
+85 path	kloN //
+86 mountain	t3 //
+92 night	hatom //
+95 full	pa5 //
+96 new	kamae7 //
+100 name	 //
+NYAKUR{AuA.MONIC|Austro-Asiatic,Mon-Khmer,SouthernMonic|@Austroasiatic,Monic}
+ 1   15.67  101.67        1500   nkt   cbn
+1 I	e5 //
+2 you	ph~eh //
+3 we	pEy //
+4 this	o7 //
+5 that	te7 //
+6 who	35ah //
+7 what	mo7 //
+8 not	ku //
+9 all	th~aN //
+10 many	kh~l3N //
+13 big	3tol //
+14 long	kh~li5 //
+15 small	nd~iC //
+16 woman	ph~3ph~raw //
+17 man	tuytruZ //
+18 person	m3nih //
+19 fish	ka7 //
+20 bird	5Ci3m //
+21 dog	Ch~ur //
+22 louse	Cay //
+23 tree	Ch~u7 //
+24 seed	kh~rap //
+25 leaf	hla7 //
+26 root	rihrak //
+27 bark	Nku3r //
+28 skin	hnam //
+29 flesh	hw~a7 //
+30 blood	Ch~im //
+31 bone	Ch~3lut //
+32 grease	k3li5 //
+33 egg	ph~oN //
+34 horn	th~raN //
+35 tail	p3ta7 //
+36 feather	Ch~okCh~ok //
+37 hair	Ch~ok //
+38 head	k3d3p //
+39 ear	k3tuer //
+40 eye	mat //
+41 nose	hmok //
+42 mouth	paN //
+43 tooth	Ni3k //
+44 tongue	ntak //
+45 claw	Nh~li3m //
+46 foot	Ch~uN //
+47 knee	k3boN //
+48 hand	tEy //
+49 belly	ph~uN //
+50 neck	ko7 //
+51 breast	toh //
+52 heart	5y~um //
+53 liver	kh~rih //
+54 drink	Ch~oN //
+55 eat	Ca7 //
+56 bite	k3t //
+57 see	ma3l //
+58 hear	kh~3m35 //
+59 know	C3d3m //
+60 sleep	pu5Nkuy //
+61 die	k3CEt //
+62 kill	k3CEt //
+63 swim	bi5 //
+64 fly	ph~ar //
+65 walk	ar //
+66 come	loN //
+67 lie	pu5 //
+68 sit	th~oN //
+69 stand	y3n //
+70 give	kul //
+71 say	ph~ut //
+72 sun	ha*y //
+73 moon	ntu7 //
+74 star	p3kay //
+75 water	dak //
+76 rain	ph~rEy //
+77 stone	hmo7 //
+78 sand	nt3l //
+79 earth	ti7 //
+80 cloud	mok //
+81 smoke	yak //
+82 fire	k3mat //
+83 ash	p3ti5 //
+84 burn	kh~lak //
+85 path	trew //
+86 mountain	kur //
+87 red	ph~3l35 //
+88 green	l3Cok //
+89 yellow	p3Cu5 //
+90 white	Ch~uN //
+91 black	ph~li3t //
+92 night	p3tam //
+93 hot	r37u5 //
+94 cold	t3kat //
+95 full	pi4 //
+96 new	t3mi7 //
+97 good	hnap //
+98 round	k3lpum //
+99 dry	C3kas //
+100 name	 //
+NYAKUR_2{AuA.MONIC|Austro-Asiatic,Mon-Khmer,SouthernMonic|@Austroasiatic,Monic}
+ 1   15.67  101.67        1500   nkt   cbn
+1 I	oy //
+2 you	ph~eh //
+3 we	pEy //
+18 person	%m3nih // < Ind
+19 fish	ka7 //
+21 dog	Thur //
+22 louse	Tay //
+23 tree	Thu7 //
+25 leaf	hla7 //
+28 skin	Th3nam //
+30 blood	Thim //
+31 bone	Th3lut //
+34 horn	th~raN //
+39 ear	k3tu3r //
+40 eye	mat //
+41 nose	hmoh //
+43 tooth	Ni3k //
+44 tongue	ntak //
+47 knee	k3boN //
+48 hand	tEy //
+51 breast	toh //
+53 liver	khrih //
+54 drink	ThoN //
+57 see	kh~3may //
+58 hear	kh~3m3N //
+61 die	k3TEt //
+66 come	loN //
+72 sun	ha*y //
+74 star	Th~3me5 //
+75 water	dak //
+77 stone	hmo7 //
+82 fire	k3mat //
+85 path	trowNloN //
+86 mountain	kur //
+92 night	p3tam //
+95 full	pi5 //
+96 new	t3mi7 //
+100 name	%k3Thu // < Thai
+OLD_MON{AuA.MONIC|AustroAsiatic,MonKhmer,Monic|@Austroasiatic,Monic}
+ 1   14.83  100.50          -2         omx
+1 I	7u3, 7ey //
+2 you	kum, peh, beh //
+3 we	poE, poy //
+18 person	5ah, nah //
+19 fish	ka7 //
+21 dog	kle, klur //
+22 louse	koE, kay, Tay //
+23 tree	Thu7, Thu //
+25 leaf	hla, lha, sla, sla7 //
+28 skin	hnam, snam //
+30 blood	Thim //
+31 bone	Tut, jut //
+34 horn	krEaN, draN //
+39 ear	k3to, ktor //
+40 eye	mat, mot //
+41 nose	muh //
+43 tooth	Ni3k, nek, Nek //
+44 tongue	k3taiT, latak, katak //
+47 knee	bon, kbon, kban //
+48 hand	tay, t3y, to3 //
+51 breast	toh, Trus // source gives: Trus=chest
+53 liver	kr3h, gruih, gris //
+54 drink	so3N, soN, sun //
+57 see	may, mo3 //
+58 hear	rmeN //
+61 die	Tho3t, kTit, kTut kT3t //
+66 come	klo3n, tlun, tit //
+72 sun	hNu3, tney //
+74 star	saman, sama5 //
+75 water	dayT, dak, dek, daik //
+77 stone	hmo7, tmo7, tma7, kma7 //
+82 fire	k3mot //
+85 path	tnrew, kloN, glon, glan, dan, tinrow // source gives: tnrew=path; kloN, glon, glan=road, track, way, direction; dan=road, tinrow=way
+86 mountain	kun //
+92 night	birtam //
+95 full	piN, pin, pun, poy5 // source gives: piN, pin, pun, poy5=full, to be full of, complete
+96 new	k3moy, 73moy // source gives: k3moy, 73moy=be new
+100 name	hy3mu //
+CAR{AuA.NICOBARESE|Austro-Asiatic,Mon-Khmer,Nicobar,Car|@Austroasiatic,Nicobaric}
+ 1    9.00   93.00       37000   nca   caq
+1 I	TinT3 //
+2 you	mEh //
+3 we	ih3 //
+18 person	tarik //
+19 fish	ka //
+21 dog	am //
+22 louse	tarul //
+23 tree	Tona, Ton //
+25 leaf	roi //
+28 skin	uk //
+30 blood	maham //
+31 bone	taNEk //
+34 horn	sinrol //
+39 ear	naN //
+40 eye	mat //
+41 nose	ElmEh //
+43 tooth	kanap //
+44 tongue	litak //
+47 knee	 //
+48 hand	ti //
+51 breast	tEh //
+53 liver	alip //
+54 drink	ku3 //
+57 see	muk //
+58 hear	haN //
+61 die	kapah //
+66 come	yih //
+72 sun	tawu3i //
+74 star	tan3s3mat //
+75 water	mak //
+77 stone	ihoN //
+82 fire	tamuiy3 //
+85 path	tal3k3 //
+86 mountain	roN3, ruN //
+92 night	hat3m //
+95 full	l3pn3 //
+96 new	tuf3mN3rE //
+100 name	minE7E5 //
+NANCAWRI{AuA.NICOBARESE|Austro-Asiatic,Mon-Khmer,Nicobar,Nancowry|@Austroasiatic,Nicobaric,NuclearNicobaric,CentralNicobar}
+ 1    8.05   93.50       10100   nnc   ncb
+1 I	Ta, Tua //
+2 you	me, me* //
+3 we	he //
+18 person	payuh //
+19 fish	ka //
+21 dog	am //
+22 louse	sey //
+23 tree	Tiao5iha*, Tia //
+25 leaf	dai, rai //
+28 skin	ok //
+30 blood	wa //
+31 bone	3N //
+34 horn	hentop //
+39 ear	naN //
+40 eye	oalmat //
+41 nose	muah //
+43 tooth	kanap //
+44 tongue	kalitak //
+47 knee	koykanoN //
+48 hand	tay //
+51 breast	tuah //
+53 liver	ati // < Malay
+54 drink	tophata //
+57 see	heu //
+58 hear	yaN //
+61 die	kapah, fah //
+66 come	dakta //
+72 sun	heN //
+74 star	sh~okmaleTh~a //
+75 water	dak, riak //
+77 stone	maNNe //
+82 fire	he7oe //
+85 path	kaiyi //
+86 mountain	yuan //
+92 night	hat3m //
+95 full	poS //
+96 new	teyah //
+100 name	teaN //
+TERESSA{AuA.NICOBARESE|Austro-Asiatic,Mon-Khmer,Nicobar,Chowra-Teressa|@Austroasiatic,Nicobaric,NuclearNicobaric,Chowra-Teressa}
+ 1    8.33   93.18        2080         tef
+1 I	khiu //
+2 you	ma, men //
+3 we	bai, hufEt //
+18 person	 //
+19 fish	huhot, kha //
+21 dog	hom //
+22 louse	 //
+23 tree	khia //
+25 leaf	puron //
+28 skin	huk, tafahole //
+30 blood	 //
+31 bone	kolran //
+34 horn	sinah //
+39 ear	naN //
+40 eye	emat //
+41 nose	mhaN //
+43 tooth	 //
+44 tongue	 //
+47 knee	kiukanan //
+48 hand	munte, mukte //
+51 breast	 //
+53 liver	halep, ntap //
+54 drink	nhioN //
+57 see	hahea //
+58 hear	eaN //
+61 die	kapEt //
+66 come	reugk // arrive
+72 sun	hiuk //
+74 star	 //
+75 water	dheakh //
+77 stone	maNE //
+82 fire	pala //
+85 path	khia //
+86 mountain	 //
+92 night	atam //
+95 full	 //
+96 new	manat //
+100 name	 //
+BUGAN{AuA.PALYU|Austro-Asiatic,Mon-Khmer,Palyu|@Austroasiatic,Mangic,Bolyu-Bugan}
+ 1   23.60  104.92        2700         bbh
+1 I	o //
+2 you	m3 //
+3 we	pE //
+18 person	piau //
+19 fish	se, qou //
+21 dog	Tau //
+22 louse	mban //
+23 tree	sa3 //
+25 leaf	lou //
+28 skin	buN //
+30 blood	sa //
+31 bone	ya //
+34 horn	xo //
+39 ear	pa TE //
+40 eye	p3 mE //
+41 nose	p3 ma* //
+43 tooth	T3 //
+44 tongue	p3 lai //
+47 knee	p3 ko //
+48 hand	tie //
+51 breast	nE //
+53 liver	bou //
+54 drink	pi //
+57 see	y3 //
+58 hear	wo Ta //
+61 die	pTa //
+66 come	nuk //
+72 sun	la3 //
+74 star	bo mo //
+75 water	da //
+77 stone	xo //
+82 fire	au //
+85 path	ho Tiu //
+86 mountain	biou //
+92 night	nE sau //
+95 full	%mou // Chin
+96 new	sa //
+100 name	%p3 maN // < Miao
+BUGAN_2{AuA.PALYU|Austro-Asiatic,Mon-Khmer,Palyu|@Austroasiatic,Mangic,Bolyu-Bugan}
+ 1   22.63  101.85        2700         bbh
+1 I	o //
+2 you	mu //
+3 we	pE //
+18 person	py~au //
+19 fish	Sikou //
+21 dog	cau //
+22 louse	mb~En //
+23 tree	su //
+25 leaf	lou //
+28 skin	mb~oN //
+30 blood	sa //
+31 bone	Za //
+34 horn	xo //
+39 ear	puce //
+40 eye	pumE //
+41 nose	pumaN //
+43 tooth	Cu //
+44 tongue	pulei //
+47 knee	 //
+48 hand	ty~e //
+51 breast	 //
+53 liver	mb~ou //
+54 drink	va //
+57 see	da, Zu //
+58 hear	CE //
+61 die	pca //
+66 come	no //
+72 sun	pei //
+74 star	mb~omo //
+75 water	nd~a //
+77 stone	xo //
+82 fire	au //
+85 path	 //
+86 mountain	mby$au //
+92 night	upo, nEsau //
+95 full	Za //
+96 new	sa //
+100 name	 //
+PALIU{AuA.PALYU|Austro-Asiatic,Mon-Khmer,Palyu|@Austroasiatic,Mangic,Bolyu-Bugan}
+ 1   23.62  104.95         500         ply
+1 I	au //
+2 you	mi //
+3 we	7ai //
+18 person	Th~e //
+19 fish	qo //
+21 dog	Tu //
+22 louse	pi mbu //
+23 tree	sau //
+25 leaf	lo 7o //
+28 skin	nbuN //
+30 blood	sam //
+31 bone	yE //
+34 horn	%kou // < Tai
+39 ear	lo Cyai //
+40 eye	Lai mat //
+41 nose	loN mi //
+43 tooth	man //
+44 tongue	lo lim //
+47 knee	Te pau qu //
+48 hand	ti //
+51 breast	5in //
+53 liver	nbuN //
+54 drink	ut //
+57 see	lu //
+58 hear	T3n //
+61 die	L3t //
+66 come	%muo // < Tai
+72 sun	Lai qa //
+74 star	pau //
+75 water	nde //
+77 stone	mau //
+82 fire	m3t //
+85 path	muo ko //
+86 mountain	qh~oN //
+92 night	qa pai //
+95 full	lan //
+96 new	Tim //
+100 name	%mi // < Tai
+CHONG_H{AuA.PEARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Pearic,Western,Chong|@Austroasiatic,Pearic,WesternPearic,SouthernChong}
+ 1   12.25  102.83         500         cog
+1 I	i5 //
+2 you	ph~u //
+3 we	hEN //
+18 person	T3m //
+19 fish	me7w //
+21 dog	Tho //
+22 louse	Thi //
+23 tree	nE7m //
+25 leaf	la7 //
+28 skin	kh~alo7 //
+30 blood	m3ham //
+31 bone	kloN //
+34 horn	soT //
+39 ear	laN //
+40 eye	mot //
+41 nose	toot //
+43 tooth	kh~oy //
+44 tongue	kata7k //
+47 knee	taot nooy //
+48 hand	ti //
+51 breast	th~uh //
+53 liver	kom //
+54 drink	th~a7y //
+57 see	th~aN //
+58 hear	saN //
+61 die	hoT //
+66 come	en //
+72 sun	m3t th~3Ni7 //
+74 star	sum //
+75 water	tak //
+77 stone	kh~amo7 //
+82 fire	plew //
+85 path	khra //
+86 mountain	noN //
+92 night	kh~lE7N //
+95 full	%tEm // < Thai
+96 new	pla //
+100 name	T3 //
+KASONG{AuA.PEARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Pearic,Western,Chong|@Austroasiatic,Pearic,WesternPearic,SouthernChong}
+ 1   12.25  102.83         500         cog
+1 I	i5 //
+2 you	po //
+3 we	hEN //
+18 person	kas3m //
+19 fish	me //
+21 dog	Th~o //
+22 louse	Th~i //
+23 tree	th~em //
+25 leaf	kh~la //
+28 skin	th~alo //
+30 blood	ham //
+31 bone	kloN //
+34 horn	sroT //
+39 ear	plaN //
+40 eye	mat //
+41 nose	patut //
+43 tooth	kh~oy //
+44 tongue	ratak //
+47 knee	toh maku //
+48 hand	ti //
+51 breast	yok //
+53 liver	lom //
+54 drink	tal //
+57 see	taN //
+58 hear	saN //
+61 die	hoT //
+66 come	yip //
+72 sun	th~aNi //
+74 star	s3m //
+75 water	tak //
+77 stone	k3mo //
+82 fire	plew //
+85 path	kh~ra si5 //
+86 mountain	noN //
+92 night	kr3N lEN //
+95 full	poN //
+96 new	pla //
+100 name	Ti //
+PEAR{AuA.PEARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Pearic,Eastern|@Austroasiatic,Pearic}
+ 1   13.58  105.00        1670         pcb
+1 I	eN, i5 //
+2 you	bo, por //
+3 we	hEN, yaN //
+18 person	r3s3m, r3C3m //
+19 fish	mEl, mel, me7el, mil, miw, mew //
+21 dog	Ch~o, Chok //
+22 louse	 //
+23 tree	nis, Nih, Nit, th~em, th~3nEm, th~em //
+25 leaf	slak, sla, kh~la, kh~la7, k3la7 //
+28 skin	sr3kaot, trolo //
+30 blood	ham //
+31 bone	kloN, kh~loN //
+34 horn	srot, th~3roC, th~roC //
+39 ear	plaN, pr3laN, pr3lieN //
+40 eye	mat, mot, moat //
+41 nose	m3tot, m3tut, m3taot, m3tut //
+43 tooth	kh~oy, kh~uy //
+44 tongue	r3tat, sr3tak, k3ltat, s3ltak, k3tak, tak //
+47 knee	 //
+48 hand	tay, te, ti, spal ti //
+51 breast	kriC, yok, tr3ki3 //
+53 liver	lom //
+54 drink	tak, tal, ta7l, tol //
+57 see	daN, taN, tieN, nekm NE //
+58 hear	saN //
+61 die	hoC, haoC //
+66 come	Ce, k3man, yip, y3p, roC //
+72 sun	t3Ne7, t3Ni, th~3Ni, th~3NE, th~3NEk, th~ni, hni //
+74 star	kh~3s3m, p3s3m, s3m //
+75 water	tak, th~ak, tiek, toak, t33k //
+77 stone	th~3mo, th~3mok, th~3maok, th~mo7, th~mo, th~maw, k3mok, k3mo7 //
+82 fire	ph~law, ph~lew, pliw, kh~lew ph~lew //
+85 path	kh~ra, kra // 'road'
+86 mountain	noN //
+92 night	kh~lEN //
+95 full	bor, baor //
+96 new	ph~la, pl33 //
+100 name	mih //
+PEAR_B{AuA.PEARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Pearic,Eastern|@Austroasiatic,Pearic}
+ 1   13.58  105.00        1670         pcb
+1 I	i5 //
+2 you	pu //
+3 we	yaN //
+18 person	rosim //
+19 fish	mel //
+21 dog	Ta //
+22 louse	Th~i //
+23 tree	toem //
+25 leaf	%lek // < Khmer
+28 skin	%sbek // < Khmer
+30 blood	moham //
+31 bone	TaN //
+34 horn	troT //
+39 ear	pralaN //
+40 eye	mat //
+41 nose	%mus // < Khmer (B. notes /s/ for /h/)
+43 tooth	%Tmoenh // < Khmer
+44 tongue	Tel tak //
+47 knee	moN kul //
+48 hand	ti //
+51 breast	yok //
+53 liver	lom //
+54 drink	nha //
+57 see	nuoet //
+58 hear	saN //
+61 die	hoT //
+66 come	moan //
+72 sun	preah atit //
+74 star	ph~kay // < Khmer
+75 water	teak //
+77 stone	th~mok //
+82 fire	ph~leo //
+85 path	kh~ra //
+86 mountain	knaN //
+92 night	vi //
+95 full	poN //
+96 new	ph~la //
+100 name	roneN //
+SAMRE{AuA.PEARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Pearic,Western,Samre|@Austroasiatic,Pearic,WesternPearic,NorthernChong}
+ 1   13.50  104.00       -2013         sxm
+1 I	i5 //
+2 you	po //
+3 we	hi3N //
+18 person	kasum //
+19 fish	mir //
+21 dog	Th~o //
+22 louse	Th~i //
+23 tree	th~im //
+25 leaf	kh~la //
+28 skin	talo //
+30 blood	ham //
+31 bone	klu3N //
+34 horn	suT //
+39 ear	palaN //
+40 eye	mat //
+41 nose	muh //
+43 tooth	kh~uj //
+44 tongue	katak //
+47 knee	tuh makur //
+48 hand	ti //
+51 breast	kriT //
+53 liver	lu3m //
+54 drink	tar //
+57 see	taN //
+58 hear	sanam //
+61 die	huT //
+66 come	th~3n //
+72 sun	sani //
+74 star	kasum //
+75 water	tak //
+77 stone	 //
+82 fire	pliw //
+85 path	kh~ra //
+86 mountain	nu3N //
+92 night	th~o //
+95 full	ph~a //
+96 new	pla //
+100 name	Tamoh //
+SAOCH{AuA.PEARIC|Austro-Asiatic,Mon-Khmer,EasternMon-Khmer,Pearic,Western,Chong|@Austroasiatic,Pearic,WesternPearic,SouthernChong}
+ 1   10.63  103.50          10         scq
+1 I	E5 //
+2 you	 //
+3 we	E5 //
+18 person	kX3Tum //
+19 fish	me7 //
+21 dog	Cao //
+22 louse	 //
+23 tree	aut //
+25 leaf	sla7 //
+28 skin	tXolok //
+30 blood	poNhan //
+31 bone	k3laoN //
+34 horn	TkaoT //
+39 ear	p3l3N //
+40 eye	mu3t //
+41 nose	mun taut //
+43 tooth	khaoy //
+44 tongue	ndat //
+47 knee	mnuol //
+48 hand	bat tey //
+51 breast	thoh //
+53 liver	tla3m //
+54 drink	th~a7n //
+57 see	tu3N //
+58 hear	saN //
+61 die	haoT //
+66 come	XoT //
+72 sun	tNi Xo3h //
+74 star	ps3m //
+75 water	t3k //
+77 stone	tmao7 //
+82 fire	pliv //
+85 path	 //
+86 mountain	nun //
+92 night	C3p //
+95 full	puN //
+96 new	pl3 //
+100 name	 //
+ABIRPARA_MAHALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   23.40   85.32       36000         mjx
+1 I	in //
+2 you	am //
+3 we	abu //
+18 person	hor //
+19 fish	haku //
+21 dog	SEta //
+22 louse	 //
+23 tree	darE //
+25 leaf	Sakam //
+28 skin	harta //
+30 blood	mayom //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	nu //
+57 see	lEl //
+58 hear	anjom //
+61 die	goit //
+66 come	hEju7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	SENgEl //
+85 path	dahar // maybe loan from Hindi (dharra = path)
+86 mountain	buru //
+92 night	ninda //
+95 full	pEreit //
+96 new	nawa // probably loanword from Hindi (naya = new)
+100 name	nutum //
+BODOBELGHORIA_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	abu //
+18 person	hor //
+19 fish	hako //
+21 dog	Sita //
+22 louse	 //
+23 tree	darE //
+25 leaf	sakam //
+28 skin	harta //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	%data // loan from Hindi or Bengali
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	5u //
+57 see	5El //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Candu //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	pind3 hor //
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	%nawa // probably loan from Hindi naya 'new' or Bengali (ABVD)
+100 name	5utum //
+GATA{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Gutob-Remo-Geta',Geta'|@Austroasiatic,Mundaic,SouthMunda}
+ 1   18.80   82.70        3060         gaq
+1 I	naiN //
+2 you	na //
+3 we	nEhiN //
+18 person	remua //
+19 fish	hado //
+21 dog	gusu //
+22 louse	gh~isi //
+23 tree	s3la7 //
+25 leaf	uliya //
+28 skin	Cam //
+30 blood	miya //
+31 bone	 //
+34 horn	grE, diraN //
+39 ear	 //
+40 eye	mua //
+41 nose	mu //
+43 tooth	gini //
+44 tongue	nl~iya //
+47 knee	mand~i //
+48 hand	 //
+51 breast	 //
+53 liver	 //
+54 drink	u7g //
+57 see	kela //
+58 hear	drig //
+61 die	goy //
+66 come	ila, paNla //
+72 sun	 //
+74 star	Cankva //
+75 water	nd~iya //
+77 stone	sisiembir //
+82 fire	suva7 //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	barti //
+96 new	timi //
+100 name	 //
+HO{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Mundari|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric,Ho-Mundari}
+ 1   22.00   86.00     1040000    ho   hoc
+1 I	an //
+2 you	am //
+3 we	abu, ale, alna, alin // inclusive, exclusive, dual inclusive and dual exclusive
+18 person	 //
+19 fish	haku, hai //
+21 dog	seta //
+22 louse	siku //
+23 tree	daru //
+25 leaf	sakam, pata //
+28 skin	u*r //
+30 blood	mayom //
+31 bone	jan //
+34 horn	diri5 //
+39 ear	lutur //
+40 eye	med //
+41 nose	muwa, muta //
+43 tooth	data reseke //
+44 tongue	le //
+47 knee	mukui //
+48 hand	ti //
+51 breast	kuwam, towa //
+53 liver	im //
+54 drink	nu //
+57 see	nel, med //
+58 hear	ayum //
+61 die	gojo //
+66 come	huju //
+72 sun	singi //
+74 star	ipil //
+75 water	da //
+77 stone	diri, sigid //
+82 fire	sengel //
+85 path	hora, hatiya //
+86 mountain	buru //
+92 night	nida, nidapaN //
+95 full	pere //
+96 new	nama //
+100 name	nutum, numu //
+HO_2{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Mundari|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric,Ho-Mundari}
+ 1   22.00   86.00     1040000    ho   hoc
+1 I	aN //
+2 you	am //
+3 we	abu //
+18 person	ho, %manw~a // IE loanword?
+19 fish	hai, haku //
+21 dog	seta //
+22 louse	siku, liTa7 siku //
+23 tree	daru //
+25 leaf	sakam //
+28 skin	o*r, ur //
+30 blood	mayom //
+31 bone	TaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	med //
+41 nose	muta //
+43 tooth	%data // IE loanword?
+44 tongue	le7, le7e //
+47 knee	mukui //
+48 hand	ti //
+51 breast	towa //
+53 liver	salam //
+54 drink	nu //
+57 see	nel //
+58 hear	ayum //
+61 die	go7e, goe7 //
+66 come	 //
+72 sun	singi //
+74 star	ipil //
+75 water	da7, da7a //
+77 stone	diri //
+82 fire	sengel //
+85 path	soropo //
+86 mountain	buru //
+92 night	nida, nide //
+95 full	pere7 kana7 //
+96 new	nama //
+100 name	nutum //
+JABRI_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	alE //
+18 person	hor //
+19 fish	hako //
+21 dog	Sita //
+22 louse	 //
+23 tree	dari //
+25 leaf	sakam //
+28 skin	uhur //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	5u //
+57 see	5El //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	 //
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loan from Hindi naya 'new'
+100 name	5utum //
+JUANG{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,Kharia-Juang|@Austroasiatic,Mundaic,SouthMunda}
+ 1   21.33   86.00       23700   jun   jun
+1 I	a5 //
+2 you	am //
+3 we	ni5 //
+18 person	luko //
+19 fish	karoN //
+21 dog	selog //
+22 louse	ese //
+23 tree	sumusiN //
+25 leaf	olag //
+28 skin	Talo //
+30 blood	i5am //
+31 bone	ado //
+34 horn	siNo //
+39 ear	lutud //
+40 eye	omod //
+41 nose	motey //
+43 tooth	%danto // < Ind
+44 tongue	aTlaN //
+47 knee	antu //
+48 hand	iti //
+51 breast	nunu //
+53 liver	atan //
+54 drink	ur //
+57 see	To //
+58 hear	oN //
+61 die	goT //
+66 come	den //
+72 sun	beLo //
+74 star	ku5imdig //
+75 water	dag //
+77 stone	eged //
+82 fire	lalaT //
+85 path	gotoN //
+86 mountain	porboto //
+92 night	endaro //
+95 full	%pura // Ind
+96 new	%noa // Ind
+100 name	noa //
+JURAY{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Sora-Juray-Gorum,Sora-Juray|@Austroasiatic,Mundaic,SouthMunda,Sora-Juray-Gorum,Sora-Juray}
+ 1   21.50   83.55      801000         juy
+1 I	 //
+2 you	amon //
+3 we	3nlEn //
+18 person	monra //
+19 fish	oyo //
+21 dog	k3nsod //
+22 louse	i7i //
+23 tree	ara //
+25 leaf	ola //
+28 skin	usal //
+30 blood	m353m //
+31 bone	ojaN //
+34 horn	dEr3N //
+39 ear	olud //
+40 eye	m7od //
+41 nose	omu //
+43 tooth	j7i //
+44 tongue	olaN //
+47 knee	 //
+48 hand	s7i //
+51 breast	ar3b //
+53 liver	gore //
+54 drink	g7a //
+57 see	g3j //
+58 hear	 //
+61 die	 //
+66 come	jiray //
+72 sun	 //
+74 star	 //
+75 water	d7a //
+77 stone	orEN //
+82 fire	 //
+85 path	go7taN //
+86 mountain	boru //
+92 night	or3bon //
+95 full	 //
+96 new	 //
+100 name	o53m //
+KHARIA{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,Kharia-Juang|@Austroasiatic,Mundaic,SouthMunda}
+ 1   22.50   84.33      241580   khr   khr
+1 I	 //
+2 you	ampe //
+3 we	aniN, ani5 //
+18 person	yh~an lebu //
+19 fish	 //
+21 dog	solo7 //
+22 louse	se7 //
+23 tree	daru //
+25 leaf	ula7, ulla7 //
+28 skin	usal, tS~amra // tSh$ala is another word for 'skin'
+30 blood	i5am, e5am // khun is another word for 'blood'
+31 bone	har, yaN //
+34 horn	dereN //
+39 ear	 //
+40 eye	mo7d, mo*7d // mu7d, naina are other words for 'eye'
+41 nose	romoN, romo7d //
+43 tooth	gone, gune //
+44 tongue	laN //
+47 knee	gh~utna //
+48 hand	ti7 //
+51 breast	nunu, th~aneil // ='female breast', other words for 'breast/chest': ma5oN, tSh$ati
+53 liver	gore //
+54 drink	u7d //
+57 see	 //
+58 hear	ondor, ondro //
+61 die	go7y //
+66 come	del //
+72 sun	bero //
+74 star	siNkom, senkom //
+75 water	 //
+77 stone	soreN //
+82 fire	timsoN //
+85 path	go7dyh$uN, go7yuN //
+86 mountain	pahar //
+92 night	idib bera //
+95 full	bh~aral, bh~orom // bh~ore is another word for 'full'
+96 new	komsor //
+100 name	 //
+KODA{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Mundari|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric}
+ 1   23.23   87.48       44300         cdz
+1 I	in //
+2 you	am //
+3 we	alE //
+18 person	horo //
+19 fish	haku //
+21 dog	SEta //
+22 louse	 //
+23 tree	daru //
+25 leaf	patari //
+28 skin	harta //
+30 blood	mayom //
+31 bone	joN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	hEtu //
+48 hand	tihi //
+51 breast	 //
+53 liver	 //
+54 drink	nu //
+57 see	lEl //
+58 hear	atEN //
+61 die	goit //
+66 come	hEju7 //
+72 sun	Candu //
+74 star	ipil //
+75 water	 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	guli //
+86 mountain	pahar //
+92 night	nidayna //
+95 full	pEreit //
+96 new	nawa //
+100 name	nutum //
+KORKU{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Korku|@Austroasiatic,Mundaic,NorthMunda}
+ 1   22.50   78.50      574000   kku   kfq
+1 I	a5 //
+2 you	am //
+3 we	ale //
+18 person	koro //
+19 fish	kaku //
+21 dog	sita //
+22 louse	siku //
+23 tree	siN //
+25 leaf	 //
+28 skin	kh~al //
+30 blood	mayam //
+31 bone	%harge // Ind
+34 horn	siNgi //
+39 ear	lutur //
+40 eye	med //
+41 nose	mu //
+43 tooth	tiriN //
+44 tongue	laN, lan //
+47 knee	%topare // < Ind
+48 hand	ti //
+51 breast	buTi //
+53 liver	%kole5Ta // < Ind
+54 drink	nu //
+57 see	do7 //
+58 hear	a5Tum //
+61 die	goyo7 //
+66 come	hiT //
+72 sun	 //
+74 star	iph~il //
+75 water	da7 //
+77 stone	gota //
+82 fire	siNgel //
+85 path	kora //
+86 mountain	balla //
+92 night	%rato // < Ind
+95 full	Taph~a //
+100 name	Timu //
+KORWA{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Mundari|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric,Kodaku-Korwa}
+ 1   23.20   83.40       34600         kfp
+1 I	 //
+2 you	 //
+3 we	 //
+18 person	 //
+19 fish	haku //
+21 dog	kutu //
+22 louse	siku // //
+23 tree	sin //
+25 leaf	 //
+28 skin	kaua Cala //
+30 blood	lahu //
+31 bone	jan //
+34 horn	 //
+39 ear	lutur //
+40 eye	med //
+41 nose	humu //
+43 tooth	 //
+44 tongue	alan //
+47 knee	 //
+48 hand	sop // arm
+51 breast	 //
+53 liver	iqin //
+54 drink	5u //
+57 see	5el //
+58 hear	ayum //
+61 die	goej, goeq //
+66 come	darva //
+72 sun	ber //
+74 star	ipil //
+75 water	 //
+77 stone	 //
+82 fire	se*gel //
+85 path	 //
+86 mountain	pahar //
+92 night	rast //
+95 full	 //
+96 new	nava* //
+100 name	na*o* //
+MATINDOR_MAHALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   23.40   85.32       36000         mjx
+1 I	in //
+2 you	am //
+3 we	abu //
+18 person	hor //
+19 fish	hako //
+21 dog	SEta //
+22 louse	 //
+23 tree	darE //
+25 leaf	Sakam //
+28 skin	harta //
+30 blood	mayom //
+31 bone	jaN //
+34 horn	SiNgi //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	nu //
+57 see	lEl //
+58 hear	anjom //
+61 die	goit //
+66 come	hEju7 //
+72 sun	Candu //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	SENgEl //
+85 path	guli //
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loanword from Hindi (naya = new)
+100 name	nutum //
+MUNDARI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Mundari|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric,Ho-Mundari}
+ 1   23.00   84.67     1120280   mun   unr
+1 I	ain //
+2 you	am //
+3 we	ale //
+4 this	ni i7 //
+5 that	han i7 //
+6 who	okoy //
+7 what	Ca na //
+8 not	ka //
+9 all	soben //
+10 many	bese //
+13 big	maraN //
+14 long	ZiliN //
+15 small	kuniN //
+16 woman	kuri //
+17 man	kora //
+18 person	horo //
+19 fish	hai //
+20 bird	Cene //
+21 dog	seta //
+22 louse	si ku //
+23 tree	daru //
+24 seed	hita //
+25 leaf	sakam //
+26 root	red //
+27 bark	harta //
+28 skin	ur //
+29 flesh	Zilu //
+30 blood	mayam //
+31 bone	ZaN //
+32 grease	itil //
+33 egg	Zarom //
+34 horn	diriN //
+35 tail	Cadlom //
+36 feather	il //
+37 hair	up //
+38 head	bo7 //
+39 ear	lutur //
+40 eye	med //
+41 nose	mu* //
+42 mouth	moCa //
+43 tooth	data //
+44 tongue	le7 //
+45 claw	rama //
+46 foot	kata //
+47 knee	mukuri //
+48 hand	ti //
+49 belly	laZ //
+50 neck	hoto7 //
+51 breast	nunu //
+52 heart	Zi kuram //
+53 liver	im //
+54 drink	nu //
+55 eat	Zom //
+56 bite	hua //
+57 see	lel //
+58 hear	ayum //
+59 know	itu //
+60 sleep	durum //
+61 die	goZu7 //
+62 kill	gie7 //
+63 swim	oyar //
+64 fly	apir //
+65 walk	sen //
+66 come	hiZu7 //
+67 lie	giti7 //
+68 sit	dub //
+69 stand	tiNgu //
+70 give	om //
+71 say	men //
+72 sun	siNgi //
+73 moon	Cand~u7 //
+74 star	ipil //
+75 water	da7 //
+76 rain	gama //
+77 stone	diri //
+78 sand	gitil //
+79 earth	ote //
+80 cloud	rimil //
+81 smoke	sukul //
+82 fire	seNgel //
+83 ash	toroe7 //
+84 burn	ro //
+85 path	hora //
+86 mountain	buru //
+87 red	ara7 //
+88 green	gaded //
+89 yellow	sa saN //
+90 white	pund~i //
+91 black	hend~e //
+92 night	nida //
+93 hot	lolo //
+94 cold	tutukan //
+95 full	pura //
+96 new	nawa //
+97 good	bugi //
+98 round	gol //
+99 dry	roro //
+100 name	nutum, num //
+MUNDARI_2{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Mundari|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric,Ho-Mundari}
+ 1   23.00   84.67     1120280   mun   unr
+1 I	ai5 //
+2 you	am //
+3 we	ale //
+18 person	horo //
+19 fish	hai //
+21 dog	seta //
+22 louse	siku //
+23 tree	daru //
+25 leaf	sakam //
+28 skin	ur //
+30 blood	mayam //
+31 bone	TaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	med //
+41 nose	mu* //
+43 tooth	data //
+44 tongue	le7 //
+47 knee	mukuri //
+48 hand	ti //
+51 breast	nunu //
+53 liver	im //
+54 drink	nu //
+57 see	lel //
+58 hear	ayum //
+61 die	goTo7 //
+66 come	hiTu7 //
+72 sun	siNgi //
+74 star	ipil //
+75 water	da7 //
+77 stone	diri //
+82 fire	seNgEl //
+85 path	hora //
+86 mountain	buru //
+92 night	nida //
+95 full	pura //
+96 new	%nawa // < Ind
+100 name	nutum //
+PACHONDOR_MAHALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   23.40   85.32       36000         mjx
+1 I	in //
+2 you	am //
+3 we	 //
+18 person	hor //
+19 fish	hako //
+21 dog	Sita //
+22 louse	 //
+23 tree	darE //
+25 leaf	sakam //
+28 skin	harta //
+30 blood	mayom //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	nu //
+57 see	lEl //
+58 hear	anjom //
+61 die	goit //
+66 come	hEjo7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	SENgEl //
+85 path	dahar // maybe loan from Hindi (dharra = path)
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loanword from Hindi (naya = new)
+100 name	5utum //
+PAHARPUR_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	abo, alE //
+18 person	hor //
+19 fish	haku //
+21 dog	Sita //
+22 louse	 //
+23 tree	darE //
+25 leaf	sakam //
+28 skin	harta //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mohu* //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	5u //
+57 see	5El //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	hor //
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loan from Hindi naya 'new'
+100 name	nutum //
+PARENGA{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Sora-Juray-Gorum,Gorum|@Austroasiatic,Mundaic,SouthMunda,Sora-Juray-Gorum}
+ 1   19.07   83.97          -1         pcj
+1 I	miN //
+2 you	maN //
+3 we	bileN //
+18 person	 //
+19 fish	ayu7 //
+21 dog	kus7on //
+22 louse	 //
+23 tree	ara7 //
+25 leaf	 //
+28 skin	 //
+30 blood	 //
+31 bone	 //
+34 horn	 //
+39 ear	 //
+40 eye	 //
+41 nose	 //
+43 tooth	 //
+44 tongue	 //
+47 knee	 //
+48 hand	si7 // arm
+51 breast	aru7m //
+53 liver	 //
+54 drink	 //
+57 see	gi7 //
+58 hear	 //
+61 die	 //
+66 come	ua7y //
+72 sun	 //
+74 star	 //
+75 water	da7 //
+77 stone	areN //
+82 fire	 //
+85 path	kuroN //
+86 mountain	kunda // hill
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	 //
+PATICHORA_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	abo //
+18 person	hor //
+19 fish	hako //
+21 dog	sita //
+22 louse	 //
+23 tree	dari //
+25 leaf	Sakam //
+28 skin	harta //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu* //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	5u //
+57 see	5El //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	SENgEl //
+85 path	dahar // probably loan from Hindi
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loan from Hindi naya 'new'
+100 name	5utum //
+RAJARAMPUR_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	abo, alE //
+18 person	hor //
+19 fish	hako //
+21 dog	Sita //
+22 louse	 //
+23 tree	darE //
+25 leaf	sakam //
+28 skin	harta //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	5u //
+57 see	5El //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Candu //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	hor //
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loan from Hindi naya 'new'
+100 name	nutum //
+RASHIDPUR_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	 //
+18 person	hor //
+19 fish	haku //
+21 dog	Sita //
+22 louse	 //
+23 tree	darE //
+25 leaf	sakam //
+28 skin	 //
+30 blood	mayaN //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	jom //
+57 see	nEl //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	 //
+86 mountain	bir //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loan from Hindi naya 'new'
+100 name	nutum //
+RAUTNAGAR_SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	in //
+2 you	am //
+3 we	abo //
+18 person	hor //
+19 fish	hako //
+21 dog	Sita //
+22 louse	 //
+23 tree	darE //
+25 leaf	sakam //
+28 skin	harta //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	diriN //
+39 ear	lutur //
+40 eye	mEt //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	gunth~i //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	5u //
+57 see	5El //
+58 hear	anjom //
+61 die	goit //
+66 come	h3ju7 //
+72 sun	Cando //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	sENgEl //
+85 path	 //
+86 mountain	buru //
+92 night	nind3 //
+95 full	pEreit //
+96 new	nawa // probably loan from Hindi naya 'new'
+100 name	nutum //
+REMO{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Gutob-Remo-Geta',Gutob-Remo|@Austroasiatic,Mundaic,SouthMunda,Gutob-Remo}
+ 1   18.00   82.00        9000   rem   bfw
+1 I	niN //
+2 you	no //
+3 we	nay, ney //
+18 person	remo //
+19 fish	 //
+21 dog	guso7bur // wild dog
+22 louse	 //
+23 tree	 //
+25 leaf	ulak //
+28 skin	usa //
+30 blood	 //
+31 bone	siksaN //
+34 horn	deruN //
+39 ear	luntur //
+40 eye	mo7 //
+41 nose	nse7mi7 //
+43 tooth	gine //
+44 tongue	leaN, le7aN //
+47 knee	kutruk" //
+48 hand	titi //
+51 breast	da7tukui //
+53 liver	 //
+54 drink	u7 //
+57 see	ju //
+58 hear	oN //
+61 die	goi //
+66 come	jagor //
+72 sun	bel, siNi //
+74 star	mortok, momortok //
+75 water	dak" //
+77 stone	bero, bire //
+82 fire	 //
+85 path	kuruN //
+86 mountain	 //
+92 night	tumuNgo //
+95 full	 //
+96 new	time //
+100 name	imi //
+SANTALI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Santalic}
+ 1   24.50   87.00     6219300   stl   sat
+1 I	i5 //
+2 you	am //
+3 we	abo //
+18 person	hor //
+19 fish	ba*rsi, haku // //
+21 dog	seta //
+22 louse	si //
+23 tree	dare //
+25 leaf	sakam //
+28 skin	harta //
+30 blood	mayam //
+31 bone	jaN //
+34 horn	dere5 //
+39 ear	lutur //
+40 eye	met //
+41 nose	mu //
+43 tooth	data //
+44 tongue	alaN //
+47 knee	 //
+48 hand	ti //
+51 breast	nunu //
+53 liver	in boro //
+54 drink	5u //
+57 see	5el //
+58 hear	a*jom //
+61 die	guju7 //
+66 come	hiju7 //
+72 sun	si5 Ca*do //
+74 star	ipil //
+75 water	da7 //
+77 stone	dh~iri //
+82 fire	se*gel //
+85 path	kulh~i //
+86 mountain	buru //
+92 night	5id3 //
+95 full	 //
+96 new	nawa //
+100 name	5utum //
+SAVARA{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Sora-Juray-Gorum,Sora-Juray|@Austroasiatic,Mundaic,SouthMunda,Sora-Juray-Gorum,Sora-Juray}
+ 1   20.00   84.33      253000   sor   srb
+1 I	5en //
+2 you	aman //
+3 we	enlen, elen //
+18 person	 //
+19 fish	ayo //
+21 dog	kinsor" //
+22 louse	 //
+23 tree	aneb, ara //
+25 leaf	ola //
+28 skin	 //
+30 blood	mi5am //
+31 bone	ajan //
+34 horn	 //
+39 ear	lu7ud // pl
+40 eye	amad //
+41 nose	mu7u //
+43 tooth	ji7i //
+44 tongue	lan //
+47 knee	 //
+48 hand	si7i //
+51 breast	meme // pl
+53 liver	agare //
+54 drink	ga7a //
+57 see	gij //
+58 hear	 //
+61 die	kied //
+66 come	irai, iyai //
+72 sun	oyon //
+74 star	 //
+75 water	da7a //
+77 stone	 //
+82 fire	togi //
+85 path	tanor //
+86 mountain	baru // hill
+92 night	togal //
+95 full	 //
+96 new	tamen //
+100 name	a5am //
+SORA{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Sora-Juray-Gorum,Sora-Juray|@Austroasiatic,Mundaic,SouthMunda,Sora-Juray-Gorum,Sora-Juray}
+ 1   20.00   84.33      253000   sor   srb
+1 I	5en //
+2 you	am3n //
+3 we	3llen //
+18 person	mandra //
+19 fish	3yo //
+21 dog	kinsod //
+22 louse	i7i //
+23 tree	ara //
+25 leaf	ola //
+28 skin	usal //
+30 blood	mi5am //
+31 bone	3TaN //
+34 horn	dereN //
+39 ear	l7ud //
+40 eye	m7od //
+41 nose	m7u //
+43 tooth	T7i //
+44 tongue	laN //
+47 knee	mandid //
+48 hand	s7i //
+51 breast	meme //
+53 liver	gare //
+54 drink	ga //
+57 see	giT //
+58 hear	amdaN, andaN //
+61 die	kayed //
+66 come	irai //
+72 sun	uyuN //
+74 star	tuituT //
+75 water	d7a //
+77 stone	areN //
+82 fire	t7oge //
+85 path	taNor //
+86 mountain	baru //
+92 night	%togal // Ind
+95 full	bariT //
+96 new	tamme //
+100 name	35om //
+SORA_2{AuA.MUNDA|Austro-Asiatic,Munda,SouthMunda,KoraputMunda,Sora-Juray-Gorum,Sora-Juray|@Austroasiatic,Mundaic,SouthMunda,Sora-Juray-Gorum,Sora-Juray}
+ 1   19.38   85.05      253000   sor   srb
+1 I	5en //
+2 you	am3n //
+3 we	ale, al3n //
+18 person	bomend~ra //
+19 fish	ayo, ayon //
+21 dog	k3ns~ot, kuns~or //
+22 louse	i7in //
+23 tree	ni7ib, neb //
+25 leaf	aola, olaN //
+28 skin	 //
+30 blood	mi5am //
+31 bone	ajaN //
+34 horn	diriN3n //
+39 ear	alu, lu7u //
+40 eye	mo7o, mo7ord3n //
+41 nose	mu7u //
+43 tooth	ji7i*, ji7i //
+44 tongue	alaN //
+47 knee	m3nd~ari //
+48 hand	si7i //
+51 breast	meme7, memen //
+53 liver	agre //
+54 drink	 //
+57 see	gidlay, gija //
+58 hear	3md3Na //
+61 die	 //
+66 come	yiray //
+72 sun	goyuNan, uyuN //
+74 star	tutujan //
+75 water	da7a, da7a* //
+77 stone	are, ariN //
+82 fire	 //
+85 path	taNor3n //
+86 mountain	baru //
+92 night	togalu //
+95 full	 //
+96 new	dame //
+100 name	am3n, a53mn3m //
+TURI{AuA.MUNDA|Austro-Asiatic,Munda,NorthMunda,Kherwari,Santali|@Austroasiatic,Mundaic,NorthMunda,Kherwarian,Mundaric}
+ 1   23.35   85.33        2000         trd
+1 I	 //
+2 you	 //
+3 we	 //
+18 person	 //
+19 fish	haku //
+21 dog	seta //
+22 louse	 //
+23 tree	duba //
+25 leaf	sekam // pl
+28 skin	arta //
+30 blood	mayam //
+31 bone	yan //
+34 horn	 //
+39 ear	lutur //
+40 eye	med //
+41 nose	mu //
+43 tooth	data // pl
+44 tongue	alan //
+47 knee	teona //
+48 hand	ti //
+51 breast	 //
+53 liver	 //
+54 drink	nu //
+57 see	lelel //
+58 hear	 //
+61 die	goe //
+66 come	 //
+72 sun	siNi //
+74 star	tergan //
+75 water	da //
+77 stone	diri //
+82 fire	 //
+85 path	hora // road
+86 mountain	 //
+92 night	nida //
+95 full	 //
+96 new	 //
+100 name	 //
+AISHUO_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.32   99.59      805700   puk   prk
+1 I	o7 //
+2 you	mai7 //
+3 we	Zi7 //
+18 person	pui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~au7 //
+25 leaf	lh~akh~au7 //
+28 skin	 //
+30 blood	nh~am //
+31 bone	si7aN //
+34 horn	ruN //
+39 ear	ZuZh~auk //
+40 eye	Nai //
+41 nose	muih //
+43 tooth	rh~aN //
+44 tongue	dak //
+47 knee	NoN //
+48 hand	tai7 //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	gaik, jh~ak //
+58 hear	Nh~iat //
+61 die	Zum //
+66 come	hoik //
+72 sun	siNai //
+74 star	sim7uiN //
+75 water	rom //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	goN //
+92 night	ponbo //
+95 full	 //
+96 new	 //
+100 name	 //
+AWALAI_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.64   99.44       98000         vwa
+1 I	au7 //
+2 you	me7 //
+3 we	i7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	sau7 //
+22 louse	se7 //
+23 tree	kh~au7 //
+25 leaf	la7 //
+28 skin	 //
+30 blood	nam //
+31 bone	si7aN //
+34 horn	roN //
+39 ear	Zauk //
+40 eye	Nai //
+41 nose	muih //
+43 tooth	raN //
+44 tongue	tak //
+47 knee	muiNr~uaN //
+48 hand	tai7 //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	kia //
+58 hear	NEt //
+61 die	Zum //
+66 come	hoik //
+72 sun	siNi7 //
+74 star	sem7uiN //
+75 water	ra7am //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	kath~ua //
+92 night	nampu //
+95 full	 //
+96 new	 //
+100 name	 //
+BANHONG_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   23.29   99.10      805700   puk   prk
+1 I	o7 //
+2 you	mi7 //
+3 we	Zi7 //
+18 person	pui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~au7 //
+25 leaf	lh~a7 //
+28 skin	 //
+30 blood	nh~am //
+31 bone	si7aN //
+34 horn	roN //
+39 ear	Zh~auk //
+40 eye	Nai //
+41 nose	muih //
+43 tooth	rh~aN //
+44 tongue	dak //
+47 knee	siNuaN //
+48 hand	tai7 //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	 //
+58 hear	Nh~iat //
+61 die	Zum //
+66 come	hoik //
+72 sun	siNai7 //
+74 star	sim7uiN //
+75 water	rom //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	guaN //
+92 night	papo //
+95 full	 //
+96 new	 //
+100 name	 //
+BIT{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Bit-Khang|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Khao-Bit}
+ 1   21.53  101.88        2160         bgk
+1 I	jo //
+2 you	mi //
+3 we	p3siN7i //
+18 person	p3siN //
+19 fish	m7u3 //
+21 dog	Co7 //
+22 louse	Ci //
+23 tree	C37ueN //
+25 leaf	k3lna //
+28 skin	t3nuN //
+30 blood	s3nuem //
+31 bone	jueN //
+34 horn	t3koi //
+39 ear	tor //
+40 eye	p3Nai //
+41 nose	mui //
+43 tooth	s3rueN //
+44 tongue	sent~ak //
+47 knee	 //
+48 hand	ti //
+51 breast	bu7 //
+53 liver	 //
+54 drink	teN //
+57 see	mih //
+58 hear	tal //
+61 die	N3t //
+66 come	om //
+72 sun	C3Ni //
+74 star	s3Nmui5 //
+75 water	om //
+77 stone	lu3N //
+82 fire	C3Nal //
+85 path	k3nd~iN //
+86 mountain	p3noN //
+92 night	n3Nj3l //
+95 full	ki5 //
+96 new	ni37 //
+100 name	su //
+BUMANG{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Bulang|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic}
+ 1   23.02  103.34         200         bvp
+1 I	da //
+2 you	mi //
+3 we	no //
+18 person	kon //
+19 fish	ka //
+21 dog	cua //
+22 louse	ph~in //
+23 tree	lam //
+25 leaf	na //
+28 skin	nuN //
+30 blood	n3m //
+31 bone	koNsap //
+34 horn	koi //
+39 ear	to //
+40 eye	loNai //
+41 nose	kumui //
+43 tooth	h3N //
+44 tongue	tak //
+47 knee	kinhoN //
+48 hand	ti //
+51 breast	mum //
+53 liver	kom //
+54 drink	Nut //
+57 see	lim, hE5u //
+58 hear	cEN //
+61 die	Nan //
+66 come	um //
+72 sun	loNaiNi //
+74 star	losaNkon //
+75 water	om //
+77 stone	ha //
+82 fire	Nan //
+85 path	tiN //
+86 mountain	zau //
+92 night	payin //
+95 full	 //
+96 new	mia //
+100 name	culaida //
+DAMANGNUO_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.45   99.56       98000         vwa
+1 I	u7 //
+2 you	mi7 //
+3 we	Zi7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	sau7 //
+22 louse	sei7 //
+23 tree	kh~au7 //
+25 leaf	La7 //
+28 skin	 //
+30 blood	nam //
+31 bone	aN //
+34 horn	ruoN //
+39 ear	tausauk //
+40 eye	Nae //
+41 nose	muah //
+43 tooth	raN //
+44 tongue	tak //
+47 knee	muaNr~uaN //
+48 hand	te7 //
+51 breast	 //
+53 liver	tam //
+54 drink	 //
+57 see	kia //
+58 hear	Niat //
+61 die	Zum //
+66 come	hoik //
+72 sun	Ni7 //
+74 star	sem7oiN //
+75 water	ro*m //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	kh~oN //
+92 night	ph~o //
+95 full	 //
+96 new	 //
+100 name	 //
+DANAU{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Danau|@Austroasiatic,Khasi-Palaung,Palaungic}
+ 1   20.52   96.62        1000         dnu
+1 I	o7 //
+2 you	mo7 //
+3 we	e //
+18 person	 //
+19 fish	pyaN //
+21 dog	co //
+22 louse	ci // headlouse
+23 tree	cok8e // =wood
+25 leaf	lo //
+28 skin	kad3t //
+30 blood	kanon //
+31 bone	kanoN //
+34 horn	 //
+39 ear	kat3n, katon //
+40 eye	Noi //
+41 nose	kad3t //
+43 tooth	p3iN //
+44 tongue	toNto7 //
+47 knee	 //
+48 hand	ti //
+51 breast	bu //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	pyin //
+66 come	 //
+72 sun	ci // =day
+74 star	kalon //
+75 water	un //
+77 stone	kamu //
+82 fire	5on //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	biok //
+96 new	kamE7 //
+100 name	ma7 //
+DANAW{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Danau|@Austroasiatic,Khasi-Palaung,Palaungic}
+ 1   20.52   96.62        1000         dnu
+1 I	o7 //
+2 you	m37 //
+3 we	e //
+18 person	lo //
+19 fish	ph~yaN //
+21 dog	co7 //
+22 louse	ci //
+23 tree	8e //
+25 leaf	lo //
+28 skin	kad3t //
+30 blood	kanon //
+31 bone	kanoN //
+34 horn	tako //
+39 ear	kat3n //
+40 eye	Noi //
+41 nose	kad3t //
+43 tooth	p3iN //
+44 tongue	to7 //
+47 knee	toN ko7 //
+48 hand	ti //
+51 breast	bu //
+53 liver	 //
+54 drink	Non //
+57 see	yen //
+58 hear	on //
+61 die	pyin //
+66 come	p3t //
+72 sun	ch~i //
+74 star	kalon //
+75 water	un //
+77 stone	kamu //
+82 fire	5on //
+85 path	ka5on //
+86 mountain	bue //
+92 night	ko kh~o //
+95 full	biok //
+96 new	kh~ame7 //
+100 name	ma7 //
+DAZHAI_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   27.23  102.92      805700   puk   prk
+1 I	ai //
+2 you	me7 //
+3 we	Ze7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~au7 //
+25 leaf	nu //
+28 skin	 //
+30 blood	nam //
+31 bone	aN //
+34 horn	 //
+39 ear	Zok //
+40 eye	Nai //
+41 nose	muih //
+43 tooth	raN //
+44 tongue	tak //
+47 knee	taNkh~iaN //
+48 hand	 //
+51 breast	 //
+53 liver	katom //
+54 drink	 //
+57 see	 //
+58 hear	Niat //
+61 die	Zum //
+66 come	hoik //
+72 sun	siNE7 //
+74 star	sim7uiN //
+75 water	Xom //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	goN //
+92 night	ph~onbul //
+95 full	 //
+96 new	 //
+100 name	 //
+DEANG{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Palaung|@Austroasiatic,Khasi-Palaung,Palaungic,WestPalaungic,Palaung}
+ 1   22.67   96.67      272000   plg   pce
+1 I	 //
+2 you	moi //
+3 we	y3i //
+4 this	 //
+5 that	d3 //
+6 who	se //
+7 what	se muh //
+8 not	 //
+9 all	dvi7 //
+10 many	mh~blam //
+13 big	daN //
+14 long	doN //
+15 small	diat //
+16 woman	i pon //
+17 man	mai //
+18 person	to i //
+19 fish	ka //
+20 bird	siN //
+21 dog	a7o7 //
+22 louse	sai //
+23 tree	he //
+24 seed	kau //
+25 leaf	hla //
+26 root	riaih //
+27 bark	go7 //
+28 skin	hur //
+29 flesh	yoN //
+30 blood	nh~am //
+31 bone	k"7~aN //
+32 grease	 //
+33 egg	krau //
+34 horn	nuN //
+35 tail	sta //
+36 feather	 //
+37 hair	hu7 //
+38 head	kiN //
+39 ear	yo7 //
+40 eye	Nai //
+41 nose	muih //
+42 mouth	sop //
+43 tooth	rh~aN //
+44 tongue	kta7 //
+45 claw	arh~im //
+46 foot	Z3N //
+47 knee	kir kEr //
+48 hand	tai //
+49 belly	vE7 //
+50 neck	amoN //
+51 breast	bu //
+52 heart	noih //
+53 liver	ktom //
+54 drink	rh~3p //
+55 eat	hom //
+56 bite	ga7 //
+57 see	y3 //
+58 hear	sNauy3 //
+59 know	nap //
+60 sleep	it //
+61 die	yam //
+62 kill	Nah //
+63 swim	lam Na //
+64 fly	ph~ru //
+65 walk	hau //
+66 come	rot //
+67 lie	 //
+68 sit	Noi //
+69 stand	ZaN //
+70 give	don //
+71 say	grai //
+72 sun	sNoi //
+73 moon	plaN kiar //
+74 star	sman //
+75 water	om //
+76 rain	klai //
+77 stone	mau //
+78 sand	kh~ai7 //
+79 earth	k"tai //
+80 cloud	nh7$ut //
+81 smoke	to7 //
+82 fire	Nar //
+83 ash	k"faN //
+84 burn	 //
+85 path	ndEN //
+86 mountain	svr //
+87 red	r3N //
+88 green	5iar //
+89 yellow	t3N //
+90 white	blo7 //
+91 black	vaN //
+92 night	s3m //
+93 hot	un //
+94 cold	kat //
+95 full	no7 //
+96 new	kmai //
+97 good	mh~3m //
+98 round	 //
+99 dry	 //
+100 name	C3 //
+DEANG_2{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Palaung|@Austroasiatic,Khasi-Palaung,Palaungic,WestPalaungic,Palaung}
+ 1   22.67   96.67      272000   plg   pce
+1 I	o //
+2 you	m3i //
+3 we	xi //
+18 person	tu 7i //
+19 fish	kE //
+21 dog	7a 7o7 //
+22 louse	sai //
+23 tree	he //
+25 leaf	lha //
+28 skin	hur //
+30 blood	nham //
+31 bone	ka7aN //
+34 horn	nuN //
+39 ear	lhE7 So7 //
+40 eye	Nai //
+41 nose	muih //
+43 tooth	rhaN //
+44 tongue	ka ta7 //
+47 knee	kiN kEr //
+48 hand	tai //
+51 breast	bu //
+53 liver	ka tom //
+54 drink	rhop //
+57 see	y3 //
+58 hear	yu k3NEu //
+61 die	yam //
+66 come	rot //
+72 sun	siNoi //
+74 star	siman //
+75 water	um //
+77 stone	mEu //
+82 fire	Nar //
+85 path	ntEN //
+86 mountain	sur //
+92 night	s3m //
+95 full	no7 //
+96 new	ka mai //
+100 name	T3 //
+GUANSHUANG_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.07  100.04      805700   puk   prk
+1 I	o7 //
+2 you	mE7 //
+3 we	e7 //
+18 person	pui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~au7 //
+25 leaf	lh~a7 //
+28 skin	 //
+30 blood	5am //
+31 bone	si7aN //
+34 horn	rup //
+39 ear	Zh~ak //
+40 eye	Nai //
+41 nose	molh~ //
+43 tooth	rh~aN //
+44 tongue	dak //
+47 knee	alNoN //
+48 hand	tai7 //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	ne, Zo7 //
+58 hear	mh~oN //
+61 die	Zom //
+66 come	iN //
+72 sun	Ne7 //
+74 star	muiN //
+75 water	rom //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	goN //
+92 night	pusom //
+95 full	 //
+96 new	 //
+100 name	 //
+KHANG{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Bit-Khang|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Khao-Bit}
+ 1   21.67  103.67       13800         kjm
+1 I	zo //
+2 you	mi, ay //
+3 we	motdia, motzo //
+18 person	kon, bi //
+19 fish	ka //
+21 dog	Tua //
+22 louse	mENlot //
+23 tree	may //
+25 leaf	baw //
+28 skin	taknuN //
+30 blood	num //
+31 bone	tak7uN //
+34 horn	koy //
+39 ear	tol //
+40 eye	kEnNay //
+41 nose	moy //
+43 tooth	huN //
+44 tongue	katak //
+47 knee	kahoN //
+48 hand	ti //
+51 breast	bo7 //
+53 liver	kl~uam //
+54 drink	tu7 //
+57 see	5u //
+58 hear	plEm7al //
+61 die	Nat //
+66 come	kl37 //
+72 sun	NayNe //
+74 star	Takmen //
+75 water	om //
+77 stone	th~onol //
+82 fire	Nal //
+85 path	 //
+86 mountain	pu //
+92 night	konko7 //
+95 full	kin, si7 //
+96 new	mia7 //
+100 name	Tu //
+KHMU{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khmuic,Mal-Khmu',Khmu'|@Austroasiatic,Khmuic,Khmu'}
+ 1   21.00  102.00      703500   kmu   kjg
+1 I	 //
+2 you	me //
+3 we	 //
+4 this	k3 ki //
+5 that	k3 ni //
+6 who	m3 //
+7 what	m3h //
+8 not	 //
+9 all	ku //
+10 many	k3 //
+13 big	nam //
+14 long	waN //
+15 small	nE //
+16 woman	C3mk3n //
+17 man	C3mpro //
+18 person	k3mmu //
+19 fish	ka //
+20 bird	sim //
+21 dog	so //
+22 louse	se //
+23 tree	s37oN //
+24 seed	p3liar //
+25 leaf	la //
+26 root	rias //
+27 bark	h3mpok //
+28 skin	h3mpur //
+29 flesh	ah //
+30 blood	mam //
+31 bone	C37aN //
+32 grease	 //
+33 egg	k3toN //
+34 horn	Centr~3N //
+35 tail	h3nta //
+36 feather	kh~ul //
+37 hair	kl3 //
+38 head	k3mpoN //
+39 ear	hermey //
+40 eye	mat //
+41 nose	muh //
+42 mouth	t3noh //
+43 tooth	raN //
+44 tongue	h3ntak //
+45 claw	t3mmoN //
+46 foot	C3aN //
+47 knee	k3nun //
+48 hand	k3takti //
+49 belly	poN //
+50 neck	k3ntuar //
+51 breast	pu //
+52 heart	h3rn3am //
+53 liver	t3lom //
+54 drink	uak //
+55 eat	p3 //
+56 bite	pok //
+57 see	kun //
+58 hear	meC //
+59 know	n3N //
+60 sleep	sis //
+61 die	han //
+62 kill	ph~an //
+63 swim	way //
+64 fly	tir //
+65 walk	yoh //
+66 come	kay //
+67 lie	Nim //
+68 sit	ten, tan //
+69 stand	t3n //
+70 give	un //
+71 say	lo //
+72 sun	matpri //
+73 moon	moN //
+74 star	s3rmin //
+75 water	om //
+76 rain	k3ma //
+77 stone	klaN //
+78 sand	Cr~es //
+79 earth	p3te //
+80 cloud	put //
+81 smoke	p3t3 //
+82 fire	p3rl3a //
+83 ash	poh //
+84 burn	pok //
+85 path	Nor //
+86 mountain	mok //
+87 red	yim //
+88 green	C3Nar //
+89 yellow	si l3N //
+90 white	klok //
+91 black	h3aN //
+92 night	p3s3am //
+93 hot	N3k3m //
+94 cold	Nar //
+95 full	kin //
+96 new	h3nme //
+97 good	l3 //
+98 round	mon //
+99 dry	ras //
+100 name	C3 //
+KHMU_2{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khmuic,Mal-Khmu',Khmu'|@Austroasiatic,Khmuic,Khmu'}
+ 1   21.00  102.00      703500   kmu   kjg
+1 I	o7 //
+2 you	me //
+3 we	i7 //
+18 person	%gon // < Tai
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	se7 //
+23 tree	s7oN //
+25 leaf	hla7 //
+28 skin	h3mpur //
+30 blood	mam //
+31 bone	T37aN //
+34 horn	T3ndr3N //
+39 ear	m3y //
+40 eye	mat //
+41 nose	muh //
+43 tooth	hraN //
+44 tongue	n3ntak //
+47 knee	k3nun //
+48 hand	ti7 //
+51 breast	bu7 //
+53 liver	tlom roN //
+54 drink	33k //
+57 see	gu5 //
+58 hear	meT //
+61 die	han //
+66 come	gay //
+72 sun	mat bri7 //
+74 star	s3me5 //
+75 water	%om // Palangic?
+77 stone	glaN //
+82 fire	ph~r33 //
+85 path	Nor //
+86 mountain	rNoN //
+92 night	p3s33m //
+95 full	ki5 //
+96 new	h3mme7 //
+100 name	p3nm3h //
+KSINMUL{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khmuic,XinhMul|@Austroasiatic,Khmuic,Phay-Pram}
+ 1   21.08  104.00       26570   ksi   puo
+1 I	a5 //
+2 you	mih //
+3 we	zi //
+4 this	 //
+5 that	p37ow //
+6 who	noh //
+7 what	h3lmoh //
+8 not	 //
+9 all	 //
+10 many	gay //
+13 big	do //
+14 long	3loN //
+15 small	nek //
+16 woman	kh~on5i5 //
+17 man	kh~onsay //
+18 person	ksiN //
+19 fish	ka //
+20 bird	Cem //
+21 dog	ksew //
+22 louse	cey //
+23 tree	C37u3N //
+24 seed	 //
+25 leaf	b3w //
+26 root	geh //
+27 bark	b3N //
+28 skin	b3N //
+29 flesh	ksoN //
+30 blood	mi3m //
+31 bone	laN //
+32 grease	 //
+33 egg	kloN //
+34 horn	C3lgan //
+35 tail	h3lta //
+36 feather	sok //
+37 hair	sok //
+38 head	3lu //
+39 ear	h3ltol //
+40 eye	mat //
+41 nose	moh //
+42 mouth	5uk //
+43 tooth	h3gi3N //
+44 tongue	h3ltak //
+45 claw	moNsu3N //
+46 foot	zuN //
+47 knee	3lum3ldil //
+48 hand	k3sap //
+49 belly	ku //
+50 neck	kok //
+51 breast	um //
+52 heart	en //
+53 liver	t3lom //
+54 drink	uk //
+55 eat	Ca //
+56 bite	ak //
+57 see	di3 //
+58 hear	al //
+59 know	zu3 //
+60 sleep	em //
+61 die	si3n //
+62 kill	p3si3n //
+63 swim	loy //
+64 fly	pal //
+65 walk	zu //
+66 come	pleh //
+67 lie	em //
+68 sit	kli3n //
+69 stand	Cal //
+70 give	mah //
+71 say	waw //
+72 sun	C3lNe //
+73 moon	blah //
+74 star	m35 //
+75 water	hot //
+76 rain	3m3 //
+77 stone	3li3N //
+78 sand	diNsay //
+79 earth	k3te //
+80 cloud	mok //
+81 smoke	p3tow //
+82 fire	h3goN //
+83 ash	3boh //
+84 burn	iN //
+85 path	tum //
+86 mountain	kh~egaN //
+87 red	k37et //
+88 green	le //
+89 yellow	l3N //
+90 white	lu3k //
+91 black	oC //
+92 night	p3t //
+93 hot	g3m //
+94 cold	kh~reat //
+95 full	ki5 //
+96 new	h3me //
+97 good	tuh //
+98 round	mon //
+99 dry	 //
+100 name	 //
+KSINMUL_2{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khmuic,XinhMul|@Austroasiatic,Khmuic,Phay-Pram}
+ 1   21.08  104.00       26570   ksi   puo
+1 I	a5 //
+2 you	mih //
+3 we	zi //
+18 person	ksiN //
+19 fish	ka //
+21 dog	To //
+22 louse	Tey //
+23 tree	T37u3N //
+25 leaf	b3w //
+28 skin	b3N //
+30 blood	mi3m //
+31 bone	laN //
+34 horn	T3lgan //
+39 ear	h3ltol //
+40 eye	mat //
+41 nose	moh //
+43 tooth	h3gi3N //
+44 tongue	h3ltak //
+47 knee	73lum3ldil //
+48 hand	k3sap //
+51 breast	um //
+53 liver	t3lom //
+54 drink	uk //
+57 see	di3 //
+58 hear	al //
+61 die	si3n //
+66 come	pleh //
+72 sun	T3lNe //
+74 star	m35 //
+75 water	hot //
+77 stone	3li3N //
+82 fire	h3goN //
+85 path	tum //
+86 mountain	kh~3gaN //
+92 night	p3t //
+95 full	ki5 //
+96 new	h3me //
+100 name	 //
+LAMPANGLAMET{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Lametic|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic}
+ 1   20.42  101.00       19832         lbn
+1 I	a7 //
+2 you	mi //
+3 we	ju7 //
+18 person	e7i7 //
+19 fish	ka7 //
+21 dog	sa7 //
+22 louse	si7 //
+23 tree	umkhe7 //
+25 leaf	la7 //
+28 skin	Nxu7 //
+30 blood	nam //
+31 bone	s3naN //
+34 horn	x3N //
+39 ear	jok //
+40 eye	Naj // "eyes"
+41 nose	 //
+43 tooth	ka5 //
+44 tongue	potak //
+47 knee	kh3N //
+48 hand	ti7 // "arm, hand"
+51 breast	 //
+53 liver	kh3tcam //
+54 drink	tEN //
+57 see	tham //
+58 hear	3m //
+61 die	jam //
+66 come	thuh //
+72 sun	Naj pxi //
+74 star	kh3mu5 //
+75 water	3m //
+77 stone	kho7aN //
+82 fire	Nol //
+85 path	 //
+86 mountain	m3c // "mountain top"
+92 night	sem //
+95 full	n3k //
+96 new	 //
+100 name	s3 Naj // "to name"
+LAWA_LA_UP{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Lawa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,Lawa}
+ 1   18.17   98.00        8000         lcp
+1 I	a37 //
+2 you	mo pe7 //
+3 we	mo7e7 //
+18 person	pui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	sei7 //
+23 tree	kho7 //
+25 leaf	hla7 //
+28 skin	n337 //
+30 blood	hnam // La-Up dialect of Lawa
+31 bone	s37aN //
+34 horn	d3oN //
+39 ear	 //
+40 eye	Nai //
+41 nose	ma3h //
+43 tooth	bi3N //
+44 tongue	dak //
+47 knee	ma7graoN //
+48 hand	te7 //
+51 breast	ta3h // "breasts"
+53 liver	tom //
+54 drink	5u7 //
+57 see	yu7 //
+58 hear	hmoN //
+61 die	 //
+66 come	hoic //
+72 sun	s3Ne7 //
+74 star	s3moi5 //
+75 water	r37aom //
+77 stone	s3mo7 //
+82 fire	No //
+85 path	khra7 //
+86 mountain	tu, blaoN //
+92 night	saom //
+95 full	naok //
+96 new	 //
+100 name	moih //
+MAL{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khmuic,Mal-Khmu',Mal-Phrai|@Austroasiatic,Khmuic,Phay-Pram,Phay-Mal-Tin}
+ 1   19.33  101.25       26200         mlf
+1 I	35 //
+2 you	mah //
+3 we	7ih //
+18 person	%kon // < Tai
+19 fish	kh~a //
+21 dog	sua7 //
+22 louse	se7 //
+23 tree	%nt3l lam // < Lao
+25 leaf	nth~u //
+28 skin	th~uah //
+30 blood	miam //
+31 bone	iaN //
+34 horn	T3ndruN //
+39 ear	nth~or //
+40 eye	mat //
+41 nose	moh //
+43 tooth	siaN //
+44 tongue	nth~ak //
+47 knee	Nkyu7 NkyoN //
+48 hand	th~i //
+51 breast	%3k // < Thai òk 'chest'
+53 liver	%tap // Thai
+54 drink	nth~3l //
+57 see	m3T //
+58 hear	meT NeN //
+61 die	p3l //
+66 come	to7 //
+72 sun	Ne7 //
+74 star	ut //
+75 water	ph~uay //
+77 stone	Nul kiaN //
+82 fire	oyh //
+85 path	yoN //
+86 mountain	mploh //
+92 night	 //
+95 full	pi7 //
+96 new	mE7 //
+100 name	mph~3 //
+MANG{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Mang|@Austroasiatic,Mangic}
+ 1   22.25  103.00        3165         zng
+1 I	a 7u //
+2 you	a mi //
+3 we	lok ha //
+18 person	ha //
+19 fish	a //
+21 dog	s3 //
+22 louse	ma be //
+23 tree	hEo //
+25 leaf	la //
+28 skin	hak //
+30 blood	ham //
+31 bone	CaN //
+34 horn	xa7 xak //
+39 ear	laN te //
+40 eye	mat //
+41 nose	N mi //
+43 tooth	m3n //
+44 tongue	l3N dak //
+47 knee	saN //
+48 hand	7EN //
+51 breast	bu //
+53 liver	do7 //
+54 drink	o7 //
+57 see	doN vin //
+58 hear	%tiN // < Tai
+61 die	sit //
+66 come	ho //
+72 sun	mat ni //
+74 star	bu //
+75 water	gom //
+77 stone	ToN gi //
+82 fire	5iE //
+85 path	ga to7 //
+86 mountain	s3 ge //
+92 night	tuaN suam //
+95 full	lap //
+96 new	me //
+100 name	%bo // < Miao
+MASAN_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.76   99.43       98000         vwa
+1 I	o7 //
+2 you	mEi7 //
+3 we	Zi7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	sEi7 //
+23 tree	kh~o7 //
+25 leaf	La7 //
+28 skin	 //
+30 blood	nam //
+31 bone	si7aN //
+34 horn	rauN //
+39 ear	hiok //
+40 eye	Nai //
+41 nose	muh //
+43 tooth	raN //
+44 tongue	dak //
+47 knee	grioN //
+48 hand	tE7 //
+51 breast	 //
+53 liver	katom //
+54 drink	 //
+57 see	kia //
+58 hear	Niat //
+61 die	Zum //
+66 come	hoik //
+72 sun	siNEi7 //
+74 star	sem7uiN //
+75 water	ro7om //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	gh~oN //
+92 night	ph~un bh~u //
+95 full	 //
+96 new	 //
+100 name	 //
+MENGGONG_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   23.97   99.23      805700   puk   prk
+1 I	o7 //
+2 you	ba7 //
+3 we	Zi7 //
+18 person	ph~i //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	asi7 //
+23 tree	kh~au7 //
+25 leaf	la7 //
+28 skin	 //
+30 blood	nam //
+31 bone	aN //
+34 horn	ruN //
+39 ear	toZok //
+40 eye	bugai //
+41 nose	kh~oNbuih //
+43 tooth	soraN //
+44 tongue	tak //
+47 knee	aNgoN //
+48 hand	tet //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	kh~oik //
+58 hear	get //
+61 die	Zum //
+66 come	hoik //
+72 sun	bugoi7 //
+74 star	bupuiN //
+75 water	rom //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	kh~oN //
+92 night	opgun //
+95 full	 //
+96 new	 //
+100 name	 //
+MLABRI{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Khmuic,Mlabri|@Austroasiatic,Khmuic}
+ 1   18.50  101.00         154   mlm   mra
+1 I	o //
+2 you	mE //
+3 we	7a th3N //
+18 person	mla //
+19 fish	ka7 //
+21 dog	bra5 //
+22 louse	se7 //
+23 tree	%lam // < Lao
+25 leaf	b3 //
+28 skin	gugu //
+30 blood	mam //
+31 bone	Ta 7EN //
+34 horn	%kaw // < Tai
+39 ear	ket //
+40 eye	mat //
+41 nose	moh //
+43 tooth	T3n //
+44 tongue	r3t lat //
+47 knee	kul kil //
+48 hand	ti7 //
+51 breast	bo //
+53 liver	pet //
+54 drink	w3k //
+57 see	mok //
+58 hear	m3t //
+61 die	b3l //
+66 come	le //
+72 sun	ak ToN //
+74 star	sam mon //
+75 water	w3k //
+77 stone	gEp //
+82 fire	ulh //
+85 path	Nor //
+86 mountain	Ta bo //
+92 night	ni lEk //
+95 full	puak //
+96 new	hmE7 //
+100 name	b3r 7i //
+MOK{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Angkuic|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Angkuic,SouthernAngkuic}
+ 1   18.83   99.58           7         mqt
+1 I	aw //
+2 you	mu //
+3 we	yi //
+18 person	 //
+19 fish	a ble //
+21 dog	so //
+22 louse	 //
+23 tree	tam su //
+25 leaf	la an //
+28 skin	aN gu //
+30 blood	nam //
+31 bone	kaaN //
+34 horn	 //
+39 ear	la sok //
+40 eye	hsu Ne //
+41 nose	 //
+43 tooth	kaiN //
+44 tongue	pak //
+47 knee	 //
+48 hand	 //
+51 breast	 //
+53 liver	 //
+54 drink	teN //
+57 see	lom //
+58 hear	 //
+61 die	yem //
+66 come	i //
+72 sun	pa Ni //
+74 star	 //
+75 water	om //
+77 stone	 //
+82 fire	Ne //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	 //
+PALAUNG_UnnamedInSource{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Palaung|@Austroasiatic,Khasi-Palaung,Palaungic,WestPalaungic}
+ 1   23.00   96.67      140600   plg   rbb
+1 I	o //
+2 you	mai //
+3 we	ye //
+18 person	vi //
+19 fish	ga //
+21 dog	Su7 //
+22 louse	ma sai //
+23 tree	hai //
+25 leaf	lha //
+28 skin	hun //
+30 blood	nham //
+31 bone	ka 7aN //
+34 horn	nN //
+39 ear	ju7 //
+40 eye	Nai //
+41 nose	ka muh //
+43 tooth	rhaN //
+44 tongue	si da7 //
+47 knee	geiN kroN //
+48 hand	dai //
+51 breast	blai pu //
+53 liver	ka dom //
+54 drink	rh3p //
+57 see	yo7 //
+58 hear	si toN j //
+61 die	yam //
+66 come	tah //
+72 sun	si Nai //
+74 star	si maiN //
+75 water	m //
+77 stone	mau //
+82 fire	No //
+85 path	nteiN //
+86 mountain	koN //
+92 night	s3am //
+95 full	nu7 //
+96 new	ka mai //
+PLANG{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Bulang|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Bulangic}
+ 1   21.57  100.13       55200         blr
+1 I	3t //
+2 you	mit //
+3 we	7et ti //
+18 person	p3i //
+19 fish	ka //
+21 dog	so //
+22 louse	ka h3iN //
+23 tree	kh~u //
+25 leaf	lha kh~3 //
+28 skin	hak //
+30 blood	nam //
+31 bone	sa 7aN //
+34 horn	h3N kh~ak //
+39 ear	ya yuk //
+40 eye	Nai //
+41 nose	m3h //
+43 tooth	haN //
+44 tongue	ka tak //
+47 knee	 //
+48 hand	ti //
+51 breast	t3h //
+53 liver	ka tom //
+54 drink	53 //
+57 see	nhok //
+58 hear	mhoN //
+61 die	y3m //
+66 come	iN //
+72 sun	Nai sa Ni //
+74 star	sa m3iN //
+75 water	om //
+77 stone	uk sa mu //
+82 fire	Noi //
+85 path	kh~a hon //
+86 mountain	ka 7aN //
+92 night	ta buh //
+95 full	nhok //
+96 new	su //
+100 name	m3h //
+RIANG_BLACK_STRIPED{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Riang|@Austroasiatic,Khasi-Palaung,Palaungic,WestPalaungic,Riang}
+ 1   20.92   97.55       15500         ril
+1 I	o7 //
+2 you	mi7 //
+3 we	e7 //
+18 person	 //
+19 fish	ka7 //
+21 dog	sh~o7 //
+22 louse	sh~i7 // louse in hair
+23 tree	toNkh~E7 // = wood
+25 leaf	la7 //
+28 skin	hur //
+30 blood	nom //
+31 bone	c3noN //
+34 horn	 //
+39 ear	cor, k3tiEk //
+40 eye	Noi //
+41 nose	k3do7 //
+43 tooth	roN //
+44 tongue	tok //
+47 knee	 //
+48 hand	ti7 //
+51 breast	bu7 //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	yam //
+66 come	 //
+72 sun	sh~3Ni7 // =day
+74 star	sh~3km3i5 //
+75 water	om //
+77 stone	r3 aN //
+82 fire	Nal //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	n3k //
+96 new	t3nme7 //
+100 name	mus //
+RIANG_WHITE_STRIPED{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Riang|@Austroasiatic,Khasi-Palaung,Palaungic,WestPalaungic,Riang}
+ 1   20.92   97.55       15500         ril
+1 I	o7 //
+2 you	mi7 //
+3 we	e7, i7 //
+18 person	 //
+19 fish	ka7 //
+21 dog	sh~o7 //
+22 louse	sh~i7 // louse in hair
+23 tree	toNkh~E7 // = wood
+25 leaf	la7 //
+28 skin	hur //
+30 blood	nom //
+31 bone	yon7aN //
+34 horn	 //
+39 ear	Cor, k3tiak //
+40 eye	Noi //
+41 nose	k3do7 //
+43 tooth	roN //
+44 tongue	tak //
+47 knee	 //
+48 hand	ti7 //
+51 breast	nin //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	yam //
+66 come	 //
+72 sun	sh~oNyi7 // =day
+74 star	sh~okmoi5 //
+75 water	om //
+77 stone	sh~omo7 //
+82 fire	Nal //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	nok //
+96 new	tonme7 //
+100 name	mus //
+RUMAI{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,WesternPalaungic,Palaung|@Austroasiatic,Khasi-Palaung,Palaungic,WestPalaungic}
+ 1   23.00   96.67      140600   plg   rbb
+1 I	ow //
+2 you	may //
+3 we	E //
+18 person	i //
+19 fish	ka //
+21 dog	sow //
+22 louse	say //
+23 tree	taN hoy //
+25 leaf	La //
+28 skin	hu //
+30 blood	nam //
+31 bone	k7aN //
+34 horn	n3N //
+39 ear	Th~ok //
+40 eye	Nay //
+41 nose	kduk muh //
+43 tooth	haN //
+44 tongue	sta //
+47 knee	gEN gyoN //
+48 hand	tay //
+51 breast	bu //
+53 liver	ktom //
+54 drink	ToN //
+57 see	yEw tEh //
+58 hear	yEw t5aw //
+61 die	yom //
+66 come	dEh //
+72 sun	sNey //
+74 star	smEn //
+75 water	Em //
+77 stone	maw //
+82 fire	Nay //
+85 path	ndon //
+86 mountain	goN //
+92 night	Tu sEm //
+95 full	nok //
+96 new	tmay //
+100 name	T3w //
+U{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Angkuic|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Angkuic}
+ 1   22.68  101.77       40000         uuu
+1 I	o //
+2 you	mi //
+3 we	7e //
+18 person	u //
+19 fish	kh~a //
+21 dog	so //
+22 louse	nTh~i //
+23 tree	N3p si //
+25 leaf	la //
+28 skin	Nku //
+30 blood	sanam //
+31 bone	sa7ao* //
+34 horn	k3X //
+39 ear	suX //
+40 eye	Nay //
+41 nose	ti //
+43 tooth	Nkh~et //
+44 tongue	nth~aX //
+47 knee	qua* //
+48 hand	th~i //
+51 breast	pu //
+53 liver	tshom //
+54 drink	na //
+57 see	yo //
+58 hear	kaw //
+61 die	yap //
+66 come	laX //
+72 sun	Nay saNi //
+74 star	samet //
+75 water	om //
+77 stone	samo //
+82 fire	Naw //
+85 path	mmoX //
+86 mountain	pom //
+92 night	sem //
+95 full	 //
+96 new	me //
+100 name	ts3 //
+WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   23.00   98.00       40700         wbm
+1 I	37 //
+2 you	mai7 //
+3 we	yi7 //
+4 this	in //
+5 that	an //
+6 who	mo7 //
+7 what	pati7 //
+8 not	aN //
+9 all	to //
+10 many	hun //
+13 big	tiN //
+14 long	laN //
+15 small	iak //
+16 woman	bun //
+17 man	sime7 //
+18 person	pui //
+19 fish	ka7 //
+20 bird	sim //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~au7 //
+24 seed	sok //
+25 leaf	hla7 //
+26 root	riah //
+27 bark	hlo7 //
+28 skin	hak //
+29 flesh	ne7 //
+30 blood	nh~am //
+31 bone	sisaN //
+32 grease	b3 //
+33 egg	tom //
+34 horn	ruN //
+35 tail	sida7 //
+36 feather	 //
+37 hair	hauk //
+38 head	kaiN //
+39 ear	yh~auk //
+40 eye	Nai //
+41 nose	m3ih //
+42 mouth	yh~3ih //
+43 tooth	rh~aN //
+44 tongue	dak //
+45 claw	Nh~im //
+46 foot	CauN //
+47 knee	p3m NoN //
+48 hand	tai7 //
+49 belly	vaik //
+50 neck	Nok //
+51 breast	t3ih //
+52 heart	rh~om //
+53 liver	tom //
+54 drink	rh~3p //
+55 eat	som //
+56 bite	kiat //
+57 see	yau7 //
+58 hear	mh~oN //
+59 know	yuN //
+60 sleep	it //
+61 die	yum //
+62 kill	pa3h //
+63 swim	loi //
+64 fly	pu //
+65 walk	hu //
+66 come	hoik //
+67 lie	noi //
+68 sit	Nom //
+69 stand	CuN //
+70 give	to7 //
+71 say	krai //
+72 sun	siNai7 //
+73 moon	kh~i7 //
+74 star	sim7~uiN //
+75 water	rom //
+76 rain	lh~E7 //
+77 stone	si mau7 //
+78 sand	mh~aik //
+79 earth	tE7 //
+80 cloud	pai7om //
+81 smoke	tau7 //
+82 fire	Nu //
+83 ash	5au7 //
+84 burn	k3ik //
+85 path	kra7 //
+86 mountain	goN //
+87 red	rauh //
+88 green	klai //
+89 yellow	lh~3N //
+90 white	paiN //
+91 black	luN //
+92 night	pomsom //
+93 hot	 //
+94 cold	kuat //
+95 full	nauk //
+96 new	kh~rau7 //
+97 good	mh~3m //
+98 round	lomle //
+99 dry	kroh //
+100 name	ka37 //
+WA_2{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   23.00   98.00       40700         wbm
+1 I	o37 //
+2 you	moi7 //
+3 we	E7 //
+18 person	 //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	Si7 //
+23 tree	kh~i7 //
+25 leaf	la7 //
+28 skin	ho7 //
+30 blood	nom //
+31 bone	sa7aN //
+34 horn	 //
+39 ear	you7 //
+40 eye	Noi //
+41 nose	moh //
+43 tooth	roN //
+44 tongue	ndak //
+47 knee	 //
+48 hand	toi7 //
+51 breast	t3h //
+53 liver	 //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	yum //
+66 come	 //
+72 sun	SiNoi7 // =day
+74 star	Simui5 //
+75 water	rom //
+77 stone	Simou7 //
+82 fire	Nu //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	nouk, nuk //
+96 new	kh~rou7 //
+100 name	Cu //
+WA_3{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   23.00   98.00       40700         wbm
+1 I	37 //
+2 you	mai7 //
+3 we	yi7 //
+18 person	pui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~au7 //
+25 leaf	lha7 //
+28 skin	hak //
+30 blood	nham //
+31 bone	si7aN //
+34 horn	ruN //
+39 ear	yhauk //
+40 eye	Nai //
+41 nose	m3ih //
+43 tooth	rhaN //
+44 tongue	dak //
+47 knee	NoN //
+48 hand	tai7 //
+51 breast	t3ih //
+53 liver	tom //
+54 drink	rh3p //
+57 see	yau7 //
+58 hear	mhoN //
+61 die	yum //
+66 come	hoik //
+72 sun	siNai7 //
+74 star	sim7uiN //
+75 water	rom //
+77 stone	si mau7 //
+82 fire	Nu //
+85 path	kra7 //
+86 mountain	goN //
+92 night	pon som //
+95 full	nauk //
+96 new	kh~rau7 //
+100 name	ka37 //
+WANLENG_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   23.13   99.84      805700   puk   prk
+1 I	e //
+2 you	me7 //
+3 we	ze7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	 //
+23 tree	kh~au7 //
+25 leaf	la7 //
+28 skin	 //
+30 blood	nam //
+31 bone	Xom //
+34 horn	ruN //
+39 ear	zauk //
+40 eye	5ai //
+41 nose	goNmuis //
+43 tooth	XaN //
+44 tongue	dak //
+47 knee	glop //
+48 hand	te7 //
+51 breast	 //
+53 liver	nam //
+54 drink	 //
+57 see	geik, kial //
+58 hear	 //
+61 die	zum //
+66 come	hoik //
+72 sun	5ai //
+74 star	sim7uiN //
+75 water	Xom //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	goN //
+92 night	ph~onbul //
+95 full	 //
+96 new	 //
+100 name	 //
+WIANG_PA_PAO_LUA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Lawa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,Lawa}
+ 1   19.00   98.75        7000         lwl
+1 I	o //
+2 you	pE //
+3 we	E //
+18 person	i7i7 //
+19 fish	ka7 //
+21 dog	o7 //
+22 louse	kunsi7 // "lice"
+23 tree	umkhe7 //
+25 leaf	la7 //
+28 skin	nku7 //
+30 blood	nam //
+31 bone	caNaN //
+34 horn	xuN, ne //
+39 ear	jok //
+40 eye	 //
+41 nose	saNkul //
+43 tooth	kaN, kENkaj //
+44 tongue	paltak //
+47 knee	oNxoN //
+48 hand	ti7 //
+51 breast	pu //
+53 liver	ntom //
+54 drink	tEN //
+57 see	h3t, tam //
+58 hear	em //
+61 die	jam, keN //
+66 come	tu7 //
+72 sun	Najpxi //
+74 star	xanmu5 //
+75 water	om //
+77 stone	sakk37aN //
+82 fire	Nal //
+85 path	 //
+86 mountain	moc //
+92 night	kalsem, pol //
+95 full	nok //
+96 new	 //
+100 name	cu //
+XIYUN_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.43   99.81       98000         vwa
+1 I	o7 //
+2 you	me7 //
+3 we	ze7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	si7 //
+23 tree	kh~o7 //
+25 leaf	la7 //
+28 skin	 //
+30 blood	nam //
+31 bone	aN //
+34 horn	xuuN //
+39 ear	zakzok //
+40 eye	Nai //
+41 nose	tomuh //
+43 tooth	xaN //
+44 tongue	tak //
+47 knee	muNx~oN //
+48 hand	te7 //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	Ca //
+58 hear	Niat //
+61 die	zum //
+66 come	me //
+72 sun	je7 //
+74 star	sim7uiN //
+75 water	xum //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	kh~oN //
+92 night	ph~unph~um //
+95 full	 //
+96 new	 //
+100 name	 //
+YANCHENG_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.50   99.50      805700   puk   prk
+1 I	au7 //
+2 you	mi7 //
+3 we	i7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	sau7 //
+22 louse	se7 //
+23 tree	kh~au7 //
+25 leaf	La7 //
+28 skin	 //
+30 blood	5am //
+31 bone	si7aN //
+34 horn	aroN //
+39 ear	hiok //
+40 eye	Nai //
+41 nose	mus //
+43 tooth	raN //
+44 tongue	dak //
+47 knee	musgrouN //
+48 hand	tE7 //
+51 breast	 //
+53 liver	tom //
+54 drink	 //
+57 see	kiar //
+58 hear	Niat //
+61 die	Zum //
+66 come	hoik //
+72 sun	siNe7 //
+74 star	sem7oiN //
+75 water	ar7~om //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	th~uok, gh~oN //
+92 night	ph~unbh~ur //
+95 full	 //
+96 new	 //
+100 name	 //
+ZHONGKE_WA{AuA.PALAUNG-KHMUIC|Austro-Asiatic,Mon-Khmer,NorthernMon-Khmer,Palaungic,EasternPalaungic,Waic,Wa|@Austroasiatic,Khasi-Palaung,Palaungic,EastPalaungic,Waic,Wa-Lawa,NuclearWaic}
+ 1   22.80   99.61      805700   puk   prk
+1 I	o7 //
+2 you	mEi7 //
+3 we	Zi7 //
+18 person	ph~ui //
+19 fish	ka7 //
+21 dog	so7 //
+22 louse	se7 //
+23 tree	kh~au7 //
+25 leaf	lh~a7 //
+28 skin	 //
+30 blood	nam //
+31 bone	si7aN //
+34 horn	roN //
+39 ear	hiok //
+40 eye	Nai //
+41 nose	mus //
+43 tooth	raN //
+44 tongue	dak //
+47 knee	musgriuN //
+48 hand	tE7 //
+51 breast	 //
+53 liver	katom //
+54 drink	 //
+57 see	kia //
+58 hear	Nh~iat //
+61 die	Zum //
+66 come	hoit //
+72 sun	siNEi7 //
+74 star	sEm7uiN //
+75 water	ara7om //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	gh~uoN //
+92 night	punbh~ua //
+95 full	 //
+96 new	 //
+100 name	 //
+MALIENG{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Chut|@Austroasiatic,Vietic,Chutic,EastChutic}
+ 1   17.75  105.50         700         pkt
+1 I	ho //
+2 you	m3yh //
+3 we	m3yh ho //
+18 person	m3lieN //
+19 fish	uka //
+21 dog	To //
+22 louse	T3y //
+23 tree	k3y //
+25 leaf	ula //
+28 skin	kuxot //
+30 blood	asam //
+31 bone	saN //
+34 horn	%takoyh // < Katuic
+39 ear	say //
+40 eye	m3t //
+41 nose	muh //
+43 tooth	kasaN //
+44 tongue	l3a3 //
+47 knee	tu kun //
+48 hand	kadaN //
+51 breast	p3nu //
+53 liver	lom //
+54 drink	TuN //
+57 see	tok //
+58 hear	Nit tok //
+61 die	kiTet //
+66 come	teN //
+72 sun	mot kon //
+74 star	kumi5 //
+75 water	dak //
+77 stone	tata //
+82 fire	kuh //
+85 path	t3aN 73T //
+86 mountain	NkoN //
+92 night	tuNop //
+95 full	mlam //
+96 new	b3y //
+100 name	ten //
+MUNG_KOI{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Muong|@Austroasiatic,Vietic,Viet-Muong,Muongic}
+ 1   20.50  105.08     1140000   muo   mtq
+1 I	ho //
+2 you	za //
+3 we	me5 //
+18 person	mol //
+19 fish	ka //
+21 dog	To //
+22 louse	Ti //
+23 tree	k3l //
+25 leaf	la //
+28 skin	da //
+30 blood	maw //
+31 bone	s33N //
+34 horn	kh~3N //
+39 ear	say //
+40 eye	mat //
+41 nose	muy //
+43 tooth	saN //
+44 tongue	lay //
+47 knee	ko lay //
+48 hand	say //
+51 breast	mem //
+53 liver	lom //
+54 drink	oN //
+57 see	ki3 //
+58 hear	maN //
+61 die	Tet //
+66 come	 //
+72 sun	mat tl3y //
+74 star	kh~aw //
+75 water	tak //
+77 stone	kh~u //
+82 fire	kuy Tal //
+85 path	aN kh~a //
+86 mountain	dol //
+92 night	dem //
+95 full	d3y //
+96 new	m3y //
+100 name	 //
+RUC{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Chut|@Austroasiatic,Vietic,Chutic,EastChutic}
+ 1   17.90  105.85        1250         scb
+1 I	ho //
+2 you	mi //
+3 we	Cupa //
+4 this	ni //
+5 that	he //
+6 who	ay //
+7 what	Cam3 //
+8 not	vaN //
+9 all	 //
+10 many	5iw //
+13 big	m3am //
+14 long	yal //
+15 small	dEdE //
+16 woman	 //
+17 man	 //
+18 person	Nay //
+19 fish	aka //
+20 bird	iCim //
+21 dog	aCo //
+22 louse	Ci //
+23 tree	k3y //
+24 seed	kayaN //
+25 leaf	ula //
+26 root	liErih //
+27 bark	k3duh //
+28 skin	karot //
+29 flesh	sit //
+30 blood	asam //
+31 bone	saN //
+32 grease	kluN //
+33 egg	t3lul //
+34 horn	kr3N //
+35 tail	tuoy //
+36 feather	usuk //
+37 hair	usuk //
+38 head	kuluok //
+39 ear	say //
+40 eye	 //
+41 nose	mu3h //
+42 mouth	kaN //
+43 tooth	kasaN //
+44 tongue	l3arh~ //
+45 claw	k3ntoN //
+46 foot	CiN //
+47 knee	kuluok tukul //
+48 hand	si //
+49 belly	kd3l //
+50 neck	teke //
+51 breast	n3y //
+52 heart	toN //
+53 liver	lo3m //
+54 drink	5u //
+55 eat	an //
+56 bite	kom //
+57 see	C3N //
+58 hear	CamaN //
+59 know	hi //
+60 sleep	53p //
+61 die	kuCit //
+62 kill	kaCit //
+63 swim	aya //
+64 fly	p3l //
+65 walk	ti //
+66 come	ti //
+67 lie	n3p //
+68 sit	Noy //
+69 stand	taN //
+70 give	 //
+71 say	Col //
+72 sun	m3tpl3y //
+73 moon	pulean //
+74 star	kumi5 //
+75 water	da7 //
+76 rain	kum3a //
+77 stone	lata //
+78 sand	t3kaC //
+79 earth	b3n //
+80 cloud	m3l //
+81 smoke	kahoy //
+82 fire	kurh~ //
+83 ash	t3pEh //
+84 burn	takat //
+85 path	t3aNti //
+86 mountain	C3t //
+87 red	to //
+88 green	seN //
+89 yellow	vaN //
+90 white	t3kal //
+91 black	tEntEn //
+92 night	l3m //
+93 hot	t3l //
+94 cold	lubat //
+95 full	blam //
+96 new	b3y //
+97 good	yah //
+98 round	klon //
+99 dry	kh~o //
+100 name	ten //
+RUC_2{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Chut|@Austroasiatic,Vietic,Chutic,EastChutic}
+ 1   17.90  105.85        1250         scb
+1 I	ho //
+2 you	mi //
+3 we	Tupa //
+18 person	Nay //
+19 fish	aka //
+21 dog	aTo //
+22 louse	Ti //
+23 tree	k3oy //
+25 leaf	ula //
+28 skin	karot //
+30 blood	aSam //
+31 bone	SaN //
+34 horn	kr3N //
+39 ear	say //
+40 eye	m3ot //
+41 nose	murh //
+43 tooth	kasaN //
+44 tongue	l3ar //
+47 knee	kuluok t3kol //
+48 hand	Si //
+51 breast	noy //
+53 liver	loom //
+54 drink	5u //
+57 see	T3N //
+58 hear	TamaN //
+61 die	k3Tit //
+66 come	bak //
+72 sun	m3ot pl3i //
+74 star	kumi5 //
+75 water	dak //
+77 stone	lata //
+82 fire	kur //
+85 path	t3aN ti //
+86 mountain	T3t //
+92 night	l3m //
+95 full	blam //
+96 new	b3y //
+100 name	ten //
+THAVUNG_SO{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Thavung|@Austroasiatic,Vietic,Chutic}
+ 1   17.42  103.33         700         thm
+1 I	kan //
+2 you	mi //
+3 we	Taw //
+18 person	%kon // < Tai
+19 fish	ka //
+21 dog	To //
+22 louse	k3 //
+23 tree	%lam // < Lao
+25 leaf	sa7la7 //
+28 skin	kh~alot //
+30 blood	tamu //
+31 bone	takok //
+34 horn	%takoy // < Katuic
+39 ear	susay //
+40 eye	kh~aloN //
+41 nose	asu mus //
+43 tooth	kasaN //
+44 tongue	l3arh //
+47 knee	akun //
+48 hand	si //
+51 breast	%t3m73k // < Thai òk 'chest'
+53 liver	lom //
+54 drink	Nu //
+57 see	nEh //
+58 hear	apaN //
+61 die	Tot //
+66 come	v3n //
+72 sun	mat kh~alaN //
+74 star	7akon //
+75 water	dak //
+77 stone	kon kih //
+82 fire	kus //
+85 path	dan 7a5aN //
+86 mountain	%ph~u // < Thai
+92 night	amah //
+95 full	pasi //
+96 new	%tama // loan?
+100 name	s3 //
+VIETNAMESE{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Vietnamese|@Austroasiatic,Vietic,Viet-Muong}
+ 1   10.50  106.50    68031420   vie   vie
+1 I	toi //
+2 you	may, ti //
+3 we	ta, mi5 //
+4 this	 //
+5 that	 //
+6 who	 //
+7 what	kai gi //
+8 not	kx~oN //
+9 all	 //
+10 many	5ieu //
+13 big	lon //
+14 long	Zai //
+15 small	5o //
+16 woman	 //
+17 man	 //
+18 person	Nuoi //
+19 fish	ka //
+20 bird	tim //
+21 dog	to //
+22 louse	ti //
+23 tree	kay //
+24 seed	hot //
+25 leaf	la //
+26 root	re //
+27 bark	vo kay //
+28 skin	Za //
+29 flesh	8it //
+30 blood	mau //
+31 bone	SuoN //
+32 grease	 //
+33 egg	CuN //
+34 horn	 //
+35 tail	Zuoi //
+36 feather	loN tim //
+37 hair	tok //
+38 head	dau //
+39 ear	tai //
+40 eye	mat //
+41 nose	mui //
+42 mouth	mieN //
+43 tooth	raN //
+44 tongue	luoi //
+45 claw	moN //
+46 foot	tan //
+47 knee	dau goi //
+48 hand	tay //
+49 belly	 //
+50 neck	ko //
+51 breast	Nuk //
+52 heart	Cai tim //
+53 liver	%gan // probably borrowed from Old Chinese (LWT)
+54 drink	uoN //
+55 eat	an //
+56 bite	 //
+57 see	%8ay // probably borrowed from Old Chinese
+58 hear	Nhe //
+59 know	biet //
+60 sleep	 //
+61 die	tet //
+62 kill	giet //
+63 swim	 //
+64 fly	bay //
+65 walk	di //
+66 come	 //
+67 lie	Nu, nam //
+68 sit	Noi //
+69 stand	duN Zay //
+70 give	to //
+71 say	raN //
+72 sun	mat Coi //
+73 moon	CaN //
+74 star	Noi sao //
+75 water	nuok //
+76 rain	mua //
+77 stone	da //
+78 sand	kat //
+79 earth	dat //
+80 cloud	maj //
+81 smoke	kx~oi //
+82 fire	lua //
+83 ash	Co //
+84 burn	tay //
+85 path	duoN //
+86 mountain	nui //
+87 red	do //
+88 green	 //
+89 yellow	vaN //
+90 white	CaN //
+91 black	den //
+92 night	dem //
+93 hot	noN //
+94 cold	la5 //
+95 full	day //
+96 new	moi //
+97 good	tot //
+98 round	 //
+99 dry	kx~o //
+100 name	ten //
+VIETNAMESE_2{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Vietnamese|@Austroasiatic,Vietic,Viet-Muong}
+ 1   10.50  106.50    68031420   vie   vie
+1 I	tao, toi //
+2 you	may //
+3 we	ta //
+18 person	nguoi //
+19 fish	Ta //
+21 dog	Th~o //
+22 louse	Th~ay //
+23 tree	Tay //
+25 leaf	la //
+28 skin	da //
+30 blood	mau //
+31 bone	SuoN //
+34 horn	suN //
+39 ear	tai //
+40 eye	mat //
+41 nose	mui //
+43 tooth	raN //
+44 tongue	luoi //
+47 knee	dau goi //
+48 hand	tay //
+51 breast	NuT //
+53 liver	%gan // probably borrowed from Old Chinese
+54 drink	uoN //
+57 see	%th~ay // probably borrowed from Old Chinese
+58 hear	Nhe //
+61 die	Thet //
+66 come	den, lai // the latter perhaps borrowed from Chinese
+72 sun	mat troi //
+74 star	sao //
+75 water	nuoT //
+77 stone	da //
+82 fire	lua //
+85 path	duoN nho //
+86 mountain	doi, nui //
+92 night	dem //
+95 full	day //
+96 new	moi //
+100 name	ten //
+VIETNAMESE_3{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Vietnamese|@Austroasiatic,Vietic,Viet-Muong}
+ 1   10.50  106.50    68031420   vie   vie
+1 I	toi //
+2 you	may //
+3 we	Th~uN toi //
+18 person	Nuoi //
+19 fish	Ta //
+21 dog	Th~o //
+22 louse	Th~ay //
+23 tree	Tay //
+25 leaf	la //
+28 skin	da //
+30 blood	mau //
+31 bone	xuoN //
+34 horn	suN //
+39 ear	tai //
+40 eye	mat //
+41 nose	mu*i //
+43 tooth	raN //
+44 tongue	luo*i //
+47 knee	8au goi //
+48 hand	tay //
+51 breast	vu //
+53 liver	%gan // < Chin
+54 drink	uoN //
+57 see	th~ay //
+58 hear	Nhe //
+61 die	Thet //
+66 come	8i //
+72 sun	mat troi //
+74 star	%sao // < Tai
+75 water	nuoT //
+77 stone	8a //
+82 fire	lua //
+85 path	8uoN 8i //
+86 mountain	nui //
+92 night	8em //
+95 full	8ay //
+96 new	moi //
+100 name	ten //
+

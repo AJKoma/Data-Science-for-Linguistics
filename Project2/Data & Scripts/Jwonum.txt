@@ -1,0 +1,1425 @@
+     2    28  1700     3
+(I4,20X,10A1)
+   1                    I
+   2                    you
+   3                    we
+  18                    person
+  19                    fish
+  21                    dog
+  22                    louse
+  23                    tree
+  25                    leaf
+  28                    skin
+  30                    blood
+  31                    bone
+  34                    horn
+  39                    ear
+  40                    eye
+  41                    nose
+  43                    tooth
+  44                    tongue
+  47                    knee
+  48                    hand
+  51                    breast
+  53                    liver
+  54                    drink
+  57                    see
+  58                    hear
+  61                    die
+  66                    come
+  72                    sun
+  74                    star
+  75                    water
+  77                    stone
+  82                    fire
+  85                    path
+  86                    mountain
+  92                    night
+  95                    full
+  96                    new
+ 100                    name
+
+p
+b
+f
+v
+m
+w
+8
+t
+d
+s
+z
+c
+n
+r
+l
+S
+Z
+C
+j
+T
+5
+y
+k
+g
+x
+N
+q
+X
+h
+7
+L
+4
+G
+!
+i
+e
+E
+3
+a
+u
+o
+
+
+AKAJIMA_OKINAWAN{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.20  127.28      984000         ryu
+1 I	waN //
+2 you	ya //
+3 we	wata //
+18 person	%niNZiN // from Chinese
+19 fish	iyu //
+21 dog	iN //
+22 louse	SiraN //
+23 tree	ke, ki //
+25 leaf	ha //
+28 skin	ka //
+30 blood	Ci //
+31 bone	puni //
+34 horn	cunu, Cini //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Siba //
+47 knee	cuNSi //
+48 hand	te //
+51 breast	ni, Ci //
+53 liver	kimu, Cimu //
+54 drink	numuN //
+57 see	miN //
+58 hear	kiCuN //
+61 die	SinuN //
+66 come	CoN //
+72 sun	tira //
+74 star	puSi //
+75 water	miZi //
+77 stone	iSi //
+82 fire	Si //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	miCakai //
+96 new	misaN //
+100 name	na, noZi //
+AZA_IRABU_MIYAKO{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu}
+ 1   24.81  125.19           0         mvi
+1 I	am //
+2 you	banti //
+3 we	yam //
+18 person	%ningin // from Chinese
+19 fish	3zu //
+21 dog	in //
+22 louse	sam //
+23 tree	ki //
+25 leaf	pa //
+28 skin	ka //
+30 blood	ahac3 //
+31 bone	puni //
+34 horn	c3nu //
+39 ear	mim //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3ta //
+47 knee	c3gus3 //
+48 hand	ti //
+51 breast	miuc3 //
+53 liver	c3mu //
+54 drink	num //
+57 see	mil //
+58 hear	c3fu //
+61 die	s3n //
+66 come	 //
+72 sun	tida //
+74 star	pus3 //
+75 water	mic3 //
+77 stone	is3 //
+82 fire	umac3 //
+85 path	mc3 //
+86 mountain	yama //
+92 night	yulnal //
+95 full	yamas3sa //
+96 new	aramunu //
+100 name	na //
+EI_JAPANESE{Jap.JAPANESE|Japonic|@Japonic,Japanesic,Japan-TaiwanJapanese}
+ 1   31.23  130.50   128149960   jpn   jpn
+1 I	 //
+2 you	 //
+3 we	 //
+18 person	hito //
+19 fish	yuwo //
+21 dog	iN //
+22 louse	SitaN //
+23 tree	ki //
+25 leaf	ha //
+28 skin	hada //
+30 blood	Ci //
+31 bone	ho5e //
+34 horn	Cuno //
+39 ear	miN //
+40 eye	me //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Sita //
+47 knee	Cumb~uSi //
+48 hand	Ce //
+51 breast	mu5e //
+53 liver	kimo //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	 //
+66 come	 //
+72 sun	hidoN //
+74 star	 //
+75 water	 //
+77 stone	 //
+82 fire	 //
+85 path	 //
+86 mountain	 //
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	 //
+FUKUSATO_MIYAKO{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu}
+ 1   24.73  125.40           0         mvi
+1 I	ban //
+2 you	va //
+3 we	banta //
+18 person	ps~3tu, %ningin // from Chinese
+19 fish	3zu //
+21 dog	in //
+22 louse	s3sam //
+23 tree	ki //
+25 leaf	pa //
+28 skin	ka //
+30 blood	akac3 //
+31 bone	puni //
+34 horn	c3mu //
+39 ear	mim //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3da //
+47 knee	c3gus3 //
+48 hand	ti //
+51 breast	migu, mivc3 //
+53 liver	ks~3mu //
+54 drink	num //
+57 see	mi //
+58 hear	ks~3ks~3 //
+61 die	s3m //
+66 come	ks~3s3 //
+72 sun	tida //
+74 star	p3ka3 //
+75 water	mic3 //
+77 stone	is3 //
+82 fire	umac3 //
+85 path	mc3 //
+86 mountain	yama //
+92 night	yunai //
+95 full	upasa //
+96 new	mi3mi3 //
+100 name	na //
+HATERUMA_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.07  123.78           0         rys
+1 I	banu //
+2 you	da //
+3 we	baima //
+18 person	p3tu //
+19 fish	yu //
+21 dog	inu //
+22 louse	saN //
+23 tree	ki //
+25 leaf	pa //
+28 skin	p3sa //
+30 blood	c3 //
+31 bone	puni //
+34 horn	Sino //
+39 ear	misikurumiN //
+40 eye	miN //
+41 nose	ph~ana //
+43 tooth	pan //
+44 tongue	s3ta //
+47 knee	panuyuN //
+48 hand	s3 //
+51 breast	c3 //
+53 liver	 //
+54 drink	numuN //
+57 see	miruN //
+58 hear	s3kuN, sukuN //
+61 die	s3nuN //
+66 come	kuN //
+72 sun	Sina //
+74 star	puc3, pucu //
+75 water	mic3 //
+77 stone	isi //
+82 fire	p3 //
+85 path	misuna //
+86 mountain	yama //
+92 night	yuru //
+95 full	%mansiN // from Chinese "man"?
+96 new	memunu //
+100 name	naN //
+HIGA_OKINAWAN{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.33  126.81      984000         ryu
+1 I	waN //
+2 you	ya //
+3 we	wata //
+18 person	%niNZiN // from Chinese
+19 fish	iyu //
+21 dog	iN //
+22 louse	Sirami //
+23 tree	ki //
+25 leaf	ha //
+28 skin	hara //
+30 blood	Ci //
+31 bone	puni //
+34 horn	kunu //
+39 ear	mimi //
+40 eye	mi //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	suba //
+47 knee	CiNSi //
+48 hand	ti //
+51 breast	ni, Cibukw~a //
+53 liver	Cimu //
+54 drink	numiN //
+57 see	miN //
+58 hear	CicuN //
+61 die	maisuN //
+66 come	cuN //
+72 sun	tira //
+74 star	puSi //
+75 water	miZi //
+77 stone	iSi //
+82 fire	Si //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	jimb~ai //
+96 new	mihaN //
+100 name	na //
+IZENA_KUNIGAMI{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.93  127.94        5000         xug
+1 I	waN //
+2 you	7y~a //
+3 we	wata //
+18 person	%ninj~iN // from Chinese
+19 fish	iyu //
+21 dog	iN //
+22 louse	sami //
+23 tree	ki //
+25 leaf	pa //
+28 skin	dunuka //
+30 blood	Ci //
+31 bone	puni //
+34 horn	CiN //
+39 ear	minupa //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	siCa //
+47 knee	CinSi //
+48 hand	ti //
+51 breast	niguCi //
+53 liver	Cimu //
+54 drink	nunuN //
+57 see	nuN //
+58 hear	CiCuN //
+61 die	masuN //
+66 come	CuN //
+72 sun	tida //
+74 star	puSi //
+75 water	miZi //
+77 stone	iSi //
+82 fire	maCi //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	SiCoN //
+96 new	miya //
+100 name	na //
+JAPANESE{Jap.JAPANESE|Japonic|@Japonic,Japanesic,Japan-TaiwanJapanese}
+ 1   37.00  140.00   128149960   jpn   jpn
+1 I	wataSi //
+2 you	anata //
+3 we	wareware //
+4 this	kono //
+5 that	sono, ano //
+6 who	tare //
+7 what	nan no //
+8 not	de nai, Si nai //
+9 all	subete, mina //
+10 many	tasu //
+13 big	okina, erai //
+14 long	nagai //
+15 small	Cisai //
+16 woman	onna //
+17 man	hito, otoko //
+18 person	hito, jintai //
+19 fish	uo //
+20 bird	tori //
+21 dog	inu //
+22 louse	 //
+23 tree	ki //
+24 seed	tane //
+25 leaf	kono ha //
+26 root	ne //
+27 bark	kigawa //
+28 skin	kawa, %hifu // loan from Chinese
+29 flesh	niku //
+30 blood	Ci //
+31 bone	hone //
+32 grease	juSi //
+33 egg	tamago //
+34 horn	cuno //
+35 tail	o, Sippo //
+36 feather	yumo //
+37 hair	ke, tohacu //
+38 head	atama, zuno //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+42 mouth	kuCi //
+43 tooth	ha //
+44 tongue	Sita //
+45 claw	cume //
+46 foot	aSi //
+47 knee	hiza //
+48 hand	te //
+49 belly	 //
+50 neck	kubi //
+51 breast	mune //
+52 heart	Sinzo, kokoro //
+53 liver	 //
+54 drink	nomu, su //
+55 eat	tabe //
+56 bite	kamu //
+57 see	mi, menkai su //
+58 hear	kiku //
+59 know	Si //
+60 sleep	nemu //
+61 die	Sinu, kare //
+62 kill	korosu, karasu //
+63 swim	oyogu //
+64 fly	tobu //
+65 walk	aruku //
+66 come	ku, yuku //
+67 lie	wokotawa //
+68 sit	suwa //
+69 stand	tacu //
+70 give	atae, make //
+71 say	yu //
+72 sun	%taiyo // loan from Chinese
+73 moon	cuki //
+74 star	hoSi //
+75 water	mizu //
+76 rain	ame, kou //
+77 stone	iSi, koiSi sekizai //
+78 sand	suna //
+79 earth	Cikyu, cuCi //
+80 cloud	kumo //
+81 smoke	kemuri, kicuen //
+82 fire	hi //
+83 ash	hai //
+84 burn	moe, wake //
+85 path	komiCi, hodo //
+86 mountain	yama //
+87 red	akairo no //
+88 green	midori, aoao Sita //
+89 yellow	kiro //
+90 white	Siroi //
+91 black	kuroi //
+92 night	yo //
+93 hot	acui //
+94 cold	samui, cumetai //
+95 full	miCita, %ippai de // loan from Chinese
+96 new	ataraSi, Sinsen //
+97 good	yoi //
+98 round	marui //
+99 dry	kawaita //
+100 name	na, seimei //
+JAPANESE_2{Jap.JAPANESE|Japonic|@Japonic,Japanesic,Japan-TaiwanJapanese}
+ 1   37.00  140.00   128149960   jpn   jpn
+1 I	%boku, ore // borrowed from Chinese
+2 you	anata, kimi, omae //
+3 we	bokura, oretCi, wareware, wataSitaCi //
+18 person	hito, %ningen // loan from Chinese
+19 fish	sakana //
+21 dog	inu //
+22 louse	atamajirami //
+23 tree	ki //
+25 leaf	ha //
+28 skin	%hifu, kawa // 'human skin' loan from Chinese, 'leather, animal skin'
+30 blood	Ci //
+31 bone	hone //
+34 horn	cuno //
+39 ear	%jida // loan from Chinese
+40 eye	me //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Sita //
+47 knee	hiza //
+48 hand	te //
+51 breast	CiCi, oppai //
+53 liver	%kanzo, kimo // loan from Chinese
+54 drink	nomu //
+57 see	mieru, miru //
+58 hear	kikoeru, kiku //
+61 die	%Sibo, Sinu // loan from Chinese
+66 come	kuru //
+72 sun	hi, %taiyo // loan from Chinese
+74 star	hoSi //
+75 water	mizu //
+77 stone	iSu, iwa //
+82 fire	hi //
+85 path	miCi, %roji // loan from Chinese
+86 mountain	oka, yama //
+92 night	yoru //
+95 full	%ippai, miCiru // loan from Chinese
+96 new	ataraSi //
+100 name	namae //
+JAPANESE_KYOTO{Jap.JAPANESE|Japonic|@Japonic,Japanesic,Japan-TaiwanJapanese}
+ 1   35.00  135.80   128149960   jpn   jpn
+1 I	wate //
+2 you	ant~ara //
+3 we	watera //
+18 person	hito //
+19 fish	sakana //
+21 dog	inu //
+22 louse	osirami //
+23 tree	ki //
+25 leaf	ha //
+28 skin	kawa //
+30 blood	Ci //
+31 bone	hone //
+34 horn	cuno //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	sita //
+47 knee	hiza //
+48 hand	te //
+51 breast	mune //
+53 liver	kimo //
+54 drink	nomu //
+57 see	miru //
+58 hear	kiku //
+61 die	sinu //
+66 come	kuru //
+72 sun	ohisan //
+74 star	hosi //
+75 water	mizu //
+77 stone	isi //
+82 fire	hi //
+85 path	miCi //
+86 mountain	yama //
+92 night	yoru //
+95 full	oXippai //
+96 new	sara //
+100 name	na //
+KABIRA_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.46  124.14           0         rys
+1 I	banu //
+2 you	uwa //
+3 we	band~a //
+18 person	p3tu //
+19 fish	iz3 //
+21 dog	in //
+22 louse	s3saN //
+23 tree	ki //
+25 leaf	pa //
+28 skin	pada //
+30 blood	c3 //
+31 bone	puni //
+34 horn	c3nu //
+39 ear	miN //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3ta //
+47 knee	c3bus3 //
+48 hand	ti //
+51 breast	ni, c3 //
+53 liver	k3mu //
+54 drink	numi //
+57 see	 //
+58 hear	s3ku //
+61 die	s3n, maras3 //
+66 come	k3, k3N //
+72 sun	tida //
+74 star	pus3 //
+75 water	mic3 //
+77 stone	his3 //
+82 fire	p3 //
+85 path	mic3 //
+86 mountain	yama //
+92 night	yuru //
+95 full	nC~i //
+96 new	m3sa, n3sa //
+100 name	na //
+KAMIKATETSU_KIKAI{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,NorthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Amami}
+ 1   28.28  129.94          20         kzg
+1 I	waN //
+2 you	da //
+3 we	wana //
+18 person	%niNg~iN // from Chinese
+19 fish	yu //
+21 dog	iNg~a //
+22 louse	Sirami //
+23 tree	hi //
+25 leaf	ha //
+28 skin	 //
+30 blood	aCi //
+31 bone	puni //
+34 horn	cunu //
+39 ear	mimi //
+40 eye	mi //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	suba //
+47 knee	hiji, hiZi //
+48 hand	ti //
+51 breast	muni, Ci //
+53 liver	Cimu //
+54 drink	numiN //
+57 see	miriN //
+58 hear	CiCiN //
+61 die	siN //
+66 come	SiN //
+72 sun	tida //
+74 star	puSi //
+75 water	midu //
+77 stone	iSi //
+82 fire	umacu //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	numinu //
+96 new	misaN //
+100 name	na //
+KOHAMA_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.34  123.98           0         rys
+1 I	banu //
+2 you	basaninz~u //
+3 we	uwa //
+18 person	p3tu, %ningin // from Chinese
+19 fish	icu //
+21 dog	inu //
+22 louse	s3san //
+23 tree	ki //
+25 leaf	pa, kinupa //
+28 skin	ka //
+30 blood	c3 //
+31 bone	puni //
+34 horn	c3nu //
+39 ear	min //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3ta //
+47 knee	painus3ni //
+48 hand	ti //
+51 breast	minonc~3, Cama //
+53 liver	k3mu //
+54 drink	numun //
+57 see	miruN //
+58 hear	s3k3n, s3kun //
+61 die	s3nun //
+66 come	kuN //
+72 sun	Cind~a //
+74 star	puc3 //
+75 water	minc~u //
+77 stone	iSi //
+82 fire	p3 //
+85 path	mic3 //
+86 mountain	yama, takinucunc~3 //
+92 night	yuru //
+95 full	dant~uN //
+96 new	arahaN //
+100 name	na //
+KOMI_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.35  123.93           0         rys
+1 I	banu //
+2 you	da //
+3 we	bagaya //
+18 person	pitu //
+19 fish	iyu //
+21 dog	inu //
+22 louse	Sirami //
+23 tree	ki //
+25 leaf	kinupa, pa //
+28 skin	pada //
+30 blood	cu //
+31 bone	puni //
+34 horn	cunu //
+39 ear	mind~abu //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3ta //
+47 knee	cumusu //
+48 hand	ti //
+51 breast	minucu, c3 //
+53 liver	k3mu //
+54 drink	numu //
+57 see	miruN //
+58 hear	s3ki //
+61 die	Sinu //
+66 come	kun //
+72 sun	Cida, tida //
+74 star	pus3, tinupus3 //
+75 water	micu //
+77 stone	iSi //
+82 fire	p3 //
+85 path	micu //
+86 mountain	yama //
+92 night	yuru //
+95 full	ipai // from Japanese?
+96 new	 //
+100 name	na //
+KUNINAKA_MIYAKO{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu}
+ 1   24.83  125.17           0         mvi
+1 I	ba //
+2 you	uva //
+3 we	banty$a //
+18 person	%ningin // from Chinese
+19 fish	3zu //
+21 dog	in //
+22 louse	sam //
+23 tree	ki //
+25 leaf	pa //
+28 skin	%hifu // from Chinese "pifu"?
+30 blood	akac3 // lit. "red blood"
+31 bone	puni //
+34 horn	c3nu //
+39 ear	mim //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3ta //
+47 knee	ps~3c3 //
+48 hand	ti //
+51 breast	miuc3 //
+53 liver	c3mu //
+54 drink	num //
+57 see	mi //
+58 hear	c3fu //
+61 die	s3n3 //
+66 come	 //
+72 sun	tida //
+74 star	pus3 //
+75 water	mic3 //
+77 stone	is3 //
+82 fire	umac3 //
+85 path	mc3 //
+86 mountain	yama //
+92 night	yul //
+95 full	mtil //
+96 new	aramunu, m3munu //
+100 name	namai //
+KUROSHIMA_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.24  124.01           0         rys
+1 I	baN //
+2 you	uva //
+3 we	bant~a //
+18 person	%niNgiN // from Chinese
+19 fish	izu //
+21 dog	iN //
+22 louse	zaN //
+23 tree	ki //
+25 leaf	pa //
+28 skin	pada //
+30 blood	Si //
+31 bone	puni //
+34 horn	Sinu //
+39 ear	miN //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	Siba //
+47 knee	subuSi //
+48 hand	ti //
+51 breast	ni, Si //
+53 liver	 //
+54 drink	numi //
+57 see	miri //
+58 hear	suku //
+61 die	Sini //
+66 come	puru //
+72 sun	tida //
+74 star	puSi //
+75 water	miji //
+77 stone	iSi //
+82 fire	pi //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	pant~uri //
+96 new	mimunu, aramunu //
+100 name	na //
+MIYAKO{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu}
+ 1   24.67  125.00           0         mvi
+1 I	ban //
+2 you	vva //
+3 we	banta //
+18 person	ps~3tu //
+19 fish	3zu //
+21 dog	in //
+22 louse	ssam //
+23 tree	ki //
+25 leaf	pa //
+28 skin	ka //
+30 blood	akac3 //
+31 bone	puni //
+34 horn	c3nu // , mmifuc3
+39 ear	mim //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	s3da //
+47 knee	c3gus3 //
+48 hand	ti //
+51 breast	c3s3 //
+53 liver	k3mu //
+54 drink	num //
+57 see	mi3 //
+58 hear	k3k3 //
+61 die	s3n //
+66 come	ks~3s3 //
+72 sun	tida //
+74 star	pusu //
+75 water	mic3 //
+77 stone	is3 //
+82 fire	umac3 //
+85 path	mcu //
+86 mountain	jama //
+92 night	ju3 //
+95 full	mti3 //
+96 new	mimi //
+100 name	na //
+NAHA{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.50  127.00      984000   ryu   ryu
+1 I	wan //
+2 you	itta //
+3 we	watta //
+18 person	ccu //
+19 fish	iyu //
+21 dog	in //
+22 louse	siran //
+23 tree	ki //
+25 leaf	hw~a //
+28 skin	ka //
+30 blood	ci //
+31 bone	huni //
+34 horn	cinu //
+39 ear	mimi //
+40 eye	mui //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	siba //
+47 knee	cins~i //
+48 hand	ti //
+51 breast	nni //
+53 liver	cimu //
+54 drink	numun //
+57 see	nnz~un //
+58 hear	cicun //
+61 die	sinun //
+66 come	cun //
+72 sun	tira //
+74 star	husi //
+75 water	mizi //
+77 stone	isi //
+82 fire	hi //
+85 path	mici //
+86 mountain	mui //
+92 night	yuru //
+95 full	mui //
+96 new	misan //
+100 name	na //
+NISHIHARA_MIYAKO{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu}
+ 1   24.83  125.29           0         mvi
+1 I	ban //
+2 you	va //
+3 we	bant~i //
+18 person	%ningin, hitu // from Chinese
+19 fish	zu //
+21 dog	in //
+22 louse	san //
+23 tree	ki //
+25 leaf	ha //
+28 skin	ka //
+30 blood	akac3 // lit. "red blood"
+31 bone	huni //
+34 horn	c3nu //
+39 ear	mim //
+40 eye	mi //
+41 nose	hana //
+43 tooth	pa //
+44 tongue	ta //
+47 knee	c3gus3 //
+48 hand	ti //
+51 breast	miuc3, c3 //
+53 liver	c3mu //
+54 drink	num //
+57 see	midus //
+58 hear	cifu, cici //
+61 die	s3n //
+66 come	fu //
+72 sun	tida //
+74 star	husi //
+75 water	mici //
+77 stone	is3 //
+82 fire	umac3 //
+85 path	nc~3 //
+86 mountain	yama //
+92 night	yunaka //
+95 full	mti //
+96 new	 //
+100 name	na //
+NORTHERN_AMAMI_OSHIMA{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,NorthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Amami,NuclearAmami,Oshima}
+ 1   28.33  129.42       10000         ryn
+1 I	wa //
+2 you	nan //
+3 we	waxy~a //
+18 person	Cy~u //
+19 fish	yu //
+21 dog	in //
+22 louse	siran //
+23 tree	 //
+25 leaf	hw~a //
+28 skin	xo //
+30 blood	Ci //
+31 bone	xobe //
+34 horn	 //
+39 ear	min //
+40 eye	m3 //
+41 nose	hana //
+43 tooth	hw~a //
+44 tongue	s3ba //
+47 knee	 //
+48 hand	t3 //
+51 breast	mun3 //
+53 liver	kimo //
+54 drink	num //
+57 see	mi //
+58 hear	hirax //
+61 die	simy~ //
+66 come	xuri //
+72 sun	 //
+74 star	husi //
+75 water	m3z3 //
+77 stone	isi //
+82 fire	maC3, waC3 //
+85 path	miCi //
+86 mountain	 //
+92 night	yuru //
+95 full	 //
+96 new	mi //
+100 name	namin //
+SANI_AMAMI{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,NorthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Amami,NuclearAmami,Oshima}
+ 1   28.51  129.67       10000         ryn
+1 I	waN //
+2 you	7y~a //
+3 we	waky~a //
+18 person	7C~u, %niNgiN // from Chinese
+19 fish	7y~u //
+21 dog	iN //
+22 louse	SiraN //
+23 tree	h3 //
+25 leaf	pa //
+28 skin	ho //
+30 blood	Ci //
+31 bone	pun3 //
+34 horn	cunu //
+39 ear	miN //
+40 eye	m3 //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	suba //
+47 knee	piza //
+48 hand	t3 //
+51 breast	niguCi, Ci //
+53 liver	ky~o //
+54 drink	nuyuN //
+57 see	ny~uN, 5uN //
+58 hear	kiky~uN //
+61 die	SinuN //
+66 come	ky~uN //
+72 sun	tida*, tidan //
+74 star	puSi //
+75 water	muz3 //
+77 stone	iSi //
+82 fire	macu //
+85 path	miCi //
+86 mountain	ya //
+92 night	yuru //
+95 full	zutu //
+96 new	mika //
+100 name	na //
+SHURI{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.50  127.00      984000   ryu   ryu
+1 I	wan //
+2 you	itta //
+3 we	watta //
+18 person	ccu //
+19 fish	iyu //
+21 dog	in //
+22 louse	siran //
+23 tree	ki //
+25 leaf	hw~a //
+28 skin	ka //
+30 blood	cifi //
+31 bone	huni //
+34 horn	Siu //
+39 ear	mimi //
+40 eye	mui //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Siba //
+47 knee	cins~i //
+48 hand	ti //
+51 breast	nni //
+53 liver	cimu //
+54 drink	nunlun //
+57 see	nnz~un //
+58 hear	cicun //
+61 die	Sinun //
+66 come	cun //
+72 sun	tida //
+74 star	husi //
+75 water	miZi //
+77 stone	isi //
+82 fire	hw~i //
+85 path	mici //
+86 mountain	mui //
+92 night	yuru //
+95 full	mi //
+96 new	mifisan //
+100 name	na //
+TAKARAJIMA_JAPANESE{Jap.JAPANESE|Japonic|@Japonic,Japanesic,Japan-TaiwanJapanese}
+ 1   29.13  129.20   128149960   jpn   jpn
+1 I	oi //
+2 you	waga //
+3 we	oinand~a //
+18 person	hito //
+19 fish	iwo //
+21 dog	iN //
+22 louse	Sirami //
+23 tree	ki //
+25 leaf	ha //
+28 skin	hada //
+30 blood	Ci //
+31 bone	hone //
+34 horn	cuno //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Sita //
+47 knee	cubuSi //
+48 hand	te //
+51 breast	mune //
+53 liver	kimo //
+54 drink	 //
+57 see	 //
+58 hear	 //
+61 die	 //
+66 come	 //
+72 sun	teNdo //
+74 star	hoSi //
+75 water	micu //
+77 stone	iSi //
+82 fire	hi //
+85 path	miCi, doro //
+86 mountain	yama //
+92 night	yoru //
+95 full	 //
+96 new	5imoN //
+100 name	 //
+TAKETOMI_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.33  124.09           0         rys
+1 I	ba //
+2 you	waninz~a //
+3 we	bana //
+18 person	hitu //
+19 fish	iZu //
+21 dog	iN //
+22 louse	sisaN //
+23 tree	ki //
+25 leaf	pa //
+28 skin	ka //
+30 blood	Si //
+31 bone	puni //
+34 horn	sunu //
+39 ear	miN //
+40 eye	mi //
+41 nose	hana //
+43 tooth	pa //
+44 tongue	Sita //
+47 knee	subuSi //
+48 hand	ti //
+51 breast	nuCi, CiCe //
+53 liver	Sumu //
+54 drink	numuN //
+57 see	midura //
+58 hear	hikidura //
+61 die	SinuN //
+66 come	kuN //
+72 sun	tida //
+74 star	puSi //
+75 water	miji //
+77 stone	iSi //
+82 fire	pi //
+85 path	miCi //
+86 mountain	yama* //
+92 night	yuru //
+95 full	nC~i //
+96 new	araunu //
+100 name	na //
+TOKUWASE{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,NorthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Amami,NuclearAmami,Okinoerabu-Tokunoshima}
+ 1   27.76  129.03        5100         tkn
+1 I	waN //
+2 you	7y~a //
+3 we	waky~a //
+18 person	%CuniNgiN // from Chinese
+19 fish	7y~u //
+21 dog	iN //
+22 louse	SiraN //
+23 tree	k3 //
+25 leaf	ha //
+28 skin	ko //
+30 blood	c3 //
+31 bone	puni //
+34 horn	Cino //
+39 ear	miN //
+40 eye	m3 //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Siba //
+47 knee	magai, guki //
+48 hand	t3 //
+51 breast	muni, c3 //
+53 liver	kimu //
+54 drink	numy~uN //
+57 see	ny~uN, 5uN //
+58 hear	kiky~uN //
+61 die	 //
+66 come	moyuN, k"y~uN //
+72 sun	tida, tidaganas3 //
+74 star	puSi //
+75 water	miz3 //
+77 stone	iSi //
+82 fire	mac3 //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	ipai //
+96 new	mihaN //
+100 name	na //
+TOKYO_JAPANESE{Jap.JAPANESE|Japonic|@Japonic,Japanesic,Japan-TaiwanJapanese}
+ 1   37.00  140.00   128149960   jpn   jpn
+1 I	watasi //
+2 you	anata //
+3 we	watasitaci //
+18 person	hito //
+19 fish	sakana //
+21 dog	inu //
+22 louse	sirami //
+23 tree	ki //
+25 leaf	hapa //
+28 skin	kawa //
+30 blood	ci //
+31 bone	hone //
+34 horn	cuno //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	sita //
+47 knee	hiza //
+48 hand	te //
+51 breast	mune //
+53 liver	kimo //
+54 drink	nomu //
+57 see	miru //
+58 hear	kiku //
+61 die	sinu //
+66 come	kuru //
+72 sun	ohisEmE //
+74 star	hosi //
+75 water	mizu //
+77 stone	isi //
+82 fire	hi //
+85 path	mici //
+86 mountain	yEmE //
+92 night	yoru //
+95 full	ippEi //
+96 new	atarasi //
+100 name	namae //
+UEHARA_YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.42  123.80           0         rys
+1 I	ba //
+2 you	wa //
+3 we	bant~a //
+18 person	pusu //
+19 fish	izu //
+21 dog	in //
+22 louse	susaN //
+23 tree	ki //
+25 leaf	pa //
+28 skin	ka //
+30 blood	si //
+31 bone	puni //
+34 horn	 //
+39 ear	miN //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	Sita //
+47 knee	Sini //
+48 hand	ti //
+51 breast	ni, Si //
+53 liver	kimu //
+54 drink	numu //
+57 see	miru //
+58 hear	Siku //
+61 die	Sinu //
+66 come	ku //
+72 sun	tida //
+74 star	puSi //
+75 water	miji //
+77 stone	iSi //
+82 fire	pi //
+85 path	miCi //
+86 mountain	yama //
+92 night	 //
+95 full	 //
+96 new	 //
+100 name	na //
+YAEYAMA{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.33  124.00           0         rys
+1 I	banu //
+2 you	wanu //
+3 we	banda //
+18 person	ningin, pitu //
+19 fish	7izu, 7iz3 //
+21 dog	in //
+22 louse	s3san //
+23 tree	k3, ki //
+25 leaf	pa //
+28 skin	ka //
+30 blood	c3 //
+31 bone	puni //
+34 horn	c3nu //
+39 ear	min //
+40 eye	mi //
+41 nose	hana //
+43 tooth	pa //
+44 tongue	s3ta //
+47 knee	cubus3 //
+48 hand	ti //
+51 breast	7nni, c3 //
+53 liver	k3mu //
+54 drink	numi, nun //
+57 see	mi, miru //
+58 hear	s3ku //
+61 die	Sinu //
+66 come	ks~3, ki //
+72 sun	tida //
+74 star	puc3 //
+75 water	micu //
+77 stone	7iSi //
+82 fire	p3 //
+85 path	mic3 //
+86 mountain	yama //
+92 night	yur3 //
+95 full	ippai //
+96 new	arahaN, meheN //
+100 name	na //
+YAMAZATO_OKINAWAN{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.36  126.75      984000         ryu
+1 I	wanu //
+2 you	ya //
+3 we	wata //
+18 person	%niNZiN // from Chinese
+19 fish	iyu //
+21 dog	inu //
+22 louse	 //
+23 tree	ki //
+25 leaf	ha //
+28 skin	ka //
+30 blood	Ci //
+31 bone	puni //
+34 horn	Cinu //
+39 ear	mimi //
+40 eye	mi //
+41 nose	hana //
+43 tooth	ha //
+44 tongue	Siba //
+47 knee	CiNSi //
+48 hand	ti //
+51 breast	ni, Ci //
+53 liver	Cimu //
+54 drink	numi //
+57 see	miyu //
+58 hear	CiCu //
+61 die	Sini //
+66 come	Cu //
+72 sun	tira //
+74 star	puSi //
+75 water	miZi //
+77 stone	iSi, Si //
+82 fire	Si //
+85 path	miCi //
+86 mountain	yama //
+92 night	yuru //
+95 full	urigaminu //
+96 new	mimunu //
+100 name	na //
+YONAGUNI{Jap.JAPANESE|Japonic,Ryukyuan,Sakishima|@Japonic,Ryukyuan,SouthernRyukyu,Macro-Yaeyama}
+ 1   24.45  122.98         800         yoi
+1 I	anu //
+2 you	nd~a //
+3 we	bant~a //
+18 person	t"u //
+19 fish	iyu //
+21 dog	 //
+22 louse	C"aN //
+23 tree	ki //
+25 leaf	ha //
+28 skin	ka //
+30 blood	C"i //
+31 bone	huni //
+34 horn	nuN //
+39 ear	miN //
+40 eye	mi //
+41 nose	hanaburu //
+43 tooth	ha //
+44 tongue	t"a //
+47 knee	nbuCi //
+48 hand	ti //
+51 breast	C"i //
+53 liver	C"imu //
+54 drink	numuN //
+57 see	nuN //
+58 hear	k"uN //
+61 die	niruN //
+66 come	kuN //
+72 sun	tidaN //
+74 star	huCi //
+75 water	miN //
+77 stone	iCi //
+82 fire	C"i //
+85 path	amiti //
+86 mountain	dama //
+92 night	duru //
+95 full	sipai //
+96 new	atarasaN //
+100 name	na //
+YONAMINE{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Okinawa}
+ 1   26.83  128.00        5000         xug
+1 I	wanu //
+2 you	irra //
+3 we	warra //
+18 person	cu //
+19 fish	yu //
+21 dog	innu kw~a //
+22 louse	sirami //
+23 tree	ki //
+25 leaf	pa //
+28 skin	ha //
+30 blood	ci //
+31 bone	puni //
+34 horn	cinu //
+39 ear	mimi //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	suba //
+47 knee	cinsi //
+48 hand	ti //
+51 breast	ni //
+53 liver	cimul //
+54 drink	numin //
+57 see	myun //
+58 hear	hicun //
+61 die	siniun //
+66 come	sun //
+72 sun	tida //
+74 star	pusi //
+75 water	mizi //
+77 stone	isi //
+82 fire	iri //
+85 path	miei //
+86 mountain	yama //
+92 night	yuru //
+95 full	mi //
+96 new	misen //
+100 name	na //
+YORON{Jap.JAPANESE|Japonic,Ryukyuan,Amami-Okinawan,SouthernAmami-Okinawan|@Japonic,Ryukyuan,NorthernRyukyuan,Amami}
+ 1   27.04  128.43         950         yox
+1 I	wanu //
+2 you	ura //
+3 we	waCa //
+18 person	piCu //
+19 fish	iyu //
+21 dog	inu //
+22 louse	saN //
+23 tree	hi //
+25 leaf	pa //
+28 skin	ho //
+30 blood	Ci //
+31 bone	puni //
+34 horn	Cinu //
+39 ear	miN //
+40 eye	mi //
+41 nose	pana //
+43 tooth	pa //
+44 tongue	SiCa //
+47 knee	CiNSi //
+48 hand	ti //
+51 breast	niguCi //
+53 liver	kimu //
+54 drink	numy~uN //
+57 see	my~uN //
+58 hear	kiky~uN //
+61 die	Siny~uN, Si5uN //
+66 come	ky~uN //
+72 sun	tida //
+74 star	puSi //
+75 water	miji //
+77 stone	iSi //
+82 fire	maCi //
+85 path	miCina //
+86 mountain	yama //
+92 night	yuru //
+95 full	upuSanu //
+96 new	miSaruya //
+100 name	na //
+
