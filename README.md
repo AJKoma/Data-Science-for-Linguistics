@@ -1,4 +1,4 @@
-# Data-Science-for-Linguistics
+#Natural Language Processing Projects
 For class number LIN 450 at University of Rochester
 
 This folder is for the research during the course Data Science for Linguistics.
